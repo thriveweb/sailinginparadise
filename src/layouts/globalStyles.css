@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900|Work+Sans:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro:400|Work+Sans:300,400,600');
 
 :root {
   --primary: #212121;
@@ -199,7 +199,7 @@ blockquote p {
 
 .NavLink {
   display: block;
-  font-weight: 500;
+  font-weight: 600;
   color: inherit;
   text-transform: uppercase;
   opacity: .8;
