@@ -1,0 +1,92 @@
+.Accordion {
+  width: 100%;
+  padding: 7.5rem 0 14rem;
+}
+
+.Accordion > * + * {
+  margin-top: 3rem;
+}
+
+.Accordion h2 {
+  text-align: center;
+  margin-bottom: 6rem;
+}
+
+.Accordion--item {
+  transform: translateY(0px);
+}
+
+.Accordion--item h3 {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  border-bottom: .2rem solid #979797;
+  padding: 2rem;
+}
+
+.Accordion--item h3:after {
+  content: '+';
+  font-size: 4rem;
+  color: #979797;
+  line-height: 1;
+  font-weight: 300;
+  position: relative;
+}
+
+.Accordion--item--content {
+  background-color: white;
+  padding: 3rem;
+}
+
+.Accordion--item.active {
+  border-color: currentColor;
+}
+
+.Accordion--item.active h3 {
+  color: var(--primary);
+}
+.Accordion--item.active h3:after {
+  content: '-';
+  float: right;
+  font-size: 4rem;
+  color: #272727;
+  color: var(--darkGrey);
+  line-height: 1;
+  font-weight: 300;
+}
+
+.Accordion--item {
+  animation-fill-mode: both;
+}
+
+.Accordion--item.active {
+  animation: Accordion--Item 0.2s ease-out forwards;
+}
+
+@keyframes Accordion--Item {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-1px);
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .Accordion--item {
+    padding: 2rem;
+    margin-top: 2rem;
+  }
+
+  .Accordion--item h3 {
+    font-size: 1.2rem;
+  }
+
+  .Accordion--item h3:after {
+    font-size: 3rem;
+  }
+}

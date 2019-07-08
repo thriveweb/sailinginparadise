@@ -1,0 +1,34 @@
+.SubscribeBanner {
+	background-color: white;
+	padding: 10rem 0;
+}
+
+.SubscribeBanner .container {
+	text-align: center;
+}
+
+.SubscribeBanner .form-description {
+	margin-bottom: 4rem;
+}
+
+.SubscribeBanner .form-description h4 {
+	margin-bottom: 0;
+	color: var(--secondary);
+}
+
+.SubscribeBanner .Form {
+	margin: 0 auto;
+	border-bottom: .1rem solid var(--primary);
+}
+
+.SubscribeBanner .Form--Label {
+	flex: 0 0 70%;
+}
+
+.SubscribeBanner .form-footer {
+	flex: 1;
+}
+
+.SubscribeBanner .Form--Input {
+	border: none;
+}

@@ -1,0 +1,158 @@
+.PostCard {
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.15s ease-in-out;
+  overflow: hidden;
+}
+
+.PostCard--Image {
+  margin: 0 0 1rem;
+  width: 100%;
+  height: 20rem;
+}
+
+.PostCard--Image:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 1;
+  opacity: 0;
+  visibility: hidden;
+  transition: all ease-in-out .2s;
+}
+
+.PostCard--Title {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.PostCard--Content {
+  padding: 0 0 2.5rem;
+}
+
+.PostCard--Content .SinglePost--Meta {
+  text-align: left;
+  margin: 0 0 .5rem;
+}
+
+.PostCard--Category {
+  font-size: 1.2rem;
+  min-height: 1.2em;
+  line-height: 1;
+  margin: 0.5em 0;
+}
+
+.PostCard:hover .PostCard--Image:before,
+.PostCard:focus .PostCard--Image:before {
+  opacity: 1;
+  visibility: visible;
+}
+
+
+/*Featured Home*/
+
+.PostCard.featuredHome {
+  position: relative;
+}
+
+.PostCard.featuredHome .PostCard--Image {
+  height: 45rem;
+}
+
+.PostCard.featuredHome .excerpt {
+  margin-bottom: 4rem;
+}
+
+.PostCard.featuredHome .button {
+  display: inline-block;
+  border-bottom: none;
+  padding-left: .5rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.PostCard.featuredHome .button:after {
+  display: none;
+}
+
+
+/*Boat Tours*/
+
+.boatTours .PostCard {
+  position: relative;
+}
+
+.boatTours .PostCard--Image {
+  height: 40rem;
+  margin: 0;
+  transform: scale(1);
+  transition: all ease-in-out .2s;
+}
+
+.boatTours .PostCard--Content {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  padding: 1.5rem;
+  z-index: 3;
+  background-color: rgba(255,255,255,0.8);
+}
+
+.boatTours .PostCard--Title {
+  font-size: 2.4rem;
+}
+
+.boatTours .PostCard--Content .Image {
+  height: 3rem;
+  margin-bottom: 1rem;
+}
+
+.boatTours .PostCard .PostCard--Image:before {
+  display: none;
+} 
+
+.boatTours .PostCard:hover .PostCard--Image {
+  transform: scale(1.1);
+}
+
+
+@media only screen and (max-width: 1280px) {
+  .boatTours .PostCard--Title {
+    font-size: 2rem;
+  }
+
+  .boatTours .PostCard--Content .Image {
+    height: 2.5rem;
+    margin-bottom: .5rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

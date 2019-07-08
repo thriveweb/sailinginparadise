@@ -1,0 +1,43 @@
+.share-buttons {
+	display: flex;
+	align-items: center;
+	padding: 0;
+	margin: 4rem 0 8rem;
+}
+
+.share-buttons p {
+	margin: 0 2rem 0 0;
+	color:var(--primary);
+}
+
+.share-buttons li {
+	list-style: none;
+	margin-right: 1rem;
+}
+
+.share-buttons a {
+	border-radius: 100%;
+	border: .1rem solid var(--secondary);
+	height: 3rem;
+	width: 3rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.share-buttons svg {
+	height: 1.25rem;
+}
+
+
+.share-buttons svg path {
+	transition: all ease-in-out .2s;
+}
+
+.share-buttons a:hover {
+	background-color: var(--primary);
+}
+
+.share-buttons a:hover svg * {
+	fill: white;
+}

@@ -1,0 +1,62 @@
+.booking-popup {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba(255,255,255,0.8);
+	opacity: 0;
+	visibility: hidden;
+	z-index: 99;
+	transition: all ease-in-out .3s;
+}
+
+.booking-popup .container {
+	text-align: center;
+}
+
+.booking-popup h2 {
+	margin-bottom: 6rem;
+}
+
+.booking-popup .contentBoxes {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.booking-popup .contentBox {
+	flex: 1;
+	padding: 4rem 6rem;
+	border: none;
+	box-shadow: 0 0 3rem 0 rgba(0,0,0,0.1);
+	background-color: white;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.booking-popup .contentBox:first-of-type {
+	margin-right: 6rem;
+}
+
+.booking-popup .contentBox .Image {
+	height: 3rem;
+	margin-bottom: 2rem;
+}
+
+.booking-popup .contentBox h3 {
+	font-size: 1.8rem;
+}
+
+.booking-popup .contentBox .button {
+	margin-top: auto;
+}
+
+.booking-popup.active {
+	opacity: 1;
+	visibility: visible;
+}

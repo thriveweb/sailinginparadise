@@ -1,0 +1,32 @@
+.captains-listing {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.member {
+	flex: 1;
+	text-align: center;
+}
+
+.member + .member {
+	margin-left: 6rem;
+}
+
+.member .image-container {
+	height: 24rem;
+	width: 24rem;
+	border-radius: 100%;
+	overflow: hidden;
+	border: .5rem solid white;
+	box-shadow: 0 0 3rem 0 rgba(0,0,0,0.1);
+	margin: 0 auto 4rem;
+}
+
+.member h4 {
+	margin: 0;
+}
+
+.member .Content {
+	text-align: left;
+	margin-top: 2rem;
+}
