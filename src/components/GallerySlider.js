@@ -58,7 +58,7 @@ class GallerySlider extends Component {
 	    		</div>
     		})}
 	    </Slider>
-			{gallery.map(({ image }, index) => {
+			{/* {gallery.map(({ image }, index) => {
 				return <div
 					className={`galleryImage--Popup ${this.state.popupActive === index ? 'active' : ''}`}
 					key={`image-full-${index}`}
@@ -78,7 +78,7 @@ class GallerySlider extends Component {
 							</div>
 						}
 	    		</div>
-			})}
+			})} */}
 		</div>
 	}
 }

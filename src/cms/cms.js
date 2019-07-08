@@ -8,7 +8,7 @@ CMS.registerMediaLibrary(uploadcare)
 // import CMS from 'netlify-cms-app'
 // import './cms-utils'
 
-// import { HomePageTemplate } from '../templates/HomePage'
+import { HomePageTemplate } from '../templates/HomePage'
 // import { AboutPageTemplate } from '../templates/AboutPage'
 // import { ContactPageTemplate } from '../templates/ContactPage'
 // import { DefaultPageTemplate } from '../templates/DefaultPage'
