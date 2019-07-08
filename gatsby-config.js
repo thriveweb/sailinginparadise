@@ -8,7 +8,8 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
-    // Add static assets before markdown files
+    'gatsby-plugin-sitemap',
+    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -23,61 +24,14 @@ module.exports = {
         name: 'pages'
       }
     },
-
-    // images
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
-
     {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          // gatsby-remark-relative-images must
-          // go before gatsby-remark-images
-          'gatsby-remark-relative-images',
-          {
-            resolve: 'gatsby-remark-images',
-            options: {
-              maxWidth: 800,
-              linkImagesToOriginal: false
-            }
-          },
           `gatsby-remark-responsive-iframe`
         ]
       }
     },
-
-    // css (replace with gatsby-plugin-sass for v2)
-    {
-      resolve: `gatsby-plugin-sass`,
-      options: {
-        postCssPlugins: [
-          postcssPresetEnv({
-            browsers: '> 0.5%, last 2 versions, ie 11'
-          })
-        ]
-      }
-    },
-    {
-      resolve: `gatsby-plugin-postcss`,
-      options: {
-        postCssPlugins: [
-          require(`postcss-preset-env`)({
-            browsers: '> 0.5%, last 2 versions, ie 11'
-          })
-        ]
-      }
-    },
-    {
-      resolve: 'gatsby-plugin-nprogress',
-      options: {
-        // Setting a color is optional.
-        color: 'white',
-        // Disable the loading spinner.
-        showSpinner: false
-      }
-    },
-    'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
