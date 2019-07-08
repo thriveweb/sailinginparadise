@@ -10,7 +10,6 @@ export default ({ title, subtitle, featuredImage, buttonTitle, buttonUrl, large,
 	if(!featuredImage) return null
 
 	return <div className={`secondary-banner relative overlay ${className}`}>
-	{console.log(`${featuredImage}-/resize/1x/-/quality/lightest/`)}
 			{featuredImage &&
 				<div
 					style={{
