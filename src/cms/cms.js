@@ -1,25 +1,25 @@
-import React from 'react'
-import CMS from 'netlify-cms-app'
-import './cms-utils'
+// import React from 'react'
+// import CMS from 'netlify-cms-app'
+// import './cms-utils'
 
-import { HomePageTemplate } from '../templates/HomePage'
-import { AboutPageTemplate } from '../templates/AboutPage'
-import { ContactPageTemplate } from '../templates/ContactPage'
-import { DefaultPageTemplate } from '../templates/DefaultPage'
-import { BlogIndexTemplate } from '../templates/BlogIndex'
-import { SinglePostTemplate } from '../templates/SinglePost'
-import { PrivateChartersTemplate } from '../templates/PrivateCharters'
-import { BookingPageTemplate } from '../templates/Booking'
-import { CruisesTemplate } from '../templates/Cruises'
-import { CaseStudiesTemplate } from '../templates/CaseStudies'
-import { BoatsPageTemplate } from '../templates/BoatsPage'
-import { SingleCaseStudyTemplate } from '../templates/SingleCaseStudy'
-import { SingleBoatTourTemplate } from '../templates/SingleBoatTour'
+// import { HomePageTemplate } from '../templates/HomePage'
+// import { AboutPageTemplate } from '../templates/AboutPage'
+// import { ContactPageTemplate } from '../templates/ContactPage'
+// import { DefaultPageTemplate } from '../templates/DefaultPage'
+// import { BlogIndexTemplate } from '../templates/BlogIndex'
+// import { SinglePostTemplate } from '../templates/SinglePost'
+// import { PrivateChartersTemplate } from '../templates/PrivateCharters'
+// import { BookingPageTemplate } from '../templates/Booking'
+// import { CruisesTemplate } from '../templates/Cruises'
+// import { CaseStudiesTemplate } from '../templates/CaseStudies'
+// import { BoatsPageTemplate } from '../templates/BoatsPage'
+// import { SingleCaseStudyTemplate } from '../templates/SingleCaseStudy'
+// import { SingleBoatTourTemplate } from '../templates/SingleBoatTour'
 
-CMS.init()
+// CMS.init()
 // CMS.registerPreviewStyle('/styles.css')
 
-CMS.registerPreviewTemplate('home-page', <HomePageTemplate />)
+// CMS.registerPreviewTemplate('home-page', <HomePageTemplate />)
 
 // CMS.registerPreviewTemplate('about-page', ({ entry }) => (
 //   <AboutPageTemplate {...entry.toJS().data} />
