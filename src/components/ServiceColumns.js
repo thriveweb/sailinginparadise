@@ -28,7 +28,7 @@ export default ({ services, serviceBanner }) => {
 						{image &&
 							<div
 								style={{
-									backgroundImage: `url(${`${image}-/resize/100x/`})`,
+									backgroundImage: `url(${`${image}-/resize/1x/`})`,
 									backgroundSize: 'cover'
 								}}
 								data-src={`${image}-/resize/700/`}
@@ -48,7 +48,7 @@ export default ({ services, serviceBanner }) => {
 				{featuredImage &&
 					<div
 						style={{
-							backgroundImage: `url(${`${featuredImage}-/resize/100x/`})`,
+							backgroundImage: `url(${`${featuredImage}-/resize/1x/`})`,
 							backgroundSize: 'cover'
 						}}
 						data-src={`${featuredImage}-/resize/1400/`}

@@ -13,7 +13,11 @@ class Video extends Component {
 
 		this.state = {}
 	}
+	
+	componentDidMount = () => {
 
+	}
+	
 	handleVideo = url => {
 		this.videoRef.current.src = `https://www.youtube.com/embed/${url}?autoplay=1&start=0&modestbranding=1&controls=0&disablekb=1&rel=0`
 		this.setState({
@@ -39,9 +43,10 @@ class Video extends Component {
 					</div>
 				}
 				<iframe
-					src={`https://www.youtube.com/embed/${url}?autoplay=1&start=0&mute=1&modestbranding=1&rel=0&controls=0&loop=1&playlist=${url}&showinfo=0`}
+					data-src={`https://www.youtube.com/embed/${url}?autoplay=1&start=0&mute=1&modestbranding=1&rel=0&controls=0&loop=1&playlist=${url}&showinfo=0`}
 					frameBorder="0"
 					title="home video"
+					className='lazy'
 				>
 				</iframe>
 				<FeaturedSlider featuredSlider={featuredSlider} featuredBanner={featuredBanner} />
@@ -53,7 +58,7 @@ class Video extends Component {
 				{imageOverlay &&
 					<div
 						style={{
-							backgroundImage: `url(${`${imageOverlay}-/resize/100x/`})`,
+							backgroundImage: `url(${`${imageOverlay}-/resize/1x/`})`,
 							backgroundSize: 'cover'
 						}}
 						data-src={`${imageOverlay}-/resize/2000/`}

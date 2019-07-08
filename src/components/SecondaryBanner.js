@@ -10,11 +10,11 @@ export default ({ title, subtitle, featuredImage, buttonTitle, buttonUrl, large,
 	if(!featuredImage) return null
 
 	return <div className={`secondary-banner relative overlay ${className}`}>
-	{console.log(`${featuredImage}-/resize/100x/`)}
+	{console.log(`${featuredImage}-/resize/1x/`)}
 			{featuredImage &&
 				<div
 					style={{
-						backgroundImage: `url(${`${featuredImage}-/resize/100x/`})`,
+						backgroundImage: `url(${`${featuredImage}-/resize/1x/`})`,
 						backgroundSize: 'cover'
 					}}
 					data-src={`${featuredImage}-/resize/2000x/`}
