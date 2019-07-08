@@ -1,8 +1,5 @@
 import React from 'react'
-import GatsbyImage from 'gatsby-image'
-import PropTypes from 'prop-types'
 import _get from 'lodash/get'
-import { graphql } from 'gatsby'
 
 import './Image.css'
 
@@ -27,13 +24,9 @@ class Image extends React.Component {
       source,
       onClick,
       sizes,
-      alt,
-      style,
-      imgStyle
+      alt
     } = this.props
 
-    const imageSizes = extractChildImageSharp(src, 'sizes')
-    const resolutions = extractChildImageSharp(src, 'resolutions')
     const imageSrc = extractChildImageSharp(src || source)
 
     if (background) {
@@ -63,20 +56,6 @@ class Image extends React.Component {
       )
     }
 
-    if (imageSizes || resolutions) {
-      return (
-        <GatsbyImage
-          className={`Image ${className}`}
-          sizes={imageSizes}
-          resolutions={resolutions}
-          onClick={onClick}
-          alt={alt}
-          style={style}
-          imgStyle={imgStyle}
-        />
-      )
-    }
-
     return (
       <img
         className={`Image ${className}`}
@@ -94,78 +73,3 @@ Image.propTypes = {
 }
 
 export default Image
-
-export const query = graphql`
-  fragment FluidImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 2800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
-      }
-    }
-  }
-  fragment NoBlurImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 2800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp_noBase64
-      }
-    }
-  }
-  fragment TracedImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 2800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp_tracedSVG
-      }
-    }
-  }
-  fragment LargeImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 1800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
-      }
-    }
-  }
-  fragment MediumImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
-      }
-    }
-  }
-  fragment SmallImage on File {
-    publicURL
-    childImageSharp {
-      sizes(maxWidth: 400, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
-      }
-    }
-  }
-  fragment LargeImageFixed on File {
-    publicURL
-    childImageSharp {
-      resolutions(width: 1800, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
-      }
-    }
-  }
-  fragment MediumImageFixed on File {
-    publicURL
-    childImageSharp {
-      resolutions(width: 800, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
-      }
-    }
-  }
-  fragment SmallImageFixed on File {
-    publicURL
-    childImageSharp {
-      resolutions(width: 400, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
-      }
-    }
-  }
-`
