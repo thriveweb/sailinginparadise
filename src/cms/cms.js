@@ -2,7 +2,8 @@ import React from 'react'
 import CMS from 'netlify-cms-app'
 import uploadcare from 'netlify-cms-media-library-uploadcare';
 
-CMS.registerMediaLibrary(uploadcare);
+CMS.init()
+CMS.registerMediaLibrary(uploadcare)
 
 // import CMS from 'netlify-cms-app'
 // import './cms-utils'
@@ -21,10 +22,9 @@ CMS.registerMediaLibrary(uploadcare);
 // import { SingleCaseStudyTemplate } from '../templates/SingleCaseStudy'
 // import { SingleBoatTourTemplate } from '../templates/SingleBoatTour'
 
-// CMS.init()
 // CMS.registerPreviewStyle('/styles.css')
 
-// CMS.registerPreviewTemplate('home-page', <HomePageTemplate />)
+CMS.registerPreviewTemplate('home-page', <HomePageTemplate />)
 
 // CMS.registerPreviewTemplate('about-page', ({ entry }) => (
 //   <AboutPageTemplate {...entry.toJS().data} />
