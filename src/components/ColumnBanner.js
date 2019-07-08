@@ -2,7 +2,6 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import { ICONButtonArrows } from './Icons'
-import Image from './Image'
 import Button from './Button'
 import Content from './Content'
 import BookingIframe from './BookingIframe'
