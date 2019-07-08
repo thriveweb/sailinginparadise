@@ -12,7 +12,7 @@ export default ({ featuredImage, title, subtitle, content, buttons }) => {
 	return <section className='aboutUs relative'>
 			{featuredImage && <div
 				style={{
-					backgroundImage: `url(${`${featuredImage}-/resize/1x/`})`,
+					backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
 					backgroundSize: 'cover'
 				}}
 				data-src={`${featuredImage}-/resize/2000x/`}

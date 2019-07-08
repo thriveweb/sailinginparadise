@@ -46,7 +46,7 @@ class GallerySlider extends Component {
 						{image &&
 							<div
 								style={{
-									backgroundImage: `url(${`${image}-/resize/1x/`})`,
+									backgroundImage: `url(${`${image}-/resize/1x/-/quality/lightest/`})`,
 									backgroundSize: 'cover'
 								}}
 								data-src={`${image}-/resize/500/`}
@@ -69,7 +69,7 @@ class GallerySlider extends Component {
 						{image &&
 							<div
 								style={{
-									backgroundImage: `url(${`${image}-/resize/1x/`})`,
+									backgroundImage: `url(${`${image}-/resize/1x/-/quality/lightest/`})`,
 									backgroundSize: 'cover'
 								}}
 								data-src={`${image}-/resize/1000/`}

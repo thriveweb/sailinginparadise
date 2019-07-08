@@ -30,7 +30,7 @@ export default ({ description, title, testimonial, caseStudies }) => {
                 <div className='img-thumbnail'>
                   <div
                     style={{
-                      backgroundImage: `url(${`${featuredImage}-/resize/1x/`})`,
+                      backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
                       backgroundSize: 'cover'
                     }}
                     data-src={`${featuredImage}-/resize/120/`}

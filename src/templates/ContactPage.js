@@ -56,7 +56,7 @@ export const ContactPageTemplate = ({
               <div className="image-container">
                 <div
                   style={{
-                    backgroundImage: `url(${`${map}-/resize/1x/`})`,
+                    backgroundImage: `url(${`${map}-/resize/1x/-/quality/lightest/`})`,
                     backgroundSize: 'cover'
                   }}
                   data-src={`${map}-/resize/600/`}

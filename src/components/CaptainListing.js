@@ -17,7 +17,7 @@ export default ({ captainIntro, captain }) => {
 								<div className='image-container relative'>
 									<div
 										style={{
-											backgroundImage: `url(${`${image}-/resize/1x/`})`,
+											backgroundImage: `url(${`${image}-/resize/1x/-/quality/lightest/`})`,
 											backgroundSize: 'cover'
 										}}
 										data-src={`${image}-/resize/230/`}

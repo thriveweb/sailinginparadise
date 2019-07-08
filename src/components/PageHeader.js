@@ -15,7 +15,7 @@ const PageHeader = ({
       {backgroundImage &&
         <div
           style={{
-            backgroundImage: `url(${`${backgroundImage}-/resize/1x/`})`,
+            backgroundImage: `url(${`${backgroundImage}-/resize/1x/-/quality/lightest/`})`,
             backgroundSize: 'cover'
           }}
           data-src={`${backgroundImage}-/resize/2000/`}

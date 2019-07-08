@@ -58,7 +58,7 @@ class Video extends Component {
 				{imageOverlay &&
 					<div
 						style={{
-							backgroundImage: `url(${`${imageOverlay}-/resize/1x/`})`,
+							backgroundImage: `url(${`${imageOverlay}-/resize/1x/-/quality/lightest/`})`,
 							backgroundSize: 'cover'
 						}}
 						data-src={`${imageOverlay}-/resize/2000/`}

@@ -71,7 +71,7 @@ export const SingleCaseStudyTemplate = ({
                 <div className='img-container'>
                   <div
                     style={{
-                      backgroundImage: `url(${`${featuredImage}-/resize/1x/`})`,
+                      backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
                       backgroundSize: 'cover'
                     }}
                     data-src={`${featuredImage}-/resize/500/`}
@@ -84,7 +84,7 @@ export const SingleCaseStudyTemplate = ({
                 ? <div className='img-container'>
                     <div
           						style={{
-          							backgroundImage: `url(${`${secondaryImage}-/resize/1x/`})`,
+          							backgroundImage: `url(${`${secondaryImage}-/resize/1x/-/quality/lightest/`})`,
           							backgroundSize: 'cover'
           						}}
           						data-src={`${secondaryImage}-/resize/1000/`}

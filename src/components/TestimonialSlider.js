@@ -70,7 +70,7 @@ class Slider extends Component {
                             {featuredImage &&
                               <div
                                 style={{
-                                  backgroundImage: `url(${`${featuredImage}-/resize/1x/`})`,
+                                  backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
                                   backgroundSize: 'cover'
                                 }}
                                 data-src={`${featuredImage}-/resize/200/`}
