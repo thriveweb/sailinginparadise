@@ -1,11 +1,11 @@
 {
-  "name": "yellowcake",
-  "HomePage": "https://yellowcake.netlify.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
+  "name": "sailing-in-paradise",
+  "HomePage": "https://sailing-paradise.netlify.com/",
+  "description": "Sailing in Paradise Website",
   "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thriveweb/yellowcake"
+    "url": "https://gitlab.com/thrv/sailing-in-paradise.git"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
