@@ -1,0 +1,122 @@
+.slick-slide {
+  position: relative;
+  height: 30rem;
+  cursor: pointer;
+  transition: all ease-in-out 0.2s;
+}
+
+.galleryImage svg {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  z-index: 2;
+  opacity: 0;
+  transition: all ease-in-out 0.2s;
+}
+
+.galleryImage .BackgroundImage:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  opacity: 0;
+  transition: all ease-in-out .2s;
+}
+
+.galleryImage:hover .BackgroundImage:before {
+  opacity: 1;
+}
+
+.galleryImage:hover svg {
+  opacity: 1;
+}
+
+/*Prev Next Arrows*/
+
+.slick-arrow {
+  top: 50%;
+  transform: translateY(-50%);
+  height: 6rem;
+  width: 6rem;
+  z-index: 2;
+}
+
+.slick-arrow.slick-prev {
+  left: 0;
+}
+
+.slick-arrow.slick-next {
+  right: 0;
+}
+
+.slick-arrow:before {
+  color: white;
+  opacity: 1;
+  font-size: 3rem;
+}
+
+/*Popup*/
+
+.galleryImage--Popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  visibility: hidden;
+  z-index: -1;
+  opacity: 0;
+  transition: all ease-in-out 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.galleryImage--Popup.active {
+  opacity: 1;
+  z-index: 9999;
+  visibility: visible;
+}
+
+.galleryImage--Popup img {
+  transform: scale(0);
+  transition: all ease-in-out 0.3s;
+  max-height: 90%;
+  max-width: 90%;
+}
+
+.galleryImage--Popup.active img {
+  transform: scale(1);
+}
+
+.popup-close {
+  position: absolute;
+  top: 4rem;
+  right: 4rem;
+  height: 5rem;
+  width: 5rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.popup-close svg {
+  height: 100%;
+}
+
+.popup-close svg * {
+  fill: white;
+}
+
+@media only screen and (max-width: 1280px) {
+  .slick-slide {
+    height: 20vw;
+  }
+}

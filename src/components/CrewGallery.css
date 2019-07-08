@@ -1,0 +1,118 @@
+.crewSection .slick-slide {
+	height: 35rem;
+	cursor: default;
+}
+
+.crewSection .galleryImage .BackgroundImage {
+	filter: grayscale(100%);
+	transition: all ease-in-out .2s;
+	cursor: pointer;
+}
+
+.crewSection .crew-content {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	height: 20%;
+	width: 100%;
+	z-index: 1;
+	text-align: center;
+	transition: all ease-in-out .2s;
+}
+
+.crewSection .crew-content * {
+	color: white;
+}
+
+.crewSection .crew-content h4 {
+	margin: 0;
+}
+
+.crewSection .galleryImage:hover .BackgroundImage {
+	filter: grayscale(0%);
+}
+
+.crewSection .galleryImage:hover .crew-content {
+	top: 75%;
+}
+
+.crew-popup {
+	position: fixed;
+	z-index: 99999999;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	opacity: 0;
+	visibility: hidden;
+	transition: all ease-in-out .2s;
+}
+
+.crew-popup .popup-content {
+	background-color: white;
+	transform: scale(0);
+	transition: all ease-in-out .2s;
+	max-width: 800px;
+	padding: 8rem 6rem;
+}
+
+.crew-popup .popup-content h4, .crew-popup .popup-content .title {
+	text-align: center;
+}
+
+.crew-popup .popup-content h4 {
+	margin-bottom: 0;
+}
+
+.crew-popup .popup-content .title {
+	position: relative;
+	margin-bottom: 3rem;
+	padding-bottom: 1rem;
+}
+
+.crew-popup .popup-content .title:before, .crew-popup .popup-content .title:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 10rem;
+	height: .1rem;
+	background-color: black;
+}
+
+.crew-popup .popup-content .title:before {
+	bottom: -.3rem;
+}
+
+.crew-popup .popup-close {
+	background-color: rgba(0,0,0,0.9);
+	border-radius: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 3rem;
+	width: 3rem;
+	top: -1rem;
+	right: -1rem;
+}
+
+.crew-popup.active {
+	opacity: 1;
+	visibility: visible;
+}
+
+.crew-popup.active .popup-content {
+	transform: scale(1);
+}
+
+@media only screen and (max-width: 1280px) {
+	.crewSection .slick-slide {
+		height: 24vw;
+	}
+}

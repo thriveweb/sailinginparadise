@@ -1,0 +1,20 @@
+.featuredPostsSection {
+	padding-bottom: 16rem;
+}
+
+.featuredPosts {
+	display: flex;
+}
+
+.featuredPosts .PostCard {
+	flex: 1;
+	margin-right: 4%;
+}
+
+.featuredPosts .PostCard:last-of-type {
+	margin-right: 0;
+}
+
+.featuredPosts .button:before {
+	display: none;
+}

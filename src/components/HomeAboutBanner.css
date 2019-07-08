@@ -1,0 +1,55 @@
+.aboutUs h2 {
+	position: absolute;
+	bottom: 12rem;
+	left: 14rem;
+	width: 20%;
+	line-height: 1;
+	height: auto;
+	z-index: 2;
+	font-weight: 800;
+	font-size: 10rem;
+	margin: 0;
+}
+
+.aboutUs-Content {
+	max-width: 40%;
+	margin: 0 0 0 auto;
+	position: relative;
+	z-index: 2;
+	padding: 15rem 10rem;
+	background-color: rgba(255,255,255,0.8);
+}
+
+.aboutUs-Content * {
+	position: relative;
+	z-index: 2;
+	color: var(--primary);
+}
+
+.aboutUs-Content .blur {
+	background: rgba(0,0,0,0.7);
+	position: absolute;
+	z-index: 1;
+	filter: blur(10px);
+}
+
+.aboutUs-Content .fancy-title {
+	font-size: 3.6rem;
+}
+
+.aboutUs-Content .button {
+	display: inline-block;
+	margin-right: 4rem;
+	margin-top: 2rem;
+}
+
+.aboutUs-Content .button:last-of-type {
+	margin-right: 0;
+}
+
+
+@media only screen and (max-width: 1440px) {
+	.aboutUs-Content {
+		padding: 12rem 8rem;
+	}
+}

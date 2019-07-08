@@ -1,0 +1,40 @@
+.Booking .Contact--Sections {
+	padding: 10rem 0;
+}
+
+.Booking .Contact--Sections .container {
+	display: flex;
+}
+
+.Booking .Contact--Details {
+	display: block;
+}
+
+.Booking .Contact--Details--Item {
+	border: none;
+	text-align: left;
+	padding: 0;
+	margin-bottom: 4rem;
+	align-items: flex-start;
+}
+
+.Booking .Contact--Details--Item .image-container {
+	height: 20rem;
+	width: 35rem;
+}
+
+.Booking .Contact--Section1 {
+	margin-right: 10rem;
+}
+
+.Booking .Contact--Section1 .intro-section {
+	padding-top: 0;
+}
+
+.Booking .Contact--Section1 {
+	flex: 1;
+}
+
+.Booking .Contact--Section2 {
+	flex: 0 0 60%;
+}

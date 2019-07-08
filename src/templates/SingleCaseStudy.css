@@ -1,0 +1,91 @@
+.SingleCaseStudy--Content {
+	padding: 10rem 0 0;
+}
+
+.SingleCaseStudy h2 {
+	text-align: center;
+}
+
+.SingleCaseStudy .SinglePost--Meta {
+	margin-bottom: 6rem;
+}
+
+.SingleCaseStudy .SinglePost--Meta * {
+	font-size: 1.8rem;
+	color: var(--primary);
+	text-transform: uppercase;
+	display: inline-block;
+}
+
+.SingleCaseStudy--Body {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-bottom: 8rem;
+}
+
+.columnLeft {
+	flex: 0 0 40%;
+	margin-right: 4rem;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+}
+
+.columnLeft .img-container {
+	position: relative;
+	flex: 1;
+	margin-bottom: 2rem;
+}
+
+.columnLeft .video-section {
+	margin: 0;
+}
+
+.columnLeft div:last-of-type {
+	margin-bottom: 0;
+}
+
+.columnRight {
+	flex: 1;
+}
+
+.columnRight .Content {
+	margin-bottom: 8rem;
+}
+
+.quote {
+	padding: 7rem 6rem;
+	box-shadow: 0 0 3rem 0 rgba(0,0,0,0.1);
+	position: relative;
+}
+
+.quote .name {
+	text-transform: uppercase;
+	position: absolute;
+	top: 2rem;
+	right: 4rem;
+	font-size: 1.8rem;
+	font-weight: 600;
+}
+
+.quote svg {
+	position: absolute;
+	top: -2rem;
+	left: 3rem;
+	height: 4rem;
+}
+
+.quote p {
+	font-size: 2rem;
+	color: var(--primary);
+}
+
+.SingleCaseStudy .video {
+	min-height: 30rem;
+	margin: 4rem 0 0;
+}
+
+.SingleCaseStudy .share-buttons {
+	justify-content: center;
+}

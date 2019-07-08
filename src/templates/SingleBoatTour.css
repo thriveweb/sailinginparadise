@@ -1,0 +1,14 @@
+.BoatTourIntro {
+	padding: 10rem 0;
+}
+
+.BoatTourIntro .container {
+	display: flex;
+	align-items: flex-start;
+}
+
+.BoatTourIntro .intro-section {
+	padding: 0;
+	flex: 0 0 60%;
+	margin-right: 15%;
+}

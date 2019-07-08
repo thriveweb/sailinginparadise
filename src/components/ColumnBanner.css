@@ -1,0 +1,75 @@
+.columnsBanner {
+	display: flex;
+}
+
+.bannerColumn {
+	flex: 1;
+	text-align: center;
+	padding: 15rem 12rem;
+}
+
+.bannerColumn h2 {
+	font-weight: 800;
+	line-height: 1.2;
+	margin-bottom: 0;
+}
+
+.bannerColumn .button {
+	display: inline-block;
+}
+
+.bannerColumn .button svg {
+  margin-left: 2rem;
+}
+
+
+/*Boat Tour*/
+
+.columnsBanner.boatTour .bannerColumn {
+	text-align: left;
+}
+
+.columnsBanner.boatTour .bannerColumn:first-of-type:before {
+	display: none;
+}
+
+.columnsBanner.boatTour h2 {
+	 background: none;
+  	-webkit-background-clip: none;
+  	-webkit-text-fill-color: var(--primary);
+  	color: var(--primary);
+  	margin-bottom: 1.5rem;
+  	font-weight: 400;
+}
+
+.columnsBanner.boatTour .button {
+	color: var(--primary);
+	border-color: var(--primary);
+}
+
+.columnsBanner.boatTour .button:after {
+	background-color: var(--primary);
+}
+
+.columnsBanner.boatTour .button svg * {
+	fill: var(--primary);
+}
+
+/* BookingIframe */
+
+.bookingIframe .bannerColumn {
+	padding: 10rem;
+	display: flex;
+	align-items: center;
+}
+
+
+@media only screen and (max-width: 1280px) {
+	.bannerColumn {
+		padding: 12rem 8rem;
+	}
+
+	.bannerColumn h2 {
+		font-size: 3rem;
+	}
+}
