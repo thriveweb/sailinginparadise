@@ -38,7 +38,7 @@ export const HomePageTemplate = ({
 
   return (
     <main className="Home">
-      <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
+      {/* <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
         {meta && <meta name="description" content={meta.description} />}
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
@@ -71,7 +71,7 @@ export const HomePageTemplate = ({
         posts={posts}
       />
       <InstagramFeed />
-      <SubscribeForm />
+      <SubscribeForm /> */}
     </main>
   )
 }
