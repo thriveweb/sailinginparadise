@@ -1,5 +1,5 @@
-import React from 'react'
 import CMS from 'netlify-cms-app'
+<<<<<<< HEAD
 import uploadcare from 'netlify-cms-media-library-uploadcare';
 import HomePagePreview from './previews/HomePagePreview'
 
@@ -63,3 +63,20 @@ CMS.registerPreviewTemplate('home-page', HomePagePreview)
 // CMS.registerPreviewTemplate('boatTours', ({ entry }) => (
 //   <SingleBoatTourTemplate {...entry.toJS().data} />
 // ))
+=======
+import uploadcare from 'netlify-cms-media-library-uploadcare'
+import cloudinary from 'netlify-cms-media-library-cloudinary'
+
+import AboutPagePreview from './preview-templates/AboutPagePreview'
+import BlogPostPreview from './preview-templates/BlogPostPreview'
+import ProductPagePreview from './preview-templates/ProductPagePreview'
+import IndexPagePreview from './preview-templates/IndexPagePreview'
+
+CMS.registerMediaLibrary(uploadcare);
+CMS.registerMediaLibrary(cloudinary);
+
+CMS.registerPreviewTemplate('index', IndexPagePreview)
+CMS.registerPreviewTemplate('about', AboutPagePreview)
+CMS.registerPreviewTemplate('products', ProductPagePreview)
+CMS.registerPreviewTemplate('blog', BlogPostPreview)
+>>>>>>> 3a6f4bfb11fe05440fd95d2e7727f5f60d86dc13
