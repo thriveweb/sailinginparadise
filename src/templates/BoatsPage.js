@@ -63,6 +63,7 @@ export const pageQuery = graphql`
             content
           }
           featuredImage
+          virtualTour
           gallery {
             image
           }

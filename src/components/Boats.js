@@ -16,6 +16,7 @@ export default ({ boats }) => {
           {
             title,
             featuredImage,
+            virtualTour,
             description,
             boatFeatures,
             gallery,
@@ -23,21 +24,23 @@ export default ({ boats }) => {
           },
           index
         ) => {
+
           return (
             <div className="boat" key={`boat-${index}`}>
               <div className="container">
                 {title && <h3>{title}</h3>}
                 <div className="colLeft column">
-                  {featuredImage &&
-                    <div
-                      style={{
-                        backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
-                        backgroundSize: 'cover'
-                      }}
-                      data-src={`${featuredImage}-/resize/700/`}
-                      className='BackgroundImage absolute lazy'
-                    >
-                    </div>
+                  {virtualTour
+                    ? <Content src={virtualTour} />
+                    : <div
+                        style={{
+                          backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
+                          backgroundSize: 'cover'
+                        }}
+                        data-src={`${featuredImage}-/resize/700/`}
+                        className='BackgroundImage absolute lazy'
+                      >
+                      </div>
                   }
                   {description && <Content src={description} />}
                 </div>

@@ -28,7 +28,7 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 						>
 						</div>
 					}
-					<BookingIframe bookingIframe={bookingIframe} />
+					{/*<BookingIframe bookingIframe={bookingIframe} />*/}
 				</div>
 
 				return <div className='bannerColumn relative overlay' key={index}>
