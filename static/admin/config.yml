@@ -369,6 +369,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Title, name: title, widget: string}
               - {label: Featured Image, name: featuredImage, widget: image}
+              - {label: Virtual Tour, name: virtualTour, widget: markdown}
               - {label: Description, name: description, widget: markdown, required: false}
               - label: "Boat Features"
                 required: false
