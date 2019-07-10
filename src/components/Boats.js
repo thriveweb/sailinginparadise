@@ -31,7 +31,7 @@ export default ({ boats }) => {
                 {title && <h3>{title}</h3>}
                 <div className="colLeft column">
                   {virtualTour
-                    ? <Content src={virtualTour} />
+                    ? <div className='virtual-tour'><Content src={virtualTour} /></div>
                     : <div
                         style={{
                           backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
