@@ -35,7 +35,7 @@ export const HomePageTemplate = ({
   socialMedia,
   meta
 }) => {
-
+  console.log(secondaryBanner)
   return (
     <main className="Home">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>

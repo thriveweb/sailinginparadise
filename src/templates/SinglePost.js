@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import _get from 'lodash/get'
-import _format from 'date-fns/format'
+// import _format from 'date-fns/format'format
 import { graphql, Link } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
 import Layout from '../components/Layout'
@@ -61,7 +61,7 @@ export const SinglePostTemplate = ({
               itemProp="dateCreated pubdate datePublished"
               date={date}
             >
-              {_format(date, 'D.MM.YYYY')}
+              {/* {_format(date, 'D.MM.YYYY')} */}
             </time>
           )}
           {categories.length && (

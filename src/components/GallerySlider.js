@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import { ICONMagnify, ICONClose } from './Icons'
+import { ICONMagnify } from './Icons'
 import './GallerySlider.css'
 
 class GallerySlider extends Component {

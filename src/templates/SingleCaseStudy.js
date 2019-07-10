@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
-import _format from 'date-fns/format'
+// import _format from 'date-fns/format'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
@@ -60,7 +60,7 @@ export const SingleCaseStudyTemplate = ({
                   itemProp="dateCreated pubdate datePublished"
                   date={date}
                 >
-                  {_format(date, 'MMMM, YYYY')}
+                  {/* {_format(date, 'MMMM, YYYY')} */}
                 </time>
               </Fragment>
             )}

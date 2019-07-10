@@ -1,18 +1,6 @@
 import React from 'react'
-import _get from 'lodash/get'
 
 import './Image.css'
-
-const extractChildImageSharp = (src = '', format) => {
-  if (!format) {
-    if (typeof src === 'string' && !format) return src
-    const childImageSharp = _get(src, 'childImageSharp')
-    if (!childImageSharp) return _get(src, 'publicURL')
-  }
-  if (format === 'sizes' || format === 'resolutions')
-    return _get(src, `childImageSharp.${format}`)
-  return src
-}
 
 class Image extends React.Component {
   render() {
@@ -27,7 +15,7 @@ class Image extends React.Component {
       alt
     } = this.props
 
-    const imageSrc = extractChildImageSharp(src || source)
+    const imageSrc = src || source
 
     if (background) {
       let style = {}
