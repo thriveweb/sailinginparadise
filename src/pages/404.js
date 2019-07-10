@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { Link, StaticQuery, graphql } from 'gatsby'
 import _get from 'lodash/get'
-import AlertTriangle from 'react-feather/dist/icons/alert-triangle'
+import { ICONButtonArrows } from '../components/Icons'
 
 import Layout from '../components/Layout'
 
@@ -20,18 +20,15 @@ export default ({ children }) => (
         <Helmet>
           <title>404 – Page Not Found</title>
         </Helmet>
-        <section className="section thick">
-          <div className="container skinny taCenter">
-            <p>
-              <AlertTriangle size="5rem" />
-            </p>
-            <h1>404 - Page Not Found</h1>
-            <p>
-              We can't find the page you are looking for!
-              <br />
-              Head back to{' '}
-              <Link to="/">{_get(data, 'globalSettings.siteTitle')}</Link>
-            </p>
+        <section className="error-404">
+          <div class="container">
+            <h1>Oops!</h1>
+            <h3>Page not found</h3>
+            <p>Looks like you're lost..</p>
+            <Link className='button' to="/">
+              Take me Home
+              <ICONButtonArrows/>
+            </Link>
           </div>
         </section>
       </Layout>
