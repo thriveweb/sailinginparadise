@@ -361,6 +361,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Slug, name: slug, widget: hidden, default: 'boats'}
           - {label: Title, name: title, widget: string}
           - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Virtual Tour, name: virtualTour, widget: image}
           - {label: Intro, name: intro, widget: markdown, required: false}
           - label: "Boats"
             required: false
