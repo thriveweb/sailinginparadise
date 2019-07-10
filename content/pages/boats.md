@@ -52,7 +52,7 @@ boats:
       imageOverlay: /images/uploads/home-banner.jpg
       video: ''
     virtualTour: >-
-      <iframe width='1280' height='720'
+      <iframe width='640' height='360'
       src='https://roundme.com/embed/440055/1508331' frameborder='0'
       webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - boatFeatures:
