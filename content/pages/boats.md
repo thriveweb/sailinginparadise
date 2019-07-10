@@ -51,6 +51,10 @@ boats:
     videoSection:
       imageOverlay: /images/uploads/home-banner.jpg
       video: ''
+    virtualTour: >-
+      <iframe width='1280' height='720'
+      src='https://roundme.com/embed/440055/1508331' frameborder='0'
+      webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - boatFeatures:
       - content: '10m long, 5.8m wide'
       - content: 20 passengers + 2 crew
