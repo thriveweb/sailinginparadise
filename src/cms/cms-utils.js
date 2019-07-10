@@ -5,6 +5,10 @@ if (typeof window !== 'undefined') {
     link.rel = 'stylesheet'
     link.href = '/admin/admin.css'
     document.head.appendChild(link)
+
+    var script = document.createElement('script');
+    script.src = "/admin/admin.js";
+    document.head.appendChild(script);
   
     if (process.env.NETLIFY_SITE_URL) {
       window.localStorage.setItem('netlifySiteURL', process.env.NETLIFY_SITE_URL)
