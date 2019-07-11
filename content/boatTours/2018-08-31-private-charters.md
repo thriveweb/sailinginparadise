@@ -3,8 +3,7 @@ template: SingleBoatTour
 tourType: Private Charter
 title: Private Charters
 icon: ''
-featuredImage: >-
-  https://ucarecdn.com/3d7d7bc6-e529-4cbc-8893-a233ae1a3897/
+featuredImage: 'https://ucarecdn.com/3d7d7bc6-e529-4cbc-8893-a233ae1a3897/'
 intro: >-
   ## gold coast Private Charter boat party
 
@@ -165,4 +164,8 @@ columnBanner:
     title: Give your friend the party they deserve!
     featuredImage: /images/uploads/girl-img-column2.jpg
   - featuredImage: /images/uploads/girl-img-column.jpg
+featuredTestimonials:
+  description: 'Bree has been out with us 3 times now, check out her lovely review here...'
+  testimonial: 'Bree, Aus'
 ---
+
