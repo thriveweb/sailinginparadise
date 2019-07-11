@@ -61,7 +61,7 @@ secondaryBanner:
   buttonTitle: Know More
   buttonUrl: cruises
   featuredImage: 'https://ucarecdn.com/56f44beb-7878-4241-9e81-bca565ab969d/'
-  subtitle: Special Offer
+  subtitle: Special Offer on Ticketed Cruises
   title: Adults at Kids prices
 aboutSection:
   buttons:
@@ -124,14 +124,14 @@ highlights:
     title: 'Fully equipped with Sound System (w Spotify), BBQ, Eskies, and Restroom'
 featuredTestimonials:
   buttonTitle: See more real guest reviews
-  buttonUrl: case-studies
+  buttonUrl: happy-sailors
   description: >-
     It's smiles all round with our top guest satisfaction rating across all
     review sites...
   testimonialsListing:
-    - testimonial: 'Lauren Faye Baxter, Australia'
-    - testimonial: 'Kalina Dominika Michalowska, Australia'
-    - testimonial: 'Mariella Luisa, Australia'
+    - testimonial: 'Lauren, Aus'
+    - testimonial: 'Kalina, Aus'
+    - testimonial: 'Mariella, Aus'
   title: Happy Sailors
 latestNews: >-
   ## Latest News
