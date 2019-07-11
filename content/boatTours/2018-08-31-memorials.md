@@ -63,5 +63,11 @@ columnBanner:
     title: 'Enquire now '
     featuredImage: /images/uploads/girl-img-column2.jpg
   - featuredImage: 'https://ucarecdn.com/6754bb1e-837c-4e33-bcba-69f6251f758f/'
+featuredTestimonials:
+  description: >-
+    We were honoured to look after Elyce and her family for their loved ones
+    memorial cruise. Read her lovely review here...
+  testimonial: 'Elyce, Aus'
+  title: Elyce
 ---
 
