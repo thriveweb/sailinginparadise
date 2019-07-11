@@ -198,5 +198,6 @@ featuredTestimonials:
     We took Tim and his family out with us for a private charter, read about
     their experience with us here...
   testimonial: 'Tim, Aus'
+  title: Tim
 ---
 
