@@ -5,11 +5,11 @@ title: catamaran Charters
 featuredImage: >-
   https://ucarecdn.com/ae8944f9-639c-41de-be91-7899ac721ff2/-/crop/3269x1740/0,528/-/preview/
 intro: >-
-  ## Private Charters
+  ## Private Yacht Charters
 
 
-  If you are looking for a private boat to hire on the Gold Coast, welcome, we
-  are glad you found us!  
+  If you are looking for a private boat hire on the Gold Coast, welcome, we are
+  glad you found us!  
 
 
   We invite you to join us on one of our luxury sailing catamarans. Suitable for
