@@ -3,7 +3,8 @@ template: SingleBoatTour
 tourType: Private Charter
 title: Proposals
 icon: ''
-featuredImage: 'https://ucarecdn.com/47e2ae8b-ee4a-4a55-afe5-c3759beafce7/'
+featuredImage: >-
+  https://ucarecdn.com/d74986ea-9aac-4090-83ca-aa408b16c8b9/-/crop/1620x609/0,104/-/preview/
 intro: >-
   ## Gold Coast Proposal Cruise
 
@@ -88,5 +89,11 @@ columnBanner:
     title: A proposal like no other...
     featuredImage: 'https://ucarecdn.com/8a4a1f89-1f16-4ac9-9ec2-8c1d21465116/'
   - featuredImage: 'https://ucarecdn.com/084f92bb-7abc-45fa-92df-ee789be5f7cd/'
+featuredTestimonials:
+  description: >-
+    Daniel organized a secret proposal charter with us. See what Lauren had to
+    say about the unforgettable experience, other than "YES!"...
+  testimonial: 'Lauren, Aus'
+  title: Lauren
 ---
 
