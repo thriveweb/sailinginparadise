@@ -96,8 +96,10 @@ columnBanner:
     featuredImage: 'https://ucarecdn.com/03aaaef0-bc70-4e9d-8533-3309e9a7d59f/'
   - featuredImage: 'https://ucarecdn.com/c6767657-504f-42da-9e05-e9388170030d/'
 featuredTestimonials:
-  description: ''
+  description: >-
+    Check out Sandy's lovely review about her and her husband's experience on
+    our Sunset and City Lights Cruise...
   testimonial: 'Sandy, UK'
-  title: ''
+  title: Sandy
 ---
 
