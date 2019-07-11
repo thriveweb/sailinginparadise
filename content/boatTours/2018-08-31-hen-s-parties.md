@@ -263,5 +263,11 @@ columnBanner:
   - title: ''
     featuredImage: >-
       https://ucarecdn.com/16c75551-b0a2-485a-bee8-f6a61cf6f164/-/crop/2996x3000/1500,0/-/preview/
+featuredTestimonials:
+  description: >-
+    Ruby attended a hen's party charter with us, see what she said about the
+    unforgettable experience here...
+  testimonial: 'Ruby, Aus'
+  title: Ruby
 ---
 
