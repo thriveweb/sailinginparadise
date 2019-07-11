@@ -15,9 +15,12 @@ intro: >-
 
 
   There is something so magical about a sunset over the water.  But surrounded
-  by it?  Well that's something else...    So come and join us on our sunset
-  cruise as the sun sinks behind the mountains of the Gold Coast Hinterland and
-  casts a glow across the calm waters of the Gold Coast Broadwater.    
+  by it?  Well that's something else...    
+
+
+  So come and join us on our sunset cruise as the sun sinks behind the mountains
+  of the Gold Coast Hinterland and casts a glow across the calm waters of the
+  Gold Coast Broadwater.    
 
 
   We've got the champagne on ice!
@@ -61,21 +64,17 @@ contentColumn: >-
   purchased on board at only $5 per drink.
 accordionSection:
   accordion:
-    - dropdownContent: "•\t2 hours on the beautiful, calm Gold Coast Broadwater\r\n\n•\tRelax onboard a spacious Sailing Catamaran\r\n\n•\tA maximum of 30 guests on board\r\n\n•\tSee impressive superyachts, Seaworld, Palazzo Versace, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.\r\n\n•\tWatch the Sunset over the Gold Coast Hinterland\r\n\n•\tThen check out the Sparkling City lights as you see the Gold Coast in a new light\r\n\n•\tCool tunes set the soundtrack as you relax and take in the views\r\n\n•\tFriendly relaxed ambience with crew sharing some local knowledge\r\n\n•\tKeep your eyes peeled for dolphins!\r\n\n•\tIncludes one complimentary drink and nibbles\r\n\n•\tDeparts and returns @ Marina Mirage - an ideal spot for a beautiful waterfront meal or drinks before or after your cruise"
+    - dropdownContent: "•\t2 hours on the beautiful, calm Gold Coast Broadwater\n\n•\tRelax onboard a spacious Sailing Catamaran\n\n•\tA maximum of 30 guests on board\n\n•\tSee impressive superyachts, Seaworld, Palazzo Versace, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.\n\n•\tWatch the Sunset over the Gold Coast Hinterland\n\n•\tThen check out the Sparkling City lights as you see the Gold Coast in a new light\n\n•\tCool tunes set the soundtrack as you relax and take in the views\n\n•\tFriendly relaxed ambience with crew sharing some local knowledge\n\n•\tKeep your eyes peeled for dolphins!\n\n•\tIncludes one complimentary drink and nibbles cup\n\n•\tDeparts and returns @ Marina Mirage - an ideal spot for a beautiful waterfront meal or drinks before or after your cruise"
       title: What to Expect
     - dropdownContent: "•\tJacket on cooler days\n\n•\tEasily removable shoes\n\n•\tCamera"
       title: What to Bring
     - dropdownContent: >-
-        Please arrive 15 minutes prior to your departure time.   We depart from
-        Berth D11 Marina Mirage, Main Beach.   When arriving at the Marina esure
-        you take the "Marina Mirage" Marina entrance.  Please DO NOT go down the
-        Mariners Cove wharf with the big yellow arches.  The Marina Mirage wharf
-        is accessed via the black gates on the right hand side.  Enter through
-        these and you will easily find our vessel.   For further details and a
-        map of how to find us please see
-        https://sailinginparadise.com.au/how-to-find-us/
+        Please arrive 15 minutes prior to your departure time. We depart from
+        Berth D11 Marina Mirage, Main Beach. When arriving at the Marina please
+        follow the map and instructions on our
+        [contact-us](https://sailing-paradise.netlify.com/contact/) page.
       title: When and Where to find us
-    - dropdownContent: "•\tIn the event of adverse weather requiring a cancellation of the cruise an SMS will be sent to your registered mobile (please ensure you provide one).   \n\n•\tPlease provide notice of at least 72 hours should you wish to cancel to avoid forfeiture of ticket price.  \n\n•\tThere is no BYO however you will receive one complimentary bubbly, beer or soft drink and extra drinks may be purchased on board at very reasonable prices (cash preferred, cards accepted).  \n\n•\tSailing in Paradise reserves the right to substitute the vessel if necessary without prior notice.\n\n•\tCruises are subject to weather suitability, the cruise can proceed in most weather conditions but if it is deemed unsafe we will not sail.   Customers are able to reschedule or request a refund in this circumstance.\n\n•\tCruises require minimum numbers to depart.\\\n  In the event of minimum numbers not being met guests will be offered a full refund or the opportunity to reschedule to an alternative date."
+    - dropdownContent: "•\tIn the event of adverse weather requiring a cancellation of the cruise an SMS will be sent to your registered mobile (please ensure you provide one and check this before departing for the marina).\r\n\n•\tPlease provide notice of at least 72 hours should you wish to cancel to avoid forfeiture of ticket price.\r\n\n•\tThere is no BYO on our ticketed cruises however you will receive one complimentary bubbly, beer or soft drink and extra drinks may be purchased on board at very reasonable prices (cash preferred, cards accepted).\r\n\n•\tSailing in Paradise reserves the right to substitute the vessel if necessary without prior notice.\r\n\n•\tCruises are subject to weather suitability, the cruise can proceed in many weather conditions but if it is deemed unsafe or overly unpleasant we will not sail as we do want our guests to have a safe and enjoyable experience on board. Guests are able to reschedule or request a refund in this circumstance.\r\n\n•\tCruises require minimum numbers to depart.\\ In the event of minimum numbers not being met guests will be offered a full refund or the opportunity to reschedule to an alternative date."
       title: Terms & Conditions
   sectionTitle: need to know
 columnBanner:
