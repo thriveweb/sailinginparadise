@@ -28,7 +28,7 @@ intro: >-
 
   Catamarans are becoming increasingly popular due to their stability, wide deck
   spaces and smooth cruising, making them perfect for social occasions.   A
-  **sailing** catamaran is the epitome of style and guaranteed to offer some
+  **sailing** **catamaran** is the epitome of style and guaranteed to offer some
   great photo opportunities captured by our on-board crew. There is nothing
   quite as relaxing as hoisting the sails, switching off the motors and gliding
   along the smooth clear waters while lazing on the trampolines under a sunny
