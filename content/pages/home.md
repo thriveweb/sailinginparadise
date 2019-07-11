@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: True Paradise
-featuredVideo: 'https://vimeo.com/347441203'
+featuredVideo: 'https://www.youtube.com/watch?v=vr0qNXmkUJ8&t=62s'
 featuredSlider:
   - buttonUrl: cruises
     description: 2 hour sunset cruise
