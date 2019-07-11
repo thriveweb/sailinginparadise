@@ -64,12 +64,10 @@ accordionSection:
     - dropdownContent: >-
         Please arrive 15 minutes prior to your departure time.   We depart from
         Berth D11 Marina Mirage, Main Beach.   When arriving at the Marina
-        please DO NOT go down the Mariners Cover wharf with the big yellow
-        arches.  Instead take the Marina Mirage wharf on the right hand side and
-        you will find our vessel.   For further details and a map of how to find
-        us please see https://sailinginparadise.com.au/how-to-find-us/
+        please follow the map and instructions on our [contact-us](contact-us)
+        page.
       title: When and Where to find us
-    - dropdownContent: "•\tIn the event of adverse weather requiring a cancellation of the cruise an SMS will be sent to your registered mobile (please ensure you provide one).   \n\n•\tPlease provide notice of at least 72 hours should you wish to cancel to avoid forfeiture of ticket price.  \n\n•\tThere is no BYO on our ticketed cruises however you will receive one complimentary bubbly, beer or soft drink and extra drinks may be purchased on board at very reasonable prices (cash preferred, cards accepted).  \n\n•\tSailing in Paradise reserves the right to substitute the vessel if necessary without prior notice.\n\n•\tCruises are subject to weather suitability, the cruise can proceed in most weather conditions but if it is deemed unsafe we will not sail.   Customers are able to reschedule or request a refund in this circumstance.\n\n•\tCruises require minimum numbers to depart.\\\n  In the event of minimum numbers not being met guests will be offered a full refund or the opportunity to reschedule to an alternative date."
+    - dropdownContent: "•\tIn the event of adverse weather requiring a cancellation of the cruise an SMS will be sent to your registered mobile (please ensure you provide one and check this before departing for the marina).   \n\n•\tPlease provide notice of at least 72 hours should you wish to cancel to avoid forfeiture of ticket price.  \n\n•\tThere is no BYO on our ticketed cruises however you will receive one complimentary bubbly, beer or soft drink and extra drinks may be purchased on board at very reasonable prices (cash preferred, cards accepted).  \n\n•\tSailing in Paradise reserves the right to substitute the vessel if necessary without prior notice.\n\n•\tCruises are subject to weather suitability, the cruise can proceed in many weather conditions but if it is deemed unsafe or overly unpleasant we will not sail as we do want our guests to have a safe and enjoyable experience on board.   Guests are able to reschedule or request a refund in this circumstance.\n\n•\tCruises require minimum numbers to depart.\\\n  In the event of minimum numbers not being met guests will be offered a full refund or the opportunity to reschedule to an alternative date."
       title: Terms and Conditions
   sectionTitle: need to know
 columnBanner:
