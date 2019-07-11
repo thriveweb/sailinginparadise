@@ -17,8 +17,7 @@ navItems:
       - title: Christmas Parties
       - title: Private Charters
       - title: Sightseeing
-      - title: Buck's Parties
-    title: Private Charters
+    title: Catamaran Charters
   - title: Our Boats
   - title: About Us
   - subNavItems:
