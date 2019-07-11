@@ -62,12 +62,6 @@ table {
   --fontSecondary: 'Maven Pro', sans-serif;
 }
 
-@font-face {
-  font-family: 'Arvo';
-  font-display: block;
-  src: local('Arvo'), url(https://fonts.gstatic.com/s/arvo/v9/rC7kKhY-eUDY-ucISTIf5PesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
-}
-
 html {
   box-sizing: border-box;
   font-size: 62.5%;
