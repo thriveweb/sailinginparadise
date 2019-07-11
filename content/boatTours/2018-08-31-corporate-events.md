@@ -81,5 +81,6 @@ featuredTestimonials:
     KOJO organized a corporate charter with us, take a look at their
     experience...
   testimonial: 'KOJO, Aus '
+  title: KOJO
 ---
 
