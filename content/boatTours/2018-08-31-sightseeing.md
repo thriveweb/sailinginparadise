@@ -69,7 +69,7 @@ featuredTestimonials:
     getting the sails up which they loved. They took some amazing pictures which
     was all part of the service, not a chargeable extra. I can't recommend them
     enough.” 
-  testimonial: 'Tim Walker, Australia'
+  testimonial: 'Mr Apple, Aus'
   title: Tim Walker - Australia
 ---
 
