@@ -132,14 +132,6 @@ crewSection:
       name: 'Lucas '
       title: Skipper
     - content: >-
-        Our newest recruit.  Anna joins the Sailing in Paradise family with
-        years of hospitality experience under her belt.   A budding photographer
-        and medicine student Anna grew up around boats in coastal England.
-      image: >-
-        https://ucarecdn.com/4bbc0ae5-bc31-47fd-88f4-bd5a52293c50/-/crop/1080x1140/0,0/-/preview/
-      name: 'Anna '
-      title: Cruise Hostess
-    - content: >-
         Ella is currently completing her PhD in Chemical Engineering and is also
         a keen surfer, wakeboarder and snowboarder.    Great fun to be around
         and with a love of photography, you are sure to enjoy having Ella on
@@ -148,7 +140,20 @@ crewSection:
         https://ucarecdn.com/cb0d6732-f1ae-47af-a901-97856b14a11c/-/crop/4000x3087/0,1233/-/preview/
       name: 'Ella '
       title: Cruise Hostess
-    - {}
+    - content: >-
+        Our newest recruit.  Anna joins the Sailing in Paradise family with
+        years of hospitality experience under her belt.   A budding photographer
+        and medicine student Anna grew up around boats in coastal England.
+      image: >-
+        https://ucarecdn.com/4bbc0ae5-bc31-47fd-88f4-bd5a52293c50/-/crop/1080x1140/0,0/-/preview/
+      name: 'Anna '
+      title: Cruise Hostess
+    - content: info to come
+      name: Keegan
+      title: Skipper
+    - content: Info to come
+      name: Phoebe
+      title: Cruise Hostess
   crewIntro: "## Our Crew\n\nThe crew onboard your vessel are such an important aspect of chartering a boat.    Our aim is that you step aboard and feel instantly at ease so we have carefully selected our crew not only for their skill but also their amazing hospitality and fun personalities.   \r\n\nYou don't want a grumpy skipper or sleazy deck crew making you feel uneasy on your special day and rest assured that won’t happen on a charter with us."
 secondaryBanner:
   buttonTitle: Know More
