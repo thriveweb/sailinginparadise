@@ -4,7 +4,7 @@ tourType: Private Charter
 title: Proposals
 icon: ''
 featuredImage: >-
-  https://ucarecdn.com/d74986ea-9aac-4090-83ca-aa408b16c8b9/-/crop/1620x609/0,104/-/preview/
+  https://ucarecdn.com/a6fb8404-c3e0-44eb-b501-34a8bc33ec07/-/crop/1555x379/0,246/-/preview/
 intro: >-
   ## Gold Coast Proposal Cruise
 
