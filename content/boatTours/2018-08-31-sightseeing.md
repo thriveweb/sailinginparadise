@@ -240,11 +240,11 @@ columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
     content: >-
-      Let our friendly and experienced team tailor Sightseeing Charter for your
-      group.
-    title: Get out on the water and see the real Gold Coast
+      Let our friendly and experienced team tailor a sightseeing charter for
+      your group.
+    title: Get out on the water and experience the real Gold Coast
     featuredImage: 'https://ucarecdn.com/90d8ee6c-008c-40a2-a620-e532aab1315f/'
-  - featuredImage: 'https://ucarecdn.com/575b03dc-b8cb-4ea8-a6b9-94bf796b5b92/'
+  - featuredImage: 'https://ucarecdn.com/89e840d4-ad24-4022-8ccc-5ec6f161b5a0/'
 featuredTestimonials:
   description: >-
     Mr Apple spent the afternoon out on the water with us taking in the
