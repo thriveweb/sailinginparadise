@@ -30,17 +30,16 @@ export default ({ boats }) => {
               <div className="container">
                 {title && <h3>{title}</h3>}
                 <div className="colLeft column">
-                  {virtualTour
-                    ? <div className='virtual-tour'><Content src={virtualTour} /></div>
-                    : <div
-                        style={{
-                          backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
-                          backgroundSize: 'cover'
-                        }}
-                        data-src={`${featuredImage}-/resize/700/`}
-                        className='BackgroundImage absolute lazy'
-                      >
-                      </div>
+                  {featuredImage &&
+                    <div
+                      style={{
+                        backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
+                        backgroundSize: 'cover'
+                      }}
+                      data-src={`${featuredImage}-/resize/700/`}
+                      className='BackgroundImage absolute lazy'
+                    >
+                    </div>
                   }
                   {description && <Content src={description} />}
                 </div>
@@ -54,7 +53,15 @@ export default ({ boats }) => {
                 )}
               </div>
               {gallery && <GallerySlider gallery={gallery} />}
-              {videoSection && <Video {...videoSection} />}
+              {virtualTour
+                ? <div className='virtual-tour'>
+                    <div className='container'>
+                      <Content src={virtualTour} />
+                    </div>  
+                  </div>
+                : <Video {...videoSection} />
+              }
+
             </div>
           )
         }

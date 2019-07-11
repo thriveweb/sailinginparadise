@@ -13,11 +13,11 @@ class Video extends Component {
 
 		this.state = {}
 	}
-	
+
 	componentDidMount = () => {
 
 	}
-	
+
 	handleVideo = url => {
 		this.videoRef.current.src = `https://www.youtube.com/embed/${url}?autoplay=1&start=0&modestbranding=1&controls=0&disablekb=1&rel=0`
 		this.setState({
