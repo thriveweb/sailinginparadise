@@ -4,21 +4,11 @@ tourType: Private Charter
 title: Private Charters
 icon: ''
 featuredImage: 'https://ucarecdn.com/3d7d7bc6-e529-4cbc-8893-a233ae1a3897/'
-intro: >-
-  ## gold coast Private Charter boat party
-
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum
-  scelerisque ex interdum cursus. In hac habitasse platea dictumst. Sed porta
-  ultricies turpis, dapibus efficitur lectus dapibus eget. Sed pharetra urna
-  vitae tincidunt placerat. Sed mollis, ex et placerat malesuada, felis orci
-  ultrices tortor, in molestie augue odio sed nibh. Quisque eros leo, egestas
-  quis ante ac, pretium venenatis augue. Aenean blandit urna sit amet nisi
-  elementum auctor.
+intro: "## gold coast Private Charter boat \n\nSpend a few hours, a full day or a beautiful evening with friends & family on the calm, clear waters of the Gold Coast Broadwater.  Our sailing catamarans are available for skippered private boat hire and ideal for birthday parties, hens parties, baby showers, family reunions, corporate events or for a unique day out with friends.   Catamarans are widely regarded for their smooth and stable ride as they are very wide and spacious and perfect for social occasions.  What’s more, the 360 panoramic views ensure you will enjoy the Gold Coast scenery at its absolute best as you sail our stunning waterways.\r  \n\n# [Take a tour of our boats.](https://sailing-paradise.netlify.com/boats/)"
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
-  title: Let us tailor your VIP Gold Coast Private Charter Party Experience
+  title: 'Let us tailor your Private Boat Charter '
 gallery:
   - image: 'https://ucarecdn.com/14933057-6c11-437f-9da5-3a22e2ea7529/'
   - image: 'https://ucarecdn.com/dc9f4c3f-3276-49e2-af8c-1b803f9a2ee7/'
@@ -42,128 +32,52 @@ videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: >-
     https://www.youtube.com/watch?v=vr0qNXmkUJ8&list=PLNhzc-Os3JK8ExayVzzoHVvP2c0-4_oqt
-contentColumnTitle: We love Private Charter parties and Private Charter parties love us!
+contentColumnTitle: Imagine setting sail on your own private yacht
 contentColumn: >-
-  We have hosted over 1000 happy Private Charter parties and we are continually
-  striving to create the best experience possible for our guests.
+  Step aboard your own private catamaran, and the beautiful Gold Coast
+  Broadwater becomes your playground.   During the day You will enjoy
+  spectacular views and access to pristine beaches as the boat arrives at
+  isolated islands surrounded by crystal clear turquoise waters.   There are
+  plentiful activities available on board to keep you entertained including
+  Beach Volleyball, Stand Up Paddleboards, Inflatables, Beach Cricket and
+  Snorkel gear.  
 
 
-  We understand that you want your special day to be memorable, fun, relaxing
-  and stress free and that is exactly what we specialise in.
+  Sail at sunset and you will be treated to a sunset across the Broadwater and
+  over the Gold Coast Mountains followed by the twinkling Gold Coast City
+  Skyline by night, simply breathtaking!
 
 
-  From the moment you send through an enquiry all the way through to the follow
-  up email with your free souvenir photo’s after your cruise, we pride ourselves
-  on our professional yet friendly and laid back attitude.
+  We offer a range of catering and beverage options and also welcome BYO.  
 
 
-  No matter what style of party you are after we can help. Whether you are
-  looking for a relaxing day on the water with some yummy food and a few drinks.
-  Or an elegant morning tea cruise with champagne and delicious cupcakes. Even a
-  raucous Private Charter party with a butler in the buff and all the trimmings
-  we are here for you. We have some great Gold Coast Private Charter night ideas
-  also.
+  Whatever the occasion, cruising the Gold Coast Broadwater with a Private Boat
+  Charter aboard your own luxury catamaran is a great way to spend a day or
+  evening and Sailing in Paradise is the ultimate venue for your next event.
 accordionSection:
   accordion:
-    - dropdownContent: >-
-        Why settle for ordinary when you can sail away on the Gold Coast’s most
-        luxurious and unique sailing catamaran.
-
-
-        Our stable sailing catamaran is ideal for groups of up to 30 ladies. The
-        large trampoline-style fore-deck is perfect for lazing in the sunshine
-        or dancing, while we sail the calm, clear waters of the Gold Coast. The
-        ample undercover space makes the vessel perfect for those seeking shade.
-        Facilities are plentiful to ensure you have everything on hand to enjoy
-        a perfect day! Definitely the boat to be seen on and with room for up to
-        30 passengers, this smooth and stable yacht is the ideal venue for a
-        wonderful cruise.  Let the crew pamper you the way you deserve with our
-        Ultimate VIP Private Charter Party Cruise.
+    - dropdownContent: "When you book a private charter with Sailing in Paradise you can expect a quality of service from years of experience in the industry but most of all your can expect a fun day (or evening) on the water that your group will love.\r\n\nFrom your initial enquiry, we aim to make the booking process as simple as possible for you, offering a variety of optional extras including catering, beverages, motorised watersports should you wish to book them. But none of this is obligatory, we also welcome BYO.\r\n\nWe offer a personalised and customised service so if you have any questions or special requirements please feel free to reach out to our team and we will do our best to accommodate you."
       title: What to expect
-    - dropdownContent: >-
-        Why settle for ordinary when you can sail away on the Gold Coast’s most
-        luxurious and unique sailing catamaran.
-
-
-        Our stable sailing catamaran is ideal for groups of up to 30 ladies. The
-        large trampoline-style fore-deck is perfect for lazing in the sunshine
-        or dancing, while we sail the calm, clear waters of the Gold Coast. The
-        ample undercover space makes the vessel perfect for those seeking shade.
-        Facilities are plentiful to ensure you have everything on hand to enjoy
-        a perfect day! Definitely the boat to be seen on and with room for up to
-        30 passengers, this smooth and stable yacht is the ideal venue for a
-        wonderful cruise.  Let the crew pamper you the way you deserve with our
-        Ultimate VIP Private Charter Party Cruise.
+    - dropdownContent: "* Hat\r\n* Sunscreen\r\n* Sunglasses\r\n* Swimwear\r\n* Towel\r\n* Jacket on cooler days\r\n* Camera\r\n* Easily removable shoes\n* Food and drinks if you wish to BYO"
       title: What to Bring
-    - dropdownContent: >-
-        Why settle for ordinary when you can sail away on the Gold Coast’s most
-        luxurious and unique sailing catamaran.
-
-
-        Our stable sailing catamaran is ideal for groups of up to 30 ladies. The
-        large trampoline-style fore-deck is perfect for lazing in the sunshine
-        or dancing, while we sail the calm, clear waters of the Gold Coast. The
-        ample undercover space makes the vessel perfect for those seeking shade.
-        Facilities are plentiful to ensure you have everything on hand to enjoy
-        a perfect day! Definitely the boat to be seen on and with room for up to
-        30 passengers, this smooth and stable yacht is the ideal venue for a
-        wonderful cruise.  Let the crew pamper you the way you deserve with our
-        Ultimate VIP Private Charter Party Cruise.
-      title: Considerations
-    - dropdownContent: >-
-        Why settle for ordinary when you can sail away on the Gold Coast’s most
-        luxurious and unique sailing catamaran.
-
-
-        Our stable sailing catamaran is ideal for groups of up to 30 ladies. The
-        large trampoline-style fore-deck is perfect for lazing in the sunshine
-        or dancing, while we sail the calm, clear waters of the Gold Coast. The
-        ample undercover space makes the vessel perfect for those seeking shade.
-        Facilities are plentiful to ensure you have everything on hand to enjoy
-        a perfect day! Definitely the boat to be seen on and with room for up to
-        30 passengers, this smooth and stable yacht is the ideal venue for a
-        wonderful cruise.  Let the crew pamper you the way you deserve with our
-        Ultimate VIP Private Charter Party Cruise.
-      title: VIP Packages
-    - dropdownContent: >-
-        Why settle for ordinary when you can sail away on the Gold Coast’s most
-        luxurious and unique sailing catamaran.
-
-
-        Our stable sailing catamaran is ideal for groups of up to 30 ladies. The
-        large trampoline-style fore-deck is perfect for lazing in the sunshine
-        or dancing, while we sail the calm, clear waters of the Gold Coast. The
-        ample undercover space makes the vessel perfect for those seeking shade.
-        Facilities are plentiful to ensure you have everything on hand to enjoy
-        a perfect day! Definitely the boat to be seen on and with room for up to
-        30 passengers, this smooth and stable yacht is the ideal venue for a
-        wonderful cruise.  Let the crew pamper you the way you deserve with our
-        Ultimate VIP Private Charter Party Cruise.
-      title: More Private Charter Ideas
-    - dropdownContent: >-
-        Why settle for ordinary when you can sail away on the Gold Coast’s most
-        luxurious and unique sailing catamaran.
-
-
-        Our stable sailing catamaran is ideal for groups of up to 30 ladies. The
-        large trampoline-style fore-deck is perfect for lazing in the sunshine
-        or dancing, while we sail the calm, clear waters of the Gold Coast. The
-        ample undercover space makes the vessel perfect for those seeking shade.
-        Facilities are plentiful to ensure you have everything on hand to enjoy
-        a perfect day! Definitely the boat to be seen on and with room for up to
-        30 passengers, this smooth and stable yacht is the ideal venue for a
-        wonderful cruise.  Let the crew pamper you the way you deserve with our
-        Ultimate VIP Private Charter Party Cruise.
-      title: Private Charter Party FAQ's
+    - dropdownContent: "We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper can make recommendations on the day, if you don't wish to swim you could also go up and sail around the millionaires mansions at Sovereign Islands.\r\n\nIn the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful."
+      title: Where can we go?
+    - dropdownContent: "* Private use of your own beautiful sailing catamaran for 3 to 6 hours.\r\n* Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them, Check out our-crew page to meet the gang!\r\n* Island Activities for day charters incl. Stand up Paddle Boards, beach games and cute inflatables\r\n* Use of tablet with premium spotify and sound system on board\r\n* Use of small marine BBQ if required\r\n* Use of large eskies (ice supplied)\r\n* Instaworthy Memento Photos taken by our crew\r\n* Lots of FUN!!"
+      title: What's included?
+    - dropdownContent: "**Where do your boats depart from?**\r\n\nOur boats are berthed at D9 and D10 at Marina Mirage. Please see the 'contact us' page on our website www.sailinginparadise.com.au for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.\r\n\n\r\n\n**Where can I park?**\r\n\nThere is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.\r\n\n\r****\n\n**What about other transport options?**\r\n\nThere are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.\r\n\n\r\n\n**Are your charters suitable for children?**\r\n\nAbsolutely! We love having kids on board and our crew will often try and include them in the sailing and driving the boat. We also carry a range of beach games suitable for kids including buckets and spades for the littlest family members. The wide and spacious deck area also make the boats wonderful for kids, of course you are always careful with children when it comes to being on the water but as boats go our catamarans would be some of the most family friendly around. Please feel free to contact our team if you have any questions about which boat may be best for your family.\r\n\n\r\n\n**Can I BYO food and drink?**\r\n\nYes if you would like to bring your own food and drinks on board that is completely fine.\r\n\n\r\n\n**I am short on time can you please help me out with catering/drinks?**\r\n\nYes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.\r\n\n\r\n\n**Do you have Eskies on board?**\r\n\nYes we do and we also provide ice. The eskies are very large and can be used for food or drink.\r\n\n\r\n\n**Will I get seasick?**\r\n\nNope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).\r\n\n\r\n\n**What happens if it rains?**\r\n\nFirst of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team."
+      title: Private Charter FAQ's
+  sectionTitle: About our charters
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
-    content: >-
-      Let our friendly and experienced team tailor a VIP Gold Coast Private
-      Charter Party Experience that they won’t forget.
-    title: Give your friend the party they deserve!
-    featuredImage: /images/uploads/girl-img-column2.jpg
-  - featuredImage: /images/uploads/girl-img-column.jpg
+    content: Send me some info...
+    title: Start planning my charter
+    featuredImage: 'https://ucarecdn.com/60cf28b4-7151-4fea-ae4c-0a8601e88000/'
+  - buttonTitle: Show me around
+    buttonUrl: 'https://sailing-paradise.netlify.com/boats/'
+    content: choose from 2 beautiful catamarans
+    title: Take a tour of our boats
+    featuredImage: /images/uploads/girl-img-column.jpg
 featuredTestimonials:
   description: 'Bree has been out with us 3 times now, check out her lovely review here...'
   testimonial: 'Bree, Aus'
