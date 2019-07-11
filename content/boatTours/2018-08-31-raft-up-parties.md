@@ -151,13 +151,9 @@ columnBanner:
   - featuredImage: /images/uploads/girl-img-column.jpg
 featuredTestimonials:
   description: >-
-    “AMAZING that is the only way to describe the service provided by Steve and
-    Jess. Not only did they take 50 people out for a sail to Wave break Island
-    and then on a sunset cruise but they organised an extra boat to accommodate
-    our large party, organised buses to pick up the partygoers, picked up the
-    alcohol, organised the food and we can't forget the dolphins! It was an
-    experience that 50 people will never forget. Thank you so much for your
-    incredible patience with the constant changes to the plans. Amazing!!”
-  title: Margaret - Athletes Raft Up
+    Wondering about what a Raft Up Yacht Party could be like? Hear what Margaret
+    had to say...
+  testimonial: 'Margaret, Aus'
+  title: ''
 ---
 
