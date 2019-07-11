@@ -96,11 +96,8 @@ columnBanner:
     featuredImage: 'https://ucarecdn.com/03aaaef0-bc70-4e9d-8533-3309e9a7d59f/'
   - featuredImage: 'https://ucarecdn.com/c6767657-504f-42da-9e05-e9388170030d/'
 featuredTestimonials:
-  description: >-
-    “Sooo good! Nicest boat that takes you out on the water to wave break
-    island! there was beach volleyball, stand up paddle boarding, and floatable
-    flamingos to chill on! Thanks for a great day”
-  testimonial: 'Mariella Luisa, Australia'
-  title: Mariella Luisa
+  description: ''
+  testimonial: 'Sandy, UK'
+  title: ''
 ---
 
