@@ -42,3 +42,27 @@
 .EnquiryForm .form-footer svg * {
 	fill: white;
 }
+
+@media only screen and (max-width: 765px) {
+	.EnquiryForm .form-footer {
+		justify-content: center;
+		align-items: center;
+	}
+
+	.EnquiryForm .form-footer svg {
+		position: relative;
+		top: 0;
+		transform: translate(-100%, 0);
+	}
+
+	.form-footer .button:hover + svg {
+	  transform: scale(1.05) translate(-100%, 0);
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.EnquiryForm .Form--Label {
+		flex: 0 0 100%;
+		width: 100%;
+	}
+}

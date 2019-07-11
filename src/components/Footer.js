@@ -18,8 +18,8 @@ export default props => {
   const footerContent = _get(globalSections.frontmatter, 'footerContent')
   const socialMedia = _get(contactInfo.frontmatter, 'socialMedia')
 
-  const charters = navItems.filter(item => item.slug === 'private-charters')
-  const cruises = navItems.filter(item => item.slug === 'cruises')
+  const charters = navItems.filter(item => item.title === 'Private Charters')
+  const cruises = navItems.filter(item => item.title === 'Cruises')
 
   const today = new Date()
   const yyyy = today.getFullYear()

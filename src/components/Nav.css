@@ -28,6 +28,11 @@
 
 .Nav--MenuButton {
   display: none;
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
 }
 
 .NavLink {
@@ -50,7 +55,8 @@
 }
 
 .NavLink:hover a,
-.NavLink:hover span {
+.NavLink:hover span,
+.NavLink:hover .toggle-subNav {
   color: white;
 }
 
@@ -66,7 +72,23 @@
   position: relative;
 }
 
-.hasChildren > a:after,
+.NavLink .toggle-subNav {
+  display: none;
+}
+
+.hasChildren .toggle-subNav {
+  display: inline-block;
+  position: relative;
+  transform: translateX(-100%);
+  font-size: 1.5rem;
+  color: var(--primary);
+  line-height: 1;
+  font-weight: 400;
+  position: relative;
+  opacity: 1;
+  transition: all ease-in-out 0.2s;
+}
+
 .hasChildren > span:after {
   content: '+';
   font-size: 1.5rem;
@@ -165,16 +187,70 @@
   color: white;
 }
 
-@media (max-width: 600px) {
+@keyframes Nav--Link {
+  from {
+    transform: translate(0rem, 1rem);
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
+}
+
+@keyframes Nav--Links {
+  from {
+    opacity: 0;
+  }
+}
+
+@media only screen and (max-width: 1320px) {
+  .NavLink a {
+    padding: 1.5rem;
+    font-size: 1.2rem;
+  }
+
+  .hasChildren.two-column .subMenu {
+    padding: 1.5rem 2rem;
+  }
+
+  .hasChildren .subMenu {
+    padding: 1rem;
+  }
+
+  .hasChildren.two-column .subMenu .NavLink:before {
+    left: 0.8rem;
+  }
+
+  .subMenu .NavLink a {
+    font-size: 1.2rem;
+    padding: 0.5rem 2rem;
+  }
+
+  .nav-button {
+    font-size: 1.2rem;
+  }
+}
+
+
+@media (max-width: 1150px) {
+  .Nav {
+    padding: 1.5rem 0;
+  }
+
   .Nav--Container {
-    display: flex;
+    justify-content: flex-start;
+  }
+
+  .nav-button {
+    margin: 0 2rem 0 auto;
   }
 
   .Nav--MenuButton {
     display: block;
-    margin-left: auto;
     z-index: 1;
   }
+
   .Nav .Logo {
     z-index: 1;
   }
@@ -191,6 +267,59 @@
     bottom: 0;
     background: white;
     animation: Nav--Links 0.2s ease;
+    cursor: pointer;
+  }
+
+  .NavLink {
+    text-align: center;
+  }
+
+  .NavLink span, .NavLink a {
+    font-size: 1.4rem;
+  }
+
+  .NavLink:hover {
+    background-color: white;
+  }
+
+  .NavLink:hover span,
+  .NavLink:hover a,
+  .NavLink:hover span:after,
+  .NavLink:hover .toggle-subNav {
+    color: #212121;
+  }
+
+  .hasChildren.two-column .subMenu {
+    padding: 0;
+  }
+
+  .hasChildren .subMenu {
+    display: block;
+    position: relative;
+    top: 0;
+    background-color: white;
+    text-align: center;
+    padding: 0;
+  }
+
+  .subMenu .NavLink a {
+    color: #212121;
+  }
+
+  .hasChildren:hover .subMenu {
+    opacity: 0;
+    visibility: hidden;
+    max-height: 0;
+  }
+
+  .hasChildren.active .subMenu {
+    opacity: 1;
+    visibility: visible;
+    max-height: 70rem;
+  }
+
+  .hasChildren.two-column .subMenu {
+    display: block;
   }
 
   .Nav--Links > * + * {
@@ -235,50 +364,5 @@
   }
   .Nav .NavLink:nth-of-type(7) {
     animation-delay: 0.6s;
-  }
-}
-
-@keyframes Nav--Link {
-  from {
-    transform: translate(0rem, 1rem);
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-    transform: translate(0, 0);
-  }
-}
-
-@keyframes Nav--Links {
-  from {
-    opacity: 0;
-  }
-}
-
-@media only screen and (max-width: 1320px) {
-  .NavLink a {
-    padding: 1.5rem;
-    font-size: 1.2rem;
-  }
-
-  .hasChildren.two-column .subMenu {
-    padding: 1.5rem 2rem;
-  }
-
-  .hasChildren .subMenu {
-    padding: 1rem;
-  }
-
-  .hasChildren.two-column .subMenu .NavLink:before {
-    left: 0.8rem;
-  }
-
-  .subMenu .NavLink a {
-    font-size: 1.2rem;
-    padding: 0.5rem 2rem;
-  }
-
-  .nav-button {
-    font-size: 1.2rem;
   }
 }

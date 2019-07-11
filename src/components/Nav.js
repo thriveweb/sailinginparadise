@@ -10,6 +10,7 @@ import './Nav.css'
 export default class Nav extends Component {
   state = {
     active: false,
+    menuItemActive: false,
     popupActive: false
   }
 
@@ -49,7 +50,7 @@ export default class Nav extends Component {
         render={data => {
           const { allMarkdownRemark } = data
           const { navList } = this.props
-          const { active, popupActive } = this.state
+          const { active, popupActive, menuItemActive } = this.state
 
           const navItems = (navList && _get(navList, 'frontmatter.navItems')) || []
           const bookingPopup = _get(this.props, 'bookingPopup') || []
@@ -72,7 +73,8 @@ export default class Nav extends Component {
                           key={`nav-${index}`}
                           className={`NavLink ${subNavItems ? 'hasChildren' : ''} ${
                             foundItemSlug === '/private-charters/' ? 'two-column' : ''
-                          }`}
+                          } ${menuItemActive === index ? 'active' : ''}`}
+                          onClick={() => this.setState({ menuItemActive: menuItemActive === index ? false : index })}
                         >
                           <span>{title}</span>
                           {subNavItems && (
@@ -85,7 +87,6 @@ export default class Nav extends Component {
                                   <li key={`subNav-${index}`} className="NavLink">
                                     <Link to={foundItemSlug}>{title}</Link>
                                   </li>
-
                               })}
                             </ul>
                           )}
@@ -97,9 +98,15 @@ export default class Nav extends Component {
                         key={`nav-${index}`}
                         className={`NavLink ${subNavItems ? 'hasChildren' : ''} ${
                           foundItemSlug === '/private-charters/' ? 'two-column' : ''
-                        }`}
+                        } ${menuItemActive === index ? 'active' : ''}`}
                       >
                         <Link to={foundItemSlug}>{title}</Link>
+                        <p
+                          className='toggle-subNav'
+                          onClick={() => this.setState({ menuItemActive: menuItemActive === index ? false : index })}
+                        >
+                          +
+                        </p>
                         {subNavItems && (
                           <ul className="subMenu">
                             {subNavItems.map(({ title }, index) => {
