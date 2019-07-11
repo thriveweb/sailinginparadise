@@ -13,8 +13,10 @@ intro: >-
   cruises departing from Marina Mirage.   
 
 
-  With years of commercial boating experience including skippering charter
-  boats, water taxis, jet boats and commercial jet skis.   
+  With years of commercial boating experience in Sydney and the Gold Coast
+  including skippering charter boats, water taxis, jet boats and commercial jet
+  skis Sailing in Paradise owner Steve Buckley brought a new style of sailing
+  experience to the Coast.   
 
 
   > "I wanted to offer an affordable luxury experience for locals and visitors
@@ -31,7 +33,7 @@ intro: >-
   the dream became a reality and Sailing in Paradise was born.  
 
 
-  In response to guest demand, Gwonda’s little sister the Seawind 1000XL joined
+  In response to guest demand, Gwonda's sister vessel the Seawind 1000XL joined
   our fleet in 2018!
 
 
@@ -101,8 +103,13 @@ captainSection:
     enquiry, through to our optional catering/beverage packages and finally to
     our welcoming crew (who we are often told feel like part of the family after
     just a few short hours) we aim to exceed your expectations.   We encourage
-    you to check out our social channels (Facebook, Instagram) and Guest Reviews
-    (links) to really get a vibe for what we are about.
+    you to check out our social channels
+    ([Facebook](https://www.facebook.com/sailinginparadise/),
+    [Instagram](https://www.instagram.com/sailinginparadisegoldcoast/)) and
+    Guest Reviews (on [Trip
+    Advisor](https://www.tripadvisor.com.au/Attraction_Review-g658994-d4705796-Reviews-Sailing_In_Paradise-Main_Beach_Gold_Coast_Queensland.html)
+    and [Facebook](https://www.facebook.com/sailinginparadise/)) to really get a
+    vibe for what we are about.
 crewSection:
   crew:
     - content: >-
@@ -146,7 +153,7 @@ crewSection:
 secondaryBanner:
   buttonTitle: Know More
   buttonUrl: private-charters
-  featuredImage: 'https://ucarecdn.com/72502500-b88f-4d7b-80f6-eb8076a493a3/'
+  featuredImage: 'https://ucarecdn.com/06a3b51c-4af5-42ad-aa0a-1d9c2a169443/'
   subtitle: ''
   title: check out our amazing catamarans
 videoSection:
