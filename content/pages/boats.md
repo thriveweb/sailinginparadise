@@ -38,9 +38,9 @@ boats:
 
       Measuring 10.5m long by 6.5m wide, there is ample space for up to 30
       people (plus 2 crew), approx 60 square metres of deck space in fact.  You
-      will be amazed at the room available inside this smooth and stable boat.
-      The Spirit Of Gwonda is truly unique and the only one of it’s kind on the
-      Gold Coast.
+      will be amazed at the room available inside this smooth and stable boat,
+      making it ideal for social occasions of all kinds. The Spirit Of Gwonda is
+      truly unique and the only one of it’s kind on the Gold Coast.
     gallery:
       - image: 'https://ucarecdn.com/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e/'
       - image: 'https://ucarecdn.com/9a68ca1c-1414-4282-990c-1656ba923df9/'
