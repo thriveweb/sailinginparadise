@@ -6,11 +6,11 @@ footerContent: >-
 columnBanner:
   - buttonTitle: See More
     buttonUrl: private-charters
-    featuredImage: 'https://ucarecdn.com/e5bad110-9f72-4c1c-8794-ec44c147d0ed/'
+    featuredImage: 'https://ucarecdn.com/e4ced92d-7f07-4600-a290-b62247b3a39c/'
     title: Interested in our private yacht charters?
   - buttonTitle: See More
     buttonUrl: cruises
-    featuredImage: 'https://ucarecdn.com/5798424d-df2f-42a9-b270-f2d4eec3dcd8/'
+    featuredImage: 'https://ucarecdn.com/2a39ca1b-c271-43b3-baf2-08d28326d139/'
     title: Want to join a ticketed cruise?
 globalVideo:
   imageOverlay: /images/uploads/home-banner.jpg
