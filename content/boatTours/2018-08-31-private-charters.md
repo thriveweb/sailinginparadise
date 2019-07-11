@@ -77,7 +77,7 @@ columnBanner:
     buttonUrl: 'https://sailing-paradise.netlify.com/boats/'
     content: choose from 2 beautiful catamarans
     title: Take a tour of our boats
-    featuredImage: /images/uploads/girl-img-column.jpg
+    featuredImage: 'https://ucarecdn.com/1748104d-5866-4c1c-b9db-bd4fdd0fa4ab/'
 featuredTestimonials:
   description: 'Bree has been out with us 3 times now, check out her lovely review here...'
   testimonial: 'Bree, Aus'
