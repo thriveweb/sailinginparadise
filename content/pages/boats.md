@@ -42,10 +42,10 @@ boats:
       The Spirit Of Gwonda is truly unique and the only one of it’s kind on the
       Gold Coast.
     gallery:
-      - image: /images/uploads/boat-blueprint.jpg
-      - image: /images/uploads/interior.jpg
-      - image: /images/uploads/DJI_0098.jpg
-      - image: /images/uploads/fully-catered-or-byo.jpg
+      - image: 'https://ucarecdn.com/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e/'
+      - image: 'https://ucarecdn.com/9a68ca1c-1414-4282-990c-1656ba923df9/'
+      - image: 'https://ucarecdn.com/df65a29e-adac-4b7a-9aea-06a0fad34f95/'
+      - image: 'https://ucarecdn.com/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273/'
     title: spirit Of Gwonda
     featuredImage: 'https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/'
     videoSection:
@@ -93,9 +93,9 @@ boats:
       The 1000XL is perfect for groups of up to 20 people (plus 2 crew).
     gallery:
       - image: 'https://ucarecdn.com/71e0b977-2d7b-4d0e-9ec5-627dc75cb1cc/'
-      - image: 'https://ucarecdn.com/953762b5-bc2b-4891-912c-808177c3cf84/'
-      - image: 'https://ucarecdn.com/a41b7e8a-dc40-4a90-94f2-e1a3ef454707/'
-      - image: 'https://ucarecdn.com/e8afa26e-9523-4e31-ba5d-7d686f1b821a/'
+      - image: 'https://ucarecdn.com/e1ff071b-d30c-4a90-abae-5dbc77a4369e/'
+      - image: 'https://ucarecdn.com/713ff32f-ec16-46cd-8e1d-7657393309df/'
+      - image: 'https://ucarecdn.com/ff402d60-c7ad-4f4d-aaff-1d7c12fad780/'
     title: Seawind 1000XL
     featuredImage: 'https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/'
     videoSection:
