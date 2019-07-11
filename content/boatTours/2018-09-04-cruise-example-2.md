@@ -84,7 +84,10 @@ columnBanner:
       questions or to request a new date (if you cannot see your preferred date
       as available).
     title: Book your Gold Coast Island Cruise Today
-    featuredImage: 'https://ucarecdn.com/03c6229d-0b60-45a9-b45f-4875cd1433a7/'
+    featuredImage: >-
+      https://ucarecdn.com/708be091-2ce2-4a7a-b71b-31e4c297b958/-/crop/1080x1235/0,287/-/preview/-/enhance/50/
   - featuredImage: ''
+featuredTestimonials:
+  testimonial: 'Mariella, Aus'
 ---
 
