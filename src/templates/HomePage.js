@@ -35,20 +35,20 @@ export const HomePageTemplate = ({
   socialMedia,
   meta
 }) => {
-  console.log(secondaryBanner)
+
   return (
     <main className="Home">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
         {meta && <meta name="description" content={meta.description} />}
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
-      <Video
+      {/*<Video
         video={featuredVideo}
         homeVideo title={title}
         featuredSlider={featuredSlider}
         featuredBanner={featuredBanner}
         socialMedia={socialMedia}
-      />
+      />*/}
       <ServiceColumns
         services={services}
         serviceBanner={serviceBanner}
