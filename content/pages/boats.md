@@ -4,7 +4,7 @@ slug: boats
 title: Our Boats
 featuredImage: >-
   https://ucarecdn.com/dc12310c-23c9-4684-b664-d5b9f8710624/-/crop/5757x2234/0,1198/-/preview/
-intro: '## 2 beautiful sailing catamarans available for charter'
+intro: '## Choose from 2 beautiful catamarans'
 boats:
   - boatFeatures:
       - content: 10.5m long x 6.5m wide
