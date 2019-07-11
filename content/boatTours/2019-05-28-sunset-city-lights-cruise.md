@@ -14,10 +14,10 @@ intro: >-
   Broadwater!   No seriously...
 
 
-  There is something so magical about a sunset over the water, but surrounded by
-  it?  Well that's something else...   So come and join us for sundowners as the
-  sun sinks behind the mountains of the Gold Coast Hinterland and casts a glow
-  across the calm waters of the Gold Coast Broadwater.  
+  There is something so magical about a sunset over the water.  But surrounded
+  by it?  Well that's something else...    So come and join us on our sunset
+  cruise as the sun sinks behind the mountains of the Gold Coast Hinterland and
+  casts a glow across the calm waters of the Gold Coast Broadwater.    
 
 
   We've got the champagne on ice!
@@ -47,18 +47,18 @@ gallery:
   - image: 'https://ucarecdn.com/85f9fce6-8c7b-4073-81ce-96b040e94e49/'
 contentColumnTitle: Sundowners on the water...
 contentColumn: >-
-  Join Sailing in Paradise on a cruise of the Gold Coast Broadwater aboard a
-  beautiful Seawind 1050 Sailing Catamaran. With no more than 30 guests on board
-  this sunset cruise is laid back, relaxed and fun. The skipper will drop in
-  some local knowledge for those who are interested. Guests can relax on the
-  foredeck, inside the main cabin, or on a comfy bean bag to the sounds of some
-  very cool tunes and enjoy a few drinks. This is an intimate cruise experience
-  on a spacious sailing catamaran with a social atmosphere. The vessel ‘Spirit
-  of Gwonda’ is often joined by wild bottle-nose dolphins as they come in search
-  of their evening meal and being nice and close to the water gets you nice and
-  close to the dolphins if they decide to join your cruise. You will enjoy one
-  complimentary glass of sparkling wine, beer or soft drink and nibbles and
-  further drinks can be purchased on board at only $5 per drink.
+  Join us for a cruise of the Gold Coast Broadwater aboard our beautiful Seawind
+  1050 Sailing Catamaran. With no more than 30 guests on board, this sunset
+  cruise is laid back, relaxed and fun. The skipper will drop in some local
+  knowledge for those who are interested. Guests can relax on the foredeck,
+  inside the main cabin, or on a comfy bean bag to the sounds of some very cool
+  tunes and enjoy a few drinks. We curate an intimate cruise experience with a
+  social atmosphere. Our vessel ‘Spirit of Gwonda’ is often joined by wild
+  bottle-nose dolphins as they come in search of their evening meal and being
+  nice and close to the water gets you nice and close to the dolphins if they
+  decide to join your cruise. You will enjoy one complimentary glass of
+  sparkling wine, beer or soft drink and nibbles and further drinks can be
+  purchased on board at only $5 per drink.
 accordionSection:
   accordion:
     - dropdownContent: "•\t2 hours on the beautiful, calm Gold Coast Broadwater\r\n\n•\tRelax onboard a spacious Sailing Catamaran\r\n\n•\tA maximum of 30 guests on board\r\n\n•\tSee impressive superyachts, Seaworld, Palazzo Versace, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.\r\n\n•\tWatch the Sunset over the Gold Coast Hinterland\r\n\n•\tThen check out the Sparkling City lights as you see the Gold Coast in a new light\r\n\n•\tCool tunes set the soundtrack as you relax and take in the views\r\n\n•\tFriendly relaxed ambience with crew sharing some local knowledge\r\n\n•\tKeep your eyes peeled for dolphins!\r\n\n•\tIncludes one complimentary drink and nibbles\r\n\n•\tDeparts and returns @ Marina Mirage - an ideal spot for a beautiful waterfront meal or drinks before or after your cruise"
