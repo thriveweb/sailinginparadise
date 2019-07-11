@@ -10,17 +10,14 @@ intro: >-
 
 
   Looking for the Gold Coast's best sunset views?   There is no better place to
-  watch the sunset on the Gold Coast than on a boat!   No seriously...
-
-
+  watch the sunset on the Gold Coast than, relaxing on a yacht on the
+  Broadwater!   No seriously...
 
 
   There is something so magical about a sunset over the water, but surrounded by
   it?  Well that's something else...   So come and join us for sundowners as the
-  sun sets over the Gold Coast Mountains and casts a glow across the calm waters
-  of the Gold Coast Broadwater.  
-
-
+  sun sinks behind the mountains of the Gold Coast Hinterland and casts a glow
+  across the calm waters of the Gold Coast Broadwater.  
 
 
   We've got the champagne on ice!
@@ -28,25 +25,18 @@ contentBox:
   buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
   buttonUrl: booking-enquiry
   title: The Gold Coast's best sunset views
-bookingIframe: >-
-  <script type="text/javascript"
-  src="https://sailinginparadise.rezdy.com/pluginJs?script=external_modal"></script>
-
-
-  <iframe seamless="" width="300px" height="1000px" frameborder="0"
-  class="rezdy"
-  src="https://sailinginparadise.rezdy.com/calendarWidget/261907?iframe=true&targetFrame=_new_modal"></iframe>
+bookingIframe: "<script defer=\"\" type=\"text/javascript\" src=\"https://sailinginparadise.rezdy.com/pluginJs\"></script>\r\n\n\\    <iframe seamless=\"\" width=\"300px\" height=\"1000px\" frameborder=\"0\" class=\"rezdy\" src=\"https://sailinginparadise.rezdy.com/calendarWidget/241550?iframe=true\"></iframe>"
 gallery:
-  - image: 'https://ucarecdn.com/22fa2713-7f3a-4f2e-8f6f-9c30fc21c798/'
-  - image: 'https://ucarecdn.com/402dadb7-f30d-46ce-8954-6c1c9b284af0/'
   - image: 'https://ucarecdn.com/010205fa-7374-4ac5-ab1b-eea79c74a0f7/'
-  - image: 'https://ucarecdn.com/f05997e0-6916-4036-923c-49938b61aab3/'
+  - image: 'https://ucarecdn.com/22fa2713-7f3a-4f2e-8f6f-9c30fc21c798/'
   - image: 'https://ucarecdn.com/365c0d1d-28ce-4a17-94b3-08accecd3661/'
+  - image: 'https://ucarecdn.com/402dadb7-f30d-46ce-8954-6c1c9b284af0/'
+  - image: 'https://ucarecdn.com/b4941b61-ac59-48ac-94ae-7868a9819a62/'
+  - image: 'https://ucarecdn.com/f05997e0-6916-4036-923c-49938b61aab3/'
   - image: 'https://ucarecdn.com/540bb45d-f2de-42dc-9de7-1d469590d04a/'
   - image: 'https://ucarecdn.com/04344e4a-457e-43db-9afa-cb8cc510f96d/'
   - image: 'https://ucarecdn.com/a20c5320-401c-4de4-b32a-4a76ece68c9f/'
   - image: 'https://ucarecdn.com/8038fa88-1413-43f9-9030-a3882c50d010/'
-  - image: 'https://ucarecdn.com/b4941b61-ac59-48ac-94ae-7868a9819a62/'
   - image: 'https://ucarecdn.com/b4c6a5fe-3a90-4ff8-bafa-2434b1fde34a/'
   - image: 'https://ucarecdn.com/78b0abd6-ef74-433c-ad66-bfce57ef0446/'
   - image: 'https://ucarecdn.com/a582820e-1ae4-432a-93ed-b1c1579c5794/'
