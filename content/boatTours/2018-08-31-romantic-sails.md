@@ -68,7 +68,7 @@ featuredTestimonials:
   description: >-
     Check out this lovely review from Taryn who chartered a boat for a romantic
     sail with us...
-  testimonial: 'Taryn Poole, Australia'
+  testimonial: 'Taryn, Aus'
   title: Taryn
 ---
 
