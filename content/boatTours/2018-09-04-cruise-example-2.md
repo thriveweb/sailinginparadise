@@ -88,6 +88,10 @@ columnBanner:
       https://ucarecdn.com/708be091-2ce2-4a7a-b71b-31e4c297b958/-/crop/1080x1235/0,287/-/preview/-/enhance/50/
   - featuredImage: ''
 featuredTestimonials:
+  description: >-
+    We took Mariella and her friend out to our favourite swimming spot, check
+    out what she said about her day out with us...
   testimonial: 'Mariella, Aus'
+  title: Mariella
 ---
 
