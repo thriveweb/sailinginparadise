@@ -17,9 +17,4 @@ export default () =>
 				<ICONTwitter />
 			</a>
 		</li>
-		<li>
-			<a href="https://plus.google.com/share?url=" target="_blank" rel="noopener noreferrer" title="Share on Google+">
-				<ICONGooglePlus />
-			</a>
-		</li>
 	</ul>
