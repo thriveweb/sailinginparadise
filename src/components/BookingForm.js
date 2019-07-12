@@ -181,7 +181,7 @@ class Form extends React.Component {
                 selected={this.state.startDate}
                 onChange={this.handleChange}
               />
-              <p className={`date-label ${labelDisplay ? 'active' : ''}`}>Preffered Date* <span>(if unsure please select any date within Preffered month)</span></p>
+              <p className={`date-label ${labelDisplay ? 'active' : ''}`}>Preferred Date* <span>(if unsure please select any date within Preffered month)</span></p>
             </div>
             <Select
               placeholder='How did you hear about us?*'
