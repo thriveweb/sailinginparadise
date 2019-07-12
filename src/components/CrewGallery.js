@@ -54,10 +54,10 @@ class CrewGallery extends Component {
               {image &&
                 <div
                   style={{
-                    backgroundImage: `url(${`${image}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
+                    backgroundImage: `url(${`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
                     backgroundSize: 'cover'
                   }}
-                  data-src={`${image}-/quality/lighter/-/progressive/yes/-/resize/500/`}
+                  data-src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500/`}
                   className='BackgroundImage absolute lazy'
                 >
                 </div>

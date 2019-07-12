@@ -56,10 +56,10 @@ export const ContactPageTemplate = ({
               <div className="image-container">
                 <div
                   style={{
-                    backgroundImage: `url(${`${map}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
+                    backgroundImage: `url(${`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
                     backgroundSize: 'cover'
                   }}
-                  data-src={`${map}-/quality/lighter/-/progressive/yes/-/resize/600/`}
+                  data-src={`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`}
                   className='BackgroundImage absolute lazy'
                 >
                 </div>

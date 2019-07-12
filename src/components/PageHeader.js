@@ -15,10 +15,10 @@ const PageHeader = ({
       {backgroundImage &&
         <div
           style={{
-            backgroundImage: `url(${`${backgroundImage}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
+            backgroundImage: `url(${`${backgroundImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
             backgroundSize: 'cover'
           }}
-          data-src={`${backgroundImage}-/quality/lighter/-/progressive/yes/-/resize/2000/`}
+          data-src={`${backgroundImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`}
           className='BackgroundImage absolute lazy'
         >
         </div>

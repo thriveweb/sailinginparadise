@@ -58,10 +58,10 @@ class Video extends Component {
 				{imageOverlay &&
 					<div
 						style={{
-							backgroundImage: `url(${`${imageOverlay}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
+							backgroundImage: `url(${`${imageOverlay}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
 							backgroundSize: 'cover'
 						}}
-						data-src={`${imageOverlay}-/quality/lighter/-/progressive/yes/-/resize/2000/`}
+						data-src={`${imageOverlay}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`}
 						className='BackgroundImage absolute lazy'
 					>
 					</div>
