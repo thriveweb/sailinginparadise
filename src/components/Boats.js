@@ -31,14 +31,16 @@ export default ({ boats }) => {
                 {title && <h3>{title}</h3>}
                 <div className="colLeft column">
                   {featuredImage &&
-                    <div
-                      style={{
-                        backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-                        backgroundSize: 'cover'
-                      }}
-                      data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}
-                      className='BackgroundImage absolute lazy'
-                    >
+                    <div class="img-container">
+                      <div
+                        style={{
+                          backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
+                          backgroundSize: 'cover'
+                        }}
+                        data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}
+                        className='BackgroundImage absolute lazy'
+                      >
+                      </div>
                     </div>
                   }
                   {description && <Content src={description} />}

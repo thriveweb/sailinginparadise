@@ -42,6 +42,7 @@
 .boat .container {
 	display: flex;
 	flex-wrap: wrap;
+	align-items: flex-start;
 	padding: 0 0 4rem;
 }
 
@@ -53,6 +54,11 @@
 	margin-right: 10rem;
 	flex: 0 0 60%;
 	position: relative;
+}
+
+.boat .colLeft .img-container {
+	position: relative;
+	padding-bottom: 50rem;
 }
 
 .boat h3 {
