@@ -20,10 +20,10 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 					{featuredImage &&
 						<div
 							style={{
-								backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+								backgroundImage: `url(${`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 								backgroundSize: 'cover'
 							}}
-							data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1000/`}
+							data-src={`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1000/`}
 							className='BackgroundImage absolute lazy'
 						>
 						</div>
@@ -35,10 +35,10 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 					{featuredImage &&
 						<div
 							style={{
-								backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+								backgroundImage: `url(${`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 								backgroundSize: 'cover'
 							}}
-							data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1000/`}
+							data-src={`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1000/`}
 							className='BackgroundImage absolute lazy'
 						>
 						</div>
@@ -64,10 +64,10 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 					{featuredImage &&
 						<div
 							style={{
-								backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+								backgroundImage: `url(${`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 								backgroundSize: 'cover'
 							}}
-							data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1000/`}
+							data-src={`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1000/`}
 							className='BackgroundImage absolute lazy'
 						>
 						</div>
@@ -93,10 +93,10 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 					{featuredImage &&
 						<div
 							style={{
-								backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+								backgroundImage: `url(${`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 								backgroundSize: 'cover'
 							}}
-							data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1000/`}
+							data-src={`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1000/`}
 							className='BackgroundImage absolute lazy'
 						>
 						</div>

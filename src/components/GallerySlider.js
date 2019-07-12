@@ -46,10 +46,10 @@ class GallerySlider extends Component {
 						{image &&
 							<div
 								style={{
-									backgroundImage: `url(${`${image}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+									backgroundImage: `url(${`${image}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 									backgroundSize: 'cover'
 								}}
-								data-src={`${image}-/quality/lightest/-/progressive/yes/-/resize/500/`}
+								data-src={`${image}-/quality/lighter/-/progressive/yes/-/resize/500/`}
 								className='BackgroundImage absolute lazy'
 							>
 							</div>
@@ -69,10 +69,10 @@ class GallerySlider extends Component {
 						{image &&
 							<div
 								style={{
-									backgroundImage: `url(${`${image}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+									backgroundImage: `url(${`${image}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 									backgroundSize: 'cover'
 								}}
-								data-src={`${image}-/quality/lightest/-/progressive/yes/-/resize/1000/`}
+								data-src={`${image}-/quality/lighter/-/progressive/yes/-/resize/1000/`}
 								className='BackgroundImage absolute lazy'
 							>
 							</div>

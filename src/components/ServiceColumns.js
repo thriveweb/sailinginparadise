@@ -28,10 +28,10 @@ export default ({ services, serviceBanner }) => {
 						{image &&
 							<div
 								style={{
-									backgroundImage: `url(${`${image}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+									backgroundImage: `url(${`${image}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 									backgroundSize: 'cover'
 								}}
-								data-src={`${image}-/quality/lightest/-/progressive/yes/-/resize/700/`}
+								data-src={`${image}-/quality/lighter/-/progressive/yes/-/resize/700/`}
 								className='BackgroundImage absolute lazy'
 							>
 							</div>
@@ -48,10 +48,10 @@ export default ({ services, serviceBanner }) => {
 				{featuredImage &&
 					<div
 						style={{
-							backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+							backgroundImage: `url(${`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 							backgroundSize: 'cover'
 						}}
-						data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1400/`}
+						data-src={`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1400/`}
 						className='BackgroundImage absolute lazy'
 					>
 					</div>

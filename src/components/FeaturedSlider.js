@@ -47,10 +47,10 @@ class FeaturedSlider extends Component {
         {image &&
           <div
             style={{
-              backgroundImage: `url(${`${image}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+              backgroundImage: `url(${`${image}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
               backgroundSize: 'cover'
             }}
-            data-src={`${image}-/quality/lightest/-/progressive/yes/-/resize/600/`}
+            data-src={`${image}-/quality/lighter/-/progressive/yes/-/resize/600/`}
             className='BackgroundImage absolute lazy'
           >
           </div>

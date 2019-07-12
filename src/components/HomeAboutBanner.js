@@ -12,10 +12,10 @@ export default ({ featuredImage, title, subtitle, content, buttons }) => {
 	return <section className='aboutUs relative'>
 			{featuredImage && <div
 				style={{
-					backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
+					backgroundImage: `url(${`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/1x/-/quality/lighter/`})`,
 					backgroundSize: 'cover'
 				}}
-				data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/2000x/`}
+				data-src={`${featuredImage}-/quality/lighter/-/progressive/yes/-/resize/2000x/`}
 				className='BackgroundImage absolute lazy'
 			></div>}
 			{title && <h2 className='title-gradient'>{title}</h2>}
