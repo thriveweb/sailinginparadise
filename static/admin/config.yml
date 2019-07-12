@@ -234,6 +234,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Featured Image, name: featuredImage, widget: image}
           - {label: Intro, name: intro, widget: markdown, required: false}
+          - label: "Testing"
+            name: "testing"
+            required: false
+            widget: "select"
+            options: ["Option One", "Option Two"]
           - label: "Meta"
             required: false
             name: "meta"
@@ -540,6 +545,11 @@ collections: # A list of collections the CMS should be able to edit
         required: false
         widget: "select"
         options: ["Cruise", "Private Charter"]
+      - label: "Testing"
+        name: "testing"
+        required: false
+        widget: "select"
+        options: ["Option One", "Option Two"]
       - {label: Title, name: title, widget: string}
       - {label: Icon, name: icon, widget: image, required: false}
       - {label: Featured Image, name: featuredImage, widget: image}
