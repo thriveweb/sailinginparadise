@@ -17,6 +17,7 @@
     display: flex;
     position: relative;
     flex: 0 0 65%;
+    justify-content: flex-start;
 }
 
 .slide {
@@ -29,6 +30,18 @@
     border-radius: 5px;
     opacity: 0.3;
     box-shadow: 0 0 3rem 0 rgba(0,0,0, 0.1);
+}
+
+.slide:nth-of-type(4) {
+  order: 3;
+}
+
+.slide:nth-of-type(5) {
+  order: 4;
+}
+
+.slide:nth-of-type(6) {
+  order: 5;
 }
 
 .slide .gatsby-image-outer-wrapper {

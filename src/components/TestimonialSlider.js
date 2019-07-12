@@ -39,7 +39,7 @@ class Slider extends Component {
 
         const caseStudiesListing = caseStudies ? caseStudies.edges.map(edge => ({ ...edge.node })) : []
         const testimonialNames = testimonialsListing.map(({ testimonial }) => testimonial)
-        const testimonials = caseStudiesListing.filter(caseStudy => testimonialNames.includes(_get(caseStudy, 'frontmatter.name')))
+        const testimonials = caseStudiesListing.filter(caseStudy => testimonialNames.includes(_get(caseStudy, 'frontmatter.title')))
 
         const prevSlide = activeSlide - 1 < 0 ? testimonialsListing.length - 1 : activeSlide - 1
         const nextIndex = activeSlide + 1 >= testimonialsListing.length ? 0 : activeSlide + 1
