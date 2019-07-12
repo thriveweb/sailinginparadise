@@ -25,6 +25,14 @@ module.exports = {
       }
     },
 
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Work Sans', 'Maven Pro']
+        }
+      }
+    }
+
     // images
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
