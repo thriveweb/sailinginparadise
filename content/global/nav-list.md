@@ -4,6 +4,7 @@ navItems:
   - subNavItems:
       - title: Island Cruise
       - title: Sunset & City Lights Cruise
+      - title: Gift Vouchers
     title: Cruises
   - subNavItems:
       - title: Birthday Parties
