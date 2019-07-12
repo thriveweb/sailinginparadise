@@ -70,10 +70,10 @@ class Slider extends Component {
                             {featuredImage &&
                               <div
                                 style={{
-                                  backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
+                                  backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
                                   backgroundSize: 'cover'
                                 }}
-                                data-src={`${featuredImage}-/resize/200/`}
+                                data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/200/`}
                                 className='BackgroundImage absolute img-thumbnail lazy'
                               >
                               </div>

@@ -17,10 +17,10 @@ export default ({ captainIntro, captain }) => {
 								<div className='image-container relative'>
 									<div
 										style={{
-											backgroundImage: `url(${`${image}-/resize/1x/-/quality/lightest/`})`,
+											backgroundImage: `url(${`${image}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
 											backgroundSize: 'cover'
 										}}
-										data-src={`${image}-/resize/230/`}
+										data-src={`${image}-/quality/lightest/-/progressive/yes/-/resize/230/`}
 										className='BackgroundImage absolute lazy profile-image'
 									>
 									</div>

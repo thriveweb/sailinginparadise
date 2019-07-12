@@ -13,10 +13,10 @@ export default ({ title, subtitle, featuredImage, buttonTitle, buttonUrl, large,
 			{featuredImage &&
 				<div
 					style={{
-						backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
+						backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
 						backgroundSize: 'cover'
 					}}
-					data-src={`${featuredImage}-/resize/2000x/`}
+					data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/2000x/`}
 					className='BackgroundImage absolute lazy'
 				></div>
 			}

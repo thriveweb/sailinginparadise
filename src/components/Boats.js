@@ -33,10 +33,10 @@ export default ({ boats }) => {
                   {featuredImage &&
                     <div
                       style={{
-                        backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
+                        backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
                         backgroundSize: 'cover'
                       }}
-                      data-src={`${featuredImage}-/resize/700/`}
+                      data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/700/`}
                       className='BackgroundImage absolute lazy'
                     >
                     </div>
@@ -57,7 +57,7 @@ export default ({ boats }) => {
                 ? <div className='virtual-tour'>
                     <div className='container'>
                       <Content src={virtualTour} />
-                    </div>  
+                    </div>
                   </div>
                 : <Video {...videoSection} />
               }

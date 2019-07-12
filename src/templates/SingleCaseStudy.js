@@ -71,10 +71,10 @@ export const SingleCaseStudyTemplate = ({
                 <div className='img-container'>
                   <div
                     style={{
-                      backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
+                      backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
                       backgroundSize: 'cover'
                     }}
-                    data-src={`${featuredImage}-/resize/500/`}
+                    data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/500/`}
                     className='BackgroundImage absolute lazy'
                   >
                   </div>
@@ -84,10 +84,10 @@ export const SingleCaseStudyTemplate = ({
                 ? <div className='img-container'>
                     <div
           						style={{
-          							backgroundImage: `url(${`${secondaryImage}-/resize/1x/-/quality/lightest/`})`,
+          							backgroundImage: `url(${`${secondaryImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
           							backgroundSize: 'cover'
           						}}
-          						data-src={`${secondaryImage}-/resize/1000/`}
+          						data-src={`${secondaryImage}-/quality/lightest/-/progressive/yes/-/resize/1000/`}
           						className='BackgroundImage absolute lazy'
           					>
           					</div>

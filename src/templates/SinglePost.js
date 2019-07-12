@@ -37,10 +37,10 @@ export const SinglePostTemplate = ({
     {featuredImage &&
       <div
         style={{
-          backgroundImage: `url(${`${featuredImage}-/resize/1x/-/quality/lightest/`})`,
+          backgroundImage: `url(${`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/1x/-/quality/lightest/`})`,
           backgroundSize: 'cover'
         }}
-        data-src={`${featuredImage}-/resize/2000/`}
+        data-src={`${featuredImage}-/quality/lightest/-/progressive/yes/-/resize/2000/`}
         className='BackgroundImage absolute lazy SinglePost--BackgroundImage'
       >
       </div>
