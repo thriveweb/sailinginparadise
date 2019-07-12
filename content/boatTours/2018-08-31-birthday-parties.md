@@ -9,19 +9,20 @@ intro: >-
 
 
   If you are looking for the perfect birthday party venue on the Gold Coast then
-  look no further. Sailing In Paradise can create the perfect Gold Coast
-  birthday party experience that you and your guests will remember. We can cater
-  for groups of up to 30 people on our signature sailing catamaran the 'Spirit
-  of Gwonda' or combine both our beautiful catamarans to suit up to 50 people.
-  Got an even larger group? No problems, we can arrange a raft up party with 4
+  look no further. Sailing In Paradise can help to create a perfect Gold Coast
+  birthday party experience. We can cater for groups of up to 30 people on our
+  signature sailing catamaran the 'Spirit of Gwonda', up to 20 on our Seawind
+  1000XL or combine both of our beautiful catamarans to suit up to 50 people.
+  Have an even larger group? No problems, we can arrange a raft up party with 4
   catamarans for up to 90 people.
 
 
-  The sailing catamarans are smooth and stable and very open plan making them
-  the perfect venue for your next birthday party event.
+  Our sailing catamarans are smooth and stable and open-plan making them the
+  perfect venue for your next birthday party event.
 
 
-  You can choose to BYO everything or we can arrange all the catering for you.
+  You can choose to BYO everything or we can arrange the catering and bar
+  service for you for a stress free event.
 
 
   Each boat is equipped with everything you would expect from a luxury catamaran
@@ -91,25 +92,29 @@ contentColumn: >-
    At Sailing In Paradise, we are continually striving to create the best experience possible for our guests.
 
   We understand that you want your special day to be memorable, fun, relaxing
-  and stress free and that is exactly what we specialise in.
+  and stress free and that is exactly where we come in...
 
 
-  From the moment you send through an enquiry all the way through to the follow
+  From the moment you send through an enquiry, all the way through to the follow
   up email with your free souvenir photos after your cruise, we pride ourselves
-  on our professional yet friendly and laid back attitude.
+  on our professional yet friendly and laid-back attitude.
 accordionSection:
   accordion:
     - dropdownContent: >-
-        Expect the unexpected. Every day is different when you have your Gold
-        Coast birthday party on board Sailing In Paradise but one thing is for
-        sure... you're in for one hell of a good time.
+        When you book a private charter with Sailing in Paradise you can expect
+        a quality of service from years of experience in the industry but most
+        of all your can expect a fun day (or evening) on the water that your
+        group will love.  Every day is different when you have your Gold Coast
+        birthday party on board Sailing In Paradise but one thing is for sure...
+        you're in for one hell of a good time.
 
 
         Some things we love include:
 
 
         Sailing, beach stopovers, inflatables, stand up paddleboards,
-        snorkeling, sunbathing. All included free of charge.
+        snorkeling, sunbathing, sunsets and dolphins.   All included free of
+        charge*.
 
 
         Some things are almost mandatory:
@@ -117,6 +122,11 @@ accordionSection:
 
         Singing Happy Birthday to you, cake, embarassing speeches, presents,
         cake, all your favourite songs...did we mention cake?
+
+
+        \*As much as we have tried to bribe the dolphins to turn up every cruise
+        we can't guarantee they will...fish to chase, waves to jump, fun to be
+        had etc... but it sure is a beautiful sight when they do join us.
       title: What to expect
     - dropdownContent: |-
         Keep it simple;
@@ -231,6 +241,7 @@ accordionSection:
         want you to come back again and again.  We can blow our own trumpet from
         time to time right?  :-)
       title: Birthday Party FAQ's
+  sectionTitle: boat party info
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
