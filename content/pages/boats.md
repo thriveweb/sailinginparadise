@@ -52,8 +52,8 @@ boats:
       imageOverlay: /images/uploads/home-banner.jpg
       video: ''
     virtualTour: >-
-      <iframe width='640' height='360'
-      src='https://roundme.com/embed/440055/1508331' frameborder='0'
+      <iframe width='100%' height='100%'
+      src='https://roundme.com/embed/ZRcS3OLfxLynH18i4vd8' frameborder='0'
       webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - boatFeatures:
       - content: '10m long, 5.8m wide'
