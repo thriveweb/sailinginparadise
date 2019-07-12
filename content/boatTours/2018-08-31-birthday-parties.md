@@ -241,6 +241,23 @@ accordionSection:
         want you to come back again and again.  We can blow our own trumpet from
         time to time right?  :-)
       title: Birthday Party FAQ's
+    - dropdownContent: >-
+        Our charter rates vary seasonally depending on when you wish to sail and
+        which boat you wish to charter (our 20 or 30 capacity vessel).   
+
+
+        We aim to offer an "affordable luxury" yacht charter with standard **3
+        hour charter** pricing ranging from $950 to $1280 for our 20 capacity
+        vessel and $1,050 to $1,580 for our 30 capacity vessel.   
+
+
+        We also offer a range of optional extras including catering and
+        beverages or welcome BYO at no extra charge.  
+
+
+        Please submit an enquiry and we'll send you all the current info and
+        rates!   We look forward to chatting with you soon.
+      title: Birthday Party Charter Rates
   sectionTitle: boat party info
 columnBanner:
   - buttonTitle: Make Enquiry
