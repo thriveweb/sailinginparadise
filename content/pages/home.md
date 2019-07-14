@@ -31,7 +31,7 @@ services:
       buttonUrl: private-charters
       description: >-
         Sailing in Paradise invites you to step aboard one of their luxurious
-        sailing catamarans for an event to be remembered .
+        sailing catamarans for an event to be remembered.
       icon: /images/uploads/wheel.svg
       title: Private Boat Hire
   - image: 'https://ucarecdn.com/7a39bdfd-fe39-4891-b4b7-d8c2ca53d9a1/'
