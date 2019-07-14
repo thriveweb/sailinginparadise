@@ -62,7 +62,7 @@ captainSection:
       image: 'https://ucarecdn.com/4f4c708f-0dc2-4ef8-8ff6-3f0a427d3692/'
       name: Steve Buckley - Owner / Operator
       socialMedia:
-        linkedin: ''
+        linkedin: test
         twitter: ''
       title: Head Skipper Steve
     - description: >-
