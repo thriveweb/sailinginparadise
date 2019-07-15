@@ -76,7 +76,8 @@ contentColumn: >-
 
 
   With 2 beautiful sailing catamarans available for charter we can accommodate
-  groups of up to 20 or 30 guests.    Click here for a tour of our boats.  
+  groups of up to 20 or 30 guests.    [Click here for a tour of our boats. 
+  ](https://sailing-paradise.netlify.com/boats/)
 
 
   The large trampoline-style fore-decks are perfect for lazing in the sunshine
@@ -106,11 +107,15 @@ contentColumn: >-
   capture all those precious moments so you can take lots of great memories
   home.  Practically all of the photos you will see on [our Instagam page
   ](https://www.instagram.com/sailinginparadisegoldcoast/)are taken by our crew
-  on board actual charters so that's a sample of what you can expect.  
+  on board actual charters.  
 
 
   We are confident that a Gold Coast hen’s party with Sailing In Paradise, is an
   experience your group will be talking about for years to come!
+
+
+  So drop us an enquiry today (we are friendly :-) and we'll send you some info
+  and rates for your season.
 accordionSection:
   accordion:
     - dropdownContent: >-
