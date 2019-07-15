@@ -20,8 +20,8 @@ contentBox:
   title: Enquire about your unique proposal
 gallery:
   - image: 'https://ucarecdn.com/b87666d6-c0a7-436d-b5c7-101c9bddcb0a/'
-  - image: 'https://ucarecdn.com/16a29ab7-bf30-45b0-bbfe-6e8e584b6e1f/'
   - image: 'https://ucarecdn.com/b644309a-605e-4968-8362-c40c3ac49b71/'
+  - image: 'https://ucarecdn.com/16a29ab7-bf30-45b0-bbfe-6e8e584b6e1f/'
   - image: 'https://ucarecdn.com/26319e65-030d-4644-a773-2061a4dacfd9/'
   - image: 'https://ucarecdn.com/058e8197-7265-4442-8a32-537eaaf2e389/'
   - image: 'https://ucarecdn.com/cc0651d3-e9d6-4758-81ba-ce1ed179aafc/'
