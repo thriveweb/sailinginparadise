@@ -81,6 +81,8 @@ accordionSection:
         * Camera
         * Easily removable shoes
         * Good vibes and smiles
+        * Food & Drink (plus cups etc) if you have opted to BYO
+        * A jacket on cooler days
       title: What to Bring
     - dropdownContent: >-
         * In the interests of public safety and to ensure everyone has a safe
