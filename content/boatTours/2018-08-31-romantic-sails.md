@@ -124,7 +124,87 @@ accordionSection:
         excluded.  Weekends may be available last-minute on request, please
         enquire.
       title: Do you offer special packages?
-    - dropdownContent: "**Where do your boats depart from?**\r\n\nOur boats are berthed at D9 and D10 at Marina Mirage. Please see the 'contact us' page on our website www.sailinginparadise.com.au for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.\r\n\n\r\n\n**Where can I park?**\r\n\nThere is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.\r\n\n\r\n\n**What about other transport options?**\r\n\nThere are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.\r\n\n\r\n\n**Are your charters suitable for children?**\r\n\nAbsolutely! We love having kids on board and our crew will often try and include them in the sailing and driving the boat. We also carry a range of beach games suitable for kids including buckets and spades for the littlest family members. The wide and spacious deck area also make the boats wonderful for kids, of course you are always careful with children when it comes to being on the water but as boats go our catamarans would be some of the most family friendly around. Please feel free to contact our team if you have any questions about which boat may be best for your family.\r\n\n\r\n\n**Can I BYO food and drink?**\r\n\nYes if you would like to bring your own food and drinks on board that is completely fine.\r\n\n\r\n\n**I am short on time can you please help me out with catering/drinks?**\r\n\nYes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.\r\n\n\r\n\n**Do you have Eskies on board?**\r\n\nYes we do and we also provide ice. The eskies are very large and can be used for food or drink.\r\n\n\r\n\n**Will I get seasick?**\r\n\nNope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).\r\n\n\r\n\n**What happens if it rains?**\r\n\nFirst of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team."
+    - dropdownContent: >-
+        **Where do your boats depart from?**
+
+
+        Our boats are berthed at D9 and D10 at Marina Mirage. Please see the
+        'contact us' page on our website www.sailinginparadise.com.au for
+        further details and a map. Marina Mirage is about 10 mins from Surfers
+        and 15 mins from Broadbeach.
+
+
+        **Where can I park?**
+
+
+        There is plentiful free parking underneath the Marina Mirage Shopping
+        Centre which you are permitted to use.
+
+
+        **What about other transport options?**
+
+
+        There are lots of ways to get to the boat! The most popular (and cost
+        effective/convenient) if often via Taxi or Uber.
+
+
+        **Are your charters suitable for children?**
+
+
+        Absolutely! We love having kids on board and our crew will often try and
+        include them in the sailing and driving the boat. We also carry a range
+        of beach games suitable for kids including buckets and spades for the
+        littlest family members. The wide and spacious deck area also make the
+        boats wonderful for kids, of course you are always careful with children
+        when it comes to being on the water but as boats go our catamarans would
+        be some of the most family friendly around. Please feel free to contact
+        our team if you have any questions about which boat may be best for your
+        family.
+
+
+        **Can I BYO food and drink?**
+
+
+        Yes if you would like to bring your own food and drinks on board that is
+        completely fine.
+
+
+        **I am short on time can you please help me out with catering/drinks?**
+
+
+        Yes, we also offer catering and drinks service for your convenience.
+        Please request our full catering list as advance bookings are required.
+        We offer a range of catering options from grazing boards, to tapas and
+        private chefs.
+
+
+        **Do you have Eskies on board?**
+
+
+        Yes we do and we also provide ice. The eskies are very large and can be
+        used for food or drink.
+
+
+        **Will I get seasick?**
+
+
+        Nope. We operate in the calm, protected waters of the Gold Coast
+        Broadwater. We do not go offshore (into the open ocean) so we do not
+        experience large waves. Our catamarans are very stable, and do not have
+        the same side to side rocking motion as experienced by single hull
+        vessels so you won't get seasick :-).
+
+
+        **What happens if it rains?**
+
+
+        First of all remember...a little rain doesn't stop a great time on our
+        boats especially in the warm Gold Coast endless summer... But do rest
+        assured that we have a very generous wet weather policy as we want you
+        to enjoy your time on board the boat, so if there is torrential rain or
+        storms at the time you will be able to cancel or reschedule your cruise.
+        Please see the full booking policy provided with your invoice for full
+        details or contact our team.
       title: Romantic Sails FAQ's
   sectionTitle: Romantic sails - the lowdown
 columnBanner:
