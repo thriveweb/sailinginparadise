@@ -104,8 +104,8 @@ accordionSection:
 
         * Hummer or Limousine Transfers
 
-        * Jet Boat or Parasail Charters (VIP over-water pick up from the
-        catamaran)
+        * Jet Boat or Parasail Charters (VIP over-water pick-up available from
+        the catamaran)
 
         * Delicious catering options including Gourmet Grazing Boards, Tapas,
         BBQ, Canapes or Private Chef on board
