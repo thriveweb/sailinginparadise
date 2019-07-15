@@ -13,16 +13,7 @@ intro: >-
   unique proposal ideas?   Firstly, congratulations, this is such an exciting
   time!!    Secondly, we are thrilled that you are here as we absolutely adore
   hosting proposals and are proud to offer one of the most beautiful ways to
-  propose on the Gold Coast!   
-
-
-  > Can you imagine anything more romantic than popping the question on your own
-  private yacht as the sun sets over the mountains in the distance?   
-
-
-  The answer is pretty much guaranteed to be yes, right?   In fact, we have a
-  100% success rate to date, so be sure to have that engagement ring at the
-  ready...
+  propose on the Gold Coast!
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
@@ -48,7 +39,38 @@ videoSection:
   imageOverlay: ''
   video: ''
 contentColumnTitle: A proposal to remember...
-contentColumn: "A yacht proposal is an experience that neither one of you will ever forget.  Our beautiful waterways are the perfect backdrop for romance.  We invite you to sail away on your own private yacht, relaxing on the trampoline style foredeck, sipping champagne and nibbling on gourmet cheese platters to the sounds of your favourite tunes and the waves lapping beneath.   You may even be joined by the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans.  \n\n> \"Life is not measured by the number of breaths we take, but the moments that take our breath away\"\n\nThere are many ways to pop the question on board.  Perhaps consider a traditional bended knee approach, arriving at a romantic beach picnic by boat, or our most popular option – revealing our gorgeous ‘Will You Marry Me’ Sail at sunset (the sail can be hoisted discretely by our onboard crew at just the right time.  \r\n\nWe would love to chat with you via phone or email any time and start planning your perfect proposal which can be fully customised to your wishes."
+contentColumn: >-
+  > Can you imagine anything more romantic than popping the question on your own
+  private yacht as the sun sets over the mountains in the distance?   
+
+
+  The answer is pretty much guaranteed to be yes, right?   In fact, we have a
+  100% success rate to date, so be sure to have that engagement ring at the
+  ready...
+
+
+  A yacht proposal is an experience that neither one of you will ever forget. 
+  Our beautiful waterways are the perfect backdrop for romance.  We invite you
+  to sail away on your own private yacht, relaxing on the trampoline style
+  foredeck, sipping champagne and nibbling on gourmet cheese platters to the
+  sounds of your favourite tunes and the waves lapping beneath.   You may even
+  be joined by the friendly bottle-nose dolphins who frequently ride the bow
+  waves of our catamarans.  
+
+
+  > "Life is not measured by the number of breaths we take, but the moments that
+  take our breath away"
+
+
+  There are many ways to pop the question on board.  Perhaps consider a
+  traditional bended knee approach, arriving at a romantic beach picnic by boat,
+  or our most popular option – revealing our gorgeous ‘Will You Marry Me’ Sail
+  at sunset (the sail can be hoisted discretely by our onboard crew at just the
+  right time.  
+
+
+  We would love to chat with you via phone or email any time and start planning
+  your perfect proposal which can be fully customised to your wishes.
 accordionSection:
   accordion:
     - dropdownContent: >-
