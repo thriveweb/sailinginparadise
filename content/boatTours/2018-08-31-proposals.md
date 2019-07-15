@@ -62,9 +62,14 @@ contentColumn: >-
   take our breath away"
 
 
-  There are many ways to pop the question on board.  Perhaps consider a
-  traditional bended knee approach, arriving at a romantic beach picnic by boat,
-  or our most popular option – revealing our gorgeous ‘Will You Marry Me’ Sail
+  There are many ways to pop the question on board.  Some to consider include;
+
+
+  *  a traditional bended knee approach, 
+
+  * arriving at a romantic beach picnic by boat, 
+
+  * or our most popular option – revealing our gorgeous ‘Will You Marry Me’ Sail
   at sunset (the sail can be hoisted discretely by our onboard crew at just the
   right time.  
 
