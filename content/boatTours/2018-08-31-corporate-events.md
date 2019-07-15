@@ -4,7 +4,22 @@ tourType: Private Charter
 title: Corporate Events
 icon: ''
 featuredImage: 'https://ucarecdn.com/94f40dc0-08c9-4308-b78c-98d4a1104709/'
-intro: "## Gold Coast Corporate Yacht Charter\n\nWith 2 beautiful Sailing Catamarans available for charter, Sailing in Paradise offers an unforgettable experience that your group will be talking about for years to come. Ideal for staff parties, team building days, conference delegate activities or partner programs, we can tailor a perfect event to suit your requirements.\r\n\nSailing the picturesque Gold Coast Broadwater aboard your own private yacht you will enjoy spectacular views and access to pristine beaches and isolated islands\r\n\nsurrounded by crystal clear, turquoise waters.   A dusk charter gives you front row seats to the best waterfront, sunset views on the coast, as the city lights set a backdrop for your celebrations."
+intro: >-
+  ## Gold Coast Corporate Yacht Charter
+
+
+  With 2 beautiful Sailing Catamarans available for charter, Sailing in Paradise
+  offers an unforgettable experience that your group will be talking about for
+  years to come. Ideal for staff parties, team building days, conference
+  delegate activities or partner programs, we can tailor a perfect event to suit
+  your requirements.
+
+
+  Sailing the picturesque Gold Coast Broadwater aboard your own private yacht,
+  your guests will enjoy spectacular views and access to pristine beaches and
+  isolated islands surrounded by crystal clear, turquoise waters.   A dusk
+  charter offers front row seats to the best waterfront, sunset views on the
+  coast, as the city lights set a backdrop for your celebrations.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
@@ -27,24 +42,47 @@ videoSection:
   imageOverlay: ''
   video: ''
 contentColumnTitle: A corporate event venue with a difference...
-contentColumn: "Our catamarans offer comfort, space and style and are guaranteed to create a social atmosphere for your cruise.    With 30 and 20 capacity boats in the fleet, Sailing in Paradise can accommodate small intimate groups or larger gatherings.   We can also arrange additional vessels for a 'yacht raft up' for up to 90 people.  Imagine your own private fleet of yachts setting sail for a secret rendezvous location for an afternoon of fun in the sunshine.  \rRead more about our raft up events here.   \n\nFor the ultimate in stress-free corporate event planning we offer a range of catering and drinks packages.  Partnering with some of the Gold Coast's best caterers our guests can enjoy a plethora dining options from gourmet grazing boards to private chefs.  \r\n\n\rWant to know more about us or our boats?"
+contentColumn: >-
+  Our catamarans offer comfort, space and style and are guaranteed to create a
+  social atmosphere for your cruise.    With 30 and 20 capacity boats in the
+  fleet, Sailing in Paradise can accommodate small intimate groups or larger
+  gatherings.   We can also arrange additional vessels for a 'yacht raft up' for
+  up to 90 people.  Imagine your own private fleet of yachts setting sail for a
+  secret rendezvous location for an afternoon of fun in the sunshine.
+
+
+  For the ultimate in stress-free corporate event planning we offer a range of
+  catering and drinks packages.  Partnering with some of the Gold Coast's best
+  caterers our guests can enjoy a plethora dining options from gourmet grazing
+  boards to private chefs.    We also offer a range of beverage packages or
+  welcome BYO.  
+
+
+  In addition to our beautiful boats and professional crew we also carry a range
+  of other activities on board for your guests to enjoy (should you wish)
+  including Stand Up Paddleboards, Inflatables, Beach Volleyball, Beach Cricket,
+  Snorkels and more.  
+
+
+  Want to know more[ about us](https://sailing-paradise.netlify.com/about/) or
+  [our boats](https://sailing-paradise.netlify.com/boats/)?
 accordionSection:
   accordion:
     - dropdownContent: >-
         With owners from a background in Marine Operations, Business Management,
         Marketing, and Hospitality you can trust that your corporate event is in
-        good hands with Sailing in Paradise.    So whether you want a simple
-        relaxed afternoon on the water with a few beers and a BBQ or you are
-        after french champagne, private chefs and marquees set up on Wavebreak
-        Island (yes that has actually been done), we will be happy to tailor an
-        event to suit your wishes and budget.  
+        good hands with Sailing in Paradise.    So whether you are organising a
+        simple relaxed afternoon on the water with a few beers and a BBQ or you
+        are after french champagne, private chefs and massages in marquees on
+        Wavebreak Island (yes that has actually been done), we will be happy to
+        tailor an event to suit your wishes and budget.  
 
 
         On board the vessel our crew are also selected for their professionalism
         and hospitality but will ultimately ensure your guests have a great time
-        on the charter!   We even capture your experience and photos of the
-        charter will be provided to you following your event, it is all part of
-        the service.
+        on the charter!   We even capture your experience on film, and photos of
+        the charter will be provided to you following your event, it is all part
+        of the service.
       title: What level of service can I expect?
     - dropdownContent: "\\* Skipper plus 1 crew, (we are fun and friendly, laid-back yet\r professional) we promise your guests will love us,\r\n\n\\* Use of Stand up Paddle Boards, beach games, cute\r inflatables, snorkelling gear, fishing rods,\r\n\n\\* Use of small marine BBQ if required for BYO charters,\r\n\n\\* Use of 2 large eskies (ice supplied) if required for BYO charters,\r\n\n\\* Memento Photos taken by our crew"
       title: What's included in the charter?
