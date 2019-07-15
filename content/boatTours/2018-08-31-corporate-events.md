@@ -84,7 +84,18 @@ accordionSection:
         the charter will be provided to you following your event, it is all part
         of the service.
       title: What level of service can I expect?
-    - dropdownContent: "\\* Skipper plus 1 crew, (we are fun and friendly, laid-back yet\r professional) we promise your guests will love us,\r\n\n\\* Use of Stand up Paddle Boards, beach games, cute\r inflatables, snorkelling gear, fishing rods,\r\n\n\\* Use of small marine BBQ if required for BYO charters,\r\n\n\\* Use of 2 large eskies (ice supplied) if required for BYO charters,\r\n\n\\* Memento Photos taken by our crew"
+    - dropdownContent: |-
+        \* Skipper plus 1 crew, (we are fun and friendly, laid-back yet
+         professional) we promise your guests will love us,
+
+        \* Use of Stand up Paddle Boards, beach games, novelty
+         inflatables, snorkelling gear, fishing rods,
+
+        \* Use of small marine BBQ if required for BYO charters,
+
+        \* Use of 2 large eskies (ice supplied) if required for BYO charters,
+
+        \* Memento Photos taken by our crew
       title: What's included in the charter?
     - dropdownContent: >-
         We are able to offer the following additional services to take your
