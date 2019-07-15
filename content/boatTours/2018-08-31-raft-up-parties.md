@@ -42,8 +42,7 @@ gallery:
   - image: 'https://ucarecdn.com/30eb5b85-8407-413e-8a73-1a4f96dc5342/'
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
-  video: >-
-    https://www.youtube.com/watch?v=vr0qNXmkUJ8&list=PLNhzc-Os3JK8ExayVzzoHVvP2c0-4_oqt
+  video: ''
 contentColumnTitle: For groups from 40 - 90 guests
 contentColumn: >-
   Set sail in convoy to a secret beach location for a couple of hours of fun in
@@ -74,12 +73,7 @@ contentColumn: >-
   your boat party dreams a reality!
 accordionSection:
   accordion:
-    - dropdownContent: |-
-        * Easy, stress free booking process.
-        * Up to 4 beautiful sailing catamarans
-        * Friendly and professional yet laid back crew
-        * A great day on the beautiful Gold Coast waterways
-        * Free activities and professional photography
+    - dropdownContent: "When you book a private charter with Sailing in Paradise you can expect a quality of service from years of experience in the industry but most of all your can expect a fun day (or evening) on the water that your group will love. Every day is different when you have your event on board Sailing In Paradise but one thing is for sure... you and your guests are in for one hell of a good time.\r\n\nSome things we love include:\r\n\nSailing, beach stopovers, inflatables, stand up paddleboards, snorkeling, sunbathing, sunsets and dolphins. All included free of charge*.\r\n\n_\\*As much as we have tried to bribe the dolphins to turn up every cruise we can't guarantee they will...fish to chase, waves to jump, fun to be had etc... but it sure is a beautiful sight when they do join us._"
       title: What to expect
     - dropdownContent: |-
         * Swimmers (for day sails)
