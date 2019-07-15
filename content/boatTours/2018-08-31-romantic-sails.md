@@ -196,7 +196,9 @@ accordionSection:
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
-    content: Let our friendly and experienced team tailor Romantic Sail for you both
+    content: >-
+      Let our friendly and experienced team tailor a Romantic Sail for you both
+      to enjoy
     title: romance under sail...
     featuredImage: 'https://ucarecdn.com/ff047696-d270-4df2-b368-61f1443b93b5/'
   - buttonTitle: ''
