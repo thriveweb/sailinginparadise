@@ -44,23 +44,22 @@ videoSection:
   video: ''
 contentColumnTitle: Bring the family together!
 contentColumn: >-
-  Our luxury catamarans are family friendly with the wide and spacious deck area
-  makes it ideal for everyone to get around and enjoy some fresh ocean air.   We
-  like to encourage our guests (big or small) to have fun and participate in
-  hoisting the sails and manning the helm!
+  Our luxury catamarans are so family friendly.  The wide and spacious deck
+  areas makes them ideal for everyone to get around and enjoy some fresh ocean
+  air.   We like to encourage our guests (big or small) to have fun and
+  participate in hoisting the sails and manning the helm (if they are keen)!
 
 
-  Keep your eyes peeled throughout the cruise as you very well may spot some
-  marine and wildlife creatures on the picturesque Broadwater. Friendly and
-  playful dolphins, soaring sea-eagles and wallabies on the shoreline are often
-  to be seen while underway.   We can arrange rods and bait for you and the kids
-  to have a go at catching a fish if you wish, simply let us know when
-  booking.  
+  Keep your eyes peeled throughout the cruise as you very well may spot some of
+  the local wildlife on the picturesque Broadwater. Friendly and playful
+  dolphins, soaring sea-eagles and wallabies on the shoreline are often to be
+  seen while underway.   We can arrange rods and bait for you and the kids to
+  have a go at catching a fish if you wish, simply let us know when booking.  
 
 
   For daytime cruises, the whole family will enjoy a stop at Wave Break Island,
   where our vessel's unique beach landing capabilities come into their own!    
-  With a secret ladder on the foredeck its easy to hop on and off for a swim or
+  With a secret ladder on the foredeck it's easy to hop on and off for a swim or
   some serious sandcastle building!    There’s buckets and spades for the little
   ones to play and plenty of calm water for everyone to jump in for a swim or
   wade about in the shallows.   We also have SUPing and inflatable toys for the
@@ -132,11 +131,11 @@ accordionSection:
         and include them in the sailing and driving the boat.  We also carry a
         range of beach games suitable for kids including buckets and spades for
         the littlest family members.  The wide and spacious deck area also make
-        the boats wonderful for kids, of course you are always careful with
-        children when it comes to being on the water but as boats go our
-        catamarans would be some of the most family friendly around.  Please
-        feel free to contact our team if you have any questions about which boat
-        may be best for your family.  
+        the boats wonderful for kids.  Of course as any parent knows, you are
+        always careful with children when it comes to being on the water, but as
+        boats go our catamarans would be some of the most family friendly
+        around.  Please feel free to contact our team if you have any questions
+        about which boat may be best for your family.  
 
 
         **Can I BYO food and drink?**
