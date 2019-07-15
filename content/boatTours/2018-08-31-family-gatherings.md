@@ -8,7 +8,7 @@ intro: >-
   ## gold coast Family yacht charters
 
 
-  There is something about spending time with family on the water that spans
+  There is something about the appeal of a day on the water that spans
   generations.  When you charter a boat with Sailing in Paradise we aim to
   provide a special experience the whole family will enjoy.    Loved by the
   grandparents just as much as the kids (and everybody in between) our 2
