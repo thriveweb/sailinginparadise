@@ -52,8 +52,7 @@ gallery:
   - image: 'https://ucarecdn.com/2acf19a8-2d59-4d88-8201-b1c5c67eda25/'
 videoSection:
   imageOverlay: 'https://ucarecdn.com/013dd280-261c-4b1a-857a-4a582aaa8f3b/'
-  video: >-
-    https://www.youtube.com/watch?v=vr0qNXmkUJ8&list=PLNhzc-Os3JK8ExayVzzoHVvP2c0-4_oqt
+  video: ''
 contentColumnTitle: Plan your perfect hens party cruise
 contentColumn: >-
   We have hosted thousands of happy Hens parties but no two have ever been
