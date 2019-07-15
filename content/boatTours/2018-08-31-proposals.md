@@ -104,15 +104,37 @@ accordionSection:
         * If you are sailing during the day and wish to swim, please bring
         towels
       title: What to Bring
-    - dropdownContent: "Yes we do!!   Our ‘Sail Away with me…’ Proposal package includes;\r\n\n* A 2 hour private sunset sail for 2 guests (mid-week)\r\n* A romantic boat picnic set up on the front deck\r (weather permitting)\n* Use of our beautiful ‘Will you Marry me’ Sail (you give the nod)\r\n* Chilled bottle of Moet and gourmet cheese board\r\n* Beautiful photos captured of your proposal and voyage \r\n\n$900*\r\n\n\\*Subject to availability.  Peak periods and public holidays may be excluded.  Weekends may be available on request, please enquire.  \r\n\nYou can also consider a surprise proposal with your closest family and friends on board.  Please contact us for a quote for a customised private charter."
+    - dropdownContent: >-
+        Yes we do!!   Our ‘Sail Away with me…’ Proposal package includes;
+
+
+        * A 2 hour private sunset sail for 2 guests (mid-week)
+
+        * A romantic boat picnic set up on the front deck
+          (weather permitting)
+        * Use of our beautiful ‘Will you Marry me’ Sail (you give the nod)
+
+        * Chilled bottle of Moet and gourmet cheese board
+
+        * Beautiful photos captured of your proposal and voyage 
+
+
+        $900*
+
+
+        \*Subject to availability.  Peak periods and public holidays may be
+        excluded.  Weekends may be available on request, please enquire.  
+
+
+        You can also consider a surprise proposal with your closest family and
+        friends on board.  Please contact us for a quote for a customised
+        private charter for larger groups.
       title: Do you offer special packages?
   sectionTitle: Planning your proposal cruise
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
-    content: >-
-      Let our friendly and experienced team tailor a Proposal Cruise that they
-      won’t forget.
+    content: Let our friendly and experienced team tailor a Proposal Cruise to impress.
     title: A proposal like no other...
     featuredImage: 'https://ucarecdn.com/8a4a1f89-1f16-4ac9-9ec2-8c1d21465116/'
   - featuredImage: 'https://ucarecdn.com/084f92bb-7abc-45fa-92df-ee789be5f7cd/'
