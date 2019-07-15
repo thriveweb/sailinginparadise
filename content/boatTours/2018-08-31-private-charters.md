@@ -30,12 +30,11 @@ gallery:
   - image: 'https://ucarecdn.com/2824ffaa-2aa4-46e2-98cf-5192cd0e7ce7/'
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
-  video: >-
-    https://www.youtube.com/watch?v=vr0qNXmkUJ8&list=PLNhzc-Os3JK8ExayVzzoHVvP2c0-4_oqt
+  video: ''
 contentColumnTitle: Imagine setting sail on your own private yacht
 contentColumn: >-
   Step aboard your own private catamaran, and the beautiful Gold Coast
-  Broadwater becomes your playground.   During the day You will enjoy
+  Broadwater becomes your playground.   During the day you will enjoy
   spectacular views and access to pristine beaches as the boat arrives at
   isolated islands surrounded by crystal clear turquoise waters.   There are
   plentiful activities available on board to keep you entertained including
