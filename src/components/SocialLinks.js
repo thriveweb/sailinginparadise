@@ -10,6 +10,7 @@ export default ({ socialMedia }) => {
 
 	const { facebook, instagram, twitter, googlePlus, linkedin, tripAdvisor } = socialMedia
 
+
 	return <div className='share-buttons'>
 		{googlePlus &&
 			<li>

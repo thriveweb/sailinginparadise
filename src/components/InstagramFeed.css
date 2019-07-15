@@ -64,42 +64,45 @@
   }
 }
 
-/* .InstagramFeed {
-  display: flex;
-  flex-wrap: wrap;
-  background: white;
-}
+@media only screen and (max-width: 1375px) {
+  .InstagramSection {
+    flex-wrap: wrap;
+    padding-left: 0;
+    text-align: center;
+  }
 
-.InstagramFeed--EmptyPost {
-  width: calc(100% / 8);
-  padding: calc(50% / 8) 0;
-  margin: 0;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: 1s ease all;
-}
+  .insta-intro {
+    flex: 0 0 100%;
+    padding: 0;
+    margin-bottom: 4rem;
+  }
 
-.InstagramFeed--EmptyPost:hover {
-  opacity: 0.8;
-}
+  .InstagramSection h2 {
+    justify-content: center;
+  }
 
-@media screen and (max-width: 1120px) {
-  .InstagramFeed--EmptyPost {
-    width: calc(100% / 4);
-    padding: calc(50% / 4) 0;
-    height: auto;
+  #instafeed {
+    margin: 0;
+    flex: 0 0 100%;
+    max-height: none;
+  }
+
+  .instagram-item {
+    height: 28.6vw;
   }
 }
 
-@media screen and (max-width: 500px) {
-  .InstagramFeed--EmptyPost {
-    width: calc(100% / 2);
-    padding: calc(50% / 2) 0;
+@media only screen and (max-width: 375px) {
+  .insta-intro {
+    margin-bottom: 2rem;
   }
 
-  .InstagramFeed--EmptyPost:nth-child(n + 5) {
-    display: none;
+  .InstagramSection h2 {
+    margin-bottom: 0;
   }
-} */
+
+  .InstagramSection h2 svg {
+    height: 2rem;
+    margin-right: 1rem;
+  }
+}

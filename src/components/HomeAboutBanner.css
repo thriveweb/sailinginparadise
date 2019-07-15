@@ -2,7 +2,7 @@
 	position: absolute;
 	bottom: 12rem;
 	left: 14rem;
-	width: 20%;
+	width: 30rem;
 	line-height: 1;
 	height: auto;
 	z-index: 2;
@@ -47,9 +47,59 @@
 	margin-right: 0;
 }
 
-
 @media only screen and (max-width: 1440px) {
 	.aboutUs-Content {
 		padding: 12rem 8rem;
+		max-width: 45%;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	.aboutUs-Content {
+		padding: 8rem 6rem;
+		max-width: 55%;
+	}
+	.aboutUs h2 {
+		left: 8rem;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.aboutUs-Content {
+		padding: 8rem 6rem;
+		max-width: 100%;
+	}
+
+	.aboutUs h2 {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.aboutUs-Content {
+		padding: 6rem 4rem;
+	}
+
+	.aboutUs-Content p {
+		font-size: 1.4rem;
+	}
+
+	.aboutUs-Content .fancy-title {
+		font-size: 2.6rem;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.aboutUs-Content .button {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin: 2rem 0 0;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.aboutUs-Content {
+		padding: 4rem 2rem;
 	}
 }

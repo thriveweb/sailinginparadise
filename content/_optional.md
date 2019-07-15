@@ -145,7 +145,7 @@ siteUrl: ''
 siteDescription: ''
 headerScripts: ''
 tourType: ''
-
+cruiseType: ''
 ---
 
 <!--Use this to force Gatsby to deal with optional images-->

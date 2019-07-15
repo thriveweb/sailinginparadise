@@ -11,8 +11,12 @@ export default ({ captainIntro, captain }) => {
 			<IntroText content={captainIntro} center />
 			{captain &&
 				<div className='captains-listing'>
-					{captain.map(({ name, image, title, description, socialMedia }, index ) =>
-						<div className='member' key={`member ${index}`}>
+					{captain.map(({ name, image, title, description, socialMedia }, index ) => {
+
+
+							console.log(socialMedia)
+
+						return <div className='member' key={`member ${index}`}>
 							{image &&
 								<div className='image-container relative'>
 									<div
@@ -29,9 +33,10 @@ export default ({ captainIntro, captain }) => {
 							{name && <h4>{name}</h4>}
 							{title && <p>{title}</p>}
 							{description && <Content src={description} />}
-							<SocialLinks socialMedia={socialMedia} />
+							{socialMedia && <SocialLinks socialMedia={socialMedia} />}
 						</div>
-					)}
+
+					})}
 				</div>
 			}
 		</div>

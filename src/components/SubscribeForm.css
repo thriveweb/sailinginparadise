@@ -19,16 +19,73 @@
 .SubscribeBanner .Form {
 	margin: 0 auto;
 	border-bottom: .1rem solid var(--primary);
+	align-items: flex-end;
 }
 
 .SubscribeBanner .Form--Label {
 	flex: 0 0 70%;
 }
 
-.SubscribeBanner .form-footer {
-	flex: 1;
-}
-
 .SubscribeBanner .Form--Input {
 	border: none;
+	line-height: 1;
+}
+
+.SubscribeBanner .Form--Input::placeholder {
+	color: #212121;
+}
+
+.SubscribeBanner .form-footer {
+	flex: 1;
+	padding: 0;
+}
+
+.SubscribeBanner .form-footer .button {
+	padding: 1.5rem 3rem 1.5crem 1.5rem;
+}
+
+@media (max-width: 650px) {
+	.SubscribeBanner .form-description h4 {
+		font-size: 2rem;
+	}
+
+	.SubscribeBanner .form-description h3 {
+		font-size: 2.4rem;
+	}
+}
+
+@media (max-width: 550px) {
+	.SubscribeBanner .form-description h4 {
+		font-size: 1.8rem;
+	}
+
+	.SubscribeBanner .form-description h3 {
+		font-size: 2rem;
+	}
+}
+
+@media (max-width: 425px) {
+	.SubscribeBanner {
+		padding: 6rem 0;
+	}
+	.SubscribeBanner .form-description h4 {
+		font-size: 1.6rem;
+	}
+
+	.SubscribeBanner .form-description h3 {
+		font-size: 1.8rem;
+	}
+
+	.SubscribeBanner .Form--Label {
+		flex: 2;
+	}
+
+	.SubscribeBanner .Form--Input {
+		padding: 1rem;
+		font-size: 1.4rem;
+	}
+
+	.SubscribeBanner .form-footer .button {
+		font-size: 1.4rem;
+	}
 }

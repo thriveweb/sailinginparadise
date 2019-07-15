@@ -4,8 +4,6 @@ import { Link } from 'gatsby'
 import { ICONButtonArrows } from './Icons'
 import Button from './Button'
 import Content from './Content'
-import BookingIframe from './BookingIframe'
-
 import './ColumnBanner.css'
 
 export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIframe }) => {
@@ -28,7 +26,6 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 						>
 						</div>
 					}
-					{/*<BookingIframe bookingIframe={bookingIframe} />*/}
 				</div>
 
 				return <div className='bannerColumn relative overlay' key={index}>

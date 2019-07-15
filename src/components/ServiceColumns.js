@@ -17,11 +17,16 @@ export default ({ services, serviceBanner }) => {
 		<div className='serviceColumns'>
 			{services && services.map(({ serviceContent, image }, index) => {
 				const { icon, title, description, buttonUrl } = serviceContent
+
+				const excerpt = description.length > 213
+					? description.slice(0, 213) + '...'
+					: description
+
 				return <Fragment key={index}>
 					<div className='serviceContent'>
 						{icon && <Image src={icon} alt='' />}
 						{title && <Link className='fancy-title' to={buttonUrl}>{title}</Link>}
-						{description && <p>{description}</p>}
+						{excerpt && <p>{excerpt}</p>}
 						{buttonUrl && <Button title='Know More' url={buttonUrl} />}
 					</div>
 					<div className='serviceImage relative'>

@@ -112,16 +112,177 @@
 
 
 @media only screen and (max-width: 1440px) {
+	.serviceContent {
+		padding: 4rem;
+	}
+
 	.serviceBanner-Content {
-		width: 70%;
+		width: 85%;
+	}
+}
+
+@media only screen and (max-width: 1250px) {
+	.serviceContent {
+		padding: 3rem;
+	}
+
+	.serviceBanner {
+		height: 30rem;
+	}
+
+	.serviceColumns .serviceImage:last-of-type {
+		min-height: 70rem;
 	}
 }
 
 
+@media only screen and (max-width: 1150px) {
+	.serviceBanner-Content h3 {
+		font-size: 3rem;
+	}
 
+	.serviceBanner-Content p {
+		font-size: 2rem;
+	}
+}
 
+@media only screen and (max-width: 1024px) {
+	.serviceBanner {
+		height: 25rem;
+	}
 
+	.serviceColumns .serviceImage:last-of-type {
+		min-height: 65rem;
+	}
 
+	.serviceBanner-Content h3 {
+		margin-bottom: 0;
+	}
+}
 
+@media only screen and (max-width: 1020px) {
+	.serviceBanner {
+		height: auto;
+		position: relative;
+		width: 100%;
+		padding: 6rem 3rem;
+		text-align: center;
+	}
 
+	.serviceColumns .serviceContent,
+	.serviceColumns .serviceImage {
+		max-height: none;
+	}
 
+	.serviceColumns .serviceImage:last-of-type {
+		min-height: auto;
+	}
+
+	.serviceBanner-Content h3 {
+		margin-bottom: 0;
+	}
+}
+
+@media only screen and (max-width: 850px) {
+	.serviceContent {
+		padding: 3rem 2rem;
+	}
+	.serviceContent .Image {
+		height: 2.5rem;
+		margin-bottom: 1rem;
+	}
+
+	.serviceContent .fancy-title {
+		font-size: 1.6rem;
+		padding: 0 0 .5rem;
+		margin-bottom: 2rem;
+	}
+
+	.serviceContent p {
+		font-size: 1.4rem;
+	}
+
+	.serviceContent .button {
+		font-size: 1.4rem;
+		padding: 1.5rem;
+		padding-left: 0;
+	}
+}
+
+@media only screen and (max-width: 765px) {
+	.serviceContent, .serviceImage {
+		flex: 0 0 50%;
+	}
+
+	.serviceContent:first-child {
+		order: 1;
+	}
+
+	.serviceContent:nth-child(3) {
+		order: 4;
+	}
+
+	.serviceContent:nth-child(5) {
+		order: 5;
+	}
+
+	.serviceImage:nth-child(2) {
+		order: 2;
+	}
+
+	.serviceImage:nth-child(4) {
+		order: 3;
+	}
+
+	.serviceImage:nth-child(6) {
+		order: 6;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.serviceBanner {
+		padding: 4rem 2rem;
+	}
+
+	.serviceBanner-Content h3 {
+		font-size: 2.6rem;
+		line-height: 1.2;
+	}
+
+	.serviceBanner-Content p {
+		font-size: 1.6rem;
+		line-height: 1.2;
+		margin-bottom: 1rem;
+	}
+}
+
+@media only screen and (max-width: 380px) {
+	.serviceContent,
+	.serviceImage {
+		flex: 0 0 100%;
+		order: none;
+	}
+
+	.serviceImage {
+		min-height: 25rem !important;
+	}
+
+	.serviceContent:nth-child(3) {
+		order: 3;
+	}
+
+	.serviceImage:nth-child(4) {
+		order: 4;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.serviceBanner-Content h3 {
+		font-size: 2rem;
+	}
+
+	.serviceBanner-Content p,
+	.serviceBanner-Content .button {
+		font-size: 1.4rem;
+	}
+}

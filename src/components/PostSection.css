@@ -27,9 +27,7 @@
     margin: 0;
   }
 
-
   /*Boat Tours*/
-
   .PostSection.boatTours {
     margin-bottom: 0;
   }
@@ -51,19 +49,14 @@
   margin: 0 auto;
 }
 
-@media screen and (max-width: 888px) {
-  .PostSection--Grid > * {
-    width: 100%;
-    max-width: 50rem;
-    margin: 0 auto 4rem;
-    display: block;
+@media only screen and (max-width: 768px) {
+  .PostSection--Grid {
+    grid-template-columns: repeat(2, 1fr);
   }
+}
 
-  @supports (display: grid) {
-    .PostSection--Grid {
-      display: block;
-      grid-template-columns: 1;
-      grid-gap: 0;
-    }
+@media only screen and (max-width: 425px) {
+  .PostSection--Grid {
+    grid-template-columns: repeat(1, 1fr);
   }
 }

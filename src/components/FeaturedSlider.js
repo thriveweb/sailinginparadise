@@ -17,6 +17,22 @@ class FeaturedSlider extends Component {
 		  swipeToSlide: true,
 		  slidesToScroll: 1,
 		  arrows: true,
+      responsive: [
+        {
+          breakpoint: 1250,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2,
+          }
+        },
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+          }
+        }
+      ]
 		};
 
 	    const { featuredSlider, featuredBanner } = this.props

@@ -38,7 +38,7 @@
 
 .secondary-banner.contentBox .container {
 	background-color: rgba(0,0,0,0.4);
-	width: 40%;
+	width: 100rem;
 	padding: 6rem;
 }
 
@@ -56,6 +56,11 @@
 	margin-bottom: .5rem;
 }
 
+@media only screen and (max-width: 1440px) {
+	.secondary-banner.contentBox .container {
+		width: 70%;
+	}
+}
 
 @media only screen and (max-width: 1280px) {
 	.secondary-banner.bannerLarge {
@@ -63,10 +68,86 @@
 	}
 }
 
+@media only screen and (max-width: 1024px) {
+	.secondary-banner.contentBox h4 {
+		font-size: 3.6rem;
+		line-height: 1.2;
+	}
 
+	.secondary-banner.bannerLarge {
+		padding: 10rem 0;
+	}
+}
 
+@media only screen and (max-width: 768px) {
+	.secondary-banner.contentBox .container {
+		padding: 3rem;
+	}
 
+	.secondary-banner.contentBox h4 {
+		font-size: 3rem;
+	}
 
+	.secondary-banner.bannerLarge {
+		padding: 7rem 0;
+	}
+}
 
+@media only screen and (max-width: 550px) {
+	.secondary-banner.contentBox .container {
+		width: 85%;
+	}
 
+	.secondary-banner.contentBox h4 {
+		font-size: 2.6rem;
+	}
 
+	.secondary-banner.contentBox h2 {
+		font-size: 1.6rem;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.secondary-banner {
+		padding: 5rem 0;
+	}
+
+	.secondary-banner h2 {
+		line-height: 1.2;
+	}
+
+	.secondary-banner.contentBox h4 {
+		margin: 0;
+	}
+
+	.secondary-banner.contentBox .button {
+		padding: 1.5rem 1rem;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.secondary-banner {
+		padding: 4rem 0;
+	}
+
+	.secondary-banner.bannerLarge {
+		padding: 5rem 0;
+	}
+
+	.secondary-banner.bannerLarge .buttonWhite.button {
+		margin-top: 2rem;
+	}
+
+	.secondary-banner.contentBox .container {
+		padding: 2rem;
+		width: 90%;
+	}
+
+	.secondary-banner.contentBox h2 {
+		font-size: 1.4rem;
+	}
+
+	.secondary-banner.contentBox h4 {
+		font-size: 2rem;
+	}
+}

@@ -4,6 +4,7 @@
 
 .featuredPosts {
 	display: flex;
+	flex-wrap: wrap;
 }
 
 .featuredPosts .PostCard {
@@ -17,4 +18,26 @@
 
 .featuredPosts .button:before {
 	display: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .featuredPostsSection {
+    padding-bottom: 10rem;
+  }
+
+	.featuredPostsSection .intro-section {
+		padding: 4rem 0;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+  .featuredPosts .PostCard {
+    flex: 0 0 100%;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+	.featuredPostsSection {
+		padding-bottom: 4rem;
+	}
 }

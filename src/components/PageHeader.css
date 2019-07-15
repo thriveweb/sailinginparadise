@@ -21,9 +21,18 @@
 
 @media (max-width: 600px) {
   .PageHeader {
-    padding: 7rem 0;
+    padding: 14rem 0 6rem;
   }
-  .PageHeader-large {
-    padding: 12.5rem 0;
+
+  .PageHeader--Title {
+    font-size: 4rem;
+    line-height: 1.2;
+  }
+}
+
+
+@media (max-width: 375px) {
+  .PageHeader--Title {
+    font-size: 3.5rem;
   }
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { ICONFacebook, ICONTwitter, ICONGooglePlus } from './Icons'
+import { ICONFacebook, ICONTwitter } from './Icons'
 import './SocialShare.css'
 
 export default () =>

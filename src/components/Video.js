@@ -14,12 +14,8 @@ class Video extends Component {
 		this.state = {}
 	}
 
-	componentDidMount = () => {
-
-	}
-
 	handleVideo = url => {
-		this.videoRef.current.src = `https://www.youtube.com/embed/${url}?autoplay=1&start=0&modestbranding=1&controls=0&disablekb=1&rel=0`
+		this.videoRef.current.src = `https://player.vimeo.com/video/${url}?autoplay=1&start=0&modestbranding=1&controls=0&disablekb=1&rel=0`
 		this.setState({
 			videoPlaying: true
 		})
@@ -35,20 +31,22 @@ class Video extends Component {
 
 		if(homeVideo)
 			return <div className={`video-section homeVideo`}>
-				{!videoPlaying &&
-					<div className='overlay-content'>
-						<div className='container'>
-							{title && <h1 className='title-gradient'>{title}</h1>}
+				<div className='video-container'>
+					{!videoPlaying &&
+						<div className='overlay-content'>
+							<div className='container'>
+								{title && <h1 className='title-gradient'>{title}</h1>}
+							</div>
 						</div>
-					</div>
-				}
-				<iframe
-					data-src={`https://www.youtube.com/embed/${url}?autoplay=1&start=0&mute=1&modestbranding=1&rel=0&controls=0&loop=1&playlist=${url}&showinfo=0`}
-					frameBorder="0"
-					title="home video"
-					className='lazy'
-				>
-				</iframe>
+					}
+					<iframe
+						data-src={`https://player.vimeo.com/video/${url}?autoplay=1&start=0&muted=1&modestbranding=1&rel=0&controls=0&loop=1&playlist=${url}&showinfo=0`}
+						frameBorder="0"
+						title="home video"
+						className='lazy'
+					>
+					</iframe>
+				</div>
 				<FeaturedSlider featuredSlider={featuredSlider} featuredBanner={featuredBanner} />
 				<SocialLinks socialMedia={socialMedia} />
 			</div>

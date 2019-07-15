@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import { ICONMagnify } from './Icons'
+import { ICONMagnify, ICONClose } from './Icons'
 import './GallerySlider.css'
 
 class GallerySlider extends Component {
@@ -31,6 +31,16 @@ class GallerySlider extends Component {
 		  swipeToSlide: true,
 		  slidesToScroll: 1,
 		  arrows: true,
+			responsive: [
+				{
+					breakpoint: 768,
+					settings: {
+						infinite: gallery.length > 3,
+						slidesToShow: 3,
+						slidesToScroll: 3,
+					}
+				}
+			]
 		};
 
 		if(!gallery) return null
@@ -58,7 +68,7 @@ class GallerySlider extends Component {
 	    		</div>
     		})}
 	    </Slider>
-			{/* {gallery.map(({ image }, index) => {
+			{gallery.map(({ image }, index) => {
 				return <div
 					className={`galleryImage--Popup ${this.state.popupActive === index ? 'active' : ''}`}
 					key={`image-full-${index}`}
@@ -78,7 +88,7 @@ class GallerySlider extends Component {
 							</div>
 						}
 	    		</div>
-			})} */}
+			})}
 		</div>
 	}
 }

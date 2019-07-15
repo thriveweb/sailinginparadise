@@ -13,8 +13,7 @@
 /*Featured Slider*/
 
 .featuredSlider {
-	flex: 0 0 70%;
-	max-width: 70%;
+	flex: 1;
 	padding: 4rem 7rem;
 	overflow: hidden;
 	position: relative;
@@ -37,6 +36,7 @@
 
 .featuredSlider h4 {
 	font-size: 1.8rem;
+	max-width: 90%;
 }
 
 .featuredSlider p {
@@ -88,7 +88,7 @@
 /*Featured Banner*/
 
 .featuredBanner {
-	flex: 1;
+	flex: 0 0 51rem;
 	text-align: center;
 }
 
@@ -105,7 +105,7 @@
 	transform: translateY(-50%);
 	left: 0;
 	right: 0;
-	width: 40rem;
+	max-width: 80%;
 	height: auto;
 	z-index: 3;
 	margin: 0 auto;
@@ -130,11 +130,59 @@
 	}
 }
 
+@media only screen and (max-width: 1280px) {
+	.FeaturedHomeSection {
+		position: relative;
+	}
 
+	.featuredSlider *,
+	.slick-arrow:before {
+		color: var(--primary);
+	}
 
+	.featuredSlider .fancy-title:before,
+	.featuredSlider .fancy-title:after {
+		background-color: var(--primary);
+	}
 
+	.featuredSlider .button {
+		color: var(--primary);
+	}
 
+	.featuredSlider .button svg * {
+		fill: var(--primary);
+	}
+}
 
+@media only screen and (max-width: 768px) {
+	.featuredBanner {
+		flex: 0 0 40rem;
+	}
+}
 
+@media only screen and (max-width: 765px) {
+	.featuredBanner {
+		flex: 0 0 30rem;
+	}
+}
 
+@media only screen and (max-width: 600px) {
+	.FeaturedHomeSection {
+		flex-wrap: wrap;
+	}
 
+	.featuredBanner,
+	.featuredSlider {
+		flex: 0 0 100%;
+	}
+
+	.featuredBanner {
+		padding: 4rem 0;
+	}
+
+	.featuredBanner .bannerContent {
+		position: relative;
+		top: 0;
+		transform: translateY(0);
+	}
+}

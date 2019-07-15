@@ -35,3 +35,41 @@
 .contentColumn .intro-section {
 	padding: 0;
 }
+
+@media only screen and (max-width: 1000px) {
+	.intro-section.alignCenter {
+		max-width: 85%;
+	}
+
+	.intro-section {
+		padding: 5.5rem 0;
+	}
+
+	.intro-section h2 {
+		font-size: 2.6rem;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.intro-section.alignCenter {
+		max-width: 90%;
+	}
+
+	.intro-section {
+		padding: 4rem 0;
+	}
+
+	.intro-section h2 {
+		font-size: 2rem;
+	}
+
+	.intro-section p {
+		font-size: 1.4rem;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.intro-section h2 {
+		font-size: 1.8rem;
+	}
+}

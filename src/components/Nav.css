@@ -232,21 +232,20 @@
   }
 }
 
-
 @media (max-width: 1150px) {
   .Nav {
     padding: 1.5rem 0;
   }
 
-  .Nav--Container {
+  .Nav .Nav--Container {
     justify-content: flex-start;
   }
 
-  .nav-button {
+   .Nav .nav-button {
     margin: 0 2rem 0 auto;
   }
 
-  .Nav--MenuButton {
+  .Nav .Nav--MenuButton {
     display: block;
     z-index: 1;
   }
@@ -255,7 +254,7 @@
     z-index: 1;
   }
 
-  .Nav--Links {
+  .Nav .Nav--Links {
     display: none;
     align-items: center;
     flex-direction: column;
@@ -270,30 +269,30 @@
     cursor: pointer;
   }
 
-  .NavLink {
+  .Nav .NavLink {
     text-align: center;
   }
 
-  .NavLink span, .NavLink a {
+  .Nav .NavLink span, .Nav .NavLink a {
     font-size: 1.4rem;
   }
 
-  .NavLink:hover {
+  .Nav .NavLink:hover {
     background-color: white;
   }
 
-  .NavLink:hover span,
-  .NavLink:hover a,
-  .NavLink:hover span:after,
-  .NavLink:hover .toggle-subNav {
+  .Nav .NavLink:hover span,
+  .Nav .NavLink:hover a,
+  .Nav .NavLink:hover span:after,
+  .Nav .NavLink:hover .toggle-subNav {
     color: #212121;
   }
 
-  .hasChildren.two-column .subMenu {
+  .Nav .hasChildren.two-column .subMenu {
     padding: 0;
   }
 
-  .hasChildren .subMenu {
+  .Nav .hasChildren .subMenu {
     display: block;
     position: relative;
     top: 0;
@@ -302,27 +301,27 @@
     padding: 0;
   }
 
-  .subMenu .NavLink a {
+  .Nav .subMenu .NavLink a {
     color: #212121;
   }
 
-  .hasChildren:hover .subMenu {
+  .Nav .hasChildren:hover .subMenu {
     opacity: 0;
     visibility: hidden;
     max-height: 0;
   }
 
-  .hasChildren.active .subMenu {
+  .Nav .hasChildren.active .subMenu {
     opacity: 1;
     visibility: visible;
     max-height: 70rem;
   }
 
-  .hasChildren.two-column .subMenu {
+  .Nav .hasChildren.two-column .subMenu {
     display: block;
   }
 
-  .Nav--Links > * + * {
+  .Nav .Nav--Links > * + * {
     margin-left: 0;
     margin-top: 1rem;
   }
@@ -364,5 +363,33 @@
   }
   .Nav .NavLink:nth-of-type(7) {
     animation-delay: 0.6s;
+  }
+}
+
+@media (max-width: 600px) {
+  .Nav {
+    margin-top: 3.3rem;
+  }
+
+  .Nav .Nav--Container {
+    justify-content: space-between;
+  }
+
+  .Nav .nav-button {
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    width: 100%;
+    border-radius: 0;
+    box-shadow: none;
+    background-color: var(--midBlue);
+    color: white;
+    text-align: center;
+  }
+}
+
+@media (max-width: 375px) {
+  .Logo {
+    width: 20rem;
   }
 }
