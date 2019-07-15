@@ -29,8 +29,7 @@ gallery:
   - image: 'https://ucarecdn.com/3dfbea83-3061-440e-914a-998da5674ef3/'
 videoSection:
   imageOverlay: ''
-  video: >-
-    https://www.youtube.com/watch?v=vr0qNXmkUJ8&list=PLNhzc-Os3JK8ExayVzzoHVvP2c0-4_oqt
+  video: ''
 contentColumnTitle: Not your average office Christmas Party!
 contentColumn: >-
   If your Gold Coast Christmas Party has fallen into the 'get me out of here
@@ -85,13 +84,13 @@ contentColumn: >-
   Party info pack we are here to make your life easier.   
 
 
-  If you want to book in your party now and forget about until the day that is
-  totally fine.  We can take care of food, drinks and activities and we will
+  If you want to book in your party now and forget about it until the day that
+  is totally fine.  We can take care of food, drinks and activities and we will
   even provide your team with photos of your cruise afterwards.  It's all part
   of the service.  So you can actually relax and enjoy the party!  
 
 
-  ![](/images/uploads/DJI_0005.jpg)
+  ![](https://ucarecdn.com/e9794a87-7b75-42dc-856b-ef9c741b3f12/)
 
 
   ## The Christmas Party Boats
@@ -104,10 +103,12 @@ accordionSection:
   accordion:
     - dropdownContent: >-
         Our 2 luxurious 10.5 metre resort style sailing catamarans mean we can
-        now cater for larger groups of up to 50 (or even 90 with additional
-        vessels) people – The Spirit Of Gwonda can accommodate up to 30 guests
-        (plus 2 crew) and our new boat the 1000XL has a capacity of 20 (plus 2
-        crew).
+        now cater for larger groups of up to 50 people – The Spirit Of Gwonda
+        can accommodate up to 30 guests (plus 2 crew) and our new boat the
+        1000XL has a capacity of 20 (plus 2 crew).
+
+
+        We can also arrange additional vessels for groups of up to 90 guests.
       title: 1-90 Guest Capacity
     - dropdownContent: >-
         The layout of our boats are ideal for a Christmas party venue and make
@@ -165,11 +166,8 @@ accordionSection:
         We offer a full bar service including competitively priced drinks
         packages.  Alternatively you can choose to BYO drinks.
       title: Fully Catered and licensed or BYO
-    - dropdownContent: >-
-        We love hoisting the sails and switching off the motors. One of the few
-        true sailing experiences you will find on the coast and the only
-        commercial sailing boat capable of taking 30 people.
-      title: ' Experience the delight of Sailing...in complete comfort'
+    - dropdownContent: "**Where do your boats depart from?**\r\n\nOur boats are berthed at D9 and D10 at Marina Mirage. Please see the 'contact us' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.\r\n\n\r\n\n**Where can I park?**\r\n\nThere is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.\r\n\n\r\n\n**What about other transport options?**\r\n\nThere are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.\r  We can also help to arrange bus transfers for larger groups.  \n\n\n\n\r**Can you please help me out with catering/drinks?**\r\n\nYes, we offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.\r\n\n****\n\n**Can I BYO food and drink?**\r\n\nYes if you would like to bring your own food and drinks on board that is completely fine.\r\n\n\r\n\n**Do you have Eskies on board?**\r\n\nYes we do and we also provide ice. The eskies are very large and can be used for food or drink.\r\n\n\r\n\n**Where can we go on our charter?**\r\n\nWe operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper can make recommendations on the day, if you don't wish to swim you could also go up and sail around the millionaires mansions at Sovereign Islands.\r\n\nIn the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.\r\n\n\r\n\n**Will I get seasick?**\r\n\nNope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go\r offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).\r\n\n\r\n\n**What happens if it rains?**\r\n\n\r\n\nFirst of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team."
+      title: Christmas Party FAQ's
   sectionTitle: Why book your Christmas Party with us?
 columnBanner:
   - buttonTitle: BUY NOW
