@@ -148,20 +148,6 @@ accordionSection:
         effective/convenient) if often via Taxi or Uber.
 
 
-        **Are your charters suitable for children?**
-
-
-        Absolutely! We love having kids on board and our crew will often try and
-        include them in the sailing and driving the boat. We also carry a range
-        of beach games suitable for kids including buckets and spades for the
-        littlest family members. The wide and spacious deck area also make the
-        boats wonderful for kids, of course you are always careful with children
-        when it comes to being on the water but as boats go our catamarans would
-        be some of the most family friendly around. Please feel free to contact
-        our team if you have any questions about which boat may be best for your
-        family.
-
-
         **Can I BYO food and drink?**
 
 
