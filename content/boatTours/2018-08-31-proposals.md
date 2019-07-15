@@ -88,10 +88,10 @@ accordionSection:
         adapt to your preference of their involvement on board.    We invite you
         to take a walk around the boat and find a place to chill out with a
         drink and enjoy the beautiful views and the sounds of the water.   When
-        it comes time to pop the question should you wish to use our beautiful
-        'will you marry me' sail simply give our skipper the nod and we will
-        unfurl it at the perfect moment often to the sounds of a favourite song
-        you may have let us know about.
+        it comes time to pop the question should you have planned with our team
+        in advance to use our beautiful 'will you marry me' sail simply give our
+        skipper the nod and we will unfurl it at the perfect moment... often to
+        the sounds of a favourite song you may have let us know about.
       title: What to expect
     - dropdownContent: >-
         * Your partner (and any family if you wish to make it a group event)
