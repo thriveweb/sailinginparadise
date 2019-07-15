@@ -12,8 +12,8 @@ intro: >-
 
 
   Whether you are organising a corporate event, a wedding or a get together with
-  a heap of friends, if you want your next event to be truly special you should
-  talk to us about a Raft Up yacht party.
+  a big group of friends, if you want your next event to be truly special you
+  should talk to us about a Raft Up yacht party.
 
 
   Nothing says 'WOW' more than a fleet of beautiful catamarans sailing together
