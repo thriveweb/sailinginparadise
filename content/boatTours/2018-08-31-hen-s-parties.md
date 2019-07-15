@@ -145,7 +145,7 @@ accordionSection:
 
         * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back
         yet professional nature) we promise you will love them,
-          Check out our-crew page to meet the gang!
+          Check out the ['about us' ](https://sailing-paradise.netlify.com/about/)page to meet the gang!
         * Island Activities for day charters incl. Stand up Paddle Boards, beach
         games and cute inflatables
 
@@ -177,8 +177,8 @@ accordionSection:
         You can take whatever approach you wish towards planning your party and
         we've got your back.  We understand that life gets busy (especially when
         there is a wedding to plan) so if you would like us to take care of
-        things like catering, drinks and cheeky butlers so you can just turn up
-        and enjoy then we will take the helm and sort everything out on your
+        things like catering, drinks and cheeky butlers (so you can just turn up
+        and enjoy), then we will take the helm and organise everything on your
         behalf!  
 
 
@@ -231,7 +231,8 @@ accordionSection:
 
         * Hen's Party Dares
 
-        * Plus some very cheeky games involving our cheeky butlers ha ha
+        * Plus some very cheeky games the girls have dreamed up involving our
+        cheeky butlers ha ha
 
 
 
