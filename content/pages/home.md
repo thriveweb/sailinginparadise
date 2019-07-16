@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: True Paradise
-featuredVideo: '348353390'
+featuredVideo: '347441203'
 featuredSlider:
   - buttonUrl: cruises
     description: 2 hour sunset cruise
