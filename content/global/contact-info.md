@@ -4,6 +4,12 @@ phone: |-
   ### CALL US ON
 
   [0438 915 222](tel:0438915222)
+
+
+
+  ### EMAIL US AT
+
+  ### [EMAIL](mailto:info@sailinginparadise.com.au)
 address: >-
   ### WHERE WE ARE
 
