@@ -144,15 +144,6 @@ class Form extends React.Component {
               <NumericInput className="form-control" min={0} mobile required />
             </label>
             <Select
-              placeholder='Charter Enquiry*'
-              name='charterEnquiry'
-              options={[
-                "Option 1",
-                "Option 2",
-                "Option 3",
-              ]}
-            />
-            <Select
               placeholder='Select a Charter*'
               name='charter'
               selected={formCharter}
@@ -206,13 +197,15 @@ class Form extends React.Component {
             {!!subject && <input type="hidden" name="subject" value={subject} />}
             <input type="hidden" name="form-name" value={name} />
             <div className='form-footer'>
-              <input
-                className="button Form--SubmitButton"
-                type="submit"
-                value="Send"
-                disabled={this.state.disabled}
-              />
-              <ICONButtonArrows />
+              <div>
+                <input
+                  className="button Form--SubmitButton"
+                  type="submit"
+                  value="Send"
+                  disabled={this.state.disabled}
+                />
+                <ICONButtonArrows />
+              </div>
             </div>
           </Fragment>
         )}

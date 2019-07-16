@@ -70,13 +70,19 @@
 }
 
 .BookingForm .form-footer {
+	flex: 0 0 100%;
+	justify-content: flex-start;
+	padding-left: 0;
+}
+
+.BookingForm .form-footer > div {
 	border-bottom: .1rem solid var(--primary);
 	position: relative;
 	margin-top: 4rem;
 	padding: 0;
 }
 
-.BookingForm .form-footer:before, .BookingForm .Form--Label:after {
+.BookingForm .form-footer > div:before, .BookingForm .Form--Label:after {
 	content: '';
 	position: absolute;
 	bottom: 0.3rem;
