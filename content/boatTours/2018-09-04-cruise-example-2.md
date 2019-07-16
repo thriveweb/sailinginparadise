@@ -71,7 +71,8 @@ accordionSection:
       title: Terms and Conditions
   sectionTitle: need to know
 columnBanner:
-  - buttonTitle: Book Now
+  - bookingWidget: "<script type=\"text/javascript\" src=\"https://sailinginparadise.rezdy.com/pluginJs?script=modal\"></script>\n\t\t\t\t\t\t\n<a id=\"button-booking\" class=\"button-booking rezdy rezdy-modal button\" href=\"https://sailinginparadise.rezdy.com\" style=\"background: rgb(0, 82, 241); border: 1px solid rgb(0, 82, 241); color: rgb(255, 255, 255); font: bold 14px/1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;\">Book Now</a>"
+    buttonTitle: Book Now
     buttonUrl: booking-enquiry
     content: >-
       Online bookings available or please feel free to call or email with any
