@@ -76,18 +76,10 @@ class GallerySlider extends Component {
 					<div className='popup-close' onClick={() => this.handlePopup()}>
 						<ICONClose />
 					</div>
-						{image &&
-							<div
-								style={{
-									backgroundImage: `url(${`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-									backgroundSize: 'cover'
-								}}
-								data-src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}
-								className='BackgroundImage absolute lazy'
-							>
-							</div>
-						}
-	    		</div>
+					{image &&
+						<img src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000x/-/format/auto/-/quality/lighter/`} />
+					}
+				</div>	
 			})}
 		</div>
 	}

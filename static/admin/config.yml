@@ -592,7 +592,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Featured Image, name: featuredImage, widget: image, required: false}
           - {label: Button Title, name: buttonTitle, widget: string, required: false}
           - {label: Button Url, name: buttonUrl, widget: string, required: false}
-          - {label: Booking Widget, name: bookingWidget, widget: string, required: false}
+          - {label: Booking Widget, name: bookingWidget, widget: markdown, required: false}
       - label: "Featured Testimonials"
         required: false
         name: "featuredTestimonials"
