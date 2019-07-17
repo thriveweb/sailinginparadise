@@ -31,11 +31,22 @@ class Video extends Component {
 
 		if(homeVideo)
 			return <div className={`video-section homeVideo`}>
-		    <div className='background-video'>
-					<video className='video' preload='true' playsInline autoPlay muted loop>
-						<source src={video} type='video/mp4'></source>
-					</video>
-		    </div>
+				<div className='video-container'>
+					{!videoPlaying &&
+						<div className='overlay-content'>
+							<div className='container'>
+								{title && <h1 className='title-gradient'>{title}</h1>}
+							</div>
+						</div>
+					}
+					<iframe
+						data-src={`https://player.vimeo.com/video/${url}?autoplay=1&start=0&muted=1&modestbranding=1&rel=0&controls=0&loop=1&playlist=${url}&showinfo=0`}
+						frameBorder="0"
+						title="home video"
+						className='lazy'
+					>
+					</iframe>
+				</div>
 				<FeaturedSlider featuredSlider={featuredSlider} featuredBanner={featuredBanner} />
 				<SocialLinks socialMedia={socialMedia} />
 			</div>
