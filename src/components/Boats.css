@@ -1,5 +1,9 @@
+.Boats .intro-section {
+	padding-bottom: 4rem;
+}
+
 .boats-listing {
-	padding: 4rem 0 8rem;
+	padding: 0 0 8rem;
 }
 
 .boat {
