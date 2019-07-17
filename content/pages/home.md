@@ -4,7 +4,7 @@ slug: ''
 title: True Paradise
 featuredVideo: '347441203'
 featuredSlider:
-  - buttonUrl: Sunset & City Lights Cruise
+  - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour sunset cruise
     title: Sunset & City Lights
   - buttonUrl: private-charters
@@ -22,7 +22,7 @@ featuredSlider:
     title: Island Cruise
 featuredBanner:
   buttonTitle: Buy Online
-  buttonUrl: gift-vouchers
+  buttonUrl: cruise/gift-vouchers
   image: 'https://ucarecdn.com/c6031c28-3f5a-4de9-a205-792c02e870ad/'
   title: Gift Vouchers Now Available
 services:
