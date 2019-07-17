@@ -4,7 +4,7 @@ title: 'LULULEMON, Aus'
 cruiseType: Corporate Events
 date: 2018-12-09T12:13:11.332Z
 featuredImage: >-
-  https://ucarecdn.com/2c40991c-5bed-4f4c-8f3b-0c88e065f923/-/crop/1080x1207/0,0/-/preview/
+  https://ucarecdn.com/cf7ad53d-0a8c-49c0-a8b9-2a429a8b07b4/-/crop/902x773/8,202/-/preview/
 videoSection:
   title: ''
 secondaryImage: 'https://ucarecdn.com/fdbddc7f-ca66-4e5a-adb3-9312eba2cfe4/'
