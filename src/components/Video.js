@@ -31,11 +31,11 @@ class Video extends Component {
 
 		if(homeVideo)
 			return <div className={`video-section homeVideo`}>
-		    <div className="background-video">
+				<div className="background-video">
 					<video className="video" preload="true" playsInline autoPlay muted loop>
 						<source src={video} type="video/mp4"></source>
 					</video>
-		    </div>
+				</div>
 				<FeaturedSlider featuredSlider={featuredSlider} featuredBanner={featuredBanner} />
 				<SocialLinks socialMedia={socialMedia} />
 			</div>
