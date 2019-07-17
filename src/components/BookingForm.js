@@ -149,8 +149,8 @@ class Form extends React.Component {
               />
             </label>
             <Select
-              placeholder='Select a Charter*'
-              name='charter'
+              placeholder='Charter Type*'
+              name='charterType'
               required
               selected={formCharter}
               options={[
