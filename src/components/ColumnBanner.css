@@ -63,6 +63,34 @@
 	align-items: center;
 }
 
+.bookingIframe .bannerColumn #button-booking {
+	background: transparent !important;
+	color: var(--primary) !important;
+	border: none !important;
+	border-bottom: 1px solid var(--primary) !important;
+	margin-top: 1.5rem;
+	text-align: left !important;
+	font-size: 1.6rem !important;
+	font-family: var(--fontMain) !important;
+	font-weight: 400 !important;
+	padding: 1.8rem !important;
+}
+
+.bookingIframe .bannerColumn #button-booking:after {
+	content: '';
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	right: 1.8rem;
+	width: 2rem;
+	height: 1rem;
+	background-image: url(/images/button-arrows.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: transparent;
+}
+
 
 @media only screen and (max-width: 1280px) {
 	.bannerColumn {

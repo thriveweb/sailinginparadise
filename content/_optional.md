@@ -146,6 +146,7 @@ siteDescription: ''
 headerScripts: ''
 tourType: ''
 cruiseType: ''
+bookingWidget: ''
 ---
 
 <!--Use this to force Gatsby to deal with optional images-->

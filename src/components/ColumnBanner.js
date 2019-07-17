@@ -13,7 +13,7 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 	if(boatTour) className += ' boatTour'
 
 	if(bookingIframe) return <div className={`bookingIframe columnsBanner${className}`}>
-			{columnBanner.map(({ title, buttonTitle, buttonUrl, featuredImage, content }, index) => {
+			{columnBanner.map(({ title, buttonTitle, buttonUrl, featuredImage, content, bookingWidget }, index) => {
 				if(!title && !content) return <div className='bannerColumn relative overlay' key={index}>
 					{featuredImage &&
 						<div
@@ -43,12 +43,12 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 					<div className='container'>
 						{title && <h2 className='title-gradient'>{title}</h2>}
 						{content && <Content src={content} />}
-
-						{buttonTitle && buttonUrl &&
-							<Link className='button' to={`/${buttonUrl}${charterUrl && `?charter=${charterUrl}`}`}>
-								{buttonTitle}
-								<ICONButtonArrows/>
-							</Link>
+						{bookingWidget
+							? <Content src={bookingWidget} />
+							: <Link className='button' to={`/${buttonUrl}${charterUrl && `?charter=${charterUrl}`}`}>
+									{buttonTitle}
+									<ICONButtonArrows/>
+								</Link>
 						}
 					</div>
 				</div>

@@ -132,6 +132,7 @@ export const pageQuery = graphql`
           content
           title
           featuredImage
+          bookingWidget
         }
         featuredTestimonials {
           title
