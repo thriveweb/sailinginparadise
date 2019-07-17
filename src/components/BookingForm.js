@@ -141,11 +141,17 @@ class Form extends React.Component {
             </label>
             <label className="Form--Label full-width">
               <span>Approx. number of guests*</span>
-              <NumericInput className="form-control" min={0} mobile required />
+              <NumericInput
+                className="form-control"
+                min={0}
+                mobile
+                required
+              />
             </label>
             <Select
               placeholder='Select a Charter*'
               name='charter'
+              required
               selected={formCharter}
               options={[
                 "Raft Ups",
@@ -168,6 +174,7 @@ class Form extends React.Component {
             >
               <DatePicker
                 name='date'
+                required
                 className='Form--Input'
                 selected={this.state.startDate}
                 onChange={this.handleChange}
@@ -177,6 +184,7 @@ class Form extends React.Component {
             <Select
               placeholder='How did you hear about us?*'
               name='source'
+              required
               options={[
                 "Web Search",
                 "Facebook",

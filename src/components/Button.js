@@ -5,11 +5,13 @@ import { ICONButtonArrows } from './Icons'
 
 import './Button.css'
 
-export default ({ title, url, white, className = '', handlePopup }) => {
-
+export default ({ title, url, white, className = '' }) => {
 	if(white) className += ' buttonWhite'
 
-	return <Link className={`button ${className}`} to={`/${_kebabCase(url)}`}>
+	return <Link
+			className={`button ${className}`}
+			to={`/${_kebabCase(url)}`}
+		>
 			{title}
 			<ICONButtonArrows/>
 		</Link>
