@@ -8,9 +8,11 @@ import './Button.css'
 export default ({ title, url, white, className = '' }) => {
 	if(white) className += ' buttonWhite'
 
+	const pathName = url.toLowerCase().replace(' ', '-')
+
 	return <Link
 			className={`button ${className}`}
-			to={`/${_kebabCase(url)}`}
+			to={`/${pathName}`}
 		>
 			{title}
 			<ICONButtonArrows/>
