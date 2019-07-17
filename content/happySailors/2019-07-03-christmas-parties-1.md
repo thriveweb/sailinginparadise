@@ -3,12 +3,11 @@ template: SingleCaseStudy
 title: 'BELLA BRONZE TAN, Aus'
 cruiseType: Christmas Parties
 date: 2018-11-28T01:23:50.165Z
-featuredImage: >-
-  https://ucarecdn.com/32cc2f84-e32b-40e8-91ce-3327f3b01533/-/crop/1080x931/0,106/-/preview/-/enhance/24/
+featuredImage: 'https://ucarecdn.com/fd23a35e-d2bb-417a-bbc3-5ee59e2252bd/'
 videoSection:
   title: ''
 secondaryImage: >-
-  https://ucarecdn.com/df1ec833-2ff2-41cd-a09f-1d083ddb3406/-/crop/1237x1080/183,0/-/preview/
+  https://ucarecdn.com/864bbdb0-c9c9-4fbb-9854-0cec36f596ee/-/crop/904x1000/0,250/-/preview/
 excerpt: >-
   Jasmine – “Highly recommend this company to everyone. We had our Xmas party on
   the 20-person catamaran, and it was even better than expected! So,
