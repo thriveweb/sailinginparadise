@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 import { Link } from 'gatsby'
 import _get from 'lodash/get'
-// import _format from 'date-fns/format'
+import _format from 'date-fns/format'
 
 import Image from './Image'
 import { ICONButtonArrows } from './Icons'
@@ -51,7 +51,7 @@ const PostCard = ({
               itemProp="dateCreated pubdate datePublished"
               date={date}
             >
-              {/* {_format(date, 'MMM YYYY')} */}
+              {_format(date, 'MMM YYYY')}
             </time>
           : contentType !== 'happySailors' && date
             ? <time
@@ -59,7 +59,7 @@ const PostCard = ({
                 itemProp="dateCreated pubdate datePublished"
                 date={date}
               >
-                {/* {_format(date, 'D.MM.YYYY')} */}
+                {_format(date, 'D.MM.YYYY')}
               </time>
             : ''
           }

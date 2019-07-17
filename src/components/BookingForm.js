@@ -5,6 +5,7 @@ import Select from './Select'
 import { ICONButtonArrows } from './Icons'
 import NumericInput from 'react-numeric-input';
 import _get from 'lodash/get'
+import _format from 'date-fns/format'
 
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
@@ -14,12 +15,10 @@ import './BookingForm.css'
 class Form extends React.Component {
   static defaultProps = {
     name: 'Booking Enquiry',
-    subject: 'Testing Form Suject Line', // optional subject of the notification email
     action: '',
     honeypot: 'confirm',
     successMessage: 'Thank you for enquiring about cruise with sailing in paradise, we will be in touch very soon',
-    errorMessage:
-      'There is a problem, your message has not been sent, please try contacting us via email'
+    errorMessage: 'There is a problem, your message has not been sent, please try contacting us via email'
   }
 
   constructor (props) {
@@ -34,14 +33,13 @@ class Form extends React.Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
-
   handleSubmit = e => {
     e.preventDefault()
     if (this.state.disabled) return
-
     const form = e.target
-    const data = serialize(form)
     this.setState({ disabled: true })
+
+    const data = serialize(form)
     fetch(form.action + '?' + stringify(data), {
       method: 'POST'
     })
@@ -68,6 +66,14 @@ class Form extends React.Component {
     })
   }
 
+  handleValueChange = e => {
+    this.setState({
+      [e.target.name]: e.target.value
+    })
+
+    console.log(e.target.value)
+  }
+
   handleChange(date) {
     this.setState({
       startDate: date
@@ -81,14 +87,17 @@ class Form extends React.Component {
   }
 
   render() {
-    const { name, subject, action, honeypot } = this.props
-    const { labelDisplay } = this.state
+    const { name, action, honeypot } = this.props
+    const { labelDisplay, startDate, ...data } = this.state
 
     const location = _get(this.props, 'location') || {}
     const search = _get(location, 'search') || ''
 
     const query = search ? parse(search.replace('?', '')) : ''
     const formCharter = query.charter
+
+    const formatting = <time itemProp="dateCreated pubdate datePublished" date={startDate}>{_format(startDate, 'MMM DD YYYY')}</time>
+    const date = _get(formatting, 'props,children') || ''
 
     return (
       <form
@@ -110,6 +119,7 @@ class Form extends React.Component {
                 type="text"
                 placeholder="Name*"
                 name="name"
+                onChange={this.handleValueChange}
                 required
               />
             </label>
@@ -119,6 +129,7 @@ class Form extends React.Component {
                 type="email"
                 placeholder="Email*"
                 name="emailAddress"
+                onChange={this.handleValueChange}
                 required
               />
             </label>
@@ -128,6 +139,7 @@ class Form extends React.Component {
                 type="text"
                 placeholder="Company Name"
                 name="companyName"
+                onChange={this.handleValueChange}
               />
             </label>
             <label className="Form--Label">
@@ -136,6 +148,7 @@ class Form extends React.Component {
                 type="text"
                 placeholder="Phone*"
                 name="phone"
+                onChange={this.handleValueChange}
                 required
               />
             </label>
@@ -152,6 +165,7 @@ class Form extends React.Component {
               placeholder='Charter Type*'
               name='charterType'
               selected={formCharter}
+              handleValueChange={this.handleValueChange}
               options={[
                 "Raft Ups",
                 "Hens Parties",
@@ -178,11 +192,15 @@ class Form extends React.Component {
                 selected={this.state.startDate}
                 onChange={this.handleChange}
               />
-              <p className={`date-label ${labelDisplay ? 'active' : ''}`}>Preferred Date* <span>(if unsure please select any date within Preffered month)</span></p>
+              <p className={`date-label ${labelDisplay ? 'active' : ''}`}>
+                Preferred Date*
+                <span>(if unsure please select any date within Preffered month)</span>
+              </p>
             </div>
             <Select
               placeholder='How did you hear about us?*'
               name='source'
+              valueChange={this.handleValueChange}
               options={[
                 "Web Search",
                 "Facebook",
@@ -200,7 +218,7 @@ class Form extends React.Component {
               className="Form--Input-honey"
               placeholder="Leave blank if you are a human"
             />
-            {!!subject && <input type="hidden" name="subject" value={subject} />}
+            <input type="hidden" name="subject" value={`${date}`} />
             <input type="hidden" name="form-name" value={name} />
             <div className='form-footer'>
               <div>

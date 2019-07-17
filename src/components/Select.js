@@ -14,7 +14,6 @@ class Select extends Component {
     const { selected } = this.props
     const current = this.mySelect.current
 
-
     this.setState({
       active: selected && selected.replace(/-/g, ' ')
     })
@@ -36,13 +35,17 @@ class Select extends Component {
     const activeOption = active && active.toLowerCase()
 
     return <label className={`Form--Label`} ref={this.mySelect}>
-      <select style={{display: 'none'}} name={name} required>
+      <select
+        style={{display: 'none'}}
+        name={name}
+        onChange={this.props.handleValueChange}
+      >
         {options.map((option, index) =>
           <option
             key={option}
             value={option}
             selected={option.toLowerCase() === activeOption ? true : null}
-            >
+          >
             {option}
           </option>
         )}
