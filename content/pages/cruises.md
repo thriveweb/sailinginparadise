@@ -10,5 +10,9 @@ intro: >-
   If you are travelling alone or have a smaller group and don't mind sharing
   your experience with other guests, consider one of our ticketed tour options
   (subject to availability).
+
+
+  See our current specials **'Adults at Kids Prices'** on the Sunset Cruise and
+  Island Cruises.
 ---
 
