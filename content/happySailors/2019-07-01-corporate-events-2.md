@@ -3,11 +3,10 @@ template: SingleCaseStudy
 title: 'LULULEMON, Aus'
 cruiseType: Corporate Events
 date: 2018-12-09T12:13:11.332Z
-featuredImage: >-
-  https://ucarecdn.com/cf7ad53d-0a8c-49c0-a8b9-2a429a8b07b4/-/crop/902x773/8,202/-/preview/
+featuredImage: 'https://ucarecdn.com/2200414e-8ea2-41d8-8f04-638c64940892/'
 videoSection:
   title: ''
-secondaryImage: 'https://ucarecdn.com/fdbddc7f-ca66-4e5a-adb3-9312eba2cfe4/'
+secondaryImage: 'https://ucarecdn.com/36421cac-44b7-4a13-90d0-9ccee94321ea/'
 excerpt: >-
   Tristan - “Sailing in Paradise allowed Lululemon to throw an incredible event
   that was full of unforgettable experiences and good times!” Facebook and
