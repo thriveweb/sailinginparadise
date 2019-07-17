@@ -21,8 +21,8 @@ featuredSlider:
       of fun activities.
     title: Island Adventure Cruise
 featuredBanner:
-  buttonTitle: Discover More
-  buttonUrl: contact
+  buttonTitle: Buy Online
+  buttonUrl: gift-vouchers
   image: 'https://ucarecdn.com/c6031c28-3f5a-4de9-a205-792c02e870ad/'
   title: Gift Cards Now Available
 services:
