@@ -3,7 +3,7 @@ template: SingleCaseStudy
 title: 'Mbo, Aus'
 cruiseType: Island Cruise
 date: 2019-01-19T04:58:56.382Z
-featuredImage: 'https://ucarecdn.com/9d883d75-3ef4-42bf-9951-8c4a047abe3f/'
+featuredImage: 'https://ucarecdn.com/70e568ae-3198-4ac4-bfec-90ecc0469149/'
 videoSection:
   title: ''
 secondaryImage: 'https://ucarecdn.com/742175a3-3db7-4446-9ba3-4f1949d210cb/'
