@@ -24,7 +24,7 @@ featuredBanner:
   buttonTitle: Buy Online
   buttonUrl: gift-vouchers
   image: 'https://ucarecdn.com/c6031c28-3f5a-4de9-a205-792c02e870ad/'
-  title: Gift Cards Now Available
+  title: Gift Vouchers Now Available
 services:
   - image: 'https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/'
     serviceContent:
