@@ -25,4 +25,4 @@ gallery:
       https://ucarecdn.com/2349576f-56d2-4e2b-8657-578a4a5efa89/-/crop/1068x1231/0,369/-/preview/
   - image: 'https://ucarecdn.com/063d7e34-0393-4864-91ee-f25fde8bf46c/'
 ---
-Sometimes planning corporate events can be overwhelming and stressful. Our team do as much as we can to take away any stress and look after you just like we did with Tash and her colleagues, which was a success. From the beginning with organizing the event/catering, right until the very end when you don’t want to get off the boat!
+Sometimes planning corporate events can be time consuming and stressful. Our team do as much as we can to simplify the process in hosting an event on board to ensure your event runs smoothly. From the organisation of catering/beverages/crew, right until the very end when you don’t want to get off the boat!
