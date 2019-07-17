@@ -28,6 +28,18 @@ class Select extends Component {
     })
   }
 
+  componentDidUpdate = (props, state) => {
+    if(state.active !== this.state.active && this.props.handleValueChange) {
+
+      this.props.handleValueChange({
+        target: {
+          value: this.state.active,
+          name: this.props.name
+        }
+      })
+    }
+  }
+
   render() {
     const { name, options, placeholder } = this.props
     const { active, activeDropdown = false } = this.state
@@ -36,10 +48,11 @@ class Select extends Component {
 
     return <label className={`Form--Label`} ref={this.mySelect}>
       <select
-        style={{display: 'none'}}
         name={name}
         onChange={this.props.handleValueChange}
+        required
       >
+        <option value=''>Please select an option</option>
         {options.map((option, index) =>
           <option
             key={option}
@@ -58,7 +71,11 @@ class Select extends Component {
           {options.map(option =>
             <li
               key={option}
-              onClick={() => this.setState({ active: option.toLowerCase(), activeDropdown: false })}
+              onClick={() =>
+                this.setState({
+                  active: option.toLowerCase(),
+                  activeDropdown: false
+                })}
               className={option === activeOption ? 'active' : ''}
             >
               {option}

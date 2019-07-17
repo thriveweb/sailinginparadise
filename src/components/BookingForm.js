@@ -5,6 +5,7 @@ import Select from './Select'
 import { ICONButtonArrows } from './Icons'
 import NumericInput from 'react-numeric-input';
 import _get from 'lodash/get'
+import _startCase from 'lodash/startCase'
 import _format from 'date-fns/format'
 
 import DatePicker from 'react-datepicker';
@@ -36,10 +37,19 @@ class Form extends React.Component {
   handleSubmit = e => {
     e.preventDefault()
     if (this.state.disabled) return
+
     const form = e.target
     this.setState({ disabled: true })
 
     const data = serialize(form)
+
+    console.log(data)
+
+    if(true === true) {
+      this.setState({ disabled: false })
+    }
+
+    return null
     fetch(form.action + '?' + stringify(data), {
       method: 'POST'
     })
@@ -70,8 +80,6 @@ class Form extends React.Component {
     this.setState({
       [e.target.name]: e.target.value
     })
-
-    console.log(e.target.value)
   }
 
   handleChange(date) {
@@ -97,7 +105,8 @@ class Form extends React.Component {
     const formCharter = query.charter
 
     const formatting = <time itemProp="dateCreated pubdate datePublished" date={startDate}>{_format(startDate, 'MMM DD YYYY')}</time>
-    const date = _get(formatting, 'props,children') || ''
+    const date = _get(formatting, 'props.children') || ''
+    const charterType = _get(this, 'state.charterType')
 
     return (
       <form
@@ -183,7 +192,6 @@ class Form extends React.Component {
             />
             <div
               className="Form--Label date-section"
-              onClick={this.handleClick}
             >
               <DatePicker
                 name='date'
@@ -191,8 +199,9 @@ class Form extends React.Component {
                 className='Form--Input'
                 selected={this.state.startDate}
                 onChange={this.handleChange}
+                autoComplete='off'
               />
-              <p className={`date-label ${labelDisplay ? 'active' : ''}`}>
+              <p className={`date-label ${this.state.startDate ? 'active' : ''}`}>
                 Preferred Date*
                 <span>(if unsure please select any date within Preffered month)</span>
               </p>
@@ -200,7 +209,6 @@ class Form extends React.Component {
             <Select
               placeholder='How did you hear about us?*'
               name='source'
-              valueChange={this.handleValueChange}
               options={[
                 "Web Search",
                 "Facebook",
@@ -218,7 +226,7 @@ class Form extends React.Component {
               className="Form--Input-honey"
               placeholder="Leave blank if you are a human"
             />
-            <input type="hidden" name="subject" value={`${date}`} />
+            <input type="hidden" name="subject" value={`${_startCase(charterType)} - ${date}`} />
             <input type="hidden" name="form-name" value={name} />
             <div className='form-footer'>
               <div>
