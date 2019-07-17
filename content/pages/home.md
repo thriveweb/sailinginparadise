@@ -22,7 +22,7 @@ featuredSlider:
     title: Island Cruise
 featuredBanner:
   buttonTitle: Buy Online
-  buttonUrl: cruise/gift-vouchers
+  buttonUrl: cruise/gift-voucherS
   image: 'https://ucarecdn.com/c6031c28-3f5a-4de9-a205-792c02e870ad/'
   title: Gift Vouchers Now Available
 services:
