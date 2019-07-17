@@ -14,7 +14,7 @@ import './BookingForm.css'
 class Form extends React.Component {
   static defaultProps = {
     name: 'Booking Enquiry',
-    subject: '', // optional subject of the notification email
+    subject: 'Testing Form Suject Line', // optional subject of the notification email
     action: '',
     honeypot: 'confirm',
     successMessage: 'Thank you for enquiring about cruise with sailing in paradise, we will be in touch very soon',
@@ -183,7 +183,6 @@ class Form extends React.Component {
             <Select
               placeholder='How did you hear about us?*'
               name='source'
-              required
               options={[
                 "Web Search",
                 "Facebook",
@@ -201,7 +200,7 @@ class Form extends React.Component {
               className="Form--Input-honey"
               placeholder="Leave blank if you are a human"
             />
-            {!!subject && <input type="hidden" name="subject" value={`${charterType}, ${date}`} />}
+            {!!subject && <input type="hidden" name="subject" value={subject} />}
             <input type="hidden" name="form-name" value={name} />
             <div className='form-footer'>
               <div>
