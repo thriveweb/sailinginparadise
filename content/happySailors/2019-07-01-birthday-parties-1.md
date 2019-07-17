@@ -37,4 +37,4 @@ gallery:
       https://ucarecdn.com/c0dd692e-3316-4d41-a78e-a6c27d321bed/-/crop/1021x1162/0,164/-/preview/
   - {}
 ---
-We love surprise birthday's! Kalina organized an afternoon private charter with us to celebrate her boyfriend’s 40th birthday. The excitement was felt as we all watched her lead the blindfolded birthday boy to the boat while playing his favourite song. Kalina opted for catering with a private chef, an ideal option for stress-free planning. While lunch was all being taken care of by the chef, Kalina and her guests were out there having a blast and showed us one of the best volleyball rallies’ we have ever seen!
+We love surprise birthdays! Kalina organized an afternoon private charter with us to celebrate her boyfriend’s 40th birthday. The excitement was felt as we all watched her lead the blindfolded birthday boy to the boat while playing his favourite song. Kalina opted for catering with a private chef, an ideal option for stress-free planning. While lunch was all being taken care of by the chef, Kalina and her guests were out there having a blast and showed us one of the best volleyball rallies’ we have ever seen!
