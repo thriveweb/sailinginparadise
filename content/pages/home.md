@@ -4,7 +4,7 @@ slug: ''
 title: True Paradise
 featuredVideo: '347441203'
 featuredSlider:
-  - buttonUrl: cruise/sunset-city-lights-cruise
+  - buttonUrl: Sunset & City Lights Cruise
     description: 2 hour sunset cruise
     title: Sunset & City Lights
   - buttonUrl: private-charters
