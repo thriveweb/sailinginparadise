@@ -4,22 +4,22 @@ slug: ''
 title: True Paradise
 featuredVideo: '347441203'
 featuredSlider:
-  - buttonUrl: cruises
+  - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour sunset cruise
     title: Sunset & City Lights
-  - buttonUrl: cruises
+  - buttonUrl: private-charters
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
     title: Private Skippered Boat Hire
-  - buttonUrl: Hens
+  - buttonUrl: private-charter/hens-parties
     description: >-
       We are the hens party specialists. Let us create a truly special event for
       you and your friends.
     title: Gold Coast Hens Party
-  - buttonUrl: cruises
+  - buttonUrl: cruise/island-cruise
     description: >-
       3 hour afternoon cruise with an Island stopover, light lunch and a range
       of fun activities.
-    title: Island Adventure Cruise
+    title: Island Cruise
 featuredBanner:
   buttonTitle: Buy Online
   buttonUrl: gift-vouchers
