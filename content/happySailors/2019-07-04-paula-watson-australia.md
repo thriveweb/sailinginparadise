@@ -4,7 +4,7 @@ title: 'Paula, Aus'
 cruiseType: Hen's Parties
 date: 2019-01-11T14:00:00.000Z
 featuredImage: >-
-  https://ucarecdn.com/89f53542-43d2-41e7-8a3f-8587525f5e37/-/crop/497x522/0,0/-/preview/
+  https://ucarecdn.com/89f53542-43d2-41e7-8a3f-8587525f5e37/-/crop/446x615/0,63/-/preview/
 videoSection:
   title: ''
 secondaryImage: 'https://ucarecdn.com/a4bbb762-9b58-4333-8ba7-7defb1ed5153/'
