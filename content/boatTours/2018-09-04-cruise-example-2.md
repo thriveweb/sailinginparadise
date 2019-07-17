@@ -25,6 +25,25 @@ intro: >-
 
 
   Read on for more...
+
+
+
+
+
+
+  > **SPECIAL OFFER**
+
+  >
+
+  > Adults at kids prices
+
+  >
+
+  > Adult - was $79 - NOW $69
+
+  >
+
+  > Kids      - was $69   - NOW $49
 contentBox:
   buttonTitle: BOOK NOW
   buttonUrl: booking-enquiry
