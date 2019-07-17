@@ -6,8 +6,7 @@ date: 2018-11-23T12:00:45.085Z
 featuredImage: 'https://ucarecdn.com/691af594-89f2-4027-abe7-e78fe042fb7b/-/preview/'
 videoSection:
   title: ''
-secondaryImage: >-
-  https://ucarecdn.com/822bd00d-112b-4828-b79d-70688e06beb8/-/crop/1381x1053/124,0/-/preview/-/enhance/67/
+secondaryImage: 'https://ucarecdn.com/349896a2-de1e-40cb-97c9-35dff33a14a6/'
 excerpt: >-
   Mary - “Great team outing - comfortable vessel with all the necessary
   amenities. The crew were a great fit, and ensured we had everything we needed.
