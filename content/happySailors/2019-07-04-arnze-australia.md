@@ -3,7 +3,8 @@ template: SingleCaseStudy
 title: 'Arnze, Aus'
 cruiseType: Private Charters
 date: 2018-12-31T14:00:00.000Z
-featuredImage: 'https://ucarecdn.com/5320f37f-492b-491e-8cbd-2da5c59e2d2e/'
+featuredImage: >-
+  https://ucarecdn.com/5320f37f-492b-491e-8cbd-2da5c59e2d2e/-/crop/517x557/448,342/-/preview/
 videoSection:
   title: ''
 secondaryImage: 'https://ucarecdn.com/9597fdc7-761e-44cb-8ca2-b0f41f2d31c6/'
