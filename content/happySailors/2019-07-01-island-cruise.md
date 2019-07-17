@@ -3,7 +3,8 @@ template: SingleCaseStudy
 title: 'Mariella, Aus'
 cruiseType: Island Cruise
 date: 2018-11-05T04:41:08.733Z
-featuredImage: 'https://ucarecdn.com/6024f67e-1b7f-42bc-a2e0-1cda35c0b7ec/'
+featuredImage: >-
+  https://ucarecdn.com/6024f67e-1b7f-42bc-a2e0-1cda35c0b7ec/-/crop/989x993/0,73/-/preview/
 videoSection:
   title: ''
 secondaryImage: 'https://ucarecdn.com/fcb66fe4-04ad-4dfd-86ac-ca334d31ce3b/'
