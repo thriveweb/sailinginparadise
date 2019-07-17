@@ -3,10 +3,10 @@ template: SingleCaseStudy
 title: 'Mariella, Aus'
 cruiseType: Island Cruise
 date: 2018-11-05T04:41:08.733Z
-featuredImage: 'https://ucarecdn.com/d8f6166b-2a66-4813-86d1-5ebdf6fc1830/'
+featuredImage: 'https://ucarecdn.com/6024f67e-1b7f-42bc-a2e0-1cda35c0b7ec/'
 videoSection:
   title: ''
-secondaryImage: 'https://ucarecdn.com/23c8e1c3-64c7-4069-86b4-90c1bd13d17e/'
+secondaryImage: 'https://ucarecdn.com/fcb66fe4-04ad-4dfd-86ac-ca334d31ce3b/'
 excerpt: >-
   “Sooo good!  Nicest boat that takes you out on the water to wave break
   island!  there was beach volleyball, stand up paddle boarding, and floatable
