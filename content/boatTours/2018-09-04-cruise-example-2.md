@@ -71,7 +71,7 @@ accordionSection:
       title: Terms and Conditions
   sectionTitle: need to know
 columnBanner:
-  - bookingWidget: "<script type=\"text/javascript\" src=\"https://sailinginparadise.rezdy.com/pluginJs?script=modal\"></script>\n\t\t\t\t\t\t\n<a id=\"button-booking\" class=\"button-booking rezdy rezdy-modal\" href=\"https://sailinginparadise.rezdy.com/288932/experience-oz-copy-of-gold-coast-3-hour-island-adventure-cruise\" style=\"background: rgb(0, 82, 241); border: 1px solid rgb(0, 82, 241); color: rgb(255, 255, 255); font: bold 14px/1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;\">Book Now</a>"
+  - bookingWidget: "<script type=\"text/javascript\" src=\"https://sailinginparadise.rezdy.com/pluginJs?script=modal\"></script>\r\n\n\t\t\t\t\t\t\r\n\n\t\t\t\t\t\t<a id=\"button-booking\" class=\"button-booking rezdy rezdy-modal\" href=\"https://sailinginparadise.rezdy.com/265343/gold-coast-3-hour-island-adventure-cruise\" style=\"background: rgb(0, 82, 241); border: 1px solid rgb(0, 82, 241); color: rgb(255, 255, 255); font: bold 14px/1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;\">Book Now</a>"
     buttonTitle: Book Now
     buttonUrl: booking-enquiry
     content: >-
