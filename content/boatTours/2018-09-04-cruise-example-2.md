@@ -75,9 +75,9 @@ columnBanner:
     buttonTitle: Book Now
     buttonUrl: booking-enquiry
     content: >-
-      Online bookings available or please feel free to call or email with any
-      questions or to request a new date (if you cannot see your preferred date
-      as available).
+      Online bookings available or please feel free to call or [email
+      ](mailto:info@sailinginparadise.com.au)with any questions or to request a
+      new date (if you cannot see your preferred date as available).
     title: Book your Gold Coast Island Cruise Today
     featuredImage: ''
   - featuredImage: 'https://ucarecdn.com/bf0f3f38-142e-4ba9-b40a-9d299c54ab38/'
