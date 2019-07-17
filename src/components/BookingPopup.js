@@ -10,7 +10,7 @@ class Popup extends Component {
 
 	render() {
 		const { title, contentBoxes, classActive, handlePopup } = this.props
-		const currentPage = window.location.pathname
+		// const currentPage = window.location.pathname
 
 		return <section className={`booking-popup ${classActive}`}>
 			<div className='container skinny'>
