@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
-// import _format from 'date-fns/format'
+import _format from 'date-fns/format'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
@@ -15,7 +15,7 @@ import './SingleCaseStudy.css'
 
 export const SingleCaseStudyTemplate = ({
   title,
-  name,
+  cruiseType,
   date,
   featuredImage,
   videoSection,
@@ -46,12 +46,12 @@ export const SingleCaseStudyTemplate = ({
             />
           )
         })}
- 
+
       <div className="container">
         <div className="SingleCaseStudy--Content">
-          {name && <h2>{name}</h2>}
+          {title && <h2>{title}</h2>}
           <div className="SinglePost--Meta">
-            {title && <p>{title}</p>}
+            {cruiseType && <p>{cruiseType}</p>}
             {date && (
               <Fragment>
                 <span>|</span>
@@ -60,7 +60,7 @@ export const SingleCaseStudyTemplate = ({
                   itemProp="dateCreated pubdate datePublished"
                   date={date}
                 >
-                  {/* {_format(date, 'MMMM, YYYY')} */}
+                  {_format(date, 'MMMM, YYYY')}
                 </time>
               </Fragment>
             )}
@@ -142,7 +142,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        name
+        cruiseType
         date
         excerpt
         featuredImage
