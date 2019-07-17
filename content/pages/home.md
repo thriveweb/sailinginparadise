@@ -44,7 +44,7 @@ services:
       title: Ticketed Cruises
   - image: 'https://ucarecdn.com/8b52eb78-1a5d-4e8d-b370-673f86813142/'
     serviceContent:
-      buttonUrl: boat-tours/hens-parties
+      buttonUrl: private-charter/hens-parties
       description: >-
         A unique hen’s party idea on the Gold Coast. Whether you are looking for
         a relaxing day on the water with some delicious food and drinks, an
