@@ -151,7 +151,6 @@ class Form extends React.Component {
             <Select
               placeholder='Charter Type*'
               name='charterType'
-              required
               selected={formCharter}
               options={[
                 "Raft Ups",
@@ -202,7 +201,7 @@ class Form extends React.Component {
               className="Form--Input-honey"
               placeholder="Leave blank if you are a human"
             />
-            {!!subject && <input type="hidden" name="subject" value={subject} />}
+            {!!subject && <input type="hidden" name="subject" value={`${charterType}, ${date}`} />}
             <input type="hidden" name="form-name" value={name} />
             <div className='form-footer'>
               <div>
