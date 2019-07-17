@@ -3,11 +3,10 @@ template: SingleCaseStudy
 title: 'Paula, Aus'
 cruiseType: Hen's Parties
 date: 2019-01-11T14:00:00.000Z
-featuredImage: >-
-  https://ucarecdn.com/89f53542-43d2-41e7-8a3f-8587525f5e37/-/crop/446x615/0,63/-/preview/
+featuredImage: 'https://ucarecdn.com/6ba35e39-83eb-4d89-be64-08e3c78c7f0d/'
 videoSection:
   title: ''
-secondaryImage: 'https://ucarecdn.com/a4bbb762-9b58-4333-8ba7-7defb1ed5153/'
+secondaryImage: 'https://ucarecdn.com/7252b4d4-6298-4499-a517-f9b724a7a971/'
 excerpt: >-
   “We had my friends hens on Saturday night and these guys were amazing!! Food
   was great, staff were so friendly and happy to help with anything. Everyone on
@@ -18,8 +17,6 @@ gallery:
   - image: 'https://ucarecdn.com/2d05dcb0-994e-4bb5-8279-21ef0c449094/'
   - image: 'https://ucarecdn.com/a2c1b952-9240-4b65-acec-b3655cea3e52/'
   - image: 'https://ucarecdn.com/5bf3ae97-e5db-460a-ba0a-d83f653306b8/'
-  - image: >-
-      https://ucarecdn.com/f44b67e0-3fba-4cef-914a-ad49adcb3645/-/crop/1080x1051/0,149/-/preview/
 meta:
   noindex: false
 ---
