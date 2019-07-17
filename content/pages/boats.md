@@ -43,7 +43,7 @@ boats:
     gallery:
       - image: 'https://ucarecdn.com/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e/'
       - image: 'https://ucarecdn.com/9a68ca1c-1414-4282-990c-1656ba923df9/'
-      - image: 'https://ucarecdn.com/df65a29e-adac-4b7a-9aea-06a0fad34f95/'
+      - image: 'https://ucarecdn.com/b4693d47-05c4-4b1c-a1ff-877201630d9d/'
       - image: 'https://ucarecdn.com/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273/'
     title: spirit Of Gwonda
     featuredImage: 'https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/'
