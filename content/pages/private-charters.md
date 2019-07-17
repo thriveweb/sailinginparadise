@@ -47,8 +47,8 @@ chartersListing:
   - tours: Sightseeing
   - tours: Proposals
   - tours: Romantic Sails
-  - tours: Family Gatherings
-  - tours: Memorials
+  - tours: Family Charters
+  - tours: Memorials/ Scattering of Ashes at Sea
   - tours: Private Charters
 ---
 
