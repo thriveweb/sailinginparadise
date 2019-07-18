@@ -3,6 +3,7 @@ import _get from 'lodash/get'
 import { Link } from 'gatsby'
 import Button from './Button'
 import Content from './Content'
+import Image from './Image'
 
 import './TestimonialSlider.css'
 
@@ -52,36 +53,31 @@ class Slider extends Component {
             </div>
             <div className='slider'>
                 {testimonials.map(({ frontmatter, fields }, index) => {
-                        const { title, excerpt, featuredImage } = frontmatter
-                        const { slug } = fields
-                        const contentLimited = excerpt.slice(0, 220)
-                        const content = excerpt.length > contentLimited.length ? contentLimited + '...' : contentLimited
-                    return <div
-                            className={`slide ${
-                                activeSlide === index ? 'active' : ''
-                            }${
-                                prevSlide === index  ? 'slide-prev' : ''
-                            }${
-                                nextIndex === index ? 'slide-next' : ''
-                            }`}
-                            key={index}
-                            onClick={() => this.setState({ activeSlide: index })}
-                          >
-                            {featuredImage &&
-                              <div
-                                style={{
-                                  backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-                                  backgroundSize: 'cover'
-                                }}
-                                data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/200/`}
-                                className='BackgroundImage absolute img-thumbnail lazy'
-                              >
-                              </div>
-                            }
-                            {title && <p className='title'>{title}</p>}
-                            {content && <Content src={content} />}
-                            <Link className='read-more' to={slug}>see more</Link>
-                        </div>
+                  const { title, excerpt, featuredImage } = frontmatter
+                  const { slug } = fields
+                  const contentLimited = excerpt.slice(0, 220)
+                  const content = excerpt.length > contentLimited.length ? contentLimited + '...' : contentLimited
+
+                  return <div
+                        className={`slide ${
+                            activeSlide === index ? 'active' : ''
+                        }${
+                            prevSlide === index  ? 'slide-prev' : ''
+                        }${
+                            nextIndex === index ? 'slide-next' : ''
+                        }`}
+                        key={index}
+                        onClick={() => this.setState({ activeSlide: index })}
+                      >
+                        {featuredImage &&
+                          <div className='img-thumbnail'>
+                            <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/200/`} />
+                          </div>
+                        }
+                        {title && <p className='title'>{title}</p>}
+                        {content && <Content src={content} />}
+                        <Link className='read-more' to={slug}>see more</Link>
+                    </div>
                 })}
                 <div className='slider-dots'>
                     {testimonials.map(({ title }, index) =>

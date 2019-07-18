@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 import Button from './Button'
+import Image from './Image'
 
 import './FeaturedSlider.css'
 
@@ -60,17 +61,7 @@ class FeaturedSlider extends Component {
 		    	</Slider>
 			</div>
 			<div className='featuredBanner relative'>
-        {image &&
-          <div
-            style={{
-              backgroundImage: `url(${`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-              backgroundSize: 'cover'
-            }}
-            data-src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`}
-            className='BackgroundImage absolute lazy'
-          >
-          </div>
-        }
+        {image && <Image background src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`} />}
 				<div className='bannerContent'>
 					{title && <h3>{title}</h3>}
 					{buttonTitle && buttonUrl && <Button title={buttonTitle} url={buttonUrl} white />}

@@ -30,17 +30,7 @@ const PostCard = ({
   return <Link to={slug} className={`PostCard ${className}`}>
       {featuredImage && (
         <div className="PostCard--Image relative">
-          {featuredImage &&
-            <div
-              style={{
-                backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-                backgroundSize: 'cover'
-              }}
-              data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}
-              className='BackgroundImage absolute lazy'
-            >
-            </div>
-          }
+          {featuredImage && <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`} />}
         </div>
       )}
       <div className="PostCard--Content">

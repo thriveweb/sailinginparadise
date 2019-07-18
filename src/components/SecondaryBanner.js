@@ -1,5 +1,6 @@
 import React from 'react'
 import Button from './Button'
+import Image from './Image'
 
 import './SecondaryBanner.css'
 
@@ -10,16 +11,7 @@ export default ({ title, subtitle, featuredImage, buttonTitle, buttonUrl, large,
 	if(!featuredImage) return null
 
 	return <div className={`secondary-banner relative overlay ${className}`}>
-			{featuredImage &&
-				<div
-					style={{
-						backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-						backgroundSize: 'cover'
-					}}
-					data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000x/`}
-					className='BackgroundImage absolute lazy'
-				></div>
-			}
+			{featuredImage && <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000x/`} />}
 			<div className='container'>
 				{title && <h2 className='title-gradient'>{title}</h2>}
 				{subtitle && <h4>{subtitle}</h4>}

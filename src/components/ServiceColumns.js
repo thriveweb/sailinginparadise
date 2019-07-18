@@ -30,37 +30,17 @@ export default ({ services, serviceBanner }) => {
 						{buttonUrl && <Button title='Know More' url={buttonUrl} />}
 					</div>
 					<div className='serviceImage relative'>
-						{image &&
-							<div
-								style={{
-									backgroundImage: `url(${`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-									backgroundSize: 'cover'
-								}}
-								data-src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}
-								className='BackgroundImage absolute lazy'
-							>
-							</div>
-						}
+						{image && <Image background src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`} />}
 					</div>
 				</Fragment>
 			})}
 		</div>
 		<div className='serviceBanner'>
+			{featuredImage && <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1400/`} />}
 			<div className='serviceBanner-Content'>
 				{title && <p>{title}</p>}
 				{subtitle && <h3>{subtitle}</h3>}
 				{buttonTitle && buttonUrl && <Button title={buttonTitle} url={buttonUrl} white />}
-				{featuredImage &&
-					<div
-						style={{
-							backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-							backgroundSize: 'cover'
-						}}
-						data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1400/`}
-						className='BackgroundImage absolute lazy'
-					>
-					</div>
-				}
 			</div>
 		</div>
 	</section>

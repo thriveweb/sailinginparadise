@@ -92,7 +92,7 @@
 	margin: 0;
 }
 
-.serviceBanner-Content .BackgroundImage:before {
+.serviceBanner:before {
 	content: '';
 	position: absolute;
 	top: 0;
