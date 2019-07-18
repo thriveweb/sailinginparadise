@@ -60,7 +60,9 @@ export const SingleBoatTourTemplate = ({
       {gallery && <GallerySlider gallery={gallery} />}
       {videoSection && <Video {...videoSection} />}
       {contentColumn && (
-        <IntroText content={contentColumn} title={contentColumnTitle} />
+        <div className='boat-content-column'>
+          <IntroText content={contentColumn} title={contentColumnTitle} />
+        </div>
       )}
       <Accordion accordionSection={accordionSection} />
       {columnBanner &&

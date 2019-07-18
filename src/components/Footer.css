@@ -4,6 +4,10 @@
   border-top: 4rem solid var(--midBlue);
 }
 
+.Footer .share-buttons {
+  margin-top: 3rem;
+}
+
 .Footer .share-buttons a {
 	border-color: white;
 }

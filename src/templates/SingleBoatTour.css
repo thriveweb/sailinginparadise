@@ -12,3 +12,8 @@
 	flex: 0 0 60%;
 	margin-right: 15%;
 }
+
+.boat-content-column {
+	display: flex;
+	justify-content: center;
+}
