@@ -23,6 +23,10 @@
   margin-left: 2rem;
 }
 
+.PostCategoriesNav .NavLink:first-of-type {
+  margin-left: 0;
+}
+
 .PostCategoriesNav .NavLink:hover {
   background-color: transparent;
   color: var(--primary);

@@ -21,33 +21,6 @@ class PostSection extends React.Component {
   increaseLimit = () => {
     this.setState({
       limit: this.state.limit + this.props.perPageLimit
-    }, () => {
-      var lazyImages = [].slice.call(document.querySelectorAll(".lazy"));
-
-      if ("IntersectionObserver" in window) {
-        let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
-          entries.forEach(function(entry) {
-            if (entry.isIntersecting) {
-              let lazyImage = entry.target;
-
-              if(lazyImage.dataset.src) {
-                if(lazyImage.classList.contains('BackgroundImage')) {
-                  lazyImage.style.backgroundImage = `url(${lazyImage.dataset.src})`;
-                }  else {
-                  lazyImage.src = lazyImage.dataset.src;
-                }
-
-                lazyImage.classList.remove("lazy");
-                lazyImageObserver.unobserve(lazyImage);
-              }
-            }
-          });
-        });
-
-        lazyImages.forEach(function(lazyImage) {
-          lazyImageObserver.observe(lazyImage);
-        });
-      }
     })
   }
 

@@ -1,6 +1,7 @@
 import React from 'react'
 import IntroText from './IntroText'
 import Content from './Content'
+import Image from './Image'
 import SocialLinks from './SocialLinks'
 
 import './CaptainListing.css'
@@ -13,21 +14,10 @@ export default ({ captainIntro, captain }) => {
 				<div className='captains-listing'>
 					{captain.map(({ name, image, title, description, socialMedia }, index ) => {
 
-
-							console.log(socialMedia)
-
 						return <div className='member' key={`member ${index}`}>
 							{image &&
 								<div className='image-container relative'>
-									<div
-										style={{
-											backgroundImage: `url(${`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-											backgroundSize: 'cover'
-										}}
-										data-src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/230/`}
-										className='BackgroundImage absolute lazy profile-image'
-									>
-									</div>
+									<Image background src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/230/`}/>
 								</div>
 							}
 							{name && <h4>{name}</h4>}

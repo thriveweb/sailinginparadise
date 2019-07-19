@@ -55,7 +55,7 @@ class FeaturedSlider extends Component {
 		    			>
 			    			{title && <h4>{title}</h4>}
 			    			{description && <p>{excerpt}</p>}
-			    			{buttonUrl && <Button title='Know More' url={buttonUrl} white />}
+			    			{buttonUrl && <Button title='Know More' url={buttonUrl} />}
 			    		</div>
 		    		})}
 		    	</Slider>

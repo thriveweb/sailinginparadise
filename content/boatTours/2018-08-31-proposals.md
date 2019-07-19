@@ -4,7 +4,7 @@ tourType: Private Charter
 title: Proposals
 icon: ''
 featuredImage: >-
-  https://ucarecdn.com/a6fb8404-c3e0-44eb-b501-34a8bc33ec07/-/crop/1555x379/0,246/-/preview/
+  https://ucarecdn.com/a6fb8404-c3e0-44eb-b501-34a8bc33ec07/
 intro: >-
   ## Gold Coast Proposal Cruise
 
@@ -49,7 +49,7 @@ contentColumn: >-
   ready...
 
 
-  A yacht proposal is an experience that neither one of you will ever forget. 
+  A yacht proposal is an experience that neither one of you will ever forget.
   Our beautiful waterways are the perfect backdrop for romance.  We invite you
   to sail away on your own private yacht, relaxing on the trampoline style
   foredeck, sipping champagne and nibbling on gourmet cheese platters to the
@@ -65,9 +65,9 @@ contentColumn: >-
   There are many ways to pop the question on board.  Some to consider include;
 
 
-  *  a traditional bended knee approach, 
+  *  a traditional bended knee approach,
 
-  * arriving at a romantic beach picnic by boat, 
+  * arriving at a romantic beach picnic by boat,
 
   * or our most popular option – revealing our gorgeous ‘Will You Marry Me’ Sail
   at sunset (the sail can be hoisted discretely by our onboard crew at just the
@@ -98,7 +98,7 @@ accordionSection:
 
         * The ring :-)
 
-        * If you wish to BYO you are welcome to bring food and drinks on board. 
+        * If you wish to BYO you are welcome to bring food and drinks on board.
         We also provide fully catered packages
 
         * If you are sailing during the day and wish to swim, please bring
@@ -116,7 +116,7 @@ accordionSection:
 
         * Chilled bottle of Moet and gourmet cheese board
 
-        * Beautiful photos captured of your proposal and voyage 
+        * Beautiful photos captured of your proposal and voyage
 
 
         $900*
@@ -145,4 +145,3 @@ featuredTestimonials:
   testimonial: 'Lauren, Aus'
   title: Lauren
 ---
-

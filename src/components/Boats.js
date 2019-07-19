@@ -3,6 +3,7 @@ import React from 'react'
 import Content from './Content'
 import GallerySlider from './GallerySlider'
 import Video from './Video'
+import Image from './Image'
 
 import './Boats.css'
 
@@ -32,15 +33,7 @@ export default ({ boats }) => {
                 <div className="colLeft column">
                   {featuredImage &&
                     <div class="img-container">
-                      <div
-                        style={{
-                          backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-                          backgroundSize: 'cover'
-                        }}
-                        data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}
-                        className='BackgroundImage absolute lazy'
-                      >
-                      </div>
+                      <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}/>
                     </div>
                   }
                   {description && <Content src={description} />}

@@ -9,6 +9,7 @@ import PageHeader from '../components/PageHeader'
 import IntroText from '../components/IntroText'
 import Content from '../components/Content'
 import SecondaryBanner from '../components/SecondaryBanner'
+import Image from '../components/Image'
 import './ContactPage.css'
 
 // Export Template for use in CMS preview
@@ -52,19 +53,7 @@ export const ContactPageTemplate = ({
             )}
           </div>
           <div className="contact-body">
-            {map &&
-              <div className="image-container">
-                <div
-                  style={{
-                    backgroundImage: `url(${`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-                    backgroundSize: 'cover'
-                  }}
-                  data-src={`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`}
-                  className='BackgroundImage absolute lazy'
-                >
-                </div>
-              </div>
-            }
+            {map && <Image src={`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`}/>}
             {body && <Content src={body} />}
           </div>
         </div>

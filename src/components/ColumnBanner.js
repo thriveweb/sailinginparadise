@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import { ICONButtonArrows } from './Icons'
 import Button from './Button'
 import Content from './Content'
+import Image from './Image'
 import './ColumnBanner.css'
 
 export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIframe }) => {
@@ -15,31 +16,11 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 	if(bookingIframe) return <div className={`bookingIframe columnsBanner${className}`}>
 			{columnBanner.map(({ title, buttonTitle, buttonUrl, featuredImage, content, bookingWidget }, index) => {
 				if(!title && !content) return <div className='bannerColumn relative overlay' key={index}>
-					{featuredImage &&
-						<div
-							style={{
-								backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-								backgroundSize: 'cover'
-							}}
-							data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}
-							className='BackgroundImage absolute lazy'
-						>
-						</div>
-					}
+					{featuredImage && <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`} />}
 				</div>
 
 				return <div className='bannerColumn relative overlay' key={index}>
-					{featuredImage &&
-						<div
-							style={{
-								backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-								backgroundSize: 'cover'
-							}}
-							data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}
-							className='BackgroundImage absolute lazy'
-						>
-						</div>
-					}
+					{featuredImage && <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`} />}
 					<div className='container'>
 						{title && <h2 className='title-gradient'>{title}</h2>}
 						{content && <Content src={content} />}
@@ -58,17 +39,7 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 	if(charterUrl) return <div className={`columnsBanner${className}`}>
 			{columnBanner.map(({ title, buttonTitle, buttonUrl, featuredImage, content }, index) => {
 				return <div className='bannerColumn relative overlay' key={index}>
-					{featuredImage &&
-						<div
-							style={{
-								backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-								backgroundSize: 'cover'
-							}}
-							data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}
-							className='BackgroundImage absolute lazy'
-						>
-						</div>
-					}
+					{featuredImage && <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`} />}
 					<div className='container'>
 						{title && <h2 className='title-gradient'>{title}</h2>}
 						{content && <Content src={content} />}
@@ -87,17 +58,7 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 	return <div className={`columnsBanner${className}`}>
 			{columnBanner.map(({ title, buttonTitle, buttonUrl, featuredImage, content }, index) => {
 				return <div className='bannerColumn relative overlay' key={index}>
-					{featuredImage &&
-						<div
-							style={{
-								backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-								backgroundSize: 'cover'
-							}}
-							data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}
-							className='BackgroundImage absolute lazy'
-						>
-						</div>
-					}
+					{featuredImage && <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`} />}
 					<div className='container'>
 						{title && <h2 className='title-gradient'>{title}</h2>}
 						{content && <Content src={content} />}

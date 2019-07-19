@@ -15,15 +15,10 @@ export default class Nav extends Component {
   }
 
   handleMenuToggle = () => this.setState({ active: !this.state.active })
-
   // Only close nav if it is open
   handleLinkClick = () => this.state.active && this.handleMenuToggle()
 
-  handlePopup = () => {
-    this.setState({
-      popupActive: !this.state.active
-    })
-  }
+  handlePopup = () => this.setState({ popupActive: !this.state.popupActive})
 
   render() {
     return (
@@ -51,6 +46,9 @@ export default class Nav extends Component {
           const { allMarkdownRemark } = data
           const { navList } = this.props
           const { active, popupActive, menuItemActive } = this.state
+
+          console.log(popupActive)
+          console.log(active)
 
           const navItems = (navList && _get(navList, 'frontmatter.navItems')) || []
           const bookingPopup = _get(this.props, 'bookingPopup') || []

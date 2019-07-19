@@ -15,6 +15,10 @@
 	margin-right: 1rem;
 }
 
+.share-buttons li:last-of-type {
+	margin-right: 0;
+}
+
 .share-buttons a {
 	border-radius: 100%;
 	border: .1rem solid var(--secondary);

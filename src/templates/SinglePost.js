@@ -1,13 +1,14 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import _get from 'lodash/get'
-// import _format from 'date-fns/format'format
+import _format from 'date-fns/format'
 import { graphql, Link } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
 import Layout from '../components/Layout'
 
 import { ICONSail } from '../components/Icons'
 import Content from '../components/Content'
+import Image from '../components/Image'
 import Video from '../components/Video'
 import SocialShare from '../components/SocialShare'
 import './SinglePost.css'
@@ -33,19 +34,11 @@ export const SinglePostTemplate = ({
       {meta && <meta name="description" content={meta.description} />}
       {meta && <link rel="canonical" href={meta.canonical} />}
     </Helmet>
-
     {featuredImage &&
-      <div
-        style={{
-          backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-          backgroundSize: 'cover'
-        }}
-        data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`}
-        className='BackgroundImage absolute lazy SinglePost--BackgroundImage'
-      >
+      <div className='SinglePost--Banner'>
+        <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`} />
       </div>
     }
-
     <div className="container skinny">
       <Link className="SinglePost--BackButton" to="/blog/">
         <ChevronLeft /> BACK
@@ -61,7 +54,7 @@ export const SinglePostTemplate = ({
               itemProp="dateCreated pubdate datePublished"
               date={date}
             >
-              {/* {_format(date, 'D.MM.YYYY')} */}
+              {_format(date, 'D.MM.YYYY')}
             </time>
           )}
           {categories.length && (

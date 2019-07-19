@@ -86,14 +86,15 @@
   visibility: visible;
 }
 
-.galleryImage--Popup img {
+.galleryImage--Popup .Image {
   transform: scale(0);
   transition: all ease-in-out 0.3s;
   max-height: 90%;
   max-width: 90%;
+  width: auto;
 }
 
-.galleryImage--Popup.active img {
+.galleryImage--Popup.active .Image {
   transform: scale(1);
 }
 

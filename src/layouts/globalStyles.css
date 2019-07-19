@@ -389,6 +389,8 @@ blockquote p {
 .form-footer .button {
   border: none;
   padding: 1rem 3rem 1rem 1rem;
+	position: relative;
+	z-index: 1;
 }
 
 .form-footer svg {

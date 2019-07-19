@@ -4,9 +4,9 @@ tourType: Private Charter
 title: Romantic Sails
 icon: ''
 featuredImage: >-
-  https://ucarecdn.com/9bbb113f-fe89-437c-98df-e90815546d20/-/crop/5407x2329/0,399/-/preview/
+  https://ucarecdn.com/9bbb113f-fe89-437c-98df-e90815546d20/
 intro: >-
-  ## gold coast Romantic Sails 
+  ## gold coast Romantic Sails
 
 
   If you are celebrating a wedding anniversary, birthday, Valentines Day or
@@ -97,7 +97,7 @@ accordionSection:
 
         >
 
-        > Chilled bottle of Chandon 
+        > Chilled bottle of Chandon
 
         >
 
@@ -211,4 +211,3 @@ featuredTestimonials:
   testimonial: 'Taryn, Aus'
   title: Taryn
 ---
-

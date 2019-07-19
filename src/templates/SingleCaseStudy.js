@@ -7,6 +7,7 @@ import Layout from '../components/Layout'
 import { ICONQuotes } from '../components/Icons'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
+import Image from '../components/Image'
 import Video from '../components/Video'
 import SocialShare from '../components/SocialShare'
 import GallerySlider from '../components/GallerySlider'
@@ -69,28 +70,12 @@ export const SingleCaseStudyTemplate = ({
             <div className="columnLeft">
               {featuredImage &&
                 <div className='img-container'>
-                  <div
-                    style={{
-                      backgroundImage: `url(${`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-                      backgroundSize: 'cover'
-                    }}
-                    data-src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500/`}
-                    className='BackgroundImage absolute lazy'
-                  >
-                  </div>
+                  <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500/`}/>
                 </div>
               }
               {secondaryImage
                 ? <div className='img-container'>
-                    <div
-          						style={{
-          							backgroundImage: `url(${`${secondaryImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-          							backgroundSize: 'cover'
-          						}}
-          						data-src={`${secondaryImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}
-          						className='BackgroundImage absolute lazy'
-          					>
-          					</div>
+                    <Image background src={`${secondaryImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}/>
                   </div>
                 : <Video {...videoSection} />
               }

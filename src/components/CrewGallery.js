@@ -6,6 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import IntroText from './IntroText'
 import Content from './Content'
+import Image from './Image'
 
 import { ICONClose } from './Icons'
 
@@ -51,17 +52,7 @@ class CrewGallery extends Component {
 	    				key={`image-${index}`}
               onClick={() => this.handlePopup(index)}
 	    			>
-              {image &&
-                <div
-                  style={{
-                    backgroundImage: `url(${`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-                    backgroundSize: 'cover'
-                  }}
-                  data-src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500/`}
-                  className='BackgroundImage absolute lazy'
-                >
-                </div>
-              }
+              {image && <Image background src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500/`}/>}
 		    			<div className='crew-content'>
 		    				{name && <h4>{name}</h4>}
 		    				{title && <p>{title}</p>}

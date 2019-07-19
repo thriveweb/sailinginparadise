@@ -2,6 +2,10 @@
 	padding: 10rem 0 0;
 }
 
+.SingleCaseStudy--Content .share-buttons {
+	margin-bottom: 6rem;
+}
+
 .SingleCaseStudy h2 {
 	text-align: center;
 }

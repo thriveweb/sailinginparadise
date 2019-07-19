@@ -3,6 +3,7 @@ import React, { Component } from 'react'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import Image from './Image'
 
 import { ICONMagnify, ICONClose } from './Icons'
 import './GallerySlider.css'
@@ -53,17 +54,7 @@ class GallerySlider extends Component {
     				key={`image-${index}`}
     				onClick={() => this.handlePopup(index)}
     			>
-						{image &&
-							<div
-								style={{
-									backgroundImage: `url(${`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-									backgroundSize: 'cover'
-								}}
-								data-src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500/`}
-								className='BackgroundImage absolute lazy'
-							>
-							</div>
-						}
+						{image && <Image background src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500x/-/format/auto/-/quality/lighter/`} />}
 	    			<ICONMagnify />
 	    		</div>
     		})}
@@ -76,10 +67,8 @@ class GallerySlider extends Component {
 					<div className='popup-close' onClick={() => this.handlePopup()}>
 						<ICONClose />
 					</div>
-					{image &&
-						<img src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000x/-/format/auto/-/quality/lighter/`} />
-					}
-				</div>	
+					{image && <Image src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000x/-/format/auto/-/quality/lighter/`} />}
+				</div>
 			})}
 		</div>
 	}

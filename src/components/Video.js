@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { ICONPlay, ICONButtonArrows } from './Icons'
 import FeaturedSlider from './FeaturedSlider'
 import SocialLinks from './SocialLinks'
+import Image from './Image'
 
 import './Video.css'
 
@@ -42,17 +43,7 @@ class Video extends Component {
 
 		return <div className={`video-section ${videoBanner ? 'videoBanner' : ''}`} onClick={() => !videoPlaying && this.handleVideo(url)}>
 			<div className={`overlay-content ${!videoPlaying ? 'active' : ''}`}>
-				{imageOverlay &&
-					<div
-						style={{
-							backgroundImage: `url(${`${imageOverlay}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1x/-/format/auto/-/quality/lighter/`})`,
-							backgroundSize: 'cover'
-						}}
-						data-src={`${imageOverlay}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`}
-						className='BackgroundImage absolute lazy'
-					>
-					</div>
-				}
+				{imageOverlay && <Image background src={`${imageOverlay}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`}/>}
 				{title && <h2 className='title-gradient'>{title}</h2>}
 				<div className='playButton'><ICONPlay /></div>
 				{title && <p className='button buttonWhite'>Watch Video <ICONButtonArrows /></p>}
