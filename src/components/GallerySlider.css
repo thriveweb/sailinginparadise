@@ -121,3 +121,28 @@
     height: 20vw;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  .slick-slide {
+    height: 25vw;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .slick-slide {
+    height: 33vw;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .popup-close {
+    top: 0;
+    right: 0;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .slick-slide {
+    height: 65vw;
+  }
+}

@@ -12,6 +12,15 @@
 
 .intro-section.alignCenter {
 	max-width: 85rem;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.intro-section.alignCenter .fancy-title:before,
+.intro-section.alignCenter .fancy-title:after {
+	left: 0;
+	right: 0;
+	margin: 0 auto;
 }
 
 
@@ -46,7 +55,7 @@
 	}
 
 	.intro-section h2 {
-		font-size: 2.6rem;
+		font-size: 2.8rem;
 	}
 }
 
@@ -55,12 +64,12 @@
 		max-width: 90%;
 	}
 
-	.intro-section {
-		padding: 4rem 0;
+	.container .intro-section.alignCenter {
+		max-width: 100%;
 	}
 
-	.intro-section h2 {
-		font-size: 2rem;
+	.intro-section {
+		padding: 4rem 0;
 	}
 
 	.intro-section p {
@@ -69,7 +78,11 @@
 }
 
 @media only screen and (max-width: 320px) {
+	.intro-section.alignCenter {
+		max-width: 90%;
+	}
+
 	.intro-section h2 {
-		font-size: 1.8rem;
+		font-size: 2.4rem;
 	}
 }

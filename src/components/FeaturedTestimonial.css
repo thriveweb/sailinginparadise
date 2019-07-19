@@ -57,3 +57,54 @@
 .featuredTestimonial .testimonial:hover .read-more {
 	text-decoration: underline;
 }
+
+
+@media only screen and (max-width: 1300px) {
+	.featuredTestimonial {
+		padding: 6rem 0 8rem;
+	}
+
+	.featuredTestimonial .container {
+		flex-wrap: wrap;
+	}
+
+	.featuredTestimonial .testimonial {
+		margin-left: 0;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.testimonialIntro h2 {
+		font-size: 2.8rem;
+		margin-bottom: .5rem;
+	}
+}
+
+@media only screen and (max-width: 765px) {
+	.testimonialIntro {
+		margin-bottom: 4rem !important;
+	}
+
+	.featuredTestimonial {
+		padding: 6rem 0 4rem;
+	}
+
+	.featuredTestimonial .testimonial {
+		flex-wrap: wrap;
+	}
+
+	.featuredTestimonial .testimonial .img-thumbnail {
+		margin: 0 auto 2rem;
+	}
+
+	.featuredTestimonial .testimonial .title:before,
+	.featuredTestimonial .testimonial .title:after {
+		right: 0;
+		margin: 0 auto;
+	}
+
+	.featuredTestimonial .testimonial .testimonial-content {
+		flex: 0 0 100%;
+		text-align: center;
+	}
+}

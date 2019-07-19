@@ -41,6 +41,10 @@
   margin: 0 0 .5rem;
 }
 
+.PostCard--Content .SinglePost--Meta .meta-categories {
+  display: inline-block;
+}
+
 .PostCard--Category {
   font-size: 1.2rem;
   min-height: 1.2em;
@@ -143,7 +147,7 @@
   }
 
   .boatTours .PostCard--Image {
-    height: 40vw;
+    height: 33vw;
   }
 }
 
@@ -181,5 +185,22 @@
 @media only screen and (max-width: 425px) {
   .boatTours .PostCard--Image {
     height: 65vw;
+  }
+}
+
+
+@media only screen and (max-width: 320px) {
+  .PostCard--Title {
+    text-align: center;
+  }
+
+  .PostCard--Content .SinglePost--Meta,
+  .PostCard--Subtitle {
+    text-align: center;
+  }
+
+  .PostCard--Content .SinglePost--Meta .meta-categories span {
+    display: inline-block;
+    margin: 0;
   }
 }

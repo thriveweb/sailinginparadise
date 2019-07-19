@@ -8,13 +8,15 @@
 
 .SinglePost--BackButton {
   color: white;
-  position: relative;
   display: flex;
   align-items: center;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.1em;
   padding: 1rem;
+  position: absolute;
+  top: 10rem;
+  left: 10rem;
 }
 
 .SinglePost h2 {
@@ -41,7 +43,7 @@
 }
 
 .SinglePost--Content {
-  margin-top: 33rem;
+  margin-top: 37.5rem;
   text-align: center;
 }
 
@@ -72,7 +74,7 @@
 }
 
 .SinglePost--InnerContent .share-buttons {
-  margin-top: 3rem;
+  margin: 3rem 0 5rem;
 }
 
 .SinglePost--Pagination {
@@ -102,6 +104,20 @@
   margin: 2rem 0;
 }
 
+@media only screen and (max-width: 1024px) {
+  .SinglePost--BackButton {
+    left: 4rem;
+  }
+
+  .SinglePost--Banner {
+    height: 35rem !important;
+  }
+
+  .SinglePost--Content {
+    margin-top: 32.5rem;
+  }
+}
+
 @media only screen and (max-width: 768px) {
   .SinglePost--InnerContent {
     padding: 0 4rem;
@@ -112,7 +128,7 @@
   }
 
   .SinglePost--Content {
-    margin-top: 23rem;
+    margin-top: 27.5rem;
   }
 }
 
@@ -132,15 +148,27 @@
   }
 
   .SinglePost--Content {
-    margin-top: 18rem;
+    margin-top: 22.5rem;
   }
 
   .SinglePost--Title {
     font-size: 2.4rem;
   }
 
+  .SinglePost--BackButton {
+    left: 0;
+  }
+
   .post-icon {
     margin: 0 auto 2rem;
+  }
+
+  .SinglePost--InnerContent .Content {
+    text-align: center;
+  }
+
+  .SinglePost--Content .share-buttons {
+    justify-content: center;
   }
 }
 

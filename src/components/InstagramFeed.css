@@ -92,17 +92,31 @@
   }
 }
 
+@media only screen and (max-width: 768px) {
+  .InstagramSection h2 {
+    font-size: 2.8rem;
+    margin-bottom: 0;
+  }
+}
+
 @media only screen and (max-width: 375px) {
   .insta-intro {
     margin-bottom: 2rem;
   }
 
-  .InstagramSection h2 {
-    margin-bottom: 0;
-  }
-
   .InstagramSection h2 svg {
     height: 2rem;
     margin-right: 1rem;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .InstagramSection h2 {
+    font-size: 2.4rem;
+  }
+
+  .instagram-item {
+    flex: 0 0 50%;
+    height: 44vw;
   }
 }

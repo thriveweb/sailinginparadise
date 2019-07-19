@@ -232,7 +232,7 @@
   }
 }
 
-@media (max-width: 1150px) {
+@media (max-width: 1190px) {
   .Nav {
     padding: 1.5rem 0;
   }
@@ -368,7 +368,8 @@
 
 @media (max-width: 600px) {
   .Nav {
-    margin-top: 3.3rem;
+    border-top: 3.7rem solid var(--midBlue);
+    padding: 1rem 0;
   }
 
   .Nav .Nav--Container {
@@ -377,12 +378,15 @@
 
   .Nav .nav-button {
     position: absolute;
-    bottom: 100%;
+    bottom: calc(100% + 3.5px);
+    padding: .5rem 2rem;
     left: 0;
-    width: 100%;
-    border-radius: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 16rem;
+    border: 1px solid rgba(255,255,255,0.5);
     box-shadow: none;
-    background-color: var(--midBlue);
+    background-color: var(--darkBlue);
     color: white;
     text-align: center;
   }

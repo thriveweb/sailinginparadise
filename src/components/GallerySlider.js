@@ -40,6 +40,22 @@ class GallerySlider extends Component {
 						slidesToShow: 3,
 						slidesToScroll: 3,
 					}
+				},
+				{
+					breakpoint: 550,
+					settings: {
+						infinite: gallery.length > 2,
+						slidesToShow: 2,
+						slidesToScroll: 2,
+					}
+				},
+				{
+					breakpoint: 375,
+					settings: {
+						infinite: gallery.length > 1,
+						slidesToShow: 1,
+						slidesToScroll: 1,
+					}
 				}
 			]
 		};

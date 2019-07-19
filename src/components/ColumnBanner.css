@@ -74,6 +74,17 @@
 	font-family: var(--fontMain) !important;
 	font-weight: 400 !important;
 	padding: 1.8rem !important;
+	position: relative;
+}
+
+.bookingIframe .bannerColumn #button-booking:before {
+	content: '';
+	position: absolute;
+	bottom: -4px;
+	left: 0;
+	height: 1px;
+	width: 100%;
+	background-color: var(--primary);
 }
 
 .bookingIframe .bannerColumn #button-booking:after {
@@ -99,5 +110,80 @@
 
 	.bannerColumn h2 {
 		font-size: 3rem;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	.bookingIframe .bannerColumn {
+		padding: 5rem;
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	.bannerColumn {
+		padding: 8rem 4rem;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.bannerColumn h2 {
+		font-size: 2.6rem;
+	}
+
+	.bookingIframe .bannerColumn {
+		padding: 3rem;
+	}
+
+	.bannerColumn .button {
+		margin-top: 1rem;
+	}
+}
+
+@media only screen and (max-width: 675px) {
+	.bannerColumn {
+		padding: 6rem 2rem;
+	}
+
+	.bannerColumn h2 {
+		font-size: 2.2rem;
+	}
+}
+
+@media only screen and (max-width: 575px) {
+	.bannerColumn {
+		padding: 4rem 2rem;
+	}
+
+	.bannerColumn h2 {
+		font-size: 2rem;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.columnsBanner {
+		flex-wrap: wrap;
+	}
+
+	.bannerColumn {
+		flex: 0 0 100%;
+		min-height: 25rem;
+		display: flex;
+		align-items: center;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.bannerColumn .container {
+		text-align: center;
+	}
+
+	.bookingIframe .bannerColumn #button-booking {
+		margin: 1.5rem auto 0;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.bannerColumn {
+		padding: 4rem 1rem;
 	}
 }

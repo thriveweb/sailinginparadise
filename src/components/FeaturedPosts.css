@@ -20,13 +20,23 @@
 	display: none;
 }
 
+@media only screen and (max-width: 1024px) {
+	.featuredPostsSection {
+		padding-bottom: 8rem;
+	}
+
+	.featuredPostsSection .intro-section {
+		padding-top: 0;
+	}
+}
+
 @media only screen and (max-width: 768px) {
   .featuredPostsSection {
-    padding-bottom: 10rem;
+    padding-bottom: 4rem;
   }
 
 	.featuredPostsSection .intro-section {
-		padding: 4rem 0;
+		padding: 0 0 4rem;
 	}
 }
 

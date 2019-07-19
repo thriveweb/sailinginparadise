@@ -28,15 +28,41 @@ class CrewGallery extends Component {
   }
 
   render() {
+    const { crew = [], crewIntro } = this.props
+
 		const settings = {
-		  infinite: true,
+		  infinite: crew.length > 4,
 		  slidesToShow: 4,
 		  swipeToSlide: true,
 		  slidesToScroll: 1,
 		  arrows: true,
+      responsive: [
+        {
+          breakpoint: 768,
+          settings: {
+            infinite: crew.length > 3,
+            slidesToShow: 3,
+            slidesToScroll: 3,
+          }
+        },
+        {
+          breakpoint: 550,
+          settings: {
+            infinite: crew.length > 2,
+            slidesToShow: 2,
+            slidesToScroll: 2,
+          }
+        },
+        {
+          breakpoint: 375,
+          settings: {
+            infinite: crew.length > 1,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+          }
+        }
+      ]
 		};
-
-	  const { crew = [], crewIntro } = this.props
 
 		if(!crew) return null
 

@@ -93,3 +93,118 @@
 .SingleCaseStudy .share-buttons {
 	justify-content: center;
 }
+
+@media only screen and (max-width: 1024px) {
+	.SingleCaseStudy--Content {
+		padding: 5rem 0 0;
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	.columnRight .Content {
+		margin-bottom: 6rem;
+	}
+
+	.quote {
+		padding: 6rem 4rem 4rem;
+	}
+
+	.quote .name {
+		font-size: 1.6rem;
+	}
+
+	.quote p {
+		font-size: 1.8rem;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.columnRight .Content {
+		margin-bottom: 4rem;
+	}
+
+	.quote {
+		padding: 6rem 3rem 2rem;
+	}
+
+	.quote p {
+		font-size: 1.6rem;
+	}
+}
+
+@media only screen and (max-width: 765px) {
+	.SingleCaseStudy--Body > div {
+		flex: 0 0 100%;
+	}
+
+	.columnLeft {
+		flex-direction: row;
+		margin: 0 0 3rem;
+	}
+
+	.columnLeft .img-container {
+		padding-bottom: 30vw;
+		flex: 1;
+		margin: 0 2rem 0 0;
+	}
+
+	.columnLeft .img-container:last-of-type {
+		margin: 0;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.SingleCaseStudy h2 {
+		margin-bottom: 1rem;
+		font-size: 2.8rem;
+	}
+
+	.SingleCaseStudy .SinglePost--Meta {
+		margin-bottom: 4rem;
+	}
+
+	.SingleCaseStudy .SinglePost--Meta * {
+		font-size: 1.6rem;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.columnLeft {
+		flex-wrap: wrap;
+	}
+
+	.columnLeft .img-container {
+		padding-bottom: 45vw;
+		flex: 0 0 100%;
+		margin: 0 0 2rem;
+	}
+
+	.SingleCaseStudy--Body {
+		margin-bottom: 4rem;
+	}
+
+	.SingleCaseStudy h2 {
+		font-size: 2.4rem;
+	}
+
+	.quote {
+		padding: 4rem 3rem 2rem;
+	}
+
+	.quote .name {
+		position: relative;
+		top: 0;
+		left: 0;
+		margin-bottom: 1.5rem;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.SingleCaseStudy .SinglePost--Meta span {
+		display: none;
+	}
+
+	.quote {
+		padding: 4rem 2rem 2rem;
+	}
+}

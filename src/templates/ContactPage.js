@@ -53,7 +53,11 @@ export const ContactPageTemplate = ({
             )}
           </div>
           <div className="contact-body">
-            {map && <Image src={`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`}/>}
+            {map &&
+              <div className='map relative'>
+                <Image src={`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}/>
+              </div>
+            }
             {body && <Content src={body} />}
           </div>
         </div>

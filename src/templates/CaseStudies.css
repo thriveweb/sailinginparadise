@@ -11,3 +11,9 @@
 	color: var(--primary);
 	margin: 0;
 }
+
+@media only screen and (max-width: 320px) {
+	.CaseStudies .intro-section h2 {
+		font-size: 2rem;
+	}
+}

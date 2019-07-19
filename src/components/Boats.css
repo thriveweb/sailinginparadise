@@ -62,7 +62,7 @@
 
 .boat .colLeft .img-container {
 	position: relative;
-	padding-bottom: 50rem;
+	padding-bottom: 40vw;
 }
 
 .boat h3 {
@@ -93,4 +93,49 @@
 
 .boat:last-of-type:after {
 	display: none;
+}
+
+@media only screen and (max-width: 1440px) {
+	.boat .colLeft {
+		margin-right: 5rem;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.boat {
+		padding-bottom: 4rem;
+		margin-bottom: 4rem;
+	}
+
+	.boat .colLeft {
+		flex: 1.5;
+		margin-right: 3rem;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+	.boat .colLeft {
+		flex: 0 0 100%;
+		margin: 0 0 3rem;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.boat h3, .boat h4 {
+		font-size: 2rem;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.Boats .intro-section {
+		padding-bottom: 2rem;
+	}
+	
+	.boats-listing {
+		padding: 0 0 4rem;
+	}
+
+	.virtual-tour {
+		margin-top: 4rem;
+	}
 }

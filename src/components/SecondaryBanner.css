@@ -60,6 +60,10 @@
 	.secondary-banner.contentBox .container {
 		width: 70%;
 	}
+
+	.secondary-banner.bannerLarge {
+		padding: 15rem 0;
+	}
 }
 
 @media only screen and (max-width: 1280px) {
@@ -91,6 +95,10 @@
 	.secondary-banner.bannerLarge {
 		padding: 7rem 0;
 	}
+
+	.secondary-banner h2 {
+		line-height: 1.2;
+	}
 }
 
 @media only screen and (max-width: 550px) {
@@ -113,7 +121,11 @@
 	}
 
 	.secondary-banner h2 {
-		line-height: 1.2;
+		font-size: 2.8rem;
+	}
+
+	.secondary-banner .button {
+		margin-top: 1rem;
 	}
 
 	.secondary-banner.contentBox h4 {
@@ -122,6 +134,7 @@
 
 	.secondary-banner.contentBox .button {
 		padding: 1.5rem 1rem;
+		margin-top: 1rem;
 	}
 }
 
@@ -141,6 +154,10 @@
 	.secondary-banner.contentBox .container {
 		padding: 2rem;
 		width: 90%;
+	}
+
+	.secondary-banner h2 {
+		font-size: 2.4rem;
 	}
 
 	.secondary-banner.contentBox h2 {

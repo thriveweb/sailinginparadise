@@ -440,8 +440,15 @@ input::placeholder {
 	display: inline-block;
 }
 
+@media only screen and (max-width: 425px) {
+	h2 {
+		line-height: 1.2;
+	}
+}
+
 @media only screen and (max-width: 375px) {
   h2 {
     font-size: 2.6rem;
+		line-height: 1.2;
   }
 }

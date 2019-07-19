@@ -60,3 +60,51 @@
 	opacity: 1;
 	visibility: visible;
 }
+
+@media only screen and (max-width: 765px) {
+	.booking-popup h2 {
+		margin-bottom: 3rem;
+		font-size: 2.8rem;
+	}
+
+	.booking-popup .contentBox:first-of-type {
+		margin-right: 3rem;
+	}
+
+	.booking-popup .contentBox {
+		padding: 3rem 2rem;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.booking-popup.active {
+		padding: 10rem 0 0;
+	}
+
+	.booking-popup .contentBox {
+		flex: 0 0 100%;
+	}
+
+	.booking-popup .contentBox:first-of-type {
+		margin: 0 0 3rem;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.booking-popup h2 {
+		margin-bottom: 2rem;
+		font-size: 2.2rem;
+		line-height: 1.2;
+	}
+}
+
+
+@media only screen and (max-width: 320px) {
+	.booking-popup .contentBox:first-of-type {
+		margin-bottom: 2rem;
+	}
+
+	.booking-popup .contentBox .Image {
+		margin-bottom: 1rem;
+	}
+}

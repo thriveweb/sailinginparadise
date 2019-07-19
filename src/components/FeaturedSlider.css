@@ -127,7 +127,7 @@
 	}
 
 	.featuredSlider .slick-arrow {
-		top: 4.5rem;
+		top: 3.8rem;
 	}
 
 	.featuredSlider .slick-arrow.slick-next {
@@ -193,5 +193,23 @@
 		position: relative;
 		top: 0;
 		transform: translateY(0);
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.featuredSlider {
+		padding: 2rem;
+	}
+
+	.featuredSlider .slick-arrow {
+		top: 3.5rem;
+	}
+
+	.featuredSlider .slick-arrow.slick-prev {
+		right: 5rem;
+	}
+
+	.featuredSlider .slick-arrow.slick-next {
+		right: 2rem;
 	}
 }

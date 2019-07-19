@@ -89,7 +89,7 @@ class Form extends React.Component {
 
   render() {
     const { name, action, honeypot } = this.props
-    const { labelDisplay, startDate, ...data } = this.state
+    const { startDate } = this.state
 
     const location = _get(this.props, 'location') || {}
     const search = _get(location, 'search') || ''

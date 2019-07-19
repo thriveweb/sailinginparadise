@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import _kebabCase from 'lodash/kebabCase'
 import { ICONButtonArrows } from './Icons'
 
 import './Button.css'
