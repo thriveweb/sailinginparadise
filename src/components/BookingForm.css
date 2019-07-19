@@ -249,3 +249,40 @@
 	background-color: var(--goldenBrown) !important;
 	border-radius: 0 !important;
 }
+
+
+@media only screen and (max-width: 600px) {
+	.BookingForm .Form--Label {
+		flex: 0 0 100%;
+	}
+
+	.BookingForm .Form--Label.full-width span {
+		padding-left: 0;
+	}
+
+	.BookingForm .Form--Label.full-width {
+		justify-content: space-between;
+	}
+
+	.BookingForm .form-footer > div {
+		margin-top: 0;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.BookingForm .react-numeric-input {
+		flex: 0 0 35% !important;
+	}
+
+	.BookingForm .Form--Label.full-width span {
+		flex: 1;
+	}
+
+	.BookingForm .Form--Label .date-label {
+		padding: 0 1rem 1rem;
+	}
+
+	.BookingForm .Form--Input {
+		padding: 1rem;
+	}
+}

@@ -38,3 +38,55 @@
 .Booking .Contact--Section2 {
 	flex: 0 0 60%;
 }
+
+@media only screen and (max-width: 1280px) {
+	.Booking .Contact--Section1 {
+		margin-right: 5rem;
+	}
+}
+
+@media only screen and (max-width: 1150px) {
+	.Booking .Contact--Sections .container {
+		flex-wrap: wrap;
+	}
+
+	.Booking .Contact--Section1,
+	.Booking .Contact--Section2 {
+		flex: 0 0 100%;
+		margin: 0;
+	}
+
+	.Booking .Contact--Section1 .intro-section {
+		max-width: 100%;
+		text-align: center;
+	}
+
+	.Booking .Contact--Section1 .intro-section.fancy-container h2:after,
+	.Booking .Contact--Section1 .intro-section.fancy-container h2:before {
+		right: 0;
+		margin: 0 auto;
+	}
+
+	.Booking .Contact--Details--Item {
+		text-align: center;
+		align-items: center;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	.Booking .Contact--Sections {
+		padding: 6rem 0;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.Booking .Contact--Details--Item h3 {
+		font-size: 2.2rem;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.Booking .Contact--Details--Item .image-container {
+		width: 100%;
+	}
+}
