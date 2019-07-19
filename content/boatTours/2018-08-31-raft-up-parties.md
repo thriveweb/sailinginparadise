@@ -97,8 +97,8 @@ columnBanner:
       special VIP Raft Up Yacht Party Experience that you and your crew will
       never forget.
     title: Let's create an event to remember!
-    featuredImage: /images/uploads/girl-img-column2.jpg
-  - featuredImage: /images/uploads/girl-img-column.jpg
+    featuredImage: 'https://ucarecdn.com/5647eb83-36f5-45ec-938c-b57115db0ee3/'
+  - featuredImage: 'https://ucarecdn.com/8a2e91d4-09ff-40ec-accf-2df4db6cb858/'
 featuredTestimonials:
   description: >-
     Wondering about what a Raft Up Yacht Party could be like? Hear what Margaret
