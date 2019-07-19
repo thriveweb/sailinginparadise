@@ -47,9 +47,6 @@ export default class Nav extends Component {
           const { navList } = this.props
           const { active, popupActive, menuItemActive } = this.state
 
-          console.log(popupActive)
-          console.log(active)
-
           const navItems = (navList && _get(navList, 'frontmatter.navItems')) || []
           const bookingPopup = _get(this.props, 'bookingPopup') || []
           const popup = _get(bookingPopup.frontmatter, 'bookingPopup') || []
