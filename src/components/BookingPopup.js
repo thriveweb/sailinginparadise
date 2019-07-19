@@ -8,10 +8,19 @@ import './BookingPopup.css'
 
 class Popup extends Component {
 
+	state={
+		currentPage: null
+	}
+
+	componentDidMount() {
+		this.setState({
+			currentPage: window.location.pathname
+		})
+	}
+
 	render() {
 		const { title, contentBoxes, classActive } = this.props
-		// const currentPage = window.location.pathname
-		const currentPage = ''
+		const { currentPage } = this.state
 
 		return <section className={`booking-popup ${classActive}`}>
 			<div className='container skinny'>
@@ -22,7 +31,7 @@ class Popup extends Component {
 						return <div className='contentBox' key={index}>
 							{icon && <Image src={icon} alt='' />}
 							{title && <h3>{title}</h3>}
-							{currentPage === `/${buttonUrl}`
+							{currentPage && currentPage === `/${buttonUrl}`
 								?	<p
 										className='button'
 										onClick={this.props.handlePopup}

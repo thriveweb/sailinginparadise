@@ -32,7 +32,7 @@ export default ({ boats }) => {
                 {title && <h3>{title}</h3>}
                 <div className="colLeft column">
                   {featuredImage &&
-                    <div class="img-container">
+                    <div className="img-container">
                       <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}/>
                     </div>
                   }
