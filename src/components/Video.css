@@ -64,7 +64,9 @@
 	z-index: 2;
 }
 
-.video-section .overlay-content h2, .video-section .overlay-content .playButton, .video-section .overlay-content .button {
+.video-section .overlay-content h2,
+.video-section .overlay-content .playButton,
+.video-section .overlay-content .button {
 	position: relative;
 	z-index: 3;
 }
@@ -95,6 +97,18 @@
 
 .video-section .overlay-content .button:hover svg {
 	transform: translateX(0);
+}
+
+.video-section .overlay-content:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.4);
+	transition: all ease-in-out .2s;
+	z-index: 2;
 }
 
 .video-section:hover .overlay-content:before {
@@ -141,6 +155,27 @@
 	z-index: 3;
 	opacity: 1;
 	visibility: visible;
+}
+
+.video-section.homeVideo .overlay-content:before {
+	display: none;
+}
+
+.video-section.homeVideo .background-video {
+	position: relative;
+}
+
+.video-section.homeVideo .background-video:before,
+ .video-section.homeVideo .img-container:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.4);
+	transition: all ease-in-out .2s;
+	z-index: 2;
 }
 
 .video-section.homeVideo .overlay-content .container {
@@ -215,7 +250,6 @@
 
 @media only screen and (max-width: 1280px) {
 	.video-section.homeVideo {
-		position: static;
 		padding: 0;
 		height: auto;
 		background-color: white;
@@ -297,16 +331,29 @@
 	.video-section.homeVideo .overlay-content h1 {
 		font-size: 4rem;
 	}
-}
 
-@media only screen and (max-width: 425px) {
 	.video-section.homeVideo {
-		margin-top: 9.2rem;
+		margin-top: 3.7rem;
+	}
+
+	.video-section.homeVideo .img-container {
+		padding-bottom: 30rem;
+		position: relative;
+	}
+
+	.video-section.homeVideo .overlay-content .container {
+		padding-top: 12rem;
 	}
 }
 
 @media only screen and (max-width: 375px) {
 	.video-section .overlay-content h2 {
 		font-size: 2rem;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.video-section.homeVideo .overlay-content h1 {
+		font-size: 3.4rem;
 	}
 }

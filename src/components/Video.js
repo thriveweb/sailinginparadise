@@ -16,6 +16,19 @@ class Video extends Component {
 		this.state = {}
 	}
 
+	updateDimensions() {
+		this.setState({ mobileWidth: window.innerWidth <= 450 })
+	}
+
+	componentDidMount() {
+		this.updateDimensions()
+		window.addEventListener('resize', () => this.updateDimensions())
+	}
+
+	componentWillUnmount() {
+		window.removeEventListener('resize', this.updateDimensions)
+	}
+
 	handleVideo = url => {
 		this.videoRef.current.src = `https://player.vimeo.com/video/${url}?autoplay=1&start=0&modestbranding=1&controls=0&disablekb=1&rel=0`
 		this.setState({
@@ -24,8 +37,8 @@ class Video extends Component {
 	}
 
 	render() {
-		const { title, buttonTitle, buttonUrl, video, imageOverlay, videoBanner, homeVideo, featuredSlider, featuredBanner, socialMedia } = this.props
-		const { videoPlaying } = this.state
+		const { title, buttonTitle, buttonUrl, video, mobileImage, imageOverlay, videoBanner, homeVideo, featuredSlider, featuredBanner, socialMedia } = this.props
+		const { videoPlaying, mobileWidth } = this.state
 
 		if(!video) return null
 
@@ -41,11 +54,15 @@ class Video extends Component {
 						</div>
 					</div>
 				}
-				<div className="background-video">
-					<video className="video" preload="true" playsInline autoPlay muted loop>
-						<source src={video} type="video/mp4"></source>
-					</video>
-				</div>
+				{mobileWidth === false
+					?	<div className="background-video">
+							<video className="video" preload="true" playsInline autoPlay muted loop>
+								<source src={video} type="video/mp4"></source>
+							</video>
+						</div>
+					: <div className='img-container'><Image className='mobile-image' background src={`${mobileImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/450/`} /></div>
+				}
+
 				<FeaturedSlider featuredSlider={featuredSlider} featuredBanner={featuredBanner} />
 				<SocialLinks socialMedia={socialMedia} />
 			</div>
