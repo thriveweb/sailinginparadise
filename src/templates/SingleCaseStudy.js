@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import _format from 'date-fns/format'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import _get from 'lodash/get'
 
 import { ICONQuotes } from '../components/Icons'
 import PageHeader from '../components/PageHeader'
@@ -29,6 +30,9 @@ export const SingleCaseStudyTemplate = ({
   meta
 }) => {
 
+  const bannerTitle = _get(banner[0], 'frontmatter.title') || ''
+  const bannerImage = _get(banner[0], 'frontmatter.featuredImage') || ''
+
   return (
     <main className="SingleCaseStudy">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -36,21 +40,10 @@ export const SingleCaseStudyTemplate = ({
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
 
-      {/*banner && banner.map(({ frontmatter }, index) => {
-        const { title, featuredImage } = frontmatter
-        return (
-          <PageHeader
-            key={index}
-            title={title}
-            backgroundImage={featuredImage}
-          />
-        )
-      })*/}
-
-          <PageHeader
-            title='test'
-            backgroundImage=''
-          />
+      <PageHeader
+        title={bannerTitle}
+        backgroundImage={bannerImage}
+      />
 
       <div className="container">
         <div className="SingleCaseStudy--Content">
