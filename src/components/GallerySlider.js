@@ -38,7 +38,7 @@ class GallerySlider extends Component {
 					settings: {
 						infinite: gallery.length > 3,
 						slidesToShow: 3,
-						slidesToScroll: 3,
+						slidesToScroll: 1,
 					}
 				},
 				{
@@ -46,7 +46,7 @@ class GallerySlider extends Component {
 					settings: {
 						infinite: gallery.length > 2,
 						slidesToShow: 2,
-						slidesToScroll: 2,
+						slidesToScroll: 1,
 					}
 				},
 				{

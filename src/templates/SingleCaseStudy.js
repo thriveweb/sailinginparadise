@@ -36,8 +36,7 @@ export const SingleCaseStudyTemplate = ({
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
 
-      {banner &&
-        banner.map(({ frontmatter }, index) => {
+      {banner && banner.map(({ frontmatter }, index) => {
           const { title, featuredImage } = frontmatter
           return (
             <PageHeader
