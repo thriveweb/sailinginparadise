@@ -36,7 +36,7 @@ export const SingleCaseStudyTemplate = ({
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
 
-      {banner && banner.map(({ frontmatter }, index) => {
+      {/*banner && banner.map(({ frontmatter }, index) => {
         const { title, featuredImage } = frontmatter
         return (
           <PageHeader
@@ -45,7 +45,12 @@ export const SingleCaseStudyTemplate = ({
             backgroundImage={featuredImage}
           />
         )
-      })}
+      })*/}
+
+          <PageHeader
+            title='test'
+            backgroundImage=''
+          />
 
       <div className="container">
         <div className="SingleCaseStudy--Content">
