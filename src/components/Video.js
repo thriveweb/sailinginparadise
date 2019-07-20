@@ -32,6 +32,13 @@ class Video extends Component {
 
 		if(homeVideo)
 			return <div className={`video-section homeVideo`}>
+				{title &&
+					<div className='overlay-content'>
+						<div className='container'>
+							<h1 className='title-gradient'>{title}</h1>
+						</div>
+					</div>
+				}
 				<div className="background-video">
 					<video className="video" preload="true" playsInline autoPlay muted loop>
 						<source src={video} type="video/mp4"></source>

@@ -138,6 +138,9 @@
 
 .video-section.homeVideo .overlay-content {
 	justify-content: flex-start;
+	z-index: 3;
+	opacity: 1;
+	visibility: visible;
 }
 
 .video-section.homeVideo .overlay-content .container {
@@ -147,12 +150,13 @@
 }
 
 
-.video-section.homeVideo .overlay-content h1, .video-section.homeVideo .overlay-content .button {
-	position: relative;
-	z-index: 3;
+.video-section.homeVideo .overlay-content h1,
+.video-section.homeVideo .overlay-content .button {
 	text-align: left;
 	line-height: 1;
 	display: inline-block;
+	position: relative;
+	z-index: 4;
 }
 
 .video-section.homeVideo .overlay-content h1 {
@@ -187,6 +191,19 @@
 
 	.video-section.homeVideo .overlay-content h1 {
 		font-size: 14rem;
+	}
+}
+
+@media only screen and (max-width: 1440px) {
+	.video-section.homeVideo .overlay-content h1 {
+		font-size: 12rem;
+	}
+
+	.video-section.homeVideo .overlay-content .container {
+		max-width: 90%;
+		margin: 0 auto;
+		text-align: center;
+		padding-top: 21rem;
 	}
 }
 
