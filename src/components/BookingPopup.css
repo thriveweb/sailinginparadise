@@ -98,18 +98,7 @@
 	}
 }
 
-
 @media only screen and (max-width: 375px) {
-	.booking-popup .contentBox:first-of-type {
-		margin-bottom: 2rem;
-	}
-
-	.booking-popup .contentBox .Image {
-		margin-bottom: 1rem;
-	}
-}
-
-@media only screen and (max-width: 320px) {
 	.booking-popup.active {
 		padding: 14rem 0 0;
 	}
@@ -122,7 +111,6 @@
 	.booking-popup .contentBox h3 {
 		font-size: 1.4rem;
 		line-height: 1.2;
-		color: red;
 	}
 
 	.booking-popup .contentBox {
