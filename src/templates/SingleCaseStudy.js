@@ -40,17 +40,10 @@ export const SingleCaseStudyTemplate = ({
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
 
-      <div className={`PageHeader relative overlay`}>
-        {featuredImage && <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`} />}
-        <div className="container relative">
-          <h1 className="PageHeader--Title title-gradient">Testing</h1>
-        </div>
-      </div>
-
-      {/*<PageHeader
+      <PageHeader
         title={bannerTitle}
         backgroundImage={bannerImage}
-      />*/}
+      />
 
       <div className="container">
         <div className="SingleCaseStudy--Content">
