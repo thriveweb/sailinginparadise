@@ -99,12 +99,40 @@
 }
 
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 375px) {
 	.booking-popup .contentBox:first-of-type {
 		margin-bottom: 2rem;
 	}
 
 	.booking-popup .contentBox .Image {
 		margin-bottom: 1rem;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.booking-popup.active {
+		padding: 10rem 0 0;
+	}
+
+	.booking-popup h2 {
+		font-size: 1.8rem;
+	}
+
+	.booking-popup .contentBox h3 {
+		font-size: 1.6rem;
+	}
+
+	.booking-popup .contentBox {
+		padding: 2rem;
+	}
+
+	.booking-popup .contentBox .Image {
+		margin-bottom: .5rem;
+		height: 2.5rem;
+	}
+
+	.booking-popup .contentBox .button {
+		padding: 1.5rem;
+		font-size: 1.5rem;
 	}
 }

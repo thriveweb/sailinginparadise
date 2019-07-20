@@ -177,6 +177,10 @@
 		transform: translateY(calc(-50%));
 		width: 75%;
 	}
+
+	.crewSection .galleryImage:hover .crew-content {
+		top: 50%;
+	}
 }
 
 @media only screen and (max-width: 320px) {
