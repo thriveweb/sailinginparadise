@@ -11,6 +11,7 @@ const PageHeader = ({
   className = ''
 }) => {
   if (large) className += ' PageHeader-large'
+
   return (
     <div className={`PageHeader relative overlay ${className}`}>
       {backgroundImage && <Image background src={`${backgroundImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`} />}

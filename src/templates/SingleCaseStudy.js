@@ -30,8 +30,10 @@ export const SingleCaseStudyTemplate = ({
   meta
 }) => {
 
-  const bannerTitle = _get(banner[0], 'frontmatter.title') || ''
-  const bannerImage = _get(banner[0], 'frontmatter.featuredImage') || ''
+  const bannerTitle = _get(banner, '[0]frontmatter.title') || ''
+  const bannerImage = _get(banner, '[0]frontmatter.featuredImage') || ''
+
+  alert(bannerImage)
 
   return (
     <main className="SingleCaseStudy">
