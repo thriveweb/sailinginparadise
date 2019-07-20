@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: True Paradise
-featuredVideo: 'https://ucarecdn.com/2de287ba-b09d-4a15-91dc-f8477305a119/'
+featuredVideo: 'https://ucarecdn.com/49b86f08-f798-4bed-b64b-9cd20379d97a/'
 featuredSlider:
   - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour sunset cruise
