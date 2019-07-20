@@ -42,7 +42,7 @@ class CrewGallery extends Component {
           settings: {
             infinite: crew.length > 3,
             slidesToShow: 3,
-            slidesToScroll: 3,
+            slidesToScroll: 1,
           }
         },
         {
@@ -50,7 +50,7 @@ class CrewGallery extends Component {
           settings: {
             infinite: crew.length > 2,
             slidesToShow: 2,
-            slidesToScroll: 2,
+            slidesToScroll: 1,
           }
         },
         {
