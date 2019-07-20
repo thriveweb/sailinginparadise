@@ -57,6 +57,10 @@
   text-align: center;
 }
 
+.SinglePost--Meta .SinglePost--Meta--Category {
+  display: inline-block;
+}
+
 .SinglePost--Meta > * + * {
   margin-left: 0.75em;
 }
@@ -186,5 +190,9 @@
   .SinglePost--Meta .SinglePost--Meta--Category {
     display: block;
     margin-top: 1rem;
+  }
+
+  .SinglePost--Meta .SinglePost--Meta--Category span {
+    display: inline;
   }
 }

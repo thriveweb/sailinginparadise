@@ -204,7 +204,7 @@
   }
 }
 
-@media only screen and (max-width: 1320px) {
+@media only screen and (max-width: 1355px) {
   .NavLink a {
     padding: 1.5rem;
     font-size: 1.2rem;
@@ -232,7 +232,7 @@
   }
 }
 
-@media (max-width: 1190px) {
+@media (max-width: 1200px) {
   .Nav {
     padding: 1.5rem 0;
   }
