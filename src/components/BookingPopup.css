@@ -111,19 +111,21 @@
 
 @media only screen and (max-width: 320px) {
 	.booking-popup.active {
-		padding: 10rem 0 0;
+		padding: 14rem 0 0;
 	}
 
 	.booking-popup h2 {
-		font-size: 1.8rem;
+		font-size: 1.7rem;
+		margin-bottom: 1rem;
 	}
 
 	.booking-popup .contentBox h3 {
-		font-size: 1.6rem;
+		font-size: 1.4rem;
+		line-height: 1.2;
 	}
 
 	.booking-popup .contentBox {
-		padding: 2rem;
+		padding: 1.5rem;
 	}
 
 	.booking-popup .contentBox .Image {
@@ -132,7 +134,11 @@
 	}
 
 	.booking-popup .contentBox .button {
-		padding: 1.5rem;
-		font-size: 1.5rem;
+		padding: 1rem;
+		font-size: 1.4rem;
+	}
+
+	.booking-popup .contentBox:first-of-type {
+		margin-bottom: 1rem;
 	}
 }
