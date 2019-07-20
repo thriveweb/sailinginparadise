@@ -44,7 +44,10 @@ export const HomePageTemplate = ({
       </Helmet>
       <Video
         video={featuredVideo}
-        homeVideo title={title}
+        homeVideo
+        title={title}
+        buttonTitle={buttonTitle}
+        buttonUrl={buttonUrl}
         featuredSlider={featuredSlider}
         featuredBanner={featuredBanner}
         socialMedia={socialMedia}
@@ -90,6 +93,8 @@ export const pageQuery = graphql`
     page: markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
+        buttonTitle
+        buttonUrl
         featuredVideo
         featuredSlider {
           description
