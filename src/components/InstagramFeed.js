@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 
 import { ICONInstagram, ICONButtonArrows } from './Icons'
+import Image from './Image'
 
 import './InstagramFeed.css'
 
@@ -37,42 +38,6 @@ export default class InstagramFeed extends Component {
       this.setState({
         mounted: true,
         instagramUsername
-      })
-    }
-  }
-
-  componentDidUpdate = () => {
-    if(this.state.posts && !!this.state.posts.length && !this.state.lazyAdded) {
-
-      this.setState({
-        lazyAdded: true
-      }, () => {
-        var lazyImages = [].slice.call(document.querySelectorAll(".lazy"));
-
-        if ("IntersectionObserver" in window) {
-          let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
-            entries.forEach(function(entry) {
-              if (entry.isIntersecting) {
-                let lazyImage = entry.target;
-
-                if(lazyImage.dataset.src) {
-                  if(lazyImage.classList.contains('BackgroundImage')) {
-                    lazyImage.style.backgroundImage = `url(${lazyImage.dataset.src})`;
-                  }  else {
-                    lazyImage.src = lazyImage.dataset.src;
-                  }
-
-                  lazyImage.classList.remove("lazy");
-                  lazyImageObserver.unobserve(lazyImage);
-                }
-              }
-            });
-          });
-
-          lazyImages.forEach(function(lazyImage) {
-            lazyImageObserver.observe(lazyImage);
-          });
-        }
       })
     }
   }
@@ -148,13 +113,6 @@ const Post = ({ src, code }) => (
     target="_blank"
     aria-label="Instagram Post Link"
   >
-
-  <div
-    style={{
-      backgroundSize: 'cover'
-    }}
-    data-src={src}
-    className='Instagram BackgroundImage absolute lazy'
-  ></div>
+    <Image background src={src} />
   </a>
 )
