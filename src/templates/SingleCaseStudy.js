@@ -33,8 +33,6 @@ export const SingleCaseStudyTemplate = ({
   const bannerTitle = _get(banner, '[0]frontmatter.title') || ''
   const bannerImage = _get(banner, '[0]frontmatter.featuredImage') || ''
 
-  alert(bannerImage)
-
   return (
     <main className="SingleCaseStudy">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -42,10 +40,17 @@ export const SingleCaseStudyTemplate = ({
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
 
-      <PageHeader
+      <div className={`PageHeader relative overlay`}>
+        {bannerImage && <Image background src={`${bannerImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`} />}
+        <div className="container relative">
+          {title && <h1 className="PageHeader--Title title-gradient">{bannerTitle}</h1>}
+        </div>
+      </div>
+
+      {/*<PageHeader
         title={bannerTitle}
         backgroundImage={bannerImage}
-      />
+      />*/}
 
       <div className="container">
         <div className="SingleCaseStudy--Content">
