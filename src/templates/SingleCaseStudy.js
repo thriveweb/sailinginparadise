@@ -32,9 +32,6 @@ export const SingleCaseStudyTemplate = ({
 
   const bannerTitle = _get(banner, '[0]frontmatter.title') || ''
   const bannerImage = _get(banner, '[0]frontmatter.featuredImage') || ''
-  console.log(banner)
-  console.log(bannerTitle)
-  console.log(bannerImage)
 
   return (
     <main className="SingleCaseStudy">
@@ -102,10 +99,6 @@ export const SingleCaseStudyTemplate = ({
 
 const SingleCaseStudy = ({ data, pageContext }) => {
   const { post, archiveBanner, globalVideo } = data
-  console.log({
-    archiveBanner
-  })
-
   const banner = archiveBanner
     ? archiveBanner.edges.map(edge => ({ ...edge.node }))
     : []
