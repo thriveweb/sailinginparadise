@@ -60,7 +60,13 @@ class Video extends Component {
 								<source src={video} type="video/mp4"></source>
 							</video>
 						</div>
-					: <div className='img-container'><Image className='mobile-image' background src={`${mobileImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/450/`} /></div>
+					: !mobileImage && mobileWidth === true
+					? <div className="background-video">
+							<video className="video" preload="true" playsInline autoPlay muted loop>
+								<source src={video} type="video/mp4"></source>
+							</video>
+						</div>
+					:	<div className='img-container'><Image className='mobile-image' background src={`${mobileImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/450/`} /></div>
 				}
 
 				<FeaturedSlider featuredSlider={featuredSlider} featuredBanner={featuredBanner} />
