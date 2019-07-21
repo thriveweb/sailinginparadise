@@ -43,7 +43,7 @@ export const HomePageTemplate = ({
         {meta && <meta name="description" content={meta.description} />}
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
-      <Video
+      {/*}<Video
         video={featuredVideo}
         homeVideo
         title={title}
@@ -53,7 +53,7 @@ export const HomePageTemplate = ({
         featuredSlider={featuredSlider}
         featuredBanner={featuredBanner}
         socialMedia={socialMedia}
-      />
+      />*/}
       <ServiceColumns
         services={services}
         serviceBanner={serviceBanner}
