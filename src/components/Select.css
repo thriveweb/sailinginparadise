@@ -15,7 +15,7 @@
 	z-index: 999;
 	background: white;
 	border-color: #222f50;
-	border: .1rem solid var(--primary);
+	border: .1rem solid #212121;
 	margin: 0;
 	transition: all ease-in-out .2s; 
 	padding: 0;
@@ -45,9 +45,9 @@
 	line-height: 1.25em;
 	transition: border-color 0.2s;
 	color: #222f50;
-	color: var(--secondary);
+	color: rgba(65,63,71,0.7);
 	border-color: #222f50;
-	border-bottom: .1rem solid var(--secondary);
+	border-bottom: .1rem solid rgba(65,63,71,0.7);
 	transition: all ease-in-out .2s;
 	list-style: none;
 }

@@ -36,23 +36,23 @@
 .columnsBanner.boatTour h2 {
 	 background: none;
   	-webkit-background-clip: none;
-  	-webkit-text-fill-color: var(--primary);
-  	color: var(--primary);
+  	-webkit-text-fill-color: #212121;
+  	color: #212121;
   	margin-bottom: 1.5rem;
   	font-weight: 400;
 }
 
 .columnsBanner.boatTour .button {
-	color: var(--primary);
-	border-color: var(--primary);
+	color: #212121;
+	border-color: #212121;
 }
 
 .columnsBanner.boatTour .button:after {
-	background-color: var(--primary);
+	background-color: #212121;
 }
 
 .columnsBanner.boatTour .button svg * {
-	fill: var(--primary);
+	fill: #212121;
 }
 
 /* BookingIframe */
@@ -65,13 +65,13 @@
 
 .bookingIframe .bannerColumn #button-booking {
 	background: transparent !important;
-	color: var(--primary) !important;
+	color: #212121 !important;
 	border: none !important;
-	border-bottom: 1px solid var(--primary) !important;
+	border-bottom: 1px solid #212121 !important;
 	margin-top: 1.5rem;
 	text-align: left !important;
 	font-size: 1.6rem !important;
-	font-family: var(--fontMain) !important;
+	font-family: 'Work Sans', sans-serif !important;
 	font-weight: 400 !important;
 	padding: 1.8rem !important;
 	position: relative;
@@ -84,7 +84,7 @@
 	left: 0;
 	height: 1px;
 	width: 100%;
-	background-color: var(--primary);
+	background-color: #212121;
 }
 
 .bookingIframe .bannerColumn #button-booking:after {

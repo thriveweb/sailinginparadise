@@ -43,7 +43,7 @@
 .NavLink a,
 .NavLink span {
   padding: 2rem;
-  color: var(--primary);
+  color: #212121;
   font-size: 1.4rem;
   transition: all ease-in-out 0.2s;
   opacity: 1;
@@ -51,7 +51,7 @@
 }
 
 .NavLink:hover {
-  background-color: var(--darkGrey);
+  background-color: #413F47;
 }
 
 .NavLink:hover a,
@@ -81,7 +81,7 @@
   position: relative;
   transform: translateX(-100%);
   font-size: 1.5rem;
-  color: var(--primary);
+  color: #212121;
   line-height: 1;
   font-weight: 400;
   position: relative;
@@ -92,7 +92,7 @@
 .hasChildren > span:after {
   content: '+';
   font-size: 1.5rem;
-  color: var(--primary);
+  color: #212121;
   line-height: 1;
   font-weight: 400;
   position: relative;
@@ -108,7 +108,7 @@
   top: 100%;
   left: 0;
   min-width: 26rem;
-  background-color: var(--darkGrey);
+  background-color: #413F47;
   opacity: 0;
   visibility: hidden;
   max-height: 0;
@@ -173,7 +173,7 @@
   padding: 0.7rem 3rem;
   margin: 0;
   background-color: white;
-  color: var(--primary);
+  color: #212121;
   border-radius: 3rem;
   text-transform: uppercase;
   font-size: 1.4rem;
@@ -183,7 +183,7 @@
 }
 
 .nav-button:hover {
-  background-color: var(--darkGrey);
+  background-color: #413F47;
   color: white;
 }
 
@@ -368,7 +368,7 @@
 
 @media (max-width: 600px) {
   .Nav {
-    border-top: 3.7rem solid var(--midBlue);
+    border-top: 3.7rem solid #3E4458;
     padding: 1rem 0;
   }
 
@@ -386,7 +386,7 @@
     width: 16rem;
     border: 1px solid rgba(255,255,255,0.5);
     box-shadow: none;
-    background-color: var(--darkBlue);
+    background-color: #2C3140;
     color: white;
     text-align: center;
   }

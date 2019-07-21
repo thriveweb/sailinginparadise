@@ -27,7 +27,7 @@
 }
 
 .featuredTestimonial .testimonial .title {
-	color: var(--primary);
+	color: #212121;
 	text-transform: uppercase;
 	padding-bottom: 2rem;
 	margin-bottom: 2.5rem;
@@ -41,7 +41,7 @@
 	left: 0;
 	width: 5rem;
 	height: .1rem;
-	background-color: var(--primary);
+	background-color: #212121;
 }
 
 .featuredTestimonial .testimonial .title:after {

@@ -13,7 +13,7 @@
   text-align: center;
   flex: 1;
   padding: 0 5rem;
-  border-right: 1px solid var(--lightGrey);
+  border-right: 1px solid rgba(65,63,71,0.6);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,13 +26,13 @@
 
 .Contact h3 {
   font-size: 1.8rem;
-  color: var(--darkGrey);
+  color: #413F47;
   margin: 1rem 0;
 }
 
 .Contact p strong {
   font-size: inherit;
-  color: var(--primary);
+  color: #212121;
 }
 
 .Contact a:hover {
@@ -103,7 +103,7 @@
     flex: 0 0 70%;
     padding: 2rem;
     border: none;
-    border-bottom: 1px solid var(--primary);
+    border-bottom: 1px solid #212121;
   }
 }
 

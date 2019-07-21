@@ -66,15 +66,15 @@ html {
   box-sizing: border-box;
   font-size: 62.5%;
   min-height: 100%;
-  background: var(--lightGrey);
+  background: rgba(65,63,71,0.6);
 }
 
 body {
-  font-family: var(--fontMain);
+  font-family: 'Work Sans', sans-serif;
   min-height: 100%;
   position: relative;
-  background-color: var(--offWhite);;
-  color: var(--secondary);
+  background-color: #f8f8f8;;
+  color: rgba(65,63,71,0.7);
   font-size: 1.6em;
   font-weight: 400;
   letter-spacing: 0.01em;
@@ -116,7 +116,7 @@ img, iframe {
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   margin-bottom: 0.5em;
-  color: var(--primary);
+  color: #212121;
   font-weight: 600 !important;
   text-transform: uppercase;
 }
@@ -159,7 +159,7 @@ p span, li span, a span {
 }
 
 a {
-  color: var(--primary);
+  color: #212121;
   text-decoration: none;
   transition: all ease-in-out .2s;
 }
@@ -176,7 +176,7 @@ p {
 blockquote {
   text-align: center;
   line-height: 1.4;
-  color: var(--primary);
+  color: #212121;
   font-size: 2rem;
 }
 
@@ -204,7 +204,7 @@ blockquote p {
   left: 0;
   width: 8rem;
   height: .1rem;
-  background-color: var(--primary);
+  background-color: #212121;
 }
 
 .fancy-title:after, .fancy-container h2:after {
@@ -214,7 +214,7 @@ blockquote p {
   left: 0;
   width: 8rem;
   height: .1rem;
-  background-color: var(--primary);
+  background-color: #212121;
 }
 
 .alignCenter.fancy-container {
@@ -257,7 +257,7 @@ blockquote p {
 .NavLink:hover,
 .NavLink.active,
 .NavLink:focus {
-  color: var(--primary);
+  color: #212121;
   opacity: 1;
   border: none;
 }
@@ -310,14 +310,14 @@ blockquote p {
 .Form--Input {
   font-family: inherit;
   font-size: 1.6rem;
-  color: var(--primary);
+  color: #212121;
   flex-grow: 1;
   box-sizing: border-box;
   display: block;
   margin: 0;
   border: none;
   outline: none;
-  border-bottom: .1rem solid var(--primary);
+  border-bottom: .1rem solid #212121;
   padding: 1.5rem 2rem;
   line-height: 1.25em;
   transition: border-color 0.2s;
@@ -406,7 +406,7 @@ blockquote p {
 }
 
 input::placeholder {
-  /* color: var(--primary); */
+  /* color: #212121; */
 
   color: white;
 }

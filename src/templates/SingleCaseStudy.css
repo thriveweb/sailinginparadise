@@ -16,7 +16,7 @@
 
 .SingleCaseStudy .SinglePost--Meta * {
 	font-size: 1.8rem;
-	color: var(--primary);
+	color: #212121;
 	text-transform: uppercase;
 	display: inline-block;
 }
@@ -82,7 +82,7 @@
 
 .quote p {
 	font-size: 2rem;
-	color: var(--primary);
+	color: #212121;
 }
 
 .SingleCaseStudy .video {

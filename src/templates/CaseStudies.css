@@ -1,14 +1,14 @@
 .CaseStudies .PostCard--Title {
 	text-transform: none;
 	font-size: 1.4rem;
-	color: var(--secondary);
+	color: rgba(65,63,71,0.7);
 	margin: 0;
 }
 
 .CaseStudies .PostCard--Subtitle {
 	text-transform: uppercase;
 	font-size: 1.8rem;
-	color: var(--primary);
+	color: #212121;
 	margin: 0;
 }
 

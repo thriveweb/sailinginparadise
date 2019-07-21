@@ -71,7 +71,7 @@
 
 .slide .title {
     text-transform: uppercase;
-    color: var(--primary);
+    color: #212121;
     text-align: right;
     position: relative;
     font-size: 2rem;
@@ -86,7 +86,7 @@
     left: 0;
     height: .1rem;
     width: 6rem;
-    background-color: var(--primary);
+    background-color: #212121;
 }
 
 .slide .title:after {
@@ -147,7 +147,7 @@
     flex: 0 0 1.25rem;
     height: 1.25rem;
     border-radius: 50%;
-    background-color: var(--primary);
+    background-color: #212121;
     opacity: 0.45;
     transition: all ease-in-out 0.2s;
     cursor: pointer;

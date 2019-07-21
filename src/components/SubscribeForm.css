@@ -13,12 +13,12 @@
 
 .SubscribeBanner .form-description h4 {
 	margin-bottom: 0;
-	color: var(--secondary);
+	color: rgba(65,63,71,0.7);
 }
 
 .SubscribeBanner .Form {
 	margin: 0 auto;
-	border-bottom: .1rem solid var(--primary);
+	border-bottom: .1rem solid #212121;
 	align-items: flex-end;
 }
 

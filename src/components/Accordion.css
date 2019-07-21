@@ -47,14 +47,14 @@
 }
 
 .Accordion--item.active h3 {
-  color: var(--primary);
+  color: #212121;
 }
 .Accordion--item.active h3:after {
   content: '-';
   float: right;
   font-size: 4rem;
   color: #272727;
-  color: var(--darkGrey);
+  color: #413F47;
   line-height: 1;
   font-weight: 300;
 }

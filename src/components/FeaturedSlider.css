@@ -31,7 +31,7 @@
 }
 
 .featuredSlider .fancy-title:before, .featuredSlider .fancy-title:after {
-	background-color: var(--primary);
+	background-color: #212121;
 	width: 100%;
 }
 
@@ -70,7 +70,7 @@
 
 .featuredSlider .slick-arrow:before {
 	font-size: 2.5rem;
-	color: var(--primary);
+	color: #212121;
 }
 
 .featuredSlider .slick-arrow.slick-next {
@@ -147,20 +147,20 @@
 
 	.featuredSlider *,
 	.slick-arrow:before {
-		color: var(--primary);
+		color: #212121;
 	}
 
 	.featuredSlider .fancy-title:before,
 	.featuredSlider .fancy-title:after {
-		background-color: var(--primary);
+		background-color: #212121;
 	}
 
 	.featuredSlider .button {
-		color: var(--primary);
+		color: #212121;
 	}
 
 	.featuredSlider .button svg * {
-		fill: var(--primary);
+		fill: #212121;
 	}
 }
 

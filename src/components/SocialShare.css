@@ -7,7 +7,7 @@
 
 .share-buttons p {
 	margin: 0 2rem 0 0;
-	color:var(--primary);
+	color:#212121;
 }
 
 .share-buttons li {
@@ -21,7 +21,7 @@
 
 .share-buttons a {
 	border-radius: 100%;
-	border: .1rem solid var(--secondary);
+	border: .1rem solid rgba(65,63,71,0.7);
 	height: 3rem;
 	width: 3rem;
 	display: flex;
@@ -38,7 +38,7 @@
 }
 
 .share-buttons a:hover {
-	background-color: var(--primary);
+	background-color: #212121;
 }
 
 .share-buttons a:hover svg * {

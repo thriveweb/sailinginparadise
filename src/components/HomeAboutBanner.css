@@ -23,7 +23,7 @@
 .aboutUs-Content * {
 	position: relative;
 	z-index: 2;
-	color: var(--primary);
+	color: #212121;
 }
 
 .aboutUs-Content .blur {

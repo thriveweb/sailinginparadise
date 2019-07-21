@@ -1,7 +1,7 @@
 .Footer {
   padding: 6rem 0 0;
-  background: var(--darkBlue);
-  border-top: 4rem solid var(--midBlue);
+  background: #2C3140;
+  border-top: 4rem solid #3E4458;
 }
 
 .Footer .share-buttons {
