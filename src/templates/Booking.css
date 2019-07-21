@@ -18,6 +18,10 @@
 	align-items: flex-start;
 }
 
+.Booking .Contact--Details--Item * {
+	max-width: 100%;
+}
+
 .Booking .Contact--Details--Item .image-container {
 	height: 20rem;
 	width: 35rem;
