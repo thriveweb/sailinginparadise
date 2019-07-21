@@ -4,7 +4,7 @@ slug: ''
 title: True Paradise
 buttonTitle: Find your perfect cruise
 buttonUrl: cruises
-mobileImage: 'https://ucarecdn.com/2fb7b9b0-1319-477f-ba5c-7bf15daf9c36/'
+mobileImage: ''
 featuredVideo: 'https://ucarecdn.com/49b86f08-f798-4bed-b64b-9cd20379d97a/'
 featuredSlider:
   - buttonUrl: cruise/sunset-city-lights-cruise
