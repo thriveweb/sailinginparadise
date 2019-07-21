@@ -179,7 +179,7 @@
 }
 
 .video-section.homeVideo .overlay-content .container {
-	max-width: 65%;
+	max-width: 53%;
 	padding-top: 10vw;
 	margin: 0 0 0 auto;
 	flex-wrap: wrap;
@@ -212,14 +212,17 @@
 }
 
 @media only screen and (max-width: 1800px) {
-	.video-section.homeVideo .overlay-content .container {
-		padding-top: 13rem;
+	.video-section.homeVideo .overlay-content h1 {
+		font-size: 16rem;
 	}
+}
 
+@media only screen and (max-width: 1600px) {
 	.video-section.homeVideo .overlay-content h1 {
 		font-size: 14rem;
 	}
 }
+
 
 @media only screen and (max-width: 1550px) {
 	.video-section.homeVideo .overlay-content .container {
