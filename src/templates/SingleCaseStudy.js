@@ -33,6 +33,9 @@ export const SingleCaseStudyTemplate = ({
   const bannerTitle = _get(banner, '[0]frontmatter.title') || ''
   const bannerImage = _get(banner, '[0]frontmatter.featuredImage') || ''
 
+  console.log(bannerTitle)
+  console.log(bannerImage)
+
   return (
     <main className="SingleCaseStudy">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>

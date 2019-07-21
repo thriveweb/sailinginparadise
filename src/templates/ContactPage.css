@@ -20,6 +20,10 @@
   flex-direction: column;
 }
 
+.Contact .Contact--Details--Item * {
+  max-width: 100%;
+}
+
 .Contact .Contact--Details--Item p strong {
   margin-bottom: 1rem;
 }
@@ -54,7 +58,7 @@
 }
 
 .contact-body > * {
-  flex: 1;
+  flex: 0 0 calc(50% - 3rem);
 }
 
 .contact-body .map {
