@@ -32,7 +32,7 @@ export const SingleCaseStudyTemplate = ({
 
   const bannerTitle = _get(banner, '[0]frontmatter.title') || ''
   const bannerImage = _get(banner, '[0]frontmatter.featuredImage') || ''
-
+  console.log(banner)
   console.log(bannerTitle)
   console.log(bannerImage)
 
