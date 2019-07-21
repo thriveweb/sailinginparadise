@@ -102,6 +102,10 @@ export const SingleCaseStudyTemplate = ({
 
 const SingleCaseStudy = ({ data, pageContext }) => {
   const { post, archiveBanner, globalVideo } = data
+  console.log({
+    archiveBanner
+  })
+
   const banner = archiveBanner
     ? archiveBanner.edges.map(edge => ({ ...edge.node }))
     : []
@@ -153,7 +157,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    archiveBanner: allMarkdownRemark(filter: {id: {eq: "588061a2-5982-5cb1-a55b-36c2e2a7a00a"}}) {
+    archiveBanner: allMarkdownRemark(filter: {fields:{ slug: {eq: "/happy-sailors/"}}}) {
       edges {
         node {
           id

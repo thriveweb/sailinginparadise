@@ -4,7 +4,6 @@ import uploadcare from "netlify-cms-media-library-uploadcare";
 
 import './cms-utils'
 
-CMS.registerMediaLibrary(uploadcare);
 
 import { HomePageTemplate } from "../templates/HomePage";
 import { AboutPageTemplate } from "../templates/AboutPage";
@@ -19,6 +18,8 @@ import { CaseStudiesTemplate } from "../templates/CaseStudies";
 import { BoatsPageTemplate } from "../templates/BoatsPage";
 import { SingleCaseStudyTemplate } from "../templates/SingleCaseStudy";
 import { SingleBoatTourTemplate } from "../templates/SingleBoatTour";
+
+CMS.registerMediaLibrary(uploadcare);
 
 
 CMS.registerPreviewTemplate("home-page", ({ entry }) => (
