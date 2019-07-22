@@ -6,11 +6,28 @@
 	height: 100%;
 	display: flex;
 	align-items: center;
-	background: rgba(255,255,255,0.8);
+	background: rgba(255,255,255,0.9);
 	opacity: 0;
 	visibility: hidden;
-	z-index: 99;
+	z-index: 999;
 	transition: all ease-in-out .3s;
+}
+
+.booking-popup .popup-close {
+	position: absolute;
+	top: 1rem;
+	right: 3rem;
+	width: 3.5rem;
+	height: 3.5rem;
+}
+
+.booking-popup .popup-close svg {
+	height: 3.5rem;
+	width: 3.5rem;
+}
+
+.booking-popup .popup-close svg * {
+	fill: #212121;
 }
 
 .booking-popup .container {

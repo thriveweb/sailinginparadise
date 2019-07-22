@@ -3,7 +3,7 @@ import { Location } from '@reach/router'
 
 import Image from './Image'
 import Button from './Button'
-import { ICONButtonArrows } from './Icons'
+import { ICONButtonArrows, ICONClose } from './Icons'
 
 import './BookingPopup.css'
 
@@ -15,6 +15,12 @@ class Popup extends Component {
 				const { title, contentBoxes, classActive } = this.props
 
 				return <section className={`booking-popup ${classActive}`}>
+					<div
+						className='popup-close'
+						onClick={this.props.handlePopup}
+					>
+						<ICONClose/>
+					</div>
 					<div className='container skinny'>
 						{title && <h2>{title}</h2>}
 						<div className='contentBoxes'>
@@ -31,10 +37,12 @@ class Popup extends Component {
 												{buttonTitle}
 												<ICONButtonArrows/>
 											</p>
-										: <Button
-												title={buttonTitle}
-												url={buttonUrl}
-											/>
+										: <div onClick={this.props.handlePopup}>
+												<Button
+													title={buttonTitle}
+													url={buttonUrl}
+												/>
+											</div>
 									}
 								</div>
 							})}
