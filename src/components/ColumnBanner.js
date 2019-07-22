@@ -26,7 +26,7 @@ export default ({ columnBanner, boatTour, className = '', charterUrl, bookingIfr
 						{content && <Content src={content} />}
 						{bookingWidget
 							? <Content src={bookingWidget} />
-							: <Link className='button' to={`/${buttonUrl}${charterUrl && `?charter=${charterUrl}`}`}>
+							: <Link className='button' to={`/${buttonUrl}${charterUrl && buttonUrl === 'booking-enquiry' && `?charter=${charterUrl}`}`}>
 									{buttonTitle}
 									<ICONButtonArrows/>
 								</Link>

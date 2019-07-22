@@ -8,13 +8,15 @@ import './ContentBox.css'
 
 export default ({ title, buttonTitle, buttonUrl, charterUrl }) => {
 
+	console.log(buttonUrl)
+
 	if(!title) return null
 
 	return <div className='contentBox'>
 		<div className='contentBox-container'>
 			{title && <h3>{title}</h3>}
 			{charterUrl
-				? <Link className='button' to={`/${buttonUrl}${charterUrl && `?charter=${charterUrl}`}`}>
+				? <Link className='button' to={`/${buttonUrl}${charterUrl && buttonUrl === 'booking-enquiry' && `?charter=${charterUrl}`}`}>
 						{buttonTitle}
 						<ICONButtonArrows/>
 					</Link>
