@@ -46,7 +46,7 @@ export default props => {
                       <Link
                         key={`cruise-subNav-${index}`}
                         className="NavLink"
-                        to={`/${_kebabCase(title)}`}
+                        to={`/cruise/${_kebabCase(title)}`}
                       >
                         {title}
                       </Link>
