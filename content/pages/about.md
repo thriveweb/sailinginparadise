@@ -15,7 +15,7 @@ intro: >-
 
   With years of commercial boating experience in Sydney and the Gold Coast
   including skippering charter boats, water taxis, jet boats and commercial jet
-  skis Sailing in Paradise owner Steve Buckley brought a new style of sailing
+  skis, Sailing in Paradise owner Steve Buckley brought a new style of sailing
   experience to the Coast.   
 
 
