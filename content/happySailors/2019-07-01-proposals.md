@@ -24,4 +24,4 @@ gallery:
   - image: 'https://ucarecdn.com/c89ff3be-d253-4b6f-a4ca-52400caf6b26/'
   - image: 'https://ucarecdn.com/ef7f753e-c965-4977-bb73-ea08ef5d9d65/'
 ---
-Mathew organised a special sunset proposal charter to pop the question to Jessica. At the perfect moment and to Jessica’s surprise, we pulled out the sail which said “will you marry me” while playing a special song of hers. The dolphins visiting made it even more perfect! We absolutely adore hosting proposals and have a 100% success rate!
+Matthew organised a special sunset proposal charter to pop the question to Jessica. At the perfect moment and to Jessica’s surprise, we pulled out the sail which said “will you marry me” while playing a special song of hers. The dolphins visiting made it even more perfect! We absolutely adore hosting proposals and have a 100% success rate!
