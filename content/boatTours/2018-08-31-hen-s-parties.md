@@ -55,9 +55,8 @@ videoSection:
   video: ''
 contentColumnTitle: Plan your perfect hens party cruise
 contentColumn: >-
-  We have hosted thousands of happy Hens parties but no two have ever been
-  alike.   So what will you party be?  A relaxed afternoon on the water with
-  swimming and sunbaking, an elegant morning tea with mimosas or a wild hen's
+  How does your perfect hen's party look?  A relaxed afternoon on the water with
+  swimming and sunbathing, an elegant morning tea with mimosas or a wild hen's
   night party with all the hen's party trimmings?  The choice is totally yours
   and we are here to help with whatever you wish.    
 
