@@ -50,9 +50,9 @@ videoSection:
 contentColumnTitle: See the Gold Coast in a new light...
 contentColumn: >-
   The beauty of a private charter is that the boat is yours to use as you wish
-  and you call the shots…  So if you fancy dropping anchor for a swim we can
-  make it happen, if you would prefer to spend more time sailing that’s also
-  fine. 
+  and you call the shots…  So if you fancy dropping anchor or pulling up on a
+  secluded beach for a swim we can make it happen, if you would prefer to spend
+  more time sailing that’s also fine. 
 
 
   You can choose from our delicious catering menu and drinks packages, or you
