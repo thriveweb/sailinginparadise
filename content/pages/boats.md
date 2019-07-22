@@ -52,7 +52,7 @@ boats:
       video: ''
     virtualTour: >-
       <iframe width='100%' height='100%'
-      src='https://roundme.com/embed/H867NI4A1aUktvr1wPWg' frameborder='0'
+      src='https://roundme.com/embed/vbLlexBhnhqkTATZiUsd' frameborder='0'
       webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - boatFeatures:
       - content: '10.85m long, 5.9m wide'
