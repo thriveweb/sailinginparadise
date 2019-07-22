@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: ''
-buttonTitle: ''
-buttonUrl: ''
+title: ' '
+buttonTitle: Find your perfect cruise
+buttonUrl: cruises
 mobileImage: 'https://ucarecdn.com/0a455b39-41c3-4318-ad41-9f9f05253f00/'
 featuredVideo: 'https://ucarecdn.com/8416cbcf-1264-401e-9e24-697217a7217f/'
 featuredSlider:
