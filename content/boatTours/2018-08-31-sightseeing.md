@@ -69,7 +69,7 @@ contentColumn: >-
 accordionSection:
   accordion:
     - dropdownContent: >-
-        We will take you and your guests for a sail past the iconic 5 star
+        We can take you and your guests for a sail past the iconic 6 star
         Palazzo Versace, you will marvel at the luxurious super yachts and watch
         the Gold Coast city skyline drift into the distance as you sail
         north.     Wave Break Island is a little slice of paradise here on the
