@@ -158,7 +158,7 @@ secondaryBanner:
 videoSection:
   imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
   title: Experience the open water with an affordable yet luxurious adventure
-  video: '347441203'
+  video: '349382726'
 columnBanner:
   - buttonTitle: See More
     buttonUrl: private-charters
