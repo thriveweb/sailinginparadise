@@ -2,8 +2,8 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  site_url: https://sailing-paradise.netlify.com
-  display_url: https://sailing-paradise.netlify.com
+site_url: https://sailing-paradise.netlify.com
+display_url: https://sailing-paradise.netlify.com
 media_library:
   name: uploadcare
   config:
