@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: True Paradise
+title: ' '
 buttonTitle: Find your perfect cruise
 buttonUrl: cruises
 mobileImage: 'https://ucarecdn.com/0a455b39-41c3-4318-ad41-9f9f05253f00/'
