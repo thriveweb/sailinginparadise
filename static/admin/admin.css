@@ -54,44 +54,14 @@
 
 /* Custom logo */
 
-.nc-githubAuthenticationPage-logo {
+.css-1ctnbih-IconWrapper-NetlifyLogoIcon {
   background-image: url(/images/logo.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100px;
 }
 
-.nc-githubAuthenticationPage-logo svg {
-  display: none;
-}
-
-.nc-githubAuthenticationPage-button {
-  text-indent: -1000px;
-  overflow: hidden;
-  width: 8rem;
-}
-
-.nc-githubAuthenticationPage-button:after {
-  content: 'Login';
-  display: block;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  width: auto;
-  text-indent: 0;
-}
-
-/* Custom logo */
-
-.nc-githubAuthenticationPage-logo {
-  background-image: url(/images/logo.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100px;
-}
-
-.nc-githubAuthenticationPage-logo svg {
+.css-1ctnbih-IconWrapper-NetlifyLogoIcon svg {
   display: none;
 }
 
