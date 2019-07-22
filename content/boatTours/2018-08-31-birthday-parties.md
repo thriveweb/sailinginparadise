@@ -66,9 +66,8 @@ gallery:
       https://ucarecdn.com/425e8ca4-0f4e-48d6-8a08-3cb3c26716ff/-/crop/1500x1391/0,426/-/preview/
   - image: 'https://ucarecdn.com/9fa3b953-d7e1-4c9e-aa2a-fbc09d158b4e/'
 videoSection:
-  imageOverlay: 'https://ucarecdn.com/27d0381d-387d-4d17-b24b-6f193f828def/'
-  video: >-
-    https://www.youtube.com/watch?v=vr0qNXmkUJ8&list=PLNhzc-Os3JK8ExayVzzoHVvP2c0-4_oqt
+  imageOverlay: ''
+  video: '349382726'
 contentColumnTitle: Fun for all ages.
 contentColumn: >-
   From 21st birthdays all the way through to 80th's and beyond, we can create a
