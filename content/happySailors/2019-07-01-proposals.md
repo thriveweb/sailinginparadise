@@ -26,7 +26,7 @@ gallery:
 secondaryBanner:
   buttonTitle: 'take me back '
   buttonUrl: happy-sailors
-  title: want to meet more happy sailors
+  title: want to meet more happy sailors?
   featuredImage: 'https://ucarecdn.com/996a395f-1770-41b9-8b3b-c36c408b0bba/'
 ---
 Matthew organised a special sunset proposal charter to pop the question to Jessica. At the perfect moment and to Jessica’s surprise, we pulled out the sail which said “will you marry me” while playing a special song of hers. The dolphins visiting made it even more perfect! We absolutely adore hosting proposals and have a 100% success rate!
