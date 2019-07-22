@@ -9,12 +9,13 @@ intro: >-
 
 
   If you are looking for the perfect birthday party venue on the Gold Coast then
-  look no further. Sailing In Paradise can help to create a perfect Gold Coast
-  birthday party experience. We can cater for groups of up to 30 people on our
-  signature sailing catamaran the 'Spirit of Gwonda', up to 20 on our Seawind
-  1000XL or combine both of our beautiful catamarans to suit up to 50 people.
-  Have an even larger group? No problems, we can arrange a raft up party with 4
-  catamarans for up to 90 people.
+  look no further. Sailing In Paradise can help to create a memorable birthday
+  experience to share with family and friends aboard one of our beautiful
+  boats.   We can cater for groups of up to 30 people on our signature sailing
+  catamaran the 'Spirit of Gwonda', up to 20 on our Seawind 1000XL or combine
+  both of our catamarans to suit up to 50 people. Have an even larger group? No
+  problems, we can arrange a raft up party with 4 catamarans for up to 90
+  people.
 
 
   Our sailing catamarans are smooth and stable and open-plan making them the
