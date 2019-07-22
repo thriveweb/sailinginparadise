@@ -88,11 +88,11 @@ columnBanner:
     content: Send me some info...
     title: Start planning my charter
     featuredImage: 'https://ucarecdn.com/60cf28b4-7151-4fea-ae4c-0a8601e88000/'
-  - buttonTitle: Show me around
-    buttonUrl: 'https://sailing-paradise.netlify.com/boats/'
+  - buttonTitle: ''
+    buttonUrl: ''
     content: choose from 2 beautiful catamarans
     title: Take a tour of our boats
-    featuredImage: 'https://ucarecdn.com/1748104d-5866-4c1c-b9db-bd4fdd0fa4ab/'
+    featuredImage: 'https://ucarecdn.com/4022b0fd-9830-4bab-924b-241eba6926c8/'
 featuredTestimonials:
   description: 'Bree has been out with us 3 times now, check out her lovely review here...'
   testimonial: 'Bree, Aus'
