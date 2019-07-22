@@ -84,11 +84,11 @@ aboutSection:
     surrounds.
 
 
-    Everything is taken care of - the coolest tunes playing through state of the
-    art sound system with speakers inside and out, large eskies stocked with
-    ice, large central timber table for presenting your food, marine barbecue,
-    inflatables, paddleboards and beach games, clean modern bathroom facilities,
-    the list goes on and on.
+    Everything is taken care of when you charter one of our boats - the coolest
+    tunes playing through state of the art sound system with speakers inside and
+    out, large eskies stocked with ice, large central timber table for
+    presenting your food, marine barbecue, inflatables, paddleboards and beach
+    games, clean modern bathroom facilities, the list goes on.
 
 
     And our crew are on hand to ensure that your event is the best it can be.
