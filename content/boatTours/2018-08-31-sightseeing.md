@@ -85,9 +85,9 @@ accordionSection:
         You’re going to see lots of interesting things while out on the
         Broadwater with us, so be sure to keep an eye out for friendly
         bottle-nose dolphins, stingrays, turtles, wallabies and soaring
-        sea-eagles!   You can catch up on those rays while lounging out on the
-        foredeck as we can sail up to Sovereign Islands to see the mansions of
-        the rich and famous. 
+        sea-eagles!   You can touch up your tan while lounging out on the
+        foredeck as we sail up to Sovereign Islands to see the mansions of the
+        rich and famous (free sunscreen is available and recommended).
 
 
         We have rods and bait available (on request) so you can have a go at
@@ -105,7 +105,6 @@ accordionSection:
       title: Things to see and do on your charter
     - dropdownContent: |-
         * Hat
-        * Sunscreen
         * Sunglasses
         * Swimwear 
         * Towel
@@ -162,8 +161,8 @@ accordionSection:
         **Can I BYO food and drink?**
 
 
-        Yes if you would like to bring your own food and drinks on board that is
-        completely fine.
+        Yes, on a private charter if you would like to bring your own food and
+        drinks on board that is completely fine.
 
 
         - - -
@@ -213,13 +212,10 @@ accordionSection:
 
 
         Nope. We operate in the calm, protected waters of the Gold Coast
-        Broadwater. We do not go
-
-
-        offshore (into the open ocean) so we do not experience large waves. Our
-        catamarans are very stable, and do not have the same side to side
-        rocking motion as experienced by single hull vessels so you won't get
-        seasick :-).
+        Broadwater. We do not go offshore (into the open ocean) so we do not
+        experience large waves. Our catamarans are very stable, and do not have
+        the same side to side rocking motion as experienced by single hull
+        vessels so you won't get seasick :-).
 
 
         - - -
