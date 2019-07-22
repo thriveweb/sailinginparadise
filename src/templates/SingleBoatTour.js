@@ -37,7 +37,7 @@ export const SingleBoatTourTemplate = ({
   meta
 }) => {
   const charterUrl = slug
-    ? slug.replace('/boat-tours/', '').replace('/', '')
+    ? slug.replace('/private-charter/', '').replace('/', '')
     : ''
 
   return (
@@ -73,7 +73,7 @@ export const SingleBoatTourTemplate = ({
           bookingIframe={bookingIframe}
         />
       }
-      <FeaturedTestimonial {...featuredTestimonials} caseStudies={caseStudies} />
+      <FeaturedTestimonial {...featuredTestimonials} caseStudies={caseStudies} charterTitle={title} />
     </main>
   )
 }

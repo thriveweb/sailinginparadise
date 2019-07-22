@@ -7,7 +7,7 @@ import _get from 'lodash/get'
 
 import './FeaturedTestimonial.css'
 
-export default ({ description, title, testimonial, caseStudies }) => {
+export default ({ description, title, testimonial, caseStudies, charterTitle }) => {
 
     if(!testimonial) return null
 
@@ -25,13 +25,14 @@ export default ({ description, title, testimonial, caseStudies }) => {
         <div className='container large'>
             <div className='testimonialIntro'>
                 {title && <h2>{title}</h2>}
+                {charterTitle && <p className='charter-title'>{charterTitle}</p>}
                 {description && <Content src={description} />}
             </div>
             <Link to={slug} className='testimonial'>
               {featuredImage &&
                 <div className='img-thumbnail'>
                   <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/120/`} />
-                </div>  
+                </div>
               }
               <div className='testimonial-content'>
                   {frontmatter.title && <p className='title'>{frontmatter.title}</p>}

@@ -116,6 +116,7 @@ class Video extends Component {
           ref={this.videoRef}
           frameBorder="0"
           allowFullScreen
+          portrait="0"
           title="video banner"
         ></iframe>
       </div>
