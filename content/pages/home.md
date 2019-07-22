@@ -62,7 +62,7 @@ secondaryBanner:
   buttonTitle: Know More
   buttonUrl: cruises
   featuredImage: 'https://ucarecdn.com/56f44beb-7878-4241-9e81-bca565ab969d/'
-  subtitle: Special Offer on Ticketed Cruises
+  subtitle: SAVE on Ticketed Cruises
   title: Adults at Kids prices
 aboutSection:
   buttons:
