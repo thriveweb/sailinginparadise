@@ -93,7 +93,7 @@ export default props => {
           <div className="footer-col col4">
             <h4>Quick contact</h4>
             <EnquiryForm />
-            <Link className="NavLink" to="/book-enquiry/">
+            <Link className="NavLink" to="/booking-enquiry/">
               Enquire About Hiring our Boats
             </Link>
             <Link className="NavLink" to="/cruises/">
@@ -108,6 +108,7 @@ export default props => {
               href="https://thriveweb.com.au/"
               rel="nofollow"
               title="website design"
+              target="_blank"
             >
               Website Design
             </a>{' '}
