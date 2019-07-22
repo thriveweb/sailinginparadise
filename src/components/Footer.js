@@ -46,7 +46,7 @@ export default props => {
                       <Link
                         key={`cruise-subNav-${index}`}
                         className="NavLink"
-                        to={`/${_kebabCase(slug)}`}
+                        to={`/${_kebabCase(title)}`}
                       >
                         {title}
                       </Link>
@@ -81,7 +81,7 @@ export default props => {
                       <Link
                         key={`charter-subNav-${index}`}
                         className="NavLink"
-                        to={`/${slug}`}
+                        to={`/private-charter/${_kebabCase(title)}`}
                       >
                         {title}
                       </Link>
