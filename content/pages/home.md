@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: True Paradise
+title: ' '
 buttonTitle: Find your perfect cruise
 buttonUrl: cruises
 mobileImage: 'https://ucarecdn.com/0a455b39-41c3-4318-ad41-9f9f05253f00/'
@@ -31,7 +31,7 @@ services:
     serviceContent:
       buttonUrl: private-charters
       description: >-
-        Sailing in Paradise invites you to step aboard one of their luxurious
+        Sailing in Paradise invites you to step aboard one of our luxurious
         sailing catamarans for an event to be remembered.
       icon: /images/uploads/wheel.svg
       title: Private Boat Hire
@@ -53,8 +53,8 @@ services:
       icon: /images/uploads/wine.svg
       title: Hens Party Specialists
 serviceBanner:
-  buttonTitle: Find your Perfect Cruise
-  buttonUrl: cruises
+  buttonTitle: Find your Perfect Charter
+  buttonUrl: private-charters
   featuredImage: 'https://ucarecdn.com/117d8fce-576b-4fe1-9dad-d9f34471faee/'
   subtitle: Let’s Get The Party Started!
   title: Ready to book your Gold Coast Boat Hire?
@@ -62,7 +62,7 @@ secondaryBanner:
   buttonTitle: Know More
   buttonUrl: cruises
   featuredImage: 'https://ucarecdn.com/56f44beb-7878-4241-9e81-bca565ab969d/'
-  subtitle: Special Offer on Ticketed Cruises
+  subtitle: SAVE on Ticketed Cruises
   title: Adults at Kids prices
 aboutSection:
   buttons:
@@ -84,11 +84,11 @@ aboutSection:
     surrounds.
 
 
-    Everything is taken care of - the coolest tunes playing through state of the
-    art sound system with speakers inside and out, large eskies stocked with
-    ice, large central timber table for presenting your food, marine barbecue,
-    inflatables, paddleboards and beach games, clean modern bathroom facilities,
-    the list goes on and on.
+    Everything is taken care of when you charter one of our boats - the coolest
+    tunes playing through state of the art sound system with speakers inside and
+    out, large eskies stocked with ice, large central timber table for
+    presenting your food, marine barbecue, inflatables, paddleboards and beach
+    games, clean modern bathroom facilities, the list goes on.
 
 
     And our crew are on hand to ensure that your event is the best it can be.
