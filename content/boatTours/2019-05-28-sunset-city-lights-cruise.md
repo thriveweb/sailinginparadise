@@ -10,7 +10,7 @@ intro: >-
 
 
   Looking for the Gold Coast's best sunset views?   There is no better place to
-  watch the sunset on the Gold Coast than, relaxing on a yacht on the
+  watch the sunset on the Gold Coast than relaxing on a yacht on the
   Broadwater!   No seriously...
 
 
@@ -24,8 +24,6 @@ intro: >-
 
 
   We've got the champagne on ice!
-
-
 
 
 
