@@ -27,7 +27,7 @@ We are conveniently located at Marina Mirage, 74 Seaworld Drive, Main Beach.    
 
 ### HOW TO FIND THE BOAT AT THE MARINA
 
-When you reach Marina Mirage you will need to find the boat!!    The access to our wharf is located near the Ray White Marine Office.  **Please enter through the BLACK GATES and follow the walkway down to the long wharf. This is the D Arm of Marina Mirage (you will see a map of the marina on your left before entering these gates).**
+When you reach Marina Mirage you will need to find the boat!!    The access to our wharf is located near the Ray White Marine Office.  **Please enter through the BLACK GATES (you will see our sign here on your left) and follow the walkway down to the floating wharf. This is the D Arm of Marina Mirage (you will also see a map of the marina on your left before entering these gates).**
 
 Please **DO NOT** go down the pier with the big yellow arches as that is Mariners Cove and you will not be able to access the boat easily from this side.
 
