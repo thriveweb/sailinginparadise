@@ -25,5 +25,10 @@ gallery:
   - image: 'https://ucarecdn.com/195b1af9-6766-4842-a76f-693bf882fd01/'
   - image: 'https://ucarecdn.com/f6b78a0b-1493-4cd5-8f47-bb5f1e779c8b/'
   - image: 'https://ucarecdn.com/63bcdcfa-cd68-4fb2-ac33-1d204525a546/'
+secondaryBanner:
+  buttonTitle: take me back
+  buttonUrl: happy-sailors
+  title: want to meet more happy sailors?
+  featuredImage: 'https://ucarecdn.com/c893653b-8001-48d5-b82e-dd1376f7af70/'
 ---
 We love nothing more than making our guests smile and seeing them join us again and again, like Chelsey! With a private charter the choice is yours weather you want a morning, afternoon, sunset or night charter experience.

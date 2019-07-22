@@ -23,5 +23,10 @@ gallery:
   - image: 'https://ucarecdn.com/13e873fc-c772-4d94-ae49-ffb7437bb584/'
   - image: 'https://ucarecdn.com/c89ff3be-d253-4b6f-a4ca-52400caf6b26/'
   - image: 'https://ucarecdn.com/ef7f753e-c965-4977-bb73-ea08ef5d9d65/'
+secondaryBanner:
+  buttonTitle: 'take me back '
+  buttonUrl: happy-sailors
+  title: want to meet more happy sailors?
+  featuredImage: 'https://ucarecdn.com/996a395f-1770-41b9-8b3b-c36c408b0bba/'
 ---
 Matthew organised a special sunset proposal charter to pop the question to Jessica. At the perfect moment and to Jessica’s surprise, we pulled out the sail which said “will you marry me” while playing a special song of hers. The dolphins visiting made it even more perfect! We absolutely adore hosting proposals and have a 100% success rate!
