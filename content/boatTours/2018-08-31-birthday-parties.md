@@ -11,19 +11,15 @@ intro: >-
   If you are looking for the perfect birthday party venue on the Gold Coast then
   look no further. Sailing In Paradise can help to create a memorable birthday
   experience to share with family and friends aboard one of our beautiful
-  boats.   We can cater for groups of up to 30 people on our signature sailing
-  catamaran the 'Spirit of Gwonda', up to 20 on our Seawind 1000XL or combine
-  both of our catamarans to suit up to 50 people. Have an even larger group? No
-  problems, we can arrange a raft up party with 4 catamarans for up to 90
-  people.
+  boats.   
 
 
-  Our sailing catamarans are smooth and stable and open-plan making them the
-  perfect venue for your next birthday party event.
+  Our sailing catamarans are smooth and stable and open-plan making these boats
+  the perfect venue for your next birthday party event.
 
 
-  You can choose to BYO everything or we can arrange the catering and bar
-  service for you for a stress free event.
+  We offer a range of delicious catering options and beverage packages and we
+  also welcome BYO, the choice is absoutely yours.
 
 
   Each boat is equipped with everything you would expect from a luxury catamaran
@@ -75,8 +71,16 @@ contentColumn: >-
   years to come.
 
 
+  We can cater for groups of up to 30 people on our signature sailing catamaran
+  the 'Spirit of Gwonda', or up to 20 on our Seawind 1000XL.  If you have a
+  larger group be sure to check out our amazing [Raft-Up
+  Party](https://sailing-paradise.netlify.com/private-charter/raft-up-parties/)
+  options.  
+
+
   The smooth and stable nature of the catamaran means our boats are suitable for
-  all ages and abilities.
+  all ages and abilities.   [Take a tour of our
+  boats](https://sailing-paradise.netlify.com/boats/).
 
 
   No matter what style of birthday party you wish to create, we can help.
@@ -93,7 +97,10 @@ contentColumn: >-
 
   From the moment you send through an enquiry, all the way through to the follow
   up email with your free souvenir photos after your cruise, we pride ourselves
-  on our professional yet friendly and laid-back attitude.
+  on our professional yet friendly and laid-back attitude.   
+
+
+  [Meet our crew.](https://sailing-paradise.netlify.com/about/)
 accordionSection:
   accordion:
     - dropdownContent: >-
