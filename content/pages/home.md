@@ -40,7 +40,7 @@ services:
       buttonUrl: cruises
       description: >-
         Join Sailing in Paradise on a cruise of the Gold Coast Broadwater.  Take
-        in the sunset or sail to an island by day.  
+        in the sunset or sail to an island by day.
       icon: /images/uploads/boat2.svg
       title: Ticketed Cruises
   - image: 'https://ucarecdn.com/8b52eb78-1a5d-4e8d-b370-673f86813142/'
@@ -151,4 +151,3 @@ latestNews: >-
 meta:
   title: ''
 ---
-

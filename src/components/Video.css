@@ -133,10 +133,6 @@
   position: relative;
 }
 
-.video-section.homeVideo .video {
-  min-height: auto;
-}
-
 .video-section.homeVideo .video-container:before {
   content: '';
   position: absolute;
@@ -162,7 +158,6 @@
   position: relative;
 }
 
-.video-section.homeVideo .background-video:before,
 .video-section.homeVideo .img-container:before {
   content: '';
   position: absolute;
@@ -353,5 +348,16 @@
 @media only screen and (max-width: 320px) {
   .video-section.homeVideo .overlay-content h1 {
     font-size: 3.4rem;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .homeVideo .background-video {
+    transform: scale(2);
+  }
+}
+@media screen and (max-width: 400px) {
+  .homeVideo .background-video {
+    transform: scale(3);
   }
 }

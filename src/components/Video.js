@@ -59,18 +59,18 @@ class Video extends Component {
     if (homeVideo)
       return (
         <div className={`video-section homeVideo`}>
-          {title && (
+          {title.length > 1 && (
             <div className="overlay-content">
               <div className="container">
-                {title && <h1 className="title-gradient">{title}</h1>}
+                <h1 className="title-gradient">{title}</h1>
                 <Button title={buttonTitle} url={buttonUrl} white />
               </div>
             </div>
           )}
-          {mobileWidth === false ? (
+          {video && (
             <div className="background-video">
               <video
-                poster={mobileImage}
+                poster={mobileImage && mobileImage}
                 className="video"
                 preload="true"
                 playsInline
@@ -80,31 +80,8 @@ class Video extends Component {
               >
                 <source src={video} type="video/mp4"></source>
               </video>
-            </div>
-          ) : !mobileImage && mobileWidth === true ? (
-            <div className="background-video">
-              <video
-                poster={mobileImage}
-                className="video"
-                preload="true"
-                playsInline
-                autoPlay
-                muted
-                loop
-              >
-                <source src={video} type="video/mp4"></source>
-              </video>
-            </div>
-          ) : (
-            <div className="img-container">
-              <Image
-                className="mobile-image"
-                background
-                src={`${mobileImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/450/`}
-              />
             </div>
           )}
-
           <FeaturedSlider
             featuredSlider={featuredSlider}
             featuredBanner={featuredBanner}
