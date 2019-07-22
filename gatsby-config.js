@@ -2,13 +2,12 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Yelloecake',
-    siteUrl: 'https://yellowcake.netlify.com'
+    title: 'Sailing in Paradise',
+    siteUrl: 'https://sailing-paradise.netlify.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
-
     // Add static assets before markdown files
     {
       resolve: 'gatsby-source-filesystem',
