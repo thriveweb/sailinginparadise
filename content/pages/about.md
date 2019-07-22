@@ -157,7 +157,7 @@ secondaryBanner:
   title: check out our amazing catamarans
 videoSection:
   imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
-  title: Experience the open water with an affordable yet luxurious adventure
+  title: Experience the Gold Coast with an affordable yet luxurious adventure
   video: '349382726'
 columnBanner:
   - buttonTitle: See More
