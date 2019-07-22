@@ -90,11 +90,7 @@ contentColumn: >-
   Our guests tell us that spending a day (or evening) on the water was one of
   their best ever birthday party ideas!
 
-   At Sailing In Paradise, we are continually striving to create the best experience possible for our guests.
-
-  We understand that you want your special day to be memorable, fun, relaxing
-  and stress free and that is exactly where we come in...
-
+   At Sailing In Paradise, we are continually striving to create the best experience possible for our guests.  We understand that you want your special day to be memorable, fun, relaxing and stress free and that is exactly where we come in...
 
   From the moment you send through an enquiry, all the way through to the follow
   up email with your free souvenir photos after your cruise, we pride ourselves
