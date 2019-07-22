@@ -55,7 +55,7 @@ boats:
       src='https://roundme.com/embed/H867NI4A1aUktvr1wPWg' frameborder='0'
       webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   - boatFeatures:
-      - content: '10m long, 5.8m wide'
+      - content: '10.85m long, 5.9m wide'
       - content: 20 passengers + 2 crew
       - content: 'The modern, luxury version of the popular Seawind 1000 (2011 model)'
       - content: Comfortable dining saloon
