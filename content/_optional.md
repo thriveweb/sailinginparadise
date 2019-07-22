@@ -1,9 +1,13 @@
 ---
 optional: hello gatsby
 title: ''
+
 subtitle: ''
 featuredImage: /images/logo.svg
 featuredVideo: ''
+buttonTitle: ''
+buttonUrl: ''
+mobileImage: /images/logo.svg
 intro: ''
 body: ''
 featuredSlider:
@@ -17,10 +21,10 @@ featuredBanner:
   buttonUrl: ''
 services:
   - serviceContent:
-     icon: /images/logo.svg
-     title: ''
-     description: ''
-     buttonUrl: ''
+      icon: /images/logo.svg
+      title: ''
+      description: ''
+      buttonUrl: ''
   - image: /images/logo.svg
 serviceBanner:
   buttonTitle: ''
