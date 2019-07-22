@@ -148,16 +148,10 @@ crewSection:
         https://ucarecdn.com/4bbc0ae5-bc31-47fd-88f4-bd5a52293c50/-/crop/1080x1140/0,0/-/preview/
       name: 'Anna '
       title: Cruise Hostess
-    - content: info to come
-      name: Keegan
-      title: Skipper
-    - content: Info to come
-      name: Phoebe
-      title: Cruise Hostess
   crewIntro: "## Our Crew\n\nThe crew onboard your vessel are such an important aspect of chartering a boat.    Our aim is that you step aboard and feel instantly at ease so we have carefully selected our crew not only for their skill but also their amazing hospitality and fun personalities.   \r\n\nYou don't want a grumpy skipper or sleazy deck crew making you feel uneasy on your special day and rest assured that won’t happen on a charter with us."
 secondaryBanner:
-  buttonTitle: Know More
-  buttonUrl: private-charters
+  buttonTitle: Take a Tour
+  buttonUrl: boats
   featuredImage: 'https://ucarecdn.com/06a3b51c-4af5-42ad-aa0a-1d9c2a169443/'
   subtitle: ''
   title: check out our amazing catamarans
