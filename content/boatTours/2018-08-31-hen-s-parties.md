@@ -105,9 +105,8 @@ contentColumn: >-
 
   Be sure to dress for the occasion, as we always take photos on the day to
   capture all those precious moments so you can take lots of great memories
-  home.  Practically all of the photos you will see on [our Instagam page
-  ](https://www.instagram.com/sailinginparadisegoldcoast/)are taken by our crew
-  on board actual charters.  
+  home.  Practically all of the photos you will see on our Instagam page are
+  taken by our crew on board actual charters.  
 
 
   We are confident that a Gold Coast hen’s party with Sailing In Paradise, is an
