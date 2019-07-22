@@ -8,7 +8,7 @@ mobileImage: 'https://ucarecdn.com/0a455b39-41c3-4318-ad41-9f9f05253f00/'
 featuredVideo: 'https://ucarecdn.com/49b86f08-f798-4bed-b64b-9cd20379d97a/'
 featuredSlider:
   - buttonUrl: cruise/sunset-city-lights-cruise
-    description: 2 hour sunset cruise
+    description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
   - buttonUrl: private-charters
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
@@ -19,9 +19,7 @@ featuredSlider:
       you and your friends.
     title: Gold Coast Hens Party
   - buttonUrl: cruise/island-cruise
-    description: >-
-      3 hour afternoon cruise with an Island stopover, light lunch and a range
-      of fun activities.
+    description: 3 hour afternoon cruise with light lunch and beach activities.
     title: Island Cruise
 featuredBanner:
   buttonTitle: Buy Online
