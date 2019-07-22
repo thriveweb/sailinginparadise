@@ -15,8 +15,7 @@ columnBanner:
 globalVideo:
   imageOverlay: /images/uploads/home-banner.jpg
   title: climb aboard and get to know us
-  video: >-
-    https://www.youtube.com/watch?v=vr0qNXmkUJ8&list=PLNhzc-Os3JK8ExayVzzoHVvP2c0-4_oqt
+  video: '349382726'
 bookingPopup:
   contentBoxes:
     - buttonTitle: Book now
