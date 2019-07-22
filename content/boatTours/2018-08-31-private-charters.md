@@ -44,8 +44,9 @@ gallery:
   - image: 'https://ucarecdn.com/71395562-928f-422f-8c9e-31b0d93ec896/'
   - image: 'https://ucarecdn.com/2824ffaa-2aa4-46e2-98cf-5192cd0e7ce7/'
 videoSection:
-  imageOverlay: /images/uploads/DSC_1073.jpg
-  video: ''
+  imageOverlay: ''
+  title: How your birthday sail could look...
+  video: '349382726'
 contentColumnTitle: Imagine setting sail on your own private yacht
 contentColumn: >-
   Step aboard your own private catamaran, and the beautiful Gold Coast
