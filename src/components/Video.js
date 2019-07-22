@@ -62,7 +62,7 @@ class Video extends Component {
           {title && (
             <div className="overlay-content">
               <div className="container">
-                <h1 className="title-gradient">{title}</h1>
+                {title && <h1 className="title-gradient">{title}</h1>}
                 <Button title={buttonTitle} url={buttonUrl} white />
               </div>
             </div>
