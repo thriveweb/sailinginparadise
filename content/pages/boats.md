@@ -57,16 +57,18 @@ boats:
   - boatFeatures:
       - content: '10m long, 5.8m wide'
       - content: 20 passengers + 2 crew
-      - content: "\LThe modern, luxury version of the popular Seawind 1000 (2011 model)"
+      - content: 'The modern, luxury version of the popular Seawind 1000 (2011 model)'
       - content: Comfortable dining saloon
       - content: Side access to foredeck
-      - content: "\LAmple undercover area"
+      - content: Ample undercover area
       - content: Trampoline style foredeck
       - content: Modern bathroom
-      - content: "\LHot and Cold Deck Shower"
+      - content: Hot and Cold Deck Shower
       - content: Rear over-water bench seating
       - content: Main sail and jib
-      - content: "\LFront and rear boarding ladders with extended transom for easy beach and water access"
+      - content: >-
+          Front and rear boarding ladders with extended transom for easy beach
+          and water access
       - content: BBQ
       - content: Eskies
       - content: Sound System
