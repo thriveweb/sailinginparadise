@@ -5,7 +5,7 @@ title: ' '
 buttonTitle: Find your perfect cruise
 buttonUrl: cruises
 mobileImage: 'https://ucarecdn.com/0a455b39-41c3-4318-ad41-9f9f05253f00/'
-featuredVideo: 'https://ucarecdn.com/49b86f08-f798-4bed-b64b-9cd20379d97a/'
+featuredVideo: 'https://ucarecdn.com/8416cbcf-1264-401e-9e24-697217a7217f/'
 featuredSlider:
   - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
