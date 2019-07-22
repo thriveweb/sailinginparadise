@@ -73,7 +73,7 @@ captainSection:
 
         With attention to detail bordering on OCD Jess is the one who will make
         sure your crew are there, your catering is ready at precisely the right
-        time and your to be honest anything else you can throw at her…
+        time and your... to be honest anything else you can throw at her…
 
 
         Go on, she likes a challenge ha ha…
@@ -157,8 +157,8 @@ secondaryBanner:
   title: check out our amazing catamarans
 videoSection:
   imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
-  title: Experience the open water with an affordable yet luxurious adventure
-  video: '347441203'
+  title: Experience the Gold Coast with an affordable yet luxurious adventure
+  video: '349382726'
 columnBanner:
   - buttonTitle: See More
     buttonUrl: private-charters
