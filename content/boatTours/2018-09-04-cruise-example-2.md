@@ -24,11 +24,6 @@ intro: >-
   Cruise includes light lunch and one complimentary bubbly, beer or soft drink.
 
 
-  Read on for more...
-
-
-
-
 
 
   > **SPECIAL OFFER**
