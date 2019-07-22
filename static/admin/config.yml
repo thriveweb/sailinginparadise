@@ -33,7 +33,7 @@ collections: # A list of collections the CMS should be able to edit
               default: HomePage,
             }
           - { label: Slug, name: slug, widget: hidden, default: '' }
-          - { label: Title, name: title, widget: string }
+          - { label: Title, name: title, widget: string, required: false }
           - { label: Button Title, name: buttonTitle, widget: string }
           - { label: Button Url, name: buttonUrl, widget: string }
           - {
