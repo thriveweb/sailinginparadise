@@ -31,7 +31,7 @@ services:
     serviceContent:
       buttonUrl: private-charters
       description: >-
-        Sailing in Paradise invites you to step aboard one of their luxurious
+        Sailing in Paradise invites you to step aboard one of our luxurious
         sailing catamarans for an event to be remembered.
       icon: /images/uploads/wheel.svg
       title: Private Boat Hire
@@ -53,8 +53,8 @@ services:
       icon: /images/uploads/wine.svg
       title: Hens Party Specialists
 serviceBanner:
-  buttonTitle: Find your Perfect Cruise
-  buttonUrl: cruises
+  buttonTitle: Find your Perfect Charter
+  buttonUrl: private-charters
   featuredImage: 'https://ucarecdn.com/117d8fce-576b-4fe1-9dad-d9f34471faee/'
   subtitle: Let’s Get The Party Started!
   title: Ready to book your Gold Coast Boat Hire?
