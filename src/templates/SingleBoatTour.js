@@ -53,7 +53,7 @@ export const SingleBoatTourTemplate = ({
           {bookingIframe ? (
             <BookingIframe bookingIframe={bookingIframe} />
           ) : (
-            <ContentBox {...contentBox} />
+            <ContentBox {...contentBox} charterUrl={charterUrl} />
           )}
         </div>
       </div>
