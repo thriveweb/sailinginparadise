@@ -140,7 +140,7 @@
 		line-height: 1;
 	}
 
-	.galleryImage .BackgroundImage:before {
+	.crewSection .galleryImage .BackgroundImage:before {
 		opacity: 1;
 	}
 }
