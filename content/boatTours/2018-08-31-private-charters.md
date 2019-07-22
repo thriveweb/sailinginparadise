@@ -44,7 +44,7 @@ gallery:
   - image: 'https://ucarecdn.com/71395562-928f-422f-8c9e-31b0d93ec896/'
   - image: 'https://ucarecdn.com/2824ffaa-2aa4-46e2-98cf-5192cd0e7ce7/'
 videoSection:
-  imageOverlay: ''
+  imageOverlay: 'https://ucarecdn.com/529672e8-e082-475b-bb88-3360acb4912e/'
   title: How your private charter could look...
   video: '349382726'
 contentColumnTitle: Imagine setting sail on your own private yacht
