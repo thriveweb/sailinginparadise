@@ -9,8 +9,8 @@ intro: >-
 
 
   Hen's Parties are totally our thing!  We love them and, well,...they love
-  us... (blush).   Its a mutual admiration kind of situation and we couldn't
-  think of any place we'd rather be :-).     
+  us... (blush).   Its a mutual admiration kind of situation and we love nothing
+  more than making our lovely hens happy on their special day!       
 
 
   Any style, any vibe the choice is yours, we don't bring pre-prescribed ideas
