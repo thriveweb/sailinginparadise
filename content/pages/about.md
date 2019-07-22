@@ -7,7 +7,7 @@ intro: >-
   ## our story
 
 
-  We sailed into the Gold Coast commercial boating scene back in 2011 and thanks
+  We sailed into the Gold Coast commercial boating scene back in 2004 and thanks
   to our loyal guests and amazing crew we are thrilled to have grown to where we
   are now, offering 2 beautiful sailing catamarans for private charters and
   cruises departing from Marina Mirage.   
@@ -103,13 +103,9 @@ captainSection:
     enquiry, through to our optional catering/beverage packages and finally to
     our welcoming crew (who we are often told feel like part of the family after
     just a few short hours) we aim to exceed your expectations.   We encourage
-    you to check out our social channels
-    ([Facebook](https://www.facebook.com/sailinginparadise/),
-    [Instagram](https://www.instagram.com/sailinginparadisegoldcoast/)) and
-    Guest Reviews (on [Trip
-    Advisor](https://www.tripadvisor.com.au/Attraction_Review-g658994-d4705796-Reviews-Sailing_In_Paradise-Main_Beach_Gold_Coast_Queensland.html)
-    and [Facebook](https://www.facebook.com/sailinginparadise/)) to really get a
-    vibe for what we are about.
+    you to check out our social channels and Guest Reviews (Instagram, Facebook
+    and Trip Advisor links at bottom of page) to really get a vibe for what we
+    are about.
 crewSection:
   crew:
     - content: >-
@@ -157,8 +153,8 @@ secondaryBanner:
   title: check out our amazing catamarans
 videoSection:
   imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
-  title: Experience the Gold Coast with an affordable yet luxurious adventure
-  video: '349382726'
+  title: Experience the open water with an affordable yet luxurious adventure
+  video: '347441203'
 columnBanner:
   - buttonTitle: See More
     buttonUrl: private-charters
