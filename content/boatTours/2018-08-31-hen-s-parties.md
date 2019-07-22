@@ -113,8 +113,8 @@ contentColumn: >-
   experience your group will be talking about for years to come!
 
 
-  So drop us an enquiry today (we are friendly :-) and we'll send you some info
-  and rates for your season.
+  So drop us an enquiry today (we are friendly :-), and we'll send you some info
+  and rates for your perfect hen's party cruise.
 accordionSection:
   accordion:
     - dropdownContent: >-
