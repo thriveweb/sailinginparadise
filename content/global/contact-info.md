@@ -21,11 +21,11 @@ address: >-
 hours: |-
   ### OFFICE HOURS
 
-  9AM - 4PM
+  9AM - 5PM
 
   ### SAILING HOURS
 
-  6AM - 11PM
+  6AM - Midnight
 map: 'https://ucarecdn.com/5d8cf521-0b29-4b5d-9b4d-16ae8f0a4974/'
 socialMedia:
   facebook: 'https://www.facebook.com/sailinginparadise'
