@@ -4,7 +4,22 @@ tourType: Private Charter
 title: Private Charters
 icon: ''
 featuredImage: 'https://ucarecdn.com/3d7d7bc6-e529-4cbc-8893-a233ae1a3897/'
-intro: "## gold coast Private Charter boat \n\nSpend a few hours, a full day or a beautiful evening with friends & family on the calm, clear waters of the Gold Coast Broadwater.  Our sailing catamarans are available for skippered private boat hire and ideal for birthday parties, hens parties, baby showers, family reunions, corporate events or for a unique day out with friends.   Catamarans are widely regarded for their smooth and stable ride as they are very wide and spacious and perfect for social occasions.  What’s more, the 360 panoramic views ensure you will enjoy the Gold Coast scenery at its absolute best as you sail our stunning waterways.\r  \n\n# [Take a tour of our boats.](https://sailing-paradise.netlify.com/boats/)"
+intro: >-
+  ## gold coast Private Charter boat
+
+
+  Spend a few hours, a full day or a beautiful evening with friends & family on
+  the calm, clear waters of the Gold Coast Broadwater.  Our sailing catamarans
+  are available for skippered private boat hire and ideal for birthday parties,
+  hens parties, baby showers, family reunions, corporate events or for a unique
+  day out with friends.   Catamarans are widely regarded for their smooth and
+  stable ride as they are very wide and spacious and perfect for social
+  occasions.  What’s more, the 360 degree panoramic views ensure you will enjoy
+  the Gold Coast scenery at its absolute best as you sail our stunning
+  waterways.
+
+
+  # [Take a tour of our boats](https://sailing-paradise.netlify.com/boats/)
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
