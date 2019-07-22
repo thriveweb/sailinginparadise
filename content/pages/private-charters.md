@@ -36,7 +36,7 @@ intro: >-
 
 
   Choose from the options below to find out more about a private yacht charter
-  for your group and to discover the reasons why we are ranked 5* on all review
+  for your group and discover the reasons why we have 5* ratings on all review
   platforms.
 chartersListing:
   - tours: Birthday Parties
