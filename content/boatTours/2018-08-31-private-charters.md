@@ -45,7 +45,7 @@ gallery:
   - image: 'https://ucarecdn.com/2824ffaa-2aa4-46e2-98cf-5192cd0e7ce7/'
 videoSection:
   imageOverlay: ''
-  title: How your birthday sail could look...
+  title: How your private charter could look...
   video: '349382726'
 contentColumnTitle: Imagine setting sail on your own private yacht
 contentColumn: >-
@@ -90,8 +90,8 @@ columnBanner:
     featuredImage: 'https://ucarecdn.com/60cf28b4-7151-4fea-ae4c-0a8601e88000/'
   - buttonTitle: ''
     buttonUrl: ''
-    content: choose from 2 beautiful catamarans
-    title: Take a tour of our boats
+    content: ''
+    title: ''
     featuredImage: 'https://ucarecdn.com/4022b0fd-9830-4bab-924b-241eba6926c8/'
 featuredTestimonials:
   description: 'Bree has been out with us 3 times now, check out her lovely review here...'
