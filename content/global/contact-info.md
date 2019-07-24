@@ -15,9 +15,8 @@ address: >-
   We are located in berth D11 at the Marina Mirage, 74 Seaworld Drive, Main
   Beach
 
-
-  [View Larger
-  Map](https://www.google.com/maps/place/Sailing+In+Paradise+-+Gold+Coast+Cruises+and+Private+Charters/@-27.9690698,153.4220553,17z/data=!3m1!4b1!4m5!3m4!1s0x6b910fbb03d6e84f:0xba3d8c1c4e894ac3!8m2!3d-27.9690698!4d153.424244)
+addressButtonTitle: View Larger Map
+addressButtonUrl: https://www.google.com/maps/place/Sailing+In+Paradise+-+Gold+Coast+Cruises+and+Private+Charters/@-27.9690698,153.4220553,17z/data=!3m1!4b1!4m5!3m4!1s0x6b910fbb03d6e84f:0xba3d8c1c4e894ac3!8m2!3d-27.9690698!4d153.424244
 hours: |-
   ### OFFICE HOURS
 
@@ -34,4 +33,3 @@ socialMedia:
   tripAdvisor: >-
     https://www.tripadvisor.com.au/Attraction_Review-g658994-d4705796-Reviews-Sailing_In_Paradise-Main_Beach_Gold_Coast_Queensland.html
 ---
-

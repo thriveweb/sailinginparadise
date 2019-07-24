@@ -1336,6 +1336,18 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Phone, name: phone, widget: markdown, required: false }
           - { label: Address, name: address, widget: markdown, required: false }
+          - {
+              label: Address Button Title,
+              name: addressButtonTitle,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Address Button Url,
+              name: addressButtonUrl,
+              widget: string,
+              required: false,
+            }
           - { label: Hours, name: hours, widget: markdown, required: false }
           - { label: Map, name: map, widget: image, required: false }
           - label: Social Media

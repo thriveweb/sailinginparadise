@@ -4,7 +4,6 @@ import _get from 'lodash/get'
 import Layout from '../components/Layout'
 import { graphql } from 'gatsby'
 
-
 import PageHeader from '../components/PageHeader'
 import IntroText from '../components/IntroText'
 import Content from '../components/Content'
@@ -22,10 +21,13 @@ export const ContactPageTemplate = ({
   meta,
   contactInfo
 }) => {
-
-  contactInfo = contactInfo ? contactInfo.edges.map(edge => ({ ...edge.node.frontmatter })) : []
+  contactInfo = contactInfo
+    ? contactInfo.edges.map(edge => ({ ...edge.node.frontmatter }))
+    : []
   const phone = _get(contactInfo[0], 'phone') || ''
   const address = _get(contactInfo[0], 'address') || ''
+  const addressButtonTitle = _get(contactInfo[0], 'addressButtonTitle') || ''
+  const addressButtonUrl = _get(contactInfo[0], 'addressButtonUrl') || ''
   const hours = _get(contactInfo[0], 'hours') || ''
   const map = _get(contactInfo[0], 'map') || ''
 
@@ -46,18 +48,46 @@ export const ContactPageTemplate = ({
               <Content className="Contact--Details--Item" src={phone} />
             )}
             {address && (
-              <Content className="Contact--Details--Item" src={address} />
+              <div className="Contact--Details--Item">
+                <Content src={address} />
+                {addressButtonUrl && (
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href={addressButtonUrl}
+                  >
+                    {addressButtonTitle}
+                  </a>
+                )}
+              </div>
             )}
+
             {hours && (
               <Content className="Contact--Details--Item" src={hours} />
             )}
           </div>
           <div className="contact-body">
-            {map &&
-              <div className='map relative'>
-                <Image src={`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}/>
+            {addressButtonUrl.length > 1 && map ? (
+              <div className="map relative">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href={addressButtonUrl}
+                >
+                  <Image
+                    src={`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}
+                  />
+                </a>
               </div>
-            }
+            ) : map ? (
+              <div className="map relative">
+                <Image
+                  src={`${map}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`}
+                />
+              </div>
+            ) : (
+              ''
+            )}
             {body && <Content src={body} />}
           </div>
         </div>
@@ -102,17 +132,21 @@ export const pageQuery = graphql`
         }
       }
     }
-    globalSections: allMarkdownRemark(filter: {fields: {slug: {eq: "/general-contact/"}}}) {
-  	  edges {
-  	    node {
-  	      frontmatter {
-  					phone
+    globalSections: allMarkdownRemark(
+      filter: { fields: { slug: { eq: "/general-contact/" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            phone
             hours
             address
+            addressButtonTitle
+            addressButtonUrl
             map
-  	      }
-  	    }
-  	  }
-  	}
+          }
+        }
+      }
+    }
   }
 `

@@ -120,6 +120,8 @@ accordionSection:
 content: ''
 phone: ''
 address: ''
+addressButtonTitle: ''
+addressButtonUrl: ''
 hours: ''
 map: /images/logo.svg
 socialMedia:
