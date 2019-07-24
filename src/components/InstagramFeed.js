@@ -86,20 +86,29 @@ export default class InstagramFeed extends Component {
     }
     return (
       <section className="InstagramSection">
-				<div className='insta-intro'>
-					<h2><ICONInstagram /> Instagram</h2>
-					<a className='button' href='https://www.instagram.com/sailinginparadisegoldcoast/'>Follow Us <ICONButtonArrows/></a>
-				</div>
-				<div id='instafeed'>
-	        {this.state.posts.slice(0, this.props.count).map(post => (
-	          <Post
-	            key={post.code}
-	            src={post.display_src}
-	            code={post.code}
-	            caption={post.caption}
-	          />
-	        ))}
-				</div>
+        <div className="insta-intro">
+          <h2>
+            <ICONInstagram /> Instagram
+          </h2>
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            className="button"
+            href="https://www.instagram.com/sailinginparadisegoldcoast/"
+          >
+            Follow Us <ICONButtonArrows />
+          </a>
+        </div>
+        <div id="instafeed">
+          {this.state.posts.slice(0, this.props.count).map(post => (
+            <Post
+              key={post.code}
+              src={post.display_src}
+              code={post.code}
+              caption={post.caption}
+            />
+          ))}
+        </div>
       </section>
     )
   }
