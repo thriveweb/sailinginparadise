@@ -24,7 +24,7 @@
   justify-content: space-between;
   align-items: center;
   margin: 0;
-  border-bottom: .2rem solid #979797;
+  border-bottom: 0.2rem solid #979797;
   padding: 2rem;
 }
 
@@ -42,6 +42,13 @@
   padding: 3rem;
 }
 
+@media only screen and (max-width: 500px) {
+  .Accordion--item--content p,
+  .Accordion--item--content li {
+    font-size: 1.6rem;
+  }
+}
+
 .Accordion--item.active {
   border-color: currentColor;
 }
@@ -54,7 +61,7 @@
   float: right;
   font-size: 4rem;
   color: #272727;
-  color: #413F47;
+  color: #413f47;
   line-height: 1;
   font-weight: 300;
 }

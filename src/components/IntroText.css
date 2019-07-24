@@ -1,88 +1,82 @@
 .intro-section {
-	padding: 7.5rem 0;
-	max-width: 55rem;
+  padding: 7.5rem 0;
+  max-width: 55rem;
 }
 
 .intro-section h2 {
-	font-weight: 400;
+  font-weight: 400;
 }
-
 
 /*Align Center*/
 
 .intro-section.alignCenter {
-	max-width: 85rem;
-	text-align: center;
-	margin: 0 auto;
+  max-width: 85rem;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .intro-section.alignCenter .fancy-title:before,
 .intro-section.alignCenter .fancy-title:after {
-	left: 0;
-	right: 0;
-	margin: 0 auto;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
 }
-
 
 /*Content Column*/
 
 .contentColumn {
-	padding: 12rem 0 7.5rem;
+  padding: 12rem 0 7.5rem;
 }
 
 .contentColumn .container {
-	display: flex;
-	align-items: flex-start;
-	justify-content: space-between;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
 }
 
 .contentColumn h2 {
-	font-size: 2.8rem;
-	flex: 0 0 40%;
+  font-size: 2.8rem;
+  flex: 0 0 40%;
 }
 
 .contentColumn .intro-section {
-	padding: 0;
+  padding: 0;
 }
 
 @media only screen and (max-width: 1000px) {
-	.intro-section.alignCenter {
-		max-width: 85%;
-	}
+  .intro-section.alignCenter {
+    max-width: 85%;
+  }
 
-	.intro-section {
-		padding: 5.5rem 0;
-	}
+  .intro-section {
+    padding: 5.5rem 0;
+  }
 
-	.intro-section h2 {
-		font-size: 2.8rem;
-	}
+  .intro-section h2 {
+    font-size: 2.8rem;
+  }
 }
 
 @media only screen and (max-width: 500px) {
-	.intro-section.alignCenter {
-		max-width: 90%;
-	}
+  .intro-section.alignCenter {
+    max-width: 90%;
+  }
 
-	.container .intro-section.alignCenter {
-		max-width: 100%;
-	}
+  .container .intro-section.alignCenter {
+    max-width: 100%;
+  }
 
-	.intro-section {
-		padding: 4rem 0;
-	}
-
-	.intro-section p {
-		font-size: 1.4rem;
-	}
+  .intro-section {
+    padding: 4rem 0;
+  }
 }
 
 @media only screen and (max-width: 320px) {
-	.intro-section.alignCenter {
-		max-width: 90%;
-	}
+  .intro-section.alignCenter {
+    max-width: 90%;
+  }
 
-	.intro-section h2 {
-		font-size: 2.4rem;
-	}
+  .intro-section h2 {
+    font-size: 2.4rem;
+  }
 }
