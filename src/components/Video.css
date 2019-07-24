@@ -353,14 +353,14 @@
 }
 
 @media screen and (max-width: 850px) {
-  .homeVideo .background-video {
+  .homeVideo .background-video video {
     transform: scale(2);
-    min-height: 35rem;
+    min-height: 40rem;
   }
 }
 @media screen and (max-width: 400px) {
-  .homeVideo .background-video {
+  .homeVideo .background-video video {
     transform: scale(3);
-    min-height: 25rem;
+    min-height: 30rem;
   }
 }
