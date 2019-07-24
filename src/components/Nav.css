@@ -291,6 +291,8 @@
 
   .Nav .hasChildren.two-column .subMenu {
     padding: 0;
+    min-width: 0;
+    display: block;
   }
 
   .Nav .hasChildren .subMenu {
@@ -328,12 +330,12 @@
   }
 
   .Nav-active .Nav--Links {
-    display: flex;
+    display: block;
     overflow: hidden;
     overflow-y: scroll;
-    top: 92px;
+    top: 92px !important;
     height: 100%;
-    padding: 15rem 0;
+    padding: 2rem 0;
   }
 
   .Nav-active .NavLink {
@@ -344,6 +346,9 @@
   .Nav .NavLink {
     font-size: 2.5rem;
     font-weight: 300;
+    display: block;
+    width: 100%;
+    text-align: center;
   }
 
   .Nav .NavLink:nth-of-type(2) {
