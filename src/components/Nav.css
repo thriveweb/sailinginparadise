@@ -51,7 +51,7 @@
 }
 
 .NavLink:hover {
-  background-color: #413F47;
+  background-color: #413f47;
 }
 
 .NavLink:hover a,
@@ -108,7 +108,7 @@
   top: 100%;
   left: 0;
   min-width: 26rem;
-  background-color: #413F47;
+  background-color: #413f47;
   opacity: 0;
   visibility: hidden;
   max-height: 0;
@@ -183,7 +183,7 @@
 }
 
 .nav-button:hover {
-  background-color: #413F47;
+  background-color: #413f47;
   color: white;
 }
 
@@ -241,7 +241,7 @@
     justify-content: flex-start;
   }
 
-   .Nav .nav-button {
+  .Nav .nav-button {
     margin: 0 2rem 0 auto;
   }
 
@@ -273,7 +273,8 @@
     text-align: center;
   }
 
-  .Nav .NavLink span, .Nav .NavLink a {
+  .Nav .NavLink span,
+  .Nav .NavLink a {
     font-size: 1.4rem;
   }
 
@@ -328,6 +329,11 @@
 
   .Nav-active .Nav--Links {
     display: flex;
+    overflow: hidden;
+    overflow-y: scroll;
+    top: 92px;
+    height: 100%;
+    padding: 15rem 0;
   }
 
   .Nav-active .NavLink {
@@ -368,7 +374,7 @@
 
 @media (max-width: 600px) {
   .Nav {
-    border-top: 3.7rem solid #3E4458;
+    border-top: 3.7rem solid #3e4458;
     padding: 1rem 0;
   }
 
@@ -379,14 +385,14 @@
   .Nav .nav-button {
     position: absolute;
     bottom: calc(100% + 3.5px);
-    padding: .5rem 2rem;
+    padding: 0.5rem 2rem;
     left: 0;
     right: 0;
     margin: 0 auto;
     width: 16rem;
-    border: 1px solid rgba(255,255,255,0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     box-shadow: none;
-    background-color: #2C3140;
+    background-color: #2c3140;
     color: white;
     text-align: center;
   }
