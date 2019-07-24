@@ -335,7 +335,7 @@
     overflow-y: scroll;
     top: 92px !important;
     height: 100%;
-    padding: 2rem 0;
+    padding: 2rem 0 4rem 0;
   }
 
   .Nav-active .NavLink {
