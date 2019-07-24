@@ -87,9 +87,15 @@ export default class InstagramFeed extends Component {
     return (
       <section className="InstagramSection">
         <div className="insta-intro">
-          <h2>
-            <ICONInstagram /> Instagram
-          </h2>
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.instagram.com/sailinginparadisegoldcoast/"
+          >
+            <h2>
+              <ICONInstagram /> Instagram
+            </h2>
+          </a>
           <a
             rel="noopener noreferrer"
             target="_blank"
