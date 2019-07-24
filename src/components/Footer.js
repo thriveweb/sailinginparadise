@@ -77,7 +77,7 @@ export default props => {
                 <Fragment key={`charter-nav-${index}`}>
                   <h4>{title}</h4>
                   {subNavItems &&
-                    subNavItems.map(({ title, slug }, index) => (
+                    subNavItems.map(({ title }, index) => (
                       <Link
                         key={`charter-subNav-${index}`}
                         className="NavLink"
@@ -106,7 +106,6 @@ export default props => {
           <p>
             <a
               href="https://thriveweb.com.au/"
-              rel="nofollow"
               title="website design"
               target="_blank"
               rel="noopener noreferrer"

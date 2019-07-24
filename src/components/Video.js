@@ -50,7 +50,7 @@ class Video extends Component {
       featuredBanner,
       socialMedia
     } = this.props
-    const { videoPlaying, mobileWidth } = this.state
+    const { videoPlaying } = this.state
 
     if (!video) return null
 
