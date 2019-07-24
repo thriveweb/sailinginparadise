@@ -96,7 +96,7 @@ accordionSection:
   sectionTitle: need to know
 columnBanner:
   - buttonTitle: BUY NOW
-    buttonUrl: gift-vouchers
+    buttonUrl: cruise/gift-vouchers
     content: Now available with 12 months validity to use at your leisure.
     title: 'SUNSET CRUISE GIFT VOUCHERS '
     featuredImage: 'https://ucarecdn.com/03aaaef0-bc70-4e9d-8533-3309e9a7d59f/'
