@@ -69,8 +69,13 @@ class Video extends Component {
           )}
           {video && (
             <div className="background-video">
+              {mobileImage && (
+                <Image
+                  background
+                  src={`${mobileImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/800/`}
+                />
+              )}
               <video
-                poster={mobileImage && mobileImage}
                 className="video"
                 preload="true"
                 playsInline
