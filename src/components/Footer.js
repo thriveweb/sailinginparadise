@@ -70,6 +70,12 @@ export default props => {
             <Link className="NavLink" to="/contact/">
               Contact
             </Link>
+            <Link className="NavLink" to="/terms-of-use/">
+              Terms of Use
+            </Link>
+            <Link className="NavLink" to="/privacy-policy/">
+              Privacy Policy
+            </Link>
           </div>
           <div className="footer-col col3">
             {charters.map(({ title, subNavItems }, index) => {
@@ -103,6 +109,7 @@ export default props => {
         </div>
         <div className="Footer-Bottom">
           <span>© {yyyy} All rights reserved.</span>
+
           <p>
             <a
               href="https://thriveweb.com.au/"
