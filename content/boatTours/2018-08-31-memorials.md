@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Private Charter
-title: Memorials/ Scattering of Ashes at Sea
+title: Memorials Scattering of Ashes at Sea
 icon: ''
 featuredImage: 'https://ucarecdn.com/1be1c526-f818-485a-be42-a25b4d1cac1f/'
 intro: "Scattering ashes at sea is often chosen by families whose dearly departed had a love of the water or boating.  As we too share this love, we will do everything within our power to make the experience memorable for all guests who attend a memorial service on board our vessels.   We often find that this time spent on board brings the family together in a special way to celebrate the life of their lost loved one in an enjoyable way.  There is something about being out on the water, surrounded by the beauty of nature that has a very profound meaning at this emotional time and we are honoured to be able to share this with the family.  \r\n\nIf you wish to scatter the ashes of your loved one in the pristine waters of the Gold Coast Broadwater we are able to offer a memorial charter aboard one of our comfortable sailing catamarans for groups from 1 – 30 guests. \r\n\n##"
