@@ -12,7 +12,7 @@ const PageHeader = ({ title, backgroundImage, large, className = '' }) => {
       {backgroundImage && (
         <Image
           background
-          src={`${backgroundImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}
+          src={`${backgroundImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`}
         />
       )}
       <div className="container relative">
