@@ -333,7 +333,7 @@
     display: block;
     overflow: hidden;
     overflow-y: scroll;
-    top: 92px !important;
+    top: 65px;
     height: 100%;
     padding: 2rem 0 4rem 0;
   }
@@ -385,6 +385,10 @@
 
   .Nav .Nav--Container {
     justify-content: space-between;
+  }
+
+  .Nav-active .Nav--Links {
+    top: 92px;
   }
 
   .Nav .nav-button {

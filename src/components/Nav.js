@@ -17,9 +17,7 @@ export default class Nav extends Component {
   handleMenuToggle = () => {
     this.setState({ active: !this.state.active })
     document.body.style.overflow = !this.state.popupActive ? 'hidden' : 'auto'
-    document.documentElement.style.overflow = !this.state.popupActive
-      ? 'hidden'
-      : 'auto'
+    document.documentElement.style.overflow = !this.state.popupActive ? '' : ''
   }
   // Only close nav if it is open
   handleLinkClick = () => this.state.active && this.handleMenuToggle()
