@@ -109,6 +109,7 @@ export default props => {
               rel="nofollow"
               title="website design"
               target="_blank"
+              rel="noopener noreferrer"
             >
               Website Design
             </a>{' '}
