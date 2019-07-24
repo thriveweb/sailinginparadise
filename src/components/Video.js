@@ -10,7 +10,9 @@ import './Video.css'
 class Video extends Component {
   constructor(props) {
     super(props)
+
     this.videoRef = React.createRef()
+
     this.state = {}
   }
 
@@ -48,7 +50,7 @@ class Video extends Component {
       featuredBanner,
       socialMedia
     } = this.props
-    const { videoPlaying } = this.state
+    const { videoPlaying, mobileWidth } = this.state
 
     if (!video) return null
 
