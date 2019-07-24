@@ -355,11 +355,12 @@
 @media screen and (max-width: 850px) {
   .homeVideo .background-video {
     transform: scale(2);
+    min-height: 35rem;
   }
 }
 @media screen and (max-width: 400px) {
   .homeVideo .background-video {
     transform: scale(3);
-    min-height: 30rem;
+    min-height: 25rem;
   }
 }
