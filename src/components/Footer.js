@@ -32,7 +32,9 @@ export default props => {
             <ICONSail />
           </div>
           <div className="footer-col col1">
-            <h4>About</h4>
+            <h4>
+              <Link to="/about/">About</Link>
+            </h4>
             {footerContent && <Content src={footerContent} />}
             {socialMedia && <SocialLinks socialMedia={socialMedia} />}
           </div>
@@ -40,7 +42,9 @@ export default props => {
             {cruises.map(({ title, subNavItems }, index) => {
               return (
                 <Fragment key={`cruise-nav-${index}`}>
-                  <h4>{title}</h4>
+                  <h4>
+                    <Link to="/cruises/">{title}</Link>
+                  </h4>
                   {subNavItems &&
                     subNavItems.map(({ title, slug }, index) => (
                       <Link
@@ -81,7 +85,9 @@ export default props => {
             {charters.map(({ title, subNavItems }, index) => {
               return (
                 <Fragment key={`charter-nav-${index}`}>
-                  <h4>{title}</h4>
+                  <h4>
+                    <Link to="/private-charters/">{title}</Link>
+                  </h4>
                   {subNavItems &&
                     subNavItems.map(({ title }, index) => (
                       <Link
