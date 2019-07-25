@@ -74,12 +74,6 @@ export default props => {
             <Link className="NavLink" to="/contact/">
               Contact
             </Link>
-            <Link className="NavLink" to="/terms-of-use/">
-              Terms of Use
-            </Link>
-            <Link className="NavLink" to="/privacy-policy/">
-              Privacy Policy
-            </Link>
           </div>
           <div className="footer-col col3">
             {charters.map(({ title, subNavItems }, index) => {
@@ -105,16 +99,25 @@ export default props => {
           <div className="footer-col col4">
             <h4>Quick contact</h4>
             <EnquiryForm />
-            <Link className="NavLink" to="/booking-enquiry/">
+            <Link className="button" to="/booking-enquiry/">
               Enquire About Hiring our Boats
             </Link>
-            <Link className="NavLink" to="/cruises/">
+            <Link className="button" to="/cruises/">
               Book Tickets on a Cruise
             </Link>
           </div>
         </div>
         <div className="Footer-Bottom">
-          <span>© {yyyy} All rights reserved.</span>
+          <span>
+            © {yyyy} All rights reserved. {' | '}
+            <Link className="" to="/terms-of-use/">
+              Terms of Use
+            </Link>
+            {' | '}
+            <Link className="" to="/privacy-policy/">
+              Privacy Policy
+            </Link>
+          </span>
 
           <p>
             <a
