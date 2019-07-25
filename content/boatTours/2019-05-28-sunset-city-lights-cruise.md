@@ -45,7 +45,7 @@ contentBox:
   buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
   buttonUrl: booking-enquiry
   title: The Gold Coast's best sunset views
-bookingIframe: "<script defer=\"\" type=\"text/javascript\" src=\"https://sailinginparadise.rezdy.com/pluginJs\"></script>\r\n\n\\    <iframe seamless=\"\" width=\"300px\" height=\"1000px\" frameborder=\"0\" class=\"rezdy\" src=\"https://sailinginparadise.rezdy.com/calendarWidget/241550?iframe=true\"></iframe>"
+bookingIframe: '<iframe seamless="" width="300px" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/calendarWidget/241550?iframe=true"></iframe>'
 gallery:
   - image: 'https://ucarecdn.com/010205fa-7374-4ac5-ab1b-eea79c74a0f7/'
   - image: 'https://ucarecdn.com/22fa2713-7f3a-4f2e-8f6f-9c30fc21c798/'
@@ -108,4 +108,3 @@ featuredTestimonials:
   testimonial: 'Sandy, UK'
   title: Sandy
 ---
-

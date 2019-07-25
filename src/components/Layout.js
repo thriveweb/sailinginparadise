@@ -155,6 +155,10 @@ class Layout extends Component {
                 ​
                   gtag('config', 'UA-77246883-1');`}
                 </script>
+                <script
+                  type="text/javascript"
+                  src="https://sailinginparadise.rezdy.com/pluginJs"
+                ></script>
               </Helmet>
 
               <Meta {...meta} {...data.settingsYaml} />

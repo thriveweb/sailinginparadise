@@ -43,7 +43,7 @@ contentBox:
   buttonTitle: BOOK NOW
   buttonUrl: booking-enquiry
   title: Experience the true beauty of the Gold Coast's island beaches.
-bookingIframe: "<script defer=\"\" type=\"text/javascript\" src=\"https://sailinginparadise.rezdy.com/pluginJs\"></script>\r\n\n<iframe seamless=\"\" width=\"300px\" height=\"400px\" frameborder=\"0\" class=\"rezdy\" src=\"https://sailinginparadise.rezdy.com/calendarWidget/265343?iframe=true\"></iframe>"
+bookingIframe: '<iframe seamless="" width="300px" height="400px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/calendarWidget/265343?iframe=true"></iframe>'
 gallery:
   - image: 'https://ucarecdn.com/ab453f80-ee31-47e9-b9a1-d8050c618756/'
   - image: 'https://ucarecdn.com/2829ceff-aad9-4f29-b2eb-a139b4e7cb9c/'
@@ -85,7 +85,7 @@ accordionSection:
       title: Terms and Conditions
   sectionTitle: need to know
 columnBanner:
-  - bookingWidget: "<script type=\"text/javascript\" src=\"https://sailinginparadise.rezdy.com/pluginJs?script=modal\"></script>\r\n\n\t\t\t\t\t\t\r\n\n\t\t\t\t\t\t<a id=\"button-booking\" class=\"button-booking rezdy rezdy-modal\" href=\"https://sailinginparadise.rezdy.com/265343/gold-coast-3-hour-island-adventure-cruise\" style=\"background: rgb(0, 82, 241); border: 1px solid rgb(0, 82, 241); color: rgb(255, 255, 255); font: bold 14px/1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;\">Book Now</a>"
+  - bookingWidget: '<a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/265343/gold-coast-3-hour-island-adventure-cruise" style="background: rgb(0, 82, 241); border: 1px solid rgb(0, 82, 241); color: rgb(255, 255, 255); font: bold 14px/1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>'
     buttonTitle: Book Now
     buttonUrl: booking-enquiry
     content: >-
@@ -102,4 +102,3 @@ featuredTestimonials:
   testimonial: 'Mariella, Aus'
   title: Mariella
 ---
-
