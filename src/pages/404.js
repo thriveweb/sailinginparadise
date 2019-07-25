@@ -20,10 +20,9 @@ export default ({ children }) => (
           <title>404 – Page Not Found</title>
         </Helmet>
         <section className="error-404">
-          <div class="container">
-            <h1>Oops!</h1>
-            <h3>Page not found</h3>
-            <p>Looks like you're lost..</p>
+          <div class="container skinny">
+            <h3>Oops sorry, looks like we’ve missed a link.</h3>
+            <h1>Take me to Sailing in Paradise homepage</h1>
             <Link className='button' to="/">
               Take me Home
               <ICONButtonArrows/>
