@@ -104,7 +104,7 @@ boats:
       video: ''
     virtualTour: >-
       <iframe width='100%' height='100%'
-      src='https://roundme.com/embed/wRc3uAI8AmjxyRrCPsbP' frameborder='0'
+      src='https://roundme.com/embed/JVqCvA6InY7ATVAfXg2y' frameborder='0'
       webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 secondaryBanner:
   buttonTitle: Meet our Crew...
