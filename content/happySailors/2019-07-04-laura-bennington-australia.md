@@ -29,4 +29,4 @@ gallery:
   - image: >-
       https://ucarecdn.com/cd1d8ecb-3885-432b-b6a7-31a35935d8ca/-/preview/-/enhance/20/
 ---
-Having your own private luxurious yacht to a seculded Island for your hens party is sure to make it an unforgettable event! The boat is exclusive to your group and you can enjoy it however you wish! You can theme the boat how you like, wear some fun costumes or all white like Sydneys hens party!
+Having your own private luxurious yacht to a seculded Island for your hens party is sure to make it an unforgettable event! The boat is exclusive to your group and you can enjoy it however you wish! You can theme the boat how you like, wear some fun costumes or all white like Sydney's hen's party!
