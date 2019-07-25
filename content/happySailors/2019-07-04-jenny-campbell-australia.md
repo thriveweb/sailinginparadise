@@ -27,4 +27,4 @@ gallery:
   - image: 'https://ucarecdn.com/7a79c1b9-f961-4fcd-9fd7-f0d8ece33aa0/'
   - image: 'https://ucarecdn.com/889b9013-b257-4ff6-baa9-6970facdc879/'
 ---
-Having a butler surprise your guests always goes down well at our hens parties! It’s a popular option and can make a big difference to your experience, as it did for Jenny’s daughters hen’s party. It can be a great way to get the celebrations started and break the ice with your guests. Our Butler will not only serve you drinks but also pose for photos and play hens party games!
+Having a butler surprise your guests always goes down well at our hen's parties! It’s a popular option and can make a big difference to your experience, as it did for Jenny’s daughters hen’s party. Having a butler on board can be a great way to get the celebrations started and break the ice with your guests. Our Butler will not only serve you drinks but also pose for photos and play hens party games!
