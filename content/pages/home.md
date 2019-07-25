@@ -151,6 +151,6 @@ latestNews: >-
   hit us up for a charter.   #noexcuseneeded
 meta:
   description: ''
-  title: 'Boat Hire Gold Coast,Catamaran, Party Boat rental and Boat Charters'
+  title: 'Boat Hire Gold Coast, Catamaran, Party Boat rental and Boat Charters'
 ---
 
