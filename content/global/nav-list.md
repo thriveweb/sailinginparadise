@@ -18,7 +18,7 @@ navItems:
       - title: Christmas Parties
       - title: Private Charters
       - title: Sightseeing
-    title: Catamaran Charters
+    title: Yacht Charters
   - title: Our Boats
   - title: About Us
   - subNavItems:
