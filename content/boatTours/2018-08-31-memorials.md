@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Private Charter
-title: Memorials Scattering of Ashes at Sea
+title: 'Memorials '
 icon: ''
 featuredImage: 'https://ucarecdn.com/1be1c526-f818-485a-be42-a25b4d1cac1f/'
 intro: >-
