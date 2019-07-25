@@ -21,6 +21,5 @@ gallery:
   - image: 'https://ucarecdn.com/d9a54495-e24e-40e3-96ee-ecd67129d0b4/'
   - image: 'https://ucarecdn.com/7b67a0e0-3c3b-460f-9f7f-e20f30bc9eca/'
   - image: 'https://ucarecdn.com/2391457f-891b-4238-864f-7fc6410ae371/'
-  - {}
 ---
 Our catamarans are ideal for families and suit young and elderly guests. There is huge deck space that makes it perfect for social gatherings. Lowan and his family organized an afternoon charter which was perfect for some family friendly beach activities at Wave Break Island, they even caught a fish which was the highlight!
