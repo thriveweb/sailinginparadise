@@ -74,9 +74,6 @@ contentColumn: >-
   activities or rest and relaxation, the choice is yours! You can choose to BYO
   food and drinks or a fully catered charter for easy planning. We supply the
   eskies, ice, BBQ and BBQ tools free of charge.
-
-
-  lso.
 accordionSection:
   accordion:
     - dropdownContent: "When you book a family charter with Sailing in Paradise you can expect a quality of service from years of experience in the industry but most of all your can expect a fun day (or evening) on the water that the whole family will love.  \r\n\nFrom your initial enquiry, we aim to make the booking process as simple as possible for you, offering a variety of optional extras including catering, beverages, motorised watersports should you wish to book them. But none of this is obligatory, we also welcome BYO.\r\n\nWe offer a personalised and customised service so if you have any questions or special requirements please feel free to reach out to our team and we will do our best to accommodate you."
