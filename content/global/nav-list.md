@@ -14,7 +14,7 @@ navItems:
       - title: Corporate Events
       - title: Family Charters
       - title: Raft Up Parties
-      - title: Memorials Scattering of Ashes at Sea
+      - title: Memorials
       - title: Christmas Parties
       - title: Private Charters
       - title: Sightseeing
