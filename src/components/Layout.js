@@ -121,7 +121,7 @@ class Layout extends Component {
             charters,
             cruises
           } = data || {}
-          const siteTitle = _get(settingsYaml, 'siteTitle') || ''
+          //const siteTitle = _get(settingsYaml, 'siteTitle') || ''
 
           const privateCharters = charters
             ? charters.edges.map(edge => ({ ...edge.node }))
