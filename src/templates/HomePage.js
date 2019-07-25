@@ -13,14 +13,14 @@ import FeaturedPosts from '../components/FeaturedPosts'
 import InstagramFeed from '../components/InstagramFeed'
 import SubscribeForm from '../components/SubscribeForm'
 
-
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({
   title,
-  featuredVideo,
+  posterImage,
+  hdVideo,
+  mobileVideo,
   buttonTitle,
   buttonUrl,
-  mobileImage,
   featuredSlider,
   featuredBanner,
   services,
@@ -36,7 +36,6 @@ export const HomePageTemplate = ({
   socialMedia,
   meta
 }) => {
-
   return (
     <main className="Home">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -44,37 +43,26 @@ export const HomePageTemplate = ({
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
       <Video
-        video={featuredVideo}
+        video={hdVideo}
+        mobileVideo={mobileVideo}
         homeVideo
         title={title}
         buttonTitle={buttonTitle}
         buttonUrl={buttonUrl}
-        mobileImage={mobileImage}
+        posterImage={posterImage}
         featuredSlider={featuredSlider}
         featuredBanner={featuredBanner}
         socialMedia={socialMedia}
       />
-      <ServiceColumns
-        services={services}
-        serviceBanner={serviceBanner}
-      />
-      <SecondaryBanner
-        {...secondaryBanner}
-        contentBox
-      />
+      <ServiceColumns services={services} serviceBanner={serviceBanner} />
+      <SecondaryBanner {...secondaryBanner} contentBox />
       <HomeAboutBanner {...aboutSection} />
       <HighlightChart
         highlights={highlights}
         highlightsIntro={highlightsIntro}
       />
-      <TestimonialSlider
-        {...featuredTestimonials}
-        caseStudies={caseStudies}
-      />
-      <FeaturedPosts
-        latestNews={latestNews}
-        posts={posts}
-      />
+      <TestimonialSlider {...featuredTestimonials} caseStudies={caseStudies} />
+      <FeaturedPosts latestNews={latestNews} posts={posts} />
       <InstagramFeed />
       <SubscribeForm />
     </main>
@@ -84,7 +72,11 @@ export const HomePageTemplate = ({
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page, posts, caseStudies } }) => (
   <Layout meta={page.frontmatter.meta || false}>
-    <HomePageTemplate {...page.frontmatter} posts={posts} caseStudies={caseStudies} />
+    <HomePageTemplate
+      {...page.frontmatter}
+      posts={posts}
+      caseStudies={caseStudies}
+    />
   </Layout>
 )
 
@@ -95,10 +87,11 @@ export const pageQuery = graphql`
     page: markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
+        posterImage
+        hdVideo
+        mobileVideo
         buttonTitle
         buttonUrl
-        mobileImage
-        featuredVideo
         featuredSlider {
           description
           title
@@ -169,7 +162,7 @@ export const pageQuery = graphql`
       limit: 3
       filter: { fields: { contentType: { eq: "posts" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
-      ) {
+    ) {
       edges {
         node {
           fields {
@@ -183,7 +176,9 @@ export const pageQuery = graphql`
         }
       }
     }
-    caseStudies: allMarkdownRemark(filter: {fields: {contentType: {eq: "happySailors"}}}) {
+    caseStudies: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "happySailors" } } }
+    ) {
       edges {
         node {
           fields {

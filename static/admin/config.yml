@@ -47,12 +47,13 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - {
-              label: Mobile Image,
-              name: mobileImage,
+              label: Poster Image,
+              name: posterImage,
               widget: image,
               required: false,
             }
-          - { label: Featured Video, name: featuredVideo, widget: file }
+          - { label: HD Video, name: hdVideo, widget: file }
+          - { label: Mobile Video, name: mobileVideo, widget: file }
           - label: 'Featured Slider'
             required: false
             name: 'featuredSlider'

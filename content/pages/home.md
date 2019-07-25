@@ -4,8 +4,10 @@ slug: ''
 title: ''
 buttonTitle: ''
 buttonUrl: ''
-mobileImage: 'https://ucarecdn.com/0a455b39-41c3-4318-ad41-9f9f05253f00/'
-featuredVideo: 'https://ucarecdn.com/9accfe8f-ae82-44a0-938a-3e8376182b68/'
+posterImage: 'https://ucarecdn.com/0a455b39-41c3-4318-ad41-9f9f05253f00/'
+hdVideo: 'https://ucarecdn.com/49b86f08-f798-4bed-b64b-9cd20379d97a/'
+mobileVideo: 'https://ucarecdn.com/d2c3e9da-0a18-442f-9e38-41180a4688d9/'
+featuredVideo:
 featuredSlider:
   - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
@@ -40,7 +42,7 @@ services:
       buttonUrl: cruises
       description: >-
         Join Sailing in Paradise on a cruise of the Gold Coast Broadwater.  Take
-        in the sunset or sail to an island by day.  
+        in the sunset or sail to an island by day.
       icon: /images/uploads/boat2.svg
       title: Ticketed Cruises
   - image: 'https://ucarecdn.com/8b52eb78-1a5d-4e8d-b370-673f86813142/'
@@ -151,4 +153,3 @@ latestNews: >-
 meta:
   title: ''
 ---
-
