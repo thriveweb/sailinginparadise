@@ -8,7 +8,9 @@ export default () => (
     <p>SHARE ON</p>
     <li>
       <a
-        href={`https://www.facebook.com/sharer/sharer.php?u=${document.location.href}`}
+        href={`https://www.facebook.com/sharer/sharer.php?u=${
+          typeof document !== 'undefined' ? document.location.href : ''
+        }`}
         target="_blank"
         rel="noopener noreferrer"
         title="Share on Facebook"
@@ -18,7 +20,11 @@ export default () => (
     </li>
     <li>
       <a
-        href={`https://twitter.com/intent/tweet?source=${document.location.href}&text=Sailing In Paradise - ${document.location.href}`}
+        href={`https://twitter.com/intent/tweet?source=${
+          typeof document !== 'undefined' ? document.location.href : ''
+        }&text=Sailing In Paradise - ${
+          typeof document !== 'undefined' ? document.location.href : ''
+        }`}
         target="_blank"
         rel="noopener noreferrer"
         title="Tweet"
