@@ -32,4 +32,4 @@ gallery:
   - image: 'https://ucarecdn.com/50d50205-042d-4605-8153-197acdc5d5c7/'
   - image: 'https://ucarecdn.com/a452611b-41e4-4f80-ab8d-5d5e61e99d64/'
 ---
-Harriet celebrated her hens party with us on a private afternoon charter, afternoon charters are a great option if you want to soak up the sun in your bikinis or dive into the sparking turquoise water at Wave Break Island for some swimming and SUP’s! We loved their themed swimmers and helping to create a fun day for everyone!
+Harriet celebrated her hen's party with us on a private afternoon charter, afternoon charters are a great option if you want to soak up the sun in your bikini's or dive into the sparking turquoise water at Wave Break Island for some swimming and SUP’s! We loved their themed swimmers and helping to create a fun day for everyone!
