@@ -84,10 +84,10 @@ class Video extends Component {
                 muted
                 loop
               >
-                {mobileWidth === false ? (
-                  <source src={video} type="video/mp4"></source>
-                ) : (
+                {mobileWidth === true ? (
                   <source src={mobileVideo} type="video/mp4"></source>
+                ) : (
+                  <source src={video} type="video/mp4"></source>
                 )}
               </video>
             </div>
