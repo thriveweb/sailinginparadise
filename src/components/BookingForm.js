@@ -170,18 +170,18 @@ class Form extends React.Component {
               selected={formCharter}
               handleValueChange={this.handleValueChange}
               options={[
-                'Raft Up',
-                'Hens Party',
-                'Birthday Party',
-                'Corporate Event',
-                'Christmas Party',
+                'Raft Ups',
+                'Hens Parties',
+                'Birthday Parties',
+                'Corporate Events',
+                'Christmas Parties',
                 'Memorial Ashes Scattering',
-                'Wedding Proposal',
+                'Wedding Proposals',
                 'Romantic Couples Only',
                 'Family with Kids',
                 'Holiday',
-                'Private Charter',
-                'Bucks Party'
+                'Private Charters',
+                'Bucks Parties'
               ]}
             />
             <div className="Form--Label date-section">
