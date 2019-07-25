@@ -7,7 +7,7 @@ intro: >-
   ## our story
 
 
-  We sailed into the Gold Coast commercial boating scene back in 2004 and thanks
+  We sailed into the Gold Coast commercial boating scene back in 2011 and thanks
   to our loyal guests and amazing crew we are thrilled to have grown to where we
   are now, offering 2 beautiful sailing catamarans for private charters and
   cruises departing from Marina Mirage.   
