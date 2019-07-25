@@ -150,6 +150,7 @@ latestNews: >-
   value rates of the year on offer in June and July.  So gather your crew and
   hit us up for a charter.   #noexcuseneeded
 meta:
-  title: ''
+  description: ''
+  title: 'Boat Hire Gold Coast,Catamaran, Party Boat rental and Boat Charters'
 ---
 
