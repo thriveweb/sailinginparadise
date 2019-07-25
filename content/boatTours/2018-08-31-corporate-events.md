@@ -53,9 +53,9 @@ contentColumn: >-
 
   For the ultimate in stress-free corporate event planning we offer a range of
   catering and drinks packages.  Partnering with some of the Gold Coast's best
-  caterers our guests can enjoy a plethora dining options from gourmet grazing
-  boards to private chefs.    We also offer a range of beverage packages or
-  welcome BYO.  
+  caterers our guests can enjoy a plethora of dining options from gourmet
+  grazing boards to private chefs.    We also offer a range of beverage packages
+  or welcome BYO.  
 
 
   In addition to our beautiful boats and professional crew we also carry a range
