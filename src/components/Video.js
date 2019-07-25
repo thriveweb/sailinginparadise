@@ -17,7 +17,7 @@ class Video extends Component {
   }
 
   updateDimensions() {
-    this.setState({ mobileWidth: window.innerWidth <= 450 })
+    this.setState({ mobileWidth: window.innerWidth <= 550 })
   }
 
   componentDidMount() {
@@ -42,7 +42,8 @@ class Video extends Component {
       buttonTitle,
       buttonUrl,
       video,
-      mobileImage,
+      mobileVideo,
+      posterImage,
       imageOverlay,
       videoBanner,
       homeVideo,
@@ -50,7 +51,7 @@ class Video extends Component {
       featuredBanner,
       socialMedia
     } = this.props
-    const { videoPlaying } = this.state
+    const { videoPlaying, mobileWidth } = this.state
 
     if (!video) return null
 
@@ -69,10 +70,10 @@ class Video extends Component {
           )}
           {video && (
             <div className="background-video">
-              {mobileImage && (
+              {posterImage && (
                 <Image
                   background
-                  src={`${mobileImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/800/`}
+                  src={`${posterImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/800/`}
                 />
               )}
               <video
@@ -83,7 +84,11 @@ class Video extends Component {
                 muted
                 loop
               >
-                <source src={video} type="video/mp4"></source>
+                {mobileWidth === false ? (
+                  <source src={video} type="video/mp4"></source>
+                ) : (
+                  <source src={mobileVideo} type="video/mp4"></source>
+                )}
               </video>
             </div>
           )}
