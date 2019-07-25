@@ -1,11 +1,11 @@
 ---
 template: PrivateCharters
 slug: private-charters
-title: Yacht Charters
+title: Boat Charters
 featuredImage: >-
   https://ucarecdn.com/ae8944f9-639c-41de-be91-7899ac721ff2/-/crop/3269x1740/0,528/-/preview/
 intro: >-
-  ## Private Catamaran Charters
+  ## Private Catamaran Hire
 
 
   If you are looking for a private boat hire on the Gold Coast, welcome, we are
