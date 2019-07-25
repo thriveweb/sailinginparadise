@@ -178,7 +178,6 @@ columnBanner:
     title: Start planning your Christmas Party today
     featuredImage: ''
   - featuredImage: 'https://ucarecdn.com/aa3f13b5-0d75-42ae-9068-2af7c395a965/'
-  - {}
 featuredTestimonials:
   description: >-
     See what the staff at Raceview State School had to say about their Christmas
