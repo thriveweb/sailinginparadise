@@ -25,4 +25,4 @@ gallery:
   - image: 'https://ucarecdn.com/ca1fad79-c6fa-402b-91ee-1b63ac4e8bc0/'
   - image: 'https://ucarecdn.com/d09b4364-d66e-4852-8769-5ba27a5068dd/'
 ---
-Rebecca’s friends organized a sunset charter with us for her hens party, sunset is a beautiful time to be out on the water and are a great way to get the night started! Our guests like to get a bit more dressed up at night and hit the town afterwards, although it’s quite common  they don’t want to get off at the end!
+Rebecca’s friends organized a sunset charter with us for her hen's party, sunset is a beautiful time to be out on the water and are a great way to get the night started! Our guests like to get a bit more dressed up at night and hit the town afterwards, although it’s quite common  they don’t want to get off at the end!
