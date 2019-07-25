@@ -30,4 +30,4 @@ gallery:
   - image: >-
       https://ucarecdn.com/93cab004-ff89-4b85-b471-51881802395f/-/crop/971x934/0,0/-/preview/
 ---
-If you live on the Gold Coast like Robyn, you know we live in paradise! To celebrate a special birthday, we took Robyn and her family to one of the Gold Coasts best hidden gems, Wave Break Island. The additional hour allowed for the BBQ brunch to be cooked at their leisure while the kids were too busy playing! Time flies when you’re having fun!
+If you live on the Gold Coast like Robyn, you know we live in paradise! To celebrate a special birthday, we took Robyn and her family to one of the Gold Coast's best hidden gems, Wave Break Island. The additional hour allowed for the BBQ brunch to be cooked at their leisure while the kids were too busy playing on the shore! Time flies when you’re having fun!
