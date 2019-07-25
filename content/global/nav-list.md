@@ -14,7 +14,7 @@ navItems:
       - title: Corporate Events
       - title: Family Charters
       - title: Raft Up Parties
-      - title: Memorials
+      - title: Memorial Charters
       - title: Christmas Parties
       - title: Private Charters
       - title: Sightseeing
