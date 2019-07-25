@@ -39,7 +39,23 @@ videoSection:
   imageOverlay: ''
   video: ''
 contentColumnTitle: ''
-contentColumn: "Our vessels offer the ideal platform for safely dispersing the ashes from the rear boarding steps (which sit very close to water level whilst remaining safe and stable).   Our warm and respectful crew will sail the vessel to your preferred location (often the Seaway or nearby a favourite Island) before dropping anchor and recording the GPS coordinates of the location carefully. \r\n\nThe spacious and wide vessels are intimate in design though spacious enough to be suitable for families and groups.  We sail in the calm protected waters of the Gold Coast Broadwater meaning a comfortable sailing experience for all on board.  We can assist with catering and beverages or you are also most welcome to BYO food and drinks on board.   \r\n\nPlease feel free to contact us before or after the cremation or funeral to discuss a private charter for spreading ashes of your loved one."
+contentColumn: >-
+  Our vessels offer the ideal platform for safely dispersing the ashes from the
+  rear boarding steps (which sit very close to water level whilst remaining safe
+  and stable).   Our warm and respectful crew will sail the vessel to your
+  preferred location (often the Seaway or nearby a favourite Island) before
+  dropping anchor and recording the GPS coordinates of the location carefully. 
+
+
+  The spacious and wide vessels are intimate in design though spacious enough to
+  be suitable for families and groups.  We sail in the calm protected waters of
+  the Gold Coast Broadwater meaning a comfortable sailing experience for all on
+  board.  We can assist with catering and beverages or you are also most welcome
+  to BYO food and drinks on board.   
+
+
+  Please feel free to contact us before or after the cremation or funeral to
+  discuss a private charter for spreading the ashes of your loved one.
 accordionSection:
   accordion:
     - dropdownContent: >-
