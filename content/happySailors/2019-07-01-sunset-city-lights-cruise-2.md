@@ -10,8 +10,7 @@ secondaryImage: 'https://ucarecdn.com/79762945-9d5b-4cc1-b6eb-e3f0f389a5e9/'
 excerpt: >-
   “Accommodating and very friendly the entire time. Boat is very stable and even
   though I can experience motion sickness I didn’t on this boat. Nice photos
-  too. The winter sunset is perfect and they offered blankets.  Dropbox 3rd June
-  2018 (only sunset cruise)” can find this guy anywhere
+  too. The winter sunset is perfect and they offered blankets.  
 gallery:
   - image: 'https://ucarecdn.com/3ab335dd-6b7d-4492-aba8-cde98859672b/'
   - image: 'https://ucarecdn.com/b536740a-e738-4085-937a-efc4766f12c4/'
