@@ -170,12 +170,15 @@ accordionSection:
       title: Christmas Party FAQ's
   sectionTitle: Why book your Christmas Party with us?
 columnBanner:
-  - buttonTitle: BUY NOW
+  - buttonTitle: Enquire now
     buttonUrl: booking-enquiry
-    content: Purchase online for instant gift certificates.
-    title: Reward your team with our Sunset Cruise Gift Vouchers
-    featuredImage: /images/uploads/girl-img-column2.jpg
-  - featuredImage: /images/uploads/Sailing-in-Paradise-sunset.jpg
+    content: >-
+      Ask about chartering one of our catamarans for a beautiful day or evening
+      on the water with your team!
+    title: Start planning your Christmas Party today
+    featuredImage: ''
+  - featuredImage: 'https://ucarecdn.com/aa3f13b5-0d75-42ae-9068-2af7c395a965/'
+  - {}
 featuredTestimonials:
   description: >-
     See what the staff at Raceview State School had to say about their Christmas
