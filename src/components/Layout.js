@@ -132,10 +132,7 @@ class Layout extends Component {
 
           return (
             <Fragment>
-              <Helmet
-                defaultTitle={siteTitle}
-                titleTemplate={`%s | ${siteTitle}`}
-              >
+              <Helmet titleTemplate={`%s`}>
                 {title}
                 <link
                   href="https://ucarecdn.com"
