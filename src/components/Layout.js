@@ -82,7 +82,9 @@ class Layout extends Component {
                 footerContent
               }
             }
-            contactInfo: markdownRemark(fields: { slug: { eq: "/general-contact/" } }) {
+            contactInfo: markdownRemark(
+              fields: { slug: { eq: "/general-contact/" } }
+            ) {
               frontmatter {
                 socialMedia {
                   facebook
@@ -109,10 +111,16 @@ class Layout extends Component {
             }
           }
         `}
-
         render={data => {
           const { children, meta, title, location } = this.props
-          const { settingsYaml, contactInfo, globalSections, navItems, charters, cruises } = data || {}
+          const {
+            settingsYaml,
+            contactInfo,
+            globalSections,
+            navItems,
+            charters,
+            cruises
+          } = data || {}
           const siteTitle = _get(settingsYaml, 'siteTitle') || ''
 
           const privateCharters = charters
@@ -129,15 +137,27 @@ class Layout extends Component {
                 titleTemplate={`%s | ${siteTitle}`}
               >
                 {title}
-                <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
+                <link
+                  href="https://ucarecdn.com"
+                  rel="preconnect"
+                  crossorigin
+                />
                 <link rel="dns-prefetch" href="https://ucarecdn.com" />
                 {/* Add font link tags here */}
+                <script
+                  async
+                  src="https://www.googletagmanager.com/gtag/js?id=UA-77246883-1"
+                ></script>
+                <script>
+                  {`window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                ​
+                  gtag('config', 'UA-77246883-1');`}
+                </script>
               </Helmet>
 
-              <Meta
-                {...meta}
-                {...data.settingsYaml}
-              />
+              <Meta {...meta} {...data.settingsYaml} />
 
               <Nav
                 charters={privateCharters}
@@ -160,9 +180,7 @@ class Layout extends Component {
         }}
       />
     )
-
   }
-
 }
 
 export default Layout
