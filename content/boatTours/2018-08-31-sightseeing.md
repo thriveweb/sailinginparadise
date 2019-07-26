@@ -247,5 +247,11 @@ featuredTestimonials:
     beautiful views. Check out his experience here...
   testimonial: 'Mr Apple, Aus'
   title: Mr Apple
+meta:
+  description: >-
+    Our private sightseeing charters are ideal for families, colleagues and
+    friends looking to explore the area and see the Gold Coast from a different
+    perspective.
+  title: Gold Coast Sightseeing Cruise | Sailing In Paradise
 ---
 
