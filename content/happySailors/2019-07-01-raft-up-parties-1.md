@@ -14,7 +14,7 @@ excerpt: >-
   large party, organised buses to pick up the partygoers, picked up the alcohol,
   organised the food and we can't forget the dolphins! It was an experience that
   50 people will never forget. Thank you so much for your incredible patience
-  with the constant changes to the plans. Amazing!!”
+  with the constant changes to the plans. Amazing!!” Tripadvisor
 gallery:
   - image: 'https://ucarecdn.com/d90639a8-0d3e-4855-abed-44a2530b997e/'
   - image: 'https://ucarecdn.com/f67dcf36-f0d3-4b20-8751-d41b7c478b83/'
