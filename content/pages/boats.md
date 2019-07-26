@@ -113,5 +113,10 @@ secondaryBanner:
     https://ucarecdn.com/427a43aa-1572-4c00-8f67-f2be6fced132/-/crop/5211x2779/223,254/-/preview/
   subtitle: ''
   title: Climb Aboard and get to know us
+meta:
+  description: >-
+    if you are looking for boat charter on the gold coast then look no further.
+    Sailing In Paradise is perfect for all occassions.
+  title: Our Boats | Sailing in Paradise
 ---
 
