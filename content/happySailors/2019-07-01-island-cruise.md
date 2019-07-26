@@ -9,9 +9,9 @@ videoSection:
   title: ''
 secondaryImage: 'https://ucarecdn.com/fcb66fe4-04ad-4dfd-86ac-ca334d31ce3b/'
 excerpt: >-
-  “Sooo good!  Nicest boat that takes you out on the water to wave break
-  island!  there was beach volleyball, stand up paddle boarding, and floatable
-  flamingos to chill on!  Thanks for a great day”
+  “Sooo good!  Nicest boat that takes you out on the water to Wave Break
+  Island!  there was beach volleyball, stand up paddle boarding, and float-able
+  flamingos to chill on!  Thanks for a great day” Facebook Review
 gallery:
   - image: 'https://ucarecdn.com/d1bb4815-666e-4a06-9ec8-966b30c37a8d/'
   - image: 'https://ucarecdn.com/f5ec4f02-34f4-4d28-b750-456c86b90eb7/'
