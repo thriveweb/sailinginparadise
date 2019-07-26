@@ -14,5 +14,10 @@ intro: >-
 
   See our current specials **'Adults at Kids Prices'** on the Sunset Cruise and
   Island Cruises.
+meta:
+  description: >-
+    Join Our 'sunset & City Lights Cruise' Or 'island Cruise' with Sailing In
+    Paradise - 0438 915 222.
+  title: Gold Coast Cruises | Sailing In Paradise
 ---
 
