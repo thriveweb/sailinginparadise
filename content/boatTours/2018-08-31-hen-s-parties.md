@@ -264,5 +264,11 @@ featuredTestimonials:
     unforgettable experience here...
   testimonial: 'Ruby, Aus'
   title: Ruby
+meta:
+  description: >-
+    Sailing In Paradise - Gold Coast's ultimate VIP Hens Party experience.
+    Affordable luxury aboard a smooth sailing catamaran. It's where good times
+    happen!
+  title: The Ultimate Hens Party Cruise on the Gold Coast
 ---
 
