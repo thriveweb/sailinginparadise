@@ -45,7 +45,7 @@
 @media only screen and (max-width: 500px) {
   .Accordion--item--content p,
   .Accordion--item--content li {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
   }
 }
 
