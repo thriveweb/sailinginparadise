@@ -68,14 +68,14 @@ class Video extends Component {
               </div>
             </div>
           )}
+          {posterImage && (
+            <Image
+              background
+              src={`${posterImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1800/`}
+            />
+          )}
           {video && (
             <div className="background-video">
-              {posterImage && (
-                <Image
-                  background
-                  src={`${posterImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/800/`}
-                />
-              )}
               <video
                 className="video"
                 preload="true"

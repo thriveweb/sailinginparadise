@@ -5,8 +5,8 @@ title: ''
 buttonTitle: ''
 buttonUrl: ''
 posterImage: 'https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/'
-hdVideo: 'https://ucarecdn.com/49b86f08-f798-4bed-b64b-9cd20379d97a/'
-mobileVideo: 'https://ucarecdn.com/d2c3e9da-0a18-442f-9e38-41180a4688d9/'
+hdVideo: 'https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175'
+mobileVideo: 'https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164'
 featuredSlider:
   - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
@@ -153,4 +153,3 @@ meta:
   description: ''
   title: 'Boat Hire Gold Coast, Catamaran, Party Boat rental and Boat Charters'
 ---
-

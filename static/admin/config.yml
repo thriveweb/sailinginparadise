@@ -52,8 +52,8 @@ collections: # A list of collections the CMS should be able to edit
               widget: image,
               required: false,
             }
-          - { label: HD Video, name: hdVideo, widget: file }
-          - { label: Mobile Video, name: mobileVideo, widget: file }
+          - { label: HD Video, name: hdVideo, widget: string }
+          - { label: Mobile Video, name: mobileVideo, widget: string }
           - label: 'Featured Slider'
             required: false
             name: 'featuredSlider'
