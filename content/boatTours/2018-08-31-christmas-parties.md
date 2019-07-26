@@ -183,5 +183,10 @@ featuredTestimonials:
     See what the staff at Raceview State School had to say about their Christmas
     Party with us...
   testimonial: 'RACEVIEW STATE SCHOOL, Aus '
+meta:
+  description: >-
+    Celebrate this year's Christmas party sailing the beautiful Gold Coast with
+    Sailing in Paradise. Packages for up to 30 people. Call Now 0438915222.
+  title: Gold Coast Christmas Party Cruise | Sailing in Paradise
 ---
 
