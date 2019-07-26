@@ -131,5 +131,10 @@ featuredTestimonials:
     experience...
   testimonial: 'KOJO, Aus '
   title: KOJO
+meta:
+  description: >-
+    For the ultimate in stress-free corporate event planning, we offer a range
+    of catering and drinks packages for up to 30 guests.
+  title: Gold Coast Corporate Events | Sailing in Paradise
 ---
 
