@@ -10,6 +10,11 @@ featuredImage: 'https://ucarecdn.com/75b0f01b-1418-4bc2-b151-8aa5ad4a09ef/'
 excerpt: >-
   An area close to our hearts, as we call it home! For such a small suburb Main
   Beach sure crams some variety into the mix.
+meta:
+  description: >-
+    An area close to our hearts, as we call it home! For such a small suburb
+    Main Beach sure crams some variety into the mix.
+  title: Sailing In Paradise hot tips for things to do in Main Beach
 ---
 An area close to our hearts, as we call it home!  For such a small suburb Main Beach sure crams some variety into the mix.
 
