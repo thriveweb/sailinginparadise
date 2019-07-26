@@ -45,7 +45,10 @@ contentBox:
   buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
   buttonUrl: booking-enquiry
   title: The Gold Coast's best sunset views
-bookingIframe: '<iframe seamless="" width="300px" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/calendarWidget/241550?iframe=true"></iframe>'
+bookingIframe: >-
+  <iframe seamless="" width="300px" height="1000px" frameborder="0"
+  class="rezdy"
+  src="https://sailinginparadise.rezdy.com/calendarWidget/241550?iframe=true"></iframe>
 gallery:
   - image: 'https://ucarecdn.com/010205fa-7374-4ac5-ab1b-eea79c74a0f7/'
   - image: 'https://ucarecdn.com/22fa2713-7f3a-4f2e-8f6f-9c30fc21c798/'
@@ -107,4 +110,10 @@ featuredTestimonials:
     our Sunset and City Lights Cruise...
   testimonial: 'Sandy, UK'
   title: Sandy
+meta:
+  description: >-
+    Looking for the Gold Coast's best sunset views? There is no better place to
+    watch the sunset on the Gold Coast than relaxing on a yacht
+  title: 'Gold Coast Sunset Cruise, Boat Hire & Charters | Sailing in Paradise'
 ---
+
