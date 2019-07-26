@@ -12,9 +12,11 @@ excerpt: >-
   are frequented by the Gold Coast’s beautiful people.
 meta:
   canonicalLink: ''
-  description: ''
+  description: >-
+    Ask any Gold Coast local about their favourite places on the GC and Burleigh
+    Heads is sure to factor in pretty high on the list.
   noindex: false
-  title: ''
+  title: Things to do in Burleigh Heads | Sailing In Paradise
 ---
 ![Test Image](/images/uploads/vyouw5byhlc.jpeg)
 
