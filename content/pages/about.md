@@ -117,7 +117,14 @@ crewSection:
         https://ucarecdn.com/839ed449-4aaf-4f18-a320-15bd026be749/-/crop/748x586/0,32/-/preview/
       name: 'Chanelle '
       title: '"Cruise Hostess/Guest Relations"'
-    - content: "Anthony joined our crew after many years in the international superyacht industry.\r\n\nOriginally hailing from Adelaide Anthony has travelled the world working on various vessels and is now looking at settling on the Gold Coast.  Always the consummate professional, Anthony has from time to time been witnessed twerking on the back deck (with a bit of encouragement from our guests that is)."
+    - content: >-
+        Anthony joined our crew after many years sailing the world in the
+        international superyacht industry.    Formerly a watersports instructor
+        and tennis coach he has a love of the outdoors and now calls the Gold
+        Coast home (which works out just perfectly for his love of surfing and
+        skating).   Always the consummate professional, Anthony has from time to
+        time been witnessed twerking on the back deck (with a bit of
+        encouragement from our guests that is).
       image: >-
         https://ucarecdn.com/0471683b-545b-4d9a-9940-d00645c6dcad/-/crop/4000x3422/0,799/-/preview/
       name: 'Anthony '
@@ -177,3 +184,4 @@ meta:
     Gold Coast Broad Waters. Call 0418 915 222.
   title: About Sailing in Paradise | Gold Coast Boat Hire & Private Charters
 ---
+
