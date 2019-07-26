@@ -20,6 +20,12 @@ secondaryBanner:
   featuredImage: 'https://ucarecdn.com/a3732d58-dd7a-44d2-bc7e-ec65d4073729/'
   subtitle: ''
   title: Let’s go sailing in paradise
+meta:
+  description: >-
+    Sailing In Paradise | Gold Coast | Book now to explore the magnificent
+    waters of the Gold Coast Broadwater on the Spirit of Gwonda | Call 0438 915
+    222.
+  title: Gold Coast Boast Hire | Contact Us | Sailing in Paradise
 ---
 ### FIND US AT MARINA MIRAGE
 
