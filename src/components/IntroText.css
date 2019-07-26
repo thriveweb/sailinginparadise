@@ -70,7 +70,8 @@
     padding: 4rem 0;
   }
 
-  .intro-section p {
+  .intro-section p,
+  .intro-section li {
     font-size: 1.4rem;
   }
 }

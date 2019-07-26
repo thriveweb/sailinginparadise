@@ -24,19 +24,15 @@ export const AboutPageTemplate = ({
   secondaryBanner,
   columnBanner,
   videoSection,
-  body,
   meta
 }) => {
-
-  return <main className='About'>
+  return (
+    <main className="About">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
         {meta && <meta name="description" content={meta.description} />}
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
-      <PageHeader
-        title={title}
-        backgroundImage={featuredImage}
-      />
+      <PageHeader title={title} backgroundImage={featuredImage} />
       <IntroText content={intro} center />
       <GallerySlider gallery={gallery} />
       <CaptainListing {...captainSection} />
@@ -45,8 +41,8 @@ export const AboutPageTemplate = ({
       <Video {...videoSection} videoBanner />
       <ColumnBanner columnBanner={columnBanner} />
     </main>
+  )
 }
-
 
 const AboutPage = ({ data: { page, globalVideo } }) => (
   <Layout meta={page.frontmatter.meta || false}>

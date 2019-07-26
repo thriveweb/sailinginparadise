@@ -10,9 +10,7 @@ import './Video.css'
 class Video extends Component {
   constructor(props) {
     super(props)
-
     this.videoRef = React.createRef()
-
     this.state = {}
   }
 
@@ -30,7 +28,7 @@ class Video extends Component {
   }
 
   handleVideo = url => {
-    this.videoRef.current.src = `https://player.vimeo.com/video/${url}?autoplay=1&start=0&modestbranding=1&controls=0&disablekb=1&rel=0`
+    this.videoRef.current.src = `https://player.vimeo.com/video/${url}?autoplay=1&start=0`
     this.setState({
       videoPlaying: true
     })

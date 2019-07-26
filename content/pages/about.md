@@ -161,7 +161,7 @@ secondaryBanner:
 videoSection:
   imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
   title: Experience the open water with an affordable yet luxurious adventure
-  video: '347441203'
+  video: '348353390'
 columnBanner:
   - buttonTitle: See More
     buttonUrl: private-charters
@@ -177,4 +177,3 @@ meta:
     Gold Coast Broad Waters. Call 0418 915 222.
   title: About Sailing in Paradise | Gold Coast Boat Hire & Private Charters
 ---
-
