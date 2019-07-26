@@ -26,3 +26,9 @@
 .Content ul {
   margin: 0 0 1.4rem 2rem;
 }
+
+@media only screen and (max-width: 500px) {
+  .Content ul li {
+    font-size: 1.4rem;
+  }
+}
