@@ -96,5 +96,10 @@ columnBanner:
 featuredTestimonials:
   description: 'Bree has been out with us 3 times now, check out her lovely review here...'
   testimonial: 'Bree, Aus'
+meta:
+  description: >-
+    Sailing In Paradise - Surfers Paradise Gold Coast | From 10 to 30 People |
+    Boat Charter | Party Boat Hire | Private Charters - Book now 0438 915 222.
+  title: Gold Coast Private Charters - Sailing in Paradise | Book now
 ---
 
