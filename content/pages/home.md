@@ -5,8 +5,10 @@ title: ''
 buttonTitle: ''
 buttonUrl: ''
 posterImage: 'https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/'
-hdVideo: 'https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175'
-mobileVideo: 'https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164'
+hdVideo: >-
+  https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
+mobileVideo: >-
+  https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
   - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
@@ -150,6 +152,9 @@ latestNews: >-
   value rates of the year on offer in June and July.  So gather your crew and
   hit us up for a charter.   #noexcuseneeded
 meta:
-  description: ''
+  description: >-
+    Sailing In Paradise |Gold Coast boat hire. Unique sailing catamarans
+    offering private cruises for up to 50 people. | Call 0438 915 222.
   title: 'Boat Hire Gold Coast, Catamaran, Party Boat rental and Boat Charters'
 ---
+
