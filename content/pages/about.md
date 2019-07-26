@@ -172,6 +172,9 @@ columnBanner:
     title: ''
     featuredImage: 'https://ucarecdn.com/1009971d-e5a7-4b76-8c13-a7aca1eccd8c/'
 meta:
-  description: ''
+  description: >-
+    Sailing in Paradise offers boat hire and private charters on the beautiful
+    Gold Coast Broad Waters. Call 0418 915 222.
+  title: About Sailing in Paradise | Gold Coast Boat Hire & Private Charters
 ---
 
