@@ -3,7 +3,7 @@ import '../layouts/globalStyles.css'
 import React, { Component, Fragment } from 'react'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
-import _get from 'lodash/get'
+
 import Meta from './Meta'
 import Nav from './Nav'
 import Footer from './Footer'
@@ -113,14 +113,8 @@ class Layout extends Component {
         `}
         render={data => {
           const { children, meta, title, location } = this.props
-          const {
-            settingsYaml,
-            contactInfo,
-            globalSections,
-            navItems,
-            charters,
-            cruises
-          } = data || {}
+          const { contactInfo, globalSections, navItems, charters, cruises } =
+            data || {}
           //const siteTitle = _get(settingsYaml, 'siteTitle') || ''
 
           const privateCharters = charters
