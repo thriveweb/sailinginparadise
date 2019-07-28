@@ -4,7 +4,7 @@ title: Self-drive boat hire gold coast vs boat charter
 status: Published
 date: 2019-07-28T22:59:52.219Z
 categories:
-  - category: News
+  - category: Updates
 featuredImage: 'https://ucarecdn.com/3c66e225-40f9-4a0b-a8b7-f5e05a9d0f10/'
 excerpt: >-
   Whether you are visiting the Gold Coast on holidays or a local to the area,
