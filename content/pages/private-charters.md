@@ -1,7 +1,7 @@
 ---
 template: PrivateCharters
 slug: private-charters
-title: Catamaran Charters
+title: Boat Charter
 featuredImage: >-
   https://ucarecdn.com/ae8944f9-639c-41de-be91-7899ac721ff2/-/crop/3269x1740/0,528/-/preview/
 intro: >-
@@ -50,5 +50,11 @@ chartersListing:
   - tours: Family Charters
   - tours: Memorials/ Scattering of Ashes at Sea
   - tours: Private Charters
+meta:
+  description: >-
+    Join us on one of our luxury sailing catamarans. Suitable for parties,
+    corporate events, family get-togethers, weddings or just for a day out with
+    friends.
+  title: Private Boat Charter | Sailing In Paradise
 ---
 

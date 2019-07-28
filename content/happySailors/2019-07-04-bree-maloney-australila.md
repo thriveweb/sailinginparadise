@@ -25,4 +25,4 @@ gallery:
   - image: 'https://ucarecdn.com/12741a31-589d-41d5-baec-479923b1d6e8/'
   - image: 'https://ucarecdn.com/4041b89a-18b0-4cd7-af81-999e188662bc/'
 ---
-Bree has been out with us 3 times now, each time is different and always an epic day out! Weather you wish to chill out on the foredeck, sip on champagne and dance the night away, or get amongst the beach activities, we are sure we can help make your party/event a memorable one for you and your favourite people!
+Bree has been out with us at least 5 times now and more to come! Each time is different but always makes for an epic day out! Weather you wish to chill out on the foredeck, sip on champagne and dance the night away, or get amongst the beach activities, we are sure we can help make your party/event a memorable one for you and your favourite people!

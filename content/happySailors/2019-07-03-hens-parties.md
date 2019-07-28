@@ -2,7 +2,7 @@
 template: SingleCaseStudy
 title: 'Lauren, Aus'
 cruiseType: Hen's Parties
-date: 2018-01-12T01:54:10.017Z
+date: 2019-01-12T01:54:10.017Z
 featuredImage: >-
   https://ucarecdn.com/ad23f2fb-389e-422c-8133-57230e0c1b4a/-/preview/-/enhance/22/
 videoSection:
