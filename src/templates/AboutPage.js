@@ -10,7 +10,7 @@ import CaptainListing from '../components/CaptainListing'
 import CrewGallery from '../components/CrewGallery'
 import SecondaryBanner from '../components/SecondaryBanner'
 import ColumnBanner from '../components/ColumnBanner'
-import Video from '../components/Video'
+import VideoPopup from '../components/VideoPopup'
 import './AboutPage.css'
 
 // Export Template for use in CMS preview
@@ -38,7 +38,7 @@ export const AboutPageTemplate = ({
       <CaptainListing {...captainSection} />
       <CrewGallery {...crewSection} />
       <SecondaryBanner {...secondaryBanner} large />
-      <Video {...videoSection} videoBanner />
+      <VideoPopup {...videoSection} videoBanner />
       <ColumnBanner columnBanner={columnBanner} />
     </main>
   )
