@@ -48,12 +48,9 @@ boats:
     title: spirit Of Gwonda
     featuredImage: 'https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/'
     videoSection:
-      imageOverlay: /images/uploads/home-banner.jpg
-      video: ''
-    virtualTour: >-
-      <iframe width='100%' height='100%'
-      src='https://roundme.com/embed/vbLlexBhnhqkTATZiUsd' frameborder='0'
-      webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
+      title: Experience the 360° VR and panoramic tour of the Spirit Of Gwonda
+      videoURL: 'https://roundme.com/embed/vbLlexBhnhqkTATZiUsd'
   - boatFeatures:
       - content: '10.85m long, 5.9m wide'
       - content: 20 passengers + 2 crew
@@ -100,12 +97,9 @@ boats:
     title: Seawind 1000XL
     featuredImage: 'https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/'
     videoSection:
-      imageOverlay: 'https://ucarecdn.com/fc05fd1e-bb43-43e1-b90d-9be6dc1c57e7/'
-      video: ''
-    virtualTour: >-
-      <iframe width='100%' height='100%'
-      src='https://roundme.com/embed/muQI7AJ8syNd5aD7HNS4' frameborder='0'
-      webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
+      title: Experience the 360° VR and panoramic tour of the Seawind 1000XL
+      videoURL: 'https://roundme.com/embed/muQI7AJ8syNd5aD7HNS4'
 secondaryBanner:
   buttonTitle: Meet our Crew...
   buttonUrl: about-us

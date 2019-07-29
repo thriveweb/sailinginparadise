@@ -21,8 +21,8 @@ export const BoatsPageTemplate = ({
   boats,
   meta
 }) => {
-
-  return <main className="Boats">
+  return (
+    <main className="Boats">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
         {meta && <meta name="description" content={meta.description} />}
         {meta && <link rel="canonical" href={meta.canonical} />}
@@ -33,6 +33,7 @@ export const BoatsPageTemplate = ({
       <SecondaryBanner {...secondaryBanner} large />
       <ColumnBanner columnBanner={columnBanner} />
     </main>
+  )
 }
 
 const BoatsPage = ({ data: { page, globalSections } }) => (
@@ -63,13 +64,13 @@ export const pageQuery = graphql`
             content
           }
           featuredImage
-          virtualTour
           gallery {
             image
           }
           videoSection {
-            video
             imageOverlay
+            title
+            videoURL
           }
         }
         secondaryBanner {
