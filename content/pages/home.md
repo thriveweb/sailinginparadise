@@ -16,7 +16,7 @@ featuredSlider:
   - buttonUrl: boat-charter
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
     title: Private Skippered Boat Hire
-  - buttonUrl: private-charter/hens-parties
+  - buttonUrl: boat-charter/hens-parties
     description: >-
       We are the hens party specialists. Let us create a truly special event for
       you and your friends.
@@ -48,7 +48,7 @@ services:
       title: Ticketed Cruises
   - image: 'https://ucarecdn.com/8b52eb78-1a5d-4e8d-b370-673f86813142/'
     serviceContent:
-      buttonUrl: private-charter/hens-parties
+      buttonUrl: boat-charter/hens-parties
       description: >-
         A unique hen’s party idea on the Gold Coast. Whether you are looking for
         a relaxing day on the water with some delicious food and drinks, an
