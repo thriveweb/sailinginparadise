@@ -11,8 +11,6 @@ excerpt: >-
   the appeal of getting out and exploring our beautiful waterways is
   universal.   So if you have been considering a self-drive boat hire there are
   a few things to consider.
-videoSection:
-  title: ''
 ---
 
 Whether you are visiting the Gold Coast on holidays or a local to the area, the appeal of getting out and exploring our beautiful waterways is universal. So if you have been considering a self-drive boat hire there are a few things to consider;

@@ -20,7 +20,7 @@ class VideoPopup extends Component {
 
   render() {
     const { title, video, imageOverlay, videoBanner } = this.props
-    // if (!video) return null
+    if (!video) return null
 
     return (
       <div

@@ -9,7 +9,7 @@ import Layout from '../components/Layout'
 import { ICONSail } from '../components/Icons'
 import Content from '../components/Content'
 import Image from '../components/Image'
-import Video from '../components/Video'
+import VideoPopup from '../components/VideoPopup'
 import SocialShare from '../components/SocialShare'
 import './SinglePost.css'
 
@@ -34,11 +34,14 @@ export const SinglePostTemplate = ({
       {meta && <meta name="description" content={meta.description} />}
       {meta && <link rel="canonical" href={meta.canonical} />}
     </Helmet>
-    {featuredImage &&
-      <div className='SinglePost--Banner'>
-        <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`} />
+    {featuredImage && (
+      <div className="SinglePost--Banner">
+        <Image
+          background
+          src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/2000/`}
+        />
       </div>
-    }
+    )}
     <div className="container skinny">
       <Link className="SinglePost--BackButton" to="/latest-news/">
         <ChevronLeft /> BACK
@@ -60,7 +63,7 @@ export const SinglePostTemplate = ({
           {categories.length && (
             <Fragment>
               <span>|</span>
-              <div className='SinglePost--Meta--Category'>
+              <div className="SinglePost--Meta--Category">
                 {categories.map((cat, index) => (
                   <span key={cat.category}>
                     {cat.category}
@@ -81,7 +84,7 @@ export const SinglePostTemplate = ({
 
         <div className="SinglePost--InnerContent">
           <Content src={body} />
-          <Video {...videoSection} />
+          <VideoPopup {...videoSection} />
           <Content src={contentSecondary} />
           <SocialShare />
           <div className="SinglePost--Pagination">

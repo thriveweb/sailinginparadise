@@ -9,7 +9,7 @@ import { ICONQuotes } from '../components/Icons'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Image from '../components/Image'
-import Video from '../components/Video'
+import VideoPopup from '../components/VideoPopup'
 import SocialShare from '../components/SocialShare'
 import GallerySlider from '../components/GallerySlider'
 import SecondaryBanner from '../components/SecondaryBanner'
@@ -29,7 +29,6 @@ export const SingleCaseStudyTemplate = ({
   secondaryBanner,
   meta
 }) => {
-
   const bannerTitle = _get(banner, '[0]frontmatter.title') || ''
   const bannerImage = _get(banner, '[0]frontmatter.featuredImage') || ''
 
@@ -40,10 +39,7 @@ export const SingleCaseStudyTemplate = ({
         {meta && <link rel="canonical" href={meta.canonical} />}
       </Helmet>
 
-      <PageHeader
-        title={bannerTitle}
-        backgroundImage={bannerImage}
-      />
+      <PageHeader title={bannerTitle} backgroundImage={bannerImage} />
 
       <div className="container">
         <div className="SingleCaseStudy--Content">
@@ -65,23 +61,30 @@ export const SingleCaseStudyTemplate = ({
           </div>
           <div className="SingleCaseStudy--Body">
             <div className="columnLeft">
-              {featuredImage &&
-                <div className='img-container'>
-                  <Image background src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500/`}/>
+              {featuredImage && (
+                <div className="img-container">
+                  <Image
+                    background
+                    src={`${featuredImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/500/`}
+                  />
                 </div>
-              }
-              {secondaryImage
-                ? <div className='img-container'>
-                    <Image background src={`${secondaryImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}/>
-                  </div>
-                : <Video {...videoSection} />
-              }
+              )}
+              {secondaryImage ? (
+                <div className="img-container">
+                  <Image
+                    background
+                    src={`${secondaryImage}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000/`}
+                  />
+                </div>
+              ) : (
+                <VideoPopup {...videoSection} />
+              )}
             </div>
-            <div className='columnRight'>
+            <div className="columnRight">
               {body && <Content src={body} />}
               {excerpt && (
-                <div className='quote'>
-                  <p className='name'>{title}</p>
+                <div className="quote">
+                  <p className="name">{title}</p>
                   <ICONQuotes />
                   <p>{excerpt}</p>
                 </div>
@@ -150,7 +153,9 @@ export const pageQuery = graphql`
         }
       }
     }
-    archiveBanner: allMarkdownRemark(filter: {fields:{ slug: {eq: "/happy-sailors/"}}}) {
+    archiveBanner: allMarkdownRemark(
+      filter: { fields: { slug: { eq: "/happy-sailors/" } } }
+    ) {
       edges {
         node {
           id
