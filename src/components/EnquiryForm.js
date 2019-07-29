@@ -93,10 +93,19 @@ class Form extends React.Component {
             </label>
             <label className="Form--Label TextArea">
               <input
+                className="Form--Input"
+                type="text"
+                placeholder="Phone"
+                name="phone"
+                required
+              />
+            </label>
+            <label className="Form--Label TextArea">
+              <textarea
                 className="Form--Input Form--Textarea"
-                placeholder="Message"
+                placeholder="Let us know the number guests, dates, and what you want to do."
                 name="message"
-                rows="10"
+                rows="3"
                 required
               />
             </label>
@@ -106,9 +115,11 @@ class Form extends React.Component {
               className="Form--Input-honey"
               placeholder="Leave blank if you are a human"
             />
-            {!!subject && <input type="hidden" name="subject" value={subject} />}
+            {!!subject && (
+              <input type="hidden" name="subject" value={subject} />
+            )}
             <input type="hidden" name="form-name" value={name} />
-            <div className='form-footer'>
+            <div className="form-footer">
               <input
                 className="button Form--SubmitButton"
                 type="submit"
