@@ -171,7 +171,7 @@ videoSection:
   video: '348353390'
 columnBanner:
   - buttonTitle: See More
-    buttonUrl: private-charters
+    buttonUrl: boat-charter
     title: ready to start planning your private charter?
     featuredImage: 'https://ucarecdn.com/b2caa059-80db-459d-8317-b769028c50e9/'
   - buttonTitle: ''

@@ -13,7 +13,7 @@ featuredSlider:
   - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
-  - buttonUrl: private-charters
+  - buttonUrl: boat-charter
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
     title: Private Skippered Boat Hire
   - buttonUrl: private-charter/hens-parties
@@ -32,7 +32,7 @@ featuredBanner:
 services:
   - image: 'https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/'
     serviceContent:
-      buttonUrl: private-charters
+      buttonUrl: boat-charter
       description: >-
         Sailing in Paradise invites you to step aboard one of our luxurious
         sailing catamarans for an event to be remembered.
@@ -57,7 +57,7 @@ services:
       title: Hens Party Specialists
 serviceBanner:
   buttonTitle: Find your Perfect Charter
-  buttonUrl: private-charters
+  buttonUrl: boat-charter
   featuredImage: 'https://ucarecdn.com/117d8fce-576b-4fe1-9dad-d9f34471faee/'
   subtitle: Let’s Get The Party Started!
   title: Ready to book your Gold Coast Boat Hire?
@@ -157,4 +157,3 @@ meta:
     offering private cruises for up to 50 people. | Call 0438 915 222.
   title: 'Boat Hire Gold Coast, Catamaran, Party Boat rental and Boat Charters'
 ---
-

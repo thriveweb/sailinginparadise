@@ -108,7 +108,7 @@ boats:
       webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 secondaryBanner:
   buttonTitle: Meet our Crew...
-  buttonUrl: about
+  buttonUrl: about-us
   featuredImage: >-
     https://ucarecdn.com/427a43aa-1572-4c00-8f67-f2be6fced132/-/crop/5211x2779/223,254/-/preview/
   subtitle: ''
