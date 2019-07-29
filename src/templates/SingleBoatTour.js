@@ -37,7 +37,7 @@ export const SingleBoatTourTemplate = ({
   meta
 }) => {
   const charterUrl = slug
-    ? slug.replace('/private-charter/', '').replace('/', '')
+    ? slug.replace('/boat-charter/', '').replace('/', '')
     : ''
 
   return (
@@ -60,20 +60,24 @@ export const SingleBoatTourTemplate = ({
       {gallery && <GallerySlider gallery={gallery} />}
       {videoSection && <Video {...videoSection} />}
       {contentColumn && (
-        <div className='boat-content-column'>
+        <div className="boat-content-column">
           <IntroText content={contentColumn} title={contentColumnTitle} />
         </div>
       )}
       <Accordion accordionSection={accordionSection} />
-      {columnBanner &&
+      {columnBanner && (
         <ColumnBanner
           columnBanner={columnBanner}
           boatTour
           charterUrl={charterUrl}
           bookingIframe={bookingIframe}
         />
-      }
-      <FeaturedTestimonial {...featuredTestimonials} caseStudies={caseStudies} charterTitle={title} />
+      )}
+      <FeaturedTestimonial
+        {...featuredTestimonials}
+        caseStudies={caseStudies}
+        charterTitle={title}
+      />
     </main>
   )
 }
@@ -149,7 +153,9 @@ export const pageQuery = graphql`
       }
     }
 
-    caseStudies: allMarkdownRemark(filter: {fields: {contentType: {eq: "happySailors"}}}) {
+    caseStudies: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "happySailors" } } }
+    ) {
       edges {
         node {
           fields {

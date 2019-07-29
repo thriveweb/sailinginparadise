@@ -75,7 +75,7 @@ contentColumn: >-
   We can cater for groups of up to 30 people on our signature sailing catamaran
   the 'Spirit of Gwonda', or up to 20 on our Seawind 1000XL.  If you have a
   larger group be sure to check out our amazing [Raft-Up
-  Party](https://sailing-paradise.netlify.com/private-charter/raft-up-parties/)
+  Party](https://sailing-paradise.netlify.com/boat-charter/raft-up-parties/)
   options.  
 
 
