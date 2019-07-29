@@ -103,7 +103,7 @@ class Form extends React.Component {
             <label className="Form--Label TextArea">
               <textarea
                 className="Form--Input Form--Textarea"
-                placeholder="Let us know the number guests, dates, and what you want to do."
+                placeholder="Let us know the number of guests, dates, and what you want to do."
                 name="message"
                 rows="3"
                 required
