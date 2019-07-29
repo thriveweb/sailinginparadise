@@ -21,11 +21,20 @@ export default ({ children }) => (
         </Helmet>
         <section className="error-404">
           <div class="container skinny">
-            <h3>Oops sorry, looks like we’ve missed a link.</h3>
-            <h1>Take me to Sailing in Paradise homepage</h1>
-            <Link className='button' to="/">
+            <p>
+              <div
+                style={{
+                  background: `url(/images/logo-new.png) center no-repeat`,
+                  with: `500px`,
+                  height: `200px`
+                }}
+              />
+            </p>
+            <p>Oops sorry, looks like we’ve missed a link.</p>
+            <p>Take me to Sailing in Paradise homepage</p>
+            <Link className="button" to="/">
               Take me Home
-              <ICONButtonArrows/>
+              <ICONButtonArrows />
             </Link>
           </div>
         </section>
