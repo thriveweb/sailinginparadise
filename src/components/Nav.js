@@ -91,7 +91,7 @@ export default class Nav extends Component {
                             className={`NavLink ${
                               subNavItems ? 'hasChildren' : ''
                             } ${
-                              foundItemSlug === '/boat-charters/'
+                              foundItemSlug === '/boat-charter/'
                                 ? 'two-column'
                                 : ''
                             } ${menuItemActive === index ? 'active' : ''}`}
@@ -137,7 +137,7 @@ export default class Nav extends Component {
                           className={`NavLink ${
                             subNavItems ? 'hasChildren' : ''
                           } ${
-                            foundItemSlug === '/boat-charters/'
+                            foundItemSlug === '/boat-charter/'
                               ? 'two-column'
                               : ''
                           } ${menuItemActive === index ? 'active' : ''}`}
