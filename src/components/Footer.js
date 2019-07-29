@@ -80,14 +80,14 @@ export default props => {
               return (
                 <Fragment key={`charter-nav-${index}`}>
                   <h4>
-                    <Link to="/boat-charters/">{title}</Link>
+                    <Link to="/boat-charter/">{title}</Link>
                   </h4>
                   {subNavItems &&
                     subNavItems.map(({ title }, index) => (
                       <Link
                         key={`charter-subNav-${index}`}
                         className="NavLink"
-                        to={`/boat-charters/${_kebabCase(title)}`}
+                        to={`/boat-charter/${_kebabCase(title)}`}
                       >
                         {title}
                       </Link>
