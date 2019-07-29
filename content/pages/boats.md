@@ -48,7 +48,7 @@ boats:
     title: spirit Of Gwonda
     featuredImage: 'https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/'
     videoSection:
-      imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
+      imageOverlay: 'https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/'
       title: Experience the 360° VR and panoramic tour of the Spirit Of Gwonda
       videoURL: 'https://roundme.com/embed/vbLlexBhnhqkTATZiUsd'
   - boatFeatures:
@@ -97,7 +97,7 @@ boats:
     title: Seawind 1000XL
     featuredImage: 'https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/'
     videoSection:
-      imageOverlay: 'https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/'
+      imageOverlay: 'https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/'
       title: Experience the 360° VR and panoramic tour of the Seawind 1000XL
       videoURL: 'https://roundme.com/embed/muQI7AJ8syNd5aD7HNS4'
 secondaryBanner:

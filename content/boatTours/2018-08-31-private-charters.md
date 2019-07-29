@@ -19,7 +19,7 @@ intro: >-
   waterways.
 
 
-  # [Take a tour of our boats](https://sailing-paradise.netlify.com/boats/)
+  # [Take a tour of our boats](https://sailing-paradise.netlify.com/our-boats/)
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
@@ -102,4 +102,3 @@ meta:
     Boat Charter | Party Boat Hire | Private Charters - Book now 0438 915 222.
   title: Gold Coast Private Charters - Sailing in Paradise | Book now
 ---
-

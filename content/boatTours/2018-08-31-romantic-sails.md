@@ -60,7 +60,7 @@ contentColumn: >-
   close you can almost touch...
 
 
-  [Read more about our boats here](https://sailing-paradise.netlify.com/boats/)
+  [Read more about our boats here](https://sailing-paradise.netlify.com/our-boats/)
 
 
   We would love to chat with you via phone or email any time and start planning
@@ -211,4 +211,3 @@ featuredTestimonials:
   testimonial: 'Taryn, Aus'
   title: Taryn
 ---
-

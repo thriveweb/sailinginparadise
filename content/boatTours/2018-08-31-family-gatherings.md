@@ -65,7 +65,7 @@ contentColumn: >-
   wade about in the shallows.   We also have SUPing and inflatable toys for the
   family to enjoy.   If you’re feeling energetic and want to bring the family
   together you can have a game of beach volleyball or cricket right there on the
-  island, we have all the gear on board! 
+  island, we have all the gear on board!
 
 
   We make chartering a boat easy and tailored to your family’s needs, so we give
@@ -141,7 +141,7 @@ accordionSection:
         We have welcomed several guests on board with limited mobility.  However
         we do realise that each individual is different in terms of ability and
         what they are comfortable with.  Please take a look at the 360 tours on
-        the ['Our Boats'](https://sailing-paradise.netlify.com/boats/) page for
+        the ['Our Boats'](https://sailing-paradise.netlify.com/our-boats/) page for
         an ideal of getting around the boats and do bear in mind a big step up
         (or carry) is required to board the boats at the marina.  Our friendly
         team will be happy to discuss further to ensure you and your guests are
@@ -209,4 +209,3 @@ featuredTestimonials:
   testimonial: 'Tim, Aus'
   title: Tim
 ---
-

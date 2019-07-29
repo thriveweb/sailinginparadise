@@ -65,7 +65,7 @@ contentColumn: >-
 
 
   Want to know more[ about us](https://sailing-paradise.netlify.com/about/) or
-  [our boats](https://sailing-paradise.netlify.com/boats/)?
+  [our boats](https://sailing-paradise.netlify.com/our-boats/)?
 accordionSection:
   accordion:
     - dropdownContent: >-
@@ -137,4 +137,3 @@ meta:
     of catering and drinks packages for up to 30 guests.
   title: Gold Coast Corporate Events | Sailing in Paradise
 ---
-

@@ -75,14 +75,14 @@ contentColumn: >-
 
 
   With 2 beautiful sailing catamarans available for charter we can accommodate
-  groups of up to 20 or 30 guests.    [Click here for a tour of our boats. 
-  ](https://sailing-paradise.netlify.com/boats/)
+  groups of up to 20 or 30 guests.    [Click here for a tour of our boats.
+  ](https://sailing-paradise.netlify.com/our-boats/)
 
 
   The large trampoline-style fore-decks are perfect for lazing in the sunshine
   or dancing, while we sail the calm, clear waters of the Gold Coast. The ample
   undercover space makes the vessels perfect for those seeking shade. Facilities
-  are plentiful to ensure you have everything on hand to enjoy a perfect day! 
+  are plentiful to ensure you have everything on hand to enjoy a perfect day!
 
 
   ![hen's party boat gold
@@ -149,9 +149,9 @@ accordionSection:
 
         * Use of tablet with premium spotify and sound system on board
 
-        * Use of small marine BBQ if required 
+        * Use of small marine BBQ if required
 
-        * Use of large eskies (ice supplied) 
+        * Use of large eskies (ice supplied)
 
         * Instaworthy Memento Photos taken by our crew
 
@@ -162,7 +162,7 @@ accordionSection:
 
         * A sense of fun (essential)
         * Swimmers and towel (if you plan to swim)
-        * Sunglasses, sunscreen 
+        * Sunglasses, sunscreen
         * Jacket for cooler days
         * Shoes that you can slip off if required
         * Perhaps some decorations or mementos for the bride
@@ -215,7 +215,7 @@ accordionSection:
 
         * Bride and Groom trivia games
 
-        * Pin the pants on the cardboard cut out of the groom 
+        * Pin the pants on the cardboard cut out of the groom
 
         * Toilet paper wedding dress creation contests
 
@@ -271,4 +271,3 @@ meta:
     happen!
   title: The Ultimate Hens Party Cruise on the Gold Coast
 ---
-

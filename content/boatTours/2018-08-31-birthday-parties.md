@@ -81,7 +81,7 @@ contentColumn: >-
 
   The smooth and stable nature of the catamaran means our boats are suitable for
   all ages and abilities.   [Take a tour of our
-  boats](https://sailing-paradise.netlify.com/boats/).
+  boats](https://sailing-paradise.netlify.com/our-boats/).
 
 
   No matter what style of birthday party you wish to create, we can help.
