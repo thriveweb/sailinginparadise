@@ -1,6 +1,6 @@
 ---
 template: SingleBoatTour
-tourType: Private Charter
+tourType: Boat Charter
 title: Proposals
 icon: ''
 featuredImage: >-

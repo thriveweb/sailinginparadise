@@ -43,7 +43,7 @@ export default props => {
               return (
                 <Fragment key={`cruise-nav-${index}`}>
                   <h4>
-                    <Link to="/cruises/">{title}</Link>
+                    <Link to="/cruise-tickets/">{title}</Link>
                   </h4>
                   {subNavItems &&
                     subNavItems.map(({ title, slug }, index) => (
@@ -59,20 +59,20 @@ export default props => {
               )
             })}
             <h4>Info</h4>
-            <Link className="NavLink" to="/boats/">
+            <Link className="NavLink" to="/our-boats/">
               Our Boats
             </Link>
-            <Link className="NavLink" to="/about/">
+            <Link className="NavLink" to="/about-us/">
               About us
             </Link>
             <Link className="NavLink" to="/happy-sailors/">
               Happy Sailors
             </Link>
-            <Link className="NavLink" to="/blog/">
-              Blog
+            <Link className="NavLink" to="/latest-news/">
+              Latest News
             </Link>
-            <Link className="NavLink" to="/contact/">
-              Contact
+            <Link className="NavLink" to="/contact-us/">
+              Contact us
             </Link>
           </div>
           <div className="footer-col col3">
@@ -80,14 +80,14 @@ export default props => {
               return (
                 <Fragment key={`charter-nav-${index}`}>
                   <h4>
-                    <Link to="/private-charters/">{title}</Link>
+                    <Link to="/boat-charters/">{title}</Link>
                   </h4>
                   {subNavItems &&
                     subNavItems.map(({ title }, index) => (
                       <Link
                         key={`charter-subNav-${index}`}
                         className="NavLink"
-                        to={`/private-charter/${_kebabCase(title)}`}
+                        to={`/boat-charters/${_kebabCase(title)}`}
                       >
                         {title}
                       </Link>

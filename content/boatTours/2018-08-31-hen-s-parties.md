@@ -1,6 +1,6 @@
 ---
 template: SingleBoatTour
-tourType: Private Charter
+tourType: Boat Charter
 title: Hen's Parties
 icon: ''
 featuredImage: 'https://ucarecdn.com/dccf71c8-c148-421b-982f-e57f5f10deec/'

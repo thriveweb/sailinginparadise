@@ -1,6 +1,6 @@
 ---
 template: BoatsPage
-slug: boats
+slug: our-boats
 title: Our Boats
 featuredImage: 'https://ucarecdn.com/7eb05bf9-806d-415f-8ceb-d7b21fa685ce/'
 intro: '## Choose from 2 beautiful catamarans'
@@ -119,4 +119,3 @@ meta:
     Sailing In Paradise is perfect for all occassions.
   title: Our Boats | Sailing in Paradise
 ---
-

@@ -1,6 +1,6 @@
 ---
 template: Cruises
-slug: cruises
+slug: cruise-tickets
 title: Cruise Tickets
 featuredImage: 'https://ucarecdn.com/22ff8683-52df-4800-8d1c-fced02fe7ca8/'
 intro: >-
@@ -20,4 +20,3 @@ meta:
     Paradise - 0438 915 222.
   title: Gold Coast Cruises | Sailing In Paradise
 ---
-

@@ -5,7 +5,7 @@ import './PostCategoriesNav.css'
 
 const PostCategoriesNav = ({ categories }) => (
   <div className="PostCategoriesNav">
-    <Link className="NavLink" to={`/blog/`}>
+    <Link className="NavLink" to={`/latest-news/`}>
       All
     </Link>
     {categories.map((category, index) => (

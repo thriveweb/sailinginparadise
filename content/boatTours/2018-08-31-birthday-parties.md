@@ -1,6 +1,6 @@
 ---
 template: SingleBoatTour
-tourType: Private Charter
+tourType: Boat Charter
 title: Birthday Parties
 icon: /images/uploads/cake.svg
 featuredImage: 'https://ucarecdn.com/3f435148-ea8e-4053-aca3-9793d259f9b0/'
@@ -149,7 +149,7 @@ accordionSection:
 
         * Red wine
 
-        * Sparklers 
+        * Sparklers
 
         * Decorations that stain/leak ink when wet
 
@@ -168,7 +168,7 @@ accordionSection:
         We do have a bbq on board which you are welcome to use however we
         recommend this only if you have booked the boat for 4 hours or more as
         it can take quite a while for you to cook a BBQ and you need to leave
-        time for relaxation too right? 
+        time for relaxation too right?
 
 
         Grazing style boards and platters are ideal 'boat food'. These can look
@@ -262,4 +262,3 @@ featuredTestimonials:
   testimonial: 'Lucy, Aus'
   title: Happy Sailors
 ---
-

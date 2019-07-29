@@ -3,7 +3,6 @@ import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import { graphql } from 'gatsby'
 
-
 import PageHeader from '../components/PageHeader'
 import IntroText from '../components/IntroText'
 import SortArray from '../components/SortArray'
@@ -17,7 +16,6 @@ export const PrivateChartersTemplate = ({
   chartersListing,
   meta
 }) => {
-
   return (
     <main className="Blog">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -70,7 +68,7 @@ export const pageQuery = graphql`
     posts: allMarkdownRemark(
       filter: {
         fields: { contentType: { eq: "boatTours" } }
-        frontmatter: { tourType: { eq: "Private Charter" } }
+        frontmatter: { tourType: { eq: "Boat Charter" } }
       }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {

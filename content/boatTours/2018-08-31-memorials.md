@@ -1,6 +1,6 @@
 ---
 template: SingleBoatTour
-tourType: Private Charter
+tourType: Boat Charter
 title: Memorial Charters
 icon: ''
 featuredImage: 'https://ucarecdn.com/1be1c526-f818-485a-be42-a25b4d1cac1f/'

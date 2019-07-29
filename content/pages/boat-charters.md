@@ -1,6 +1,6 @@
 ---
 template: PrivateCharters
-slug: private-charters
+slug: boat-charters
 title: Boat Charter
 featuredImage: >-
   https://ucarecdn.com/ae8944f9-639c-41de-be91-7899ac721ff2/-/crop/3269x1740/0,528/-/preview/
@@ -14,7 +14,7 @@ intro: >-
 
   We invite you to join us on one of our luxury sailing catamarans. Suitable for
   any occasion including hen’s parties, birthday parties, corporate events,
-  family get-togethers, weddings or just for a day out with friends. 
+  family get-togethers, weddings or just for a day out with friends.
 
 
   What better way to celebrate any occasion than with a sail on the beautiful
@@ -57,4 +57,3 @@ meta:
     friends.
   title: Private Boat Charter | Sailing In Paradise
 ---
-

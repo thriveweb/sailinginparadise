@@ -22,7 +22,7 @@ class Layout extends Component {
             charters: allMarkdownRemark(
               filter: {
                 fields: { contentType: { eq: "boatTours" } }
-                frontmatter: { tourType: { eq: "Private Charter" } }
+                frontmatter: { tourType: { eq: "Boat Charter" } }
               }
               sort: { order: DESC, fields: [frontmatter___date] }
             ) {
@@ -116,7 +116,7 @@ class Layout extends Component {
             data || {}
           //const siteTitle = _get(settingsYaml, 'siteTitle') || ''
 
-          const privateCharters = charters
+          const boatCharters = charters
             ? charters.edges.map(edge => ({ ...edge.node }))
             : []
           const cruiseTours = cruises
@@ -156,7 +156,7 @@ class Layout extends Component {
               <Meta {...meta} {...data.settingsYaml} />
 
               <Nav
-                charters={privateCharters}
+                charters={boatCharters}
                 cruises={cruiseTours}
                 settings={globalSections}
                 location={location}

@@ -1,6 +1,6 @@
 ---
 template: SingleBoatTour
-tourType: Private Charter
+tourType: Boat Charter
 title: Christmas Parties
 icon: ''
 featuredImage: 'https://ucarecdn.com/a6ac00c3-1fcd-4188-bb66-9456ef4ab5df/'

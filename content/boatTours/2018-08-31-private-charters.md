@@ -1,6 +1,6 @@
 ---
 template: SingleBoatTour
-tourType: Private Charter
+tourType: Boat Charter
 title: Private Charters
 icon: ''
 featuredImage: 'https://ucarecdn.com/3d7d7bc6-e529-4cbc-8893-a233ae1a3897/'

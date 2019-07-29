@@ -1139,7 +1139,7 @@ collections: # A list of collections the CMS should be able to edit
         name: 'tourType'
         required: false
         widget: 'select'
-        options: ['Cruise', 'Private Charter']
+        options: ['Cruise', 'Boat Charter'] 
       - { label: Title, name: title, widget: string }
       - { label: Icon, name: icon, widget: image, required: false }
       - { label: Featured Image, name: featuredImage, widget: image }

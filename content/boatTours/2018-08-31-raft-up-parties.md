@@ -1,6 +1,6 @@
 ---
 template: SingleBoatTour
-tourType: Private Charter
+tourType: Boat Charter
 title: Raft Up Parties
 icon: ''
 featuredImage: 'https://ucarecdn.com/d5d38b7b-3a79-447c-af43-93cf738464c2/'
