@@ -9,7 +9,7 @@ import IntroText from '../components/IntroText'
 import ContentBox from '../components/ContentBox'
 import BookingIframe from '../components/BookingIframe'
 import GallerySlider from '../components/GallerySlider'
-import Video from '../components/Video'
+import VideoPopup from '../components/VideoPopup'
 import Accordion from '../components/Accordion'
 import ColumnBanner from '../components/ColumnBanner'
 import FeaturedTestimonial from '../components/FeaturedTestimonial'
@@ -58,7 +58,7 @@ export const SingleBoatTourTemplate = ({
         </div>
       </div>
       {gallery && <GallerySlider gallery={gallery} />}
-      {videoSection && <Video {...videoSection} />}
+      {videoSection && <VideoPopup {...videoSection} />}
       {contentColumn && (
         <div className="boat-content-column">
           <IntroText content={contentColumn} title={contentColumnTitle} />
