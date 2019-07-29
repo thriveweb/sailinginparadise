@@ -101,7 +101,7 @@ contentColumn: >-
   on our professional yet friendly and laid-back attitude.   
 
 
-  [Meet our crew.](https://sailing-paradise.netlify.com/about/)
+  [Meet our crew.](https://sailing-paradise.netlify.com/about-us/)
 accordionSection:
   accordion:
     - dropdownContent: >-

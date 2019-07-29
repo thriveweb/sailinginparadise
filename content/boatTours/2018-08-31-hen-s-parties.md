@@ -143,7 +143,7 @@ accordionSection:
 
         * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back
         yet professional nature) we promise you will love them,
-          Check out the ['about us' ](https://sailing-paradise.netlify.com/about/)page to meet the gang!
+          Check out the ['about us' ](https://sailing-paradise.netlify.com/about-us/)page to meet the gang!
         * Island Activities for day charters incl. Stand up Paddle Boards, beach
         games and cute inflatables
 

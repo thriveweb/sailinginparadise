@@ -64,7 +64,7 @@ contentColumn: >-
   Snorkels and more.  
 
 
-  Want to know more[ about us](https://sailing-paradise.netlify.com/about/) or
+  Want to know more[ about us](https://sailing-paradise.netlify.com/about-us/) or
   [our boats](https://sailing-paradise.netlify.com/our-boats/)?
 accordionSection:
   accordion:

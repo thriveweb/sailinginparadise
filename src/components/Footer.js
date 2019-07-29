@@ -33,7 +33,7 @@ export default props => {
           </div>
           <div className="footer-col col1">
             <h4>
-              <Link to="/about/">About</Link>
+              <Link to="/about-us/">About</Link>
             </h4>
             {footerContent && <Content src={footerContent} />}
             {socialMedia && <SocialLinks socialMedia={socialMedia} />}
