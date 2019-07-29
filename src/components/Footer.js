@@ -18,7 +18,7 @@ export default props => {
   const footerContent = _get(globalSections.frontmatter, 'footerContent')
   const socialMedia = _get(contactInfo.frontmatter, 'socialMedia')
 
-  const charters = navItems.filter(item => item.title === 'Catamaran Charters')
+  const charters = navItems.filter(item => item.title === 'Boat Charter')
   const cruises = navItems.filter(item => item.title === 'Cruise Tickets')
 
   const today = new Date()
