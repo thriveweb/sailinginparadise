@@ -76,7 +76,7 @@ contentColumn: >-
 
   With 2 beautiful sailing catamarans available for charter we can accommodate
   groups of up to 20 or 30 guests.    [Click here for a tour of our boats.
-  ](https://sailing-paradise.netlify.com/our-boats/)
+  ](https://sailinginparadise.com.au/our-boats/)
 
 
   The large trampoline-style fore-decks are perfect for lazing in the sunshine
@@ -143,7 +143,7 @@ accordionSection:
 
         * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back
         yet professional nature) we promise you will love them,
-          Check out the ['about us' ](https://sailing-paradise.netlify.com/about-us/)page to meet the gang!
+          Check out the ['about us' ](https://sailinginparadise.com.au/about-us/)page to meet the gang!
         * Island Activities for day charters incl. Stand up Paddle Boards, beach
         games and cute inflatables
 

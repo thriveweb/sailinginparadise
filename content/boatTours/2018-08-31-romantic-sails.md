@@ -60,7 +60,7 @@ contentColumn: >-
   close you can almost touch...
 
 
-  [Read more about our boats here](https://sailing-paradise.netlify.com/our-boats/)
+  [Read more about our boats here](https://sailinginparadise.com.au/our-boats/)
 
 
   We would love to chat with you via phone or email any time and start planning

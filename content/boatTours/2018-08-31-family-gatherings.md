@@ -141,7 +141,7 @@ accordionSection:
         We have welcomed several guests on board with limited mobility.  However
         we do realise that each individual is different in terms of ability and
         what they are comfortable with.  Please take a look at the 360 tours on
-        the ['Our Boats'](https://sailing-paradise.netlify.com/our-boats/) page for
+        the ['Our Boats'](https://sailinginparadise.com.au/our-boats/) page for
         an ideal of getting around the boats and do bear in mind a big step up
         (or carry) is required to board the boats at the marina.  Our friendly
         team will be happy to discuss further to ensure you and your guests are

@@ -19,7 +19,7 @@ intro: >-
   waterways.
 
 
-  # [Take a tour of our boats](https://sailing-paradise.netlify.com/our-boats/)
+  # [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/)
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
