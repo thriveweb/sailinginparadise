@@ -126,7 +126,7 @@ class Form extends React.Component {
                 className="Form--Input"
                 type="text"
                 placeholder="Name*"
-                name="name"
+                name="fullName"
                 onChange={this.handleValueChange}
                 required
               />
