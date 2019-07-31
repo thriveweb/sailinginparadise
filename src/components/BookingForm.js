@@ -31,7 +31,7 @@ class Form extends React.Component {
       alert: '',
       disabled: true,
       labelDisplay: false,
-      fullName: '',
+      yourName: '',
       emailAddress: '',
       phone: ''
     }
@@ -75,7 +75,7 @@ class Form extends React.Component {
   }
 
   handleValueChange = e => {
-    if (this.state.fullName.length <= 2) {
+    if (this.state.yourName.length <= 2) {
       this.setState({ disabled: true })
     } else {
       this.setState({ disabled: false })
@@ -135,7 +135,7 @@ class Form extends React.Component {
                 className="Form--Input"
                 type="text"
                 placeholder="Name*"
-                name="fullName"
+                name="yourName"
                 onChange={this.handleValueChange}
                 required
               />
