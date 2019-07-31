@@ -29,8 +29,11 @@ class Form extends React.Component {
     this.state = {
       startDate: '',
       alert: '',
-      disabled: false,
-      labelDisplay: false
+      disabled: true,
+      labelDisplay: false,
+      fullName: '',
+      emailAddress: '',
+      phone: ''
     }
     this.handleChange = this.handleChange.bind(this)
     this.handleClick = this.handleClick.bind(this)
@@ -72,6 +75,11 @@ class Form extends React.Component {
   }
 
   handleValueChange = e => {
+    if (this.state.fullName.length <= 2) {
+      this.setState({ disabled: true })
+    } else {
+      this.setState({ disabled: false })
+    }
     this.setState({
       [e.target.name]: e.target.value
     })
@@ -101,7 +109,7 @@ class Form extends React.Component {
 
     const formatting = (
       <time itemProp="dateCreated pubdate datePublished" date={startDate}>
-        {_format(startDate, 'MMM DD YYYY')}
+        {_format(startDate, 'DD MMM YYYY')}
       </time>
     )
     const date = _get(formatting, 'props.children') || ''
@@ -119,6 +127,7 @@ class Form extends React.Component {
         {this.state.alert && (
           <div className="Form--Alert">{this.state.alert}</div>
         )}
+
         {!this.state.alert && (
           <Fragment>
             <label className="Form--Label">
