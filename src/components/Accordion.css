@@ -14,10 +14,10 @@
 
 .Accordion--item {
   transform: translateY(0px);
+  cursor: pointer;
 }
 
 .Accordion--item h3 {
-  cursor: pointer;
   font-weight: 600;
   font-size: 1.8rem;
   display: flex;
@@ -26,6 +26,7 @@
   margin: 0;
   border-bottom: 0.2rem solid #979797;
   padding: 2rem;
+  pointer-events: none;
 }
 
 .Accordion--item h3:after {
@@ -38,6 +39,14 @@
 }
 
 .Accordion--item--content {
+  display: none;
+  background-color: white;
+  padding: 3rem;
+  cursor: default;
+}
+
+.Accordion--item.active .Accordion--item--content {
+  display: block;
   background-color: white;
   padding: 3rem;
 }

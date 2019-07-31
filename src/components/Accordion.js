@@ -14,10 +14,7 @@ export default class Accordion extends React.Component {
     activeItem: null
   }
 
-  handleClick = index => {
-    const activeItem = this.state.activeItem === index ? null : index
-    this.setState({ activeItem })
-  }
+  handleClick = event => event.target.classList.toggle('active')
 
   render() {
     const { accordionSection, className } = this.props
@@ -33,23 +30,22 @@ export default class Accordion extends React.Component {
           {title && <h2>{title}</h2>}
           {accordion &&
             accordion.map((item, index) => {
-              const active = this.state.activeItem === index
               return (
                 <div
-                  className={`Accordion--item ${active ? 'active' : ''}`}
+                  className={`Accordion--item `}
                   key={`accordion-item-${item.title + index}`}
+                  onClick={this.handleClick}
                 >
-                  <h3 onClick={() => this.handleClick(index)}>{item.title}</h3>
-                  {active && (
-                    <div className="Accordion--item--content">
-                      <Content src={item.dropdownContent} />
-                      {item.link && (
-                        <a href={item.link} className="button">
-                          {item.linkTitle}
-                        </a>
-                      )}
-                    </div>
-                  )}
+                  <h3>{item.title}</h3>
+
+                  <div className="Accordion--item--content">
+                    <Content src={item.dropdownContent} />
+                    {item.link && (
+                      <a href={item.link} className="button">
+                        {item.linkTitle}
+                      </a>
+                    )}
+                  </div>
                 </div>
               )
             })}
