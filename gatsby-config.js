@@ -8,6 +8,17 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-77246883-1',
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false,
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: 'sailinginparadise.com.au'
+      }
+    },
     // Add static assets before markdown files
     {
       resolve: 'gatsby-source-filesystem',
