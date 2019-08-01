@@ -6,6 +6,7 @@ import { ICONButtonArrows } from './Icons'
 import NumericInput from 'react-numeric-input'
 import _get from 'lodash/get'
 import _startCase from 'lodash/startCase'
+import _camelCase from 'lodash/camelCase'
 import _format from 'date-fns/format'
 
 import DatePicker from 'react-datepicker'
