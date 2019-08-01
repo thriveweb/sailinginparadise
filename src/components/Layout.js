@@ -134,6 +134,10 @@ class Layout extends Component {
                 />
                 <link rel="dns-prefetch" href="https://ucarecdn.com" />
                 {/* Add font link tags here */}
+                <meta
+                  name="msvalidate.01"
+                  content="B0112812CA622A13C327AF572E2BA5B5"
+                />
 
                 <script
                   type="text/javascript"
