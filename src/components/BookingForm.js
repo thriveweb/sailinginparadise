@@ -234,7 +234,9 @@ class Form extends React.Component {
             <input
               type="hidden"
               name="subject"
-              value={`${_startCase(charterType)} - ${date}`}
+              value={`For ${_camelCase(yourName)} | ${_startCase(
+                charterType
+              )} - ${date}`}
             />
             <input type="hidden" name="form-name" value={name} />
             <div className="form-footer">
