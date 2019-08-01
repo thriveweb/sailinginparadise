@@ -115,6 +115,7 @@ class Form extends React.Component {
     )
     const date = _get(formatting, 'props.children') || ''
     const charterType = _get(this, 'state.charterType')
+    const yourName = _get(this, 'state.yourName')
 
     return (
       <form
@@ -235,7 +236,9 @@ class Form extends React.Component {
             <input
               type="hidden"
               name="subject"
-              value={`${yourName} | ${_startCase(charterType)} - ${date}`}
+              value={`${_camelCase(yourName)} | ${_startCase(
+                charterType
+              )} - ${date}`}
             />
             <input type="hidden" name="form-name" value={name} />
             <div className="form-footer">
