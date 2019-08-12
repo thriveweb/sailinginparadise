@@ -194,16 +194,16 @@ class AlexBookingForm extends React.Component {
               selected={formCharter}
               name="charterType"
               options={[
-                'Raft Ups',
-                'Hens Parties',
                 'Birthday Parties',
+                'Hens Parties',
                 'Corporate Events',
+                'Raft Up Events',
                 'Christmas Parties',
-                'Memorial Ashes Scattering',
-                'Wedding Proposals',
-                'Romantic Couples Only',
-                'Family with Kids',
-                'Holiday',
+                'Sightseeing',
+                'Proposals',
+                'Romantic Sails',
+                'Family Charters',
+                'Memorial Charters',
                 'Private Charters',
                 'Bucks Parties'
               ]}
