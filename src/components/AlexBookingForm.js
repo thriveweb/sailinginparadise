@@ -140,7 +140,7 @@ class AlexBookingForm extends React.Component {
                 className="Form--Input"
                 type="text"
                 placeholder="Company Name"
-                name="compnayName"
+                name="companyName"
               />
             </label>
             <label className="Form--Label">
@@ -176,7 +176,7 @@ class AlexBookingForm extends React.Component {
                 <div className="dateMessageText">
                   Preferred Date*{' '}
                   <span>
-                    (if unsure please select any date within Preffered month)
+                    (if unsure please select any date within preferred month)
                   </span>
                 </div>
               </div>
