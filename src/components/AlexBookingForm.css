@@ -1,0 +1,95 @@
+.AlexBookingForm {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+}
+
+.AlexBookingForm .Form--Label {
+  width: 49%;
+}
+
+.AlexBookingForm .Form--Input {
+  background-color: white;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  color: #6e6e6e;
+  border-radius: 4px;
+  border-color: lightgrey;
+  font-size: 1.4rem;
+}
+
+.AlexBookingForm .Form--Input::placeholder {
+  color: #6e6e6e;
+  font-size: 1.4rem;
+}
+
+.AlexBookingForm .TextArea {
+  flex: 0 0 100%;
+  width: 100%;
+}
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container {
+  width: 100%;
+  position: relative;
+}
+
+.react-datepicker-popper {
+  top: -20px !important;
+}
+.AlexBookingForm .button {
+  border: none;
+  color: #6e6e6e;
+}
+.AlexBookingForm .form-footer {
+  background-color: white;
+  padding: 0.5rem 1.5rem;
+  margin-bottom: 2rem;
+  color: #6e6e6e;
+  border-radius: 4px;
+  border-bottom: 1px solid lightgrey;
+  font-size: 1.4rem;
+}
+
+.AlexBookingForm .form-footer svg {
+  right: 1rem;
+}
+.AlexBookingForm .form-footer svg * {
+  fill: #6e6e6e;
+}
+
+.AlexBookingForm .select-dropdown ul {
+  top: 50px;
+  border-radius: 4px;
+  border-color: whitesmoke;
+  border-top: none;
+}
+
+.AlexBookingForm .select-dropdown ul li {
+  border-color: whitesmoke;
+}
+
+@media only screen and (max-width: 765px) {
+  .AlexBookingForm .form-footer {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .AlexBookingForm .form-footer svg {
+    position: relative;
+    top: 0;
+    transform: translate(-100%, 0);
+  }
+
+  .AlexBookingForm .button:hover + svg {
+    transform: scale(1.05) translate(-100%, 0);
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .AlexBookingForm .Form--Label {
+    flex: 0 0 100%;
+    width: 100%;
+  }
+}

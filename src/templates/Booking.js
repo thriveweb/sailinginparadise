@@ -4,7 +4,7 @@ import Layout from '../components/Layout'
 import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import IntroText from '../components/IntroText'
-import BookingForm from '../components/BookingForm'
+import AlexBookingForm from '../components/AlexBookingForm'
 
 import './Booking.css'
 
@@ -31,7 +31,7 @@ export const BookingPageTemplate = ({
             <IntroText content={intro} />
           </div>
           <div className="Contact--Section2">
-            <BookingForm location={location} />
+            <AlexBookingForm location={location} />
           </div>
         </div>
       </section>
