@@ -13,7 +13,7 @@ navItems:
       - title: Romantic Sails
       - title: Corporate Events
       - title: Family Charters
-      - title: Raft Up Parties
+      - title: Raft Up Events
       - title: Memorial Charters
       - title: Christmas Parties
       - title: Private Charters
@@ -27,4 +27,3 @@ navItems:
       - title: Contact Us
     title: More
 ---
-
