@@ -2,6 +2,8 @@ import React, { Fragment } from 'react'
 import { stringify, parse } from 'qs'
 import { serialize } from 'dom-form-serializer'
 import _get from 'lodash/get'
+import _startCase from 'lodash/startCase'
+import _format from 'date-fns/format'
 
 import { ICONButtonArrows } from './Icons'
 
@@ -31,7 +33,8 @@ class AlexBookingForm extends React.Component {
       startDate: new Date(),
       alert: '',
       disabled: false,
-      clickDate: false
+      clickDate: false,
+      charterType: ''
     }
     this.handleChange = this.handleChange.bind(this)
   }
@@ -48,6 +51,12 @@ class AlexBookingForm extends React.Component {
       clickDate: true
     })
     event.target.classList.toggle('active')
+  }
+
+  handleValueChange = e => {
+    this.setState({
+      [e.target.name]: e.target.value
+    })
   }
 
   handleSubmit = e => {
@@ -89,6 +98,9 @@ class AlexBookingForm extends React.Component {
     const search = _get(location, 'search') || ''
     const query = search ? parse(search.replace('?', '')) : ''
     const formCharter = query.charter
+    // full name subject
+    const fullName =
+      _get(this, 'state.firstName') + ' ' + _get(this, 'state.lastName')
 
     return (
       <form
@@ -109,7 +121,10 @@ class AlexBookingForm extends React.Component {
         <input
           type="hidden"
           name="subject"
-          value={`Booking for ${this.state.startDate}`}
+          value={`Boat Charter  - ${_startCase(
+            this.state.charterType
+          )} | ${fullName}, ${_format(this.state.startDate, 'DD MMM YYYY')}`}
+          value={`Boat Charter - ${this.state.startDate}`}
         />
         <input type="hidden" name="form-name" value={name} />
         {this.state.alert && (
@@ -192,6 +207,7 @@ class AlexBookingForm extends React.Component {
               className="TextArea"
               placeholder="Charter Type*"
               selected={formCharter}
+              handleValueChange={this.handleValueChange}
               name="charterType"
               options={[
                 'Birthday Parties',
