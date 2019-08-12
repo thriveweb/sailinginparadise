@@ -99,8 +99,7 @@ class AlexBookingForm extends React.Component {
     const query = search ? parse(search.replace('?', '')) : ''
     const formCharter = query.charter
     // full name subject
-    const fullName =
-      _get(this, 'state.firstName') + ' ' + _get(this, 'state.lastName')
+    const fullName = this.state.firstName + ' ' + this.state.lastName
 
     return (
       <form
