@@ -106,106 +106,110 @@ class AlexBookingForm extends React.Component {
         {this.state.alert && (
           <div className="Form--Alert">{this.state.alert}</div>
         )}
-        <label className="Form--Label">
-          <input
-            className="Form--Input"
-            type="text"
-            placeholder="Full Name"
-            name="fullName"
-            required
-          />
-        </label>
-        <label className="Form--Label">
-          <input
-            className="Form--Input"
-            type="email"
-            placeholder="Email"
-            name="emailAddress"
-            required
-          />
-        </label>
-        <label className="Form--Label TextArea">
-          <input
-            className="Form--Input"
-            type="text"
-            placeholder="Phone"
-            name="phone"
-            required
-          />
-        </label>
-        <label className="Form--Label ">
-          <input
-            className="Form--Input"
-            type="number"
-            placeholder="Approx. number of guests*"
-            name="numberOfGusets"
-            required
-          />
-        </label>
+        {!this.state.alert && (
+          <Fragment>
+            <label className="Form--Label">
+              <input
+                className="Form--Input"
+                type="text"
+                placeholder="Full Name"
+                name="fullName"
+                required
+              />
+            </label>
+            <label className="Form--Label">
+              <input
+                className="Form--Input"
+                type="email"
+                placeholder="Email"
+                name="emailAddress"
+                required
+              />
+            </label>
+            <label className="Form--Label TextArea">
+              <input
+                className="Form--Input"
+                type="text"
+                placeholder="Phone"
+                name="phone"
+                required
+              />
+            </label>
+            <label className="Form--Label ">
+              <input
+                className="Form--Input"
+                type="number"
+                placeholder="Approx. number of guests*"
+                name="numberOfGusets"
+                required
+              />
+            </label>
 
-        <label className="Form--Label">
-          <DatePicker
-            className="Form--Input DatePicker"
-            dateFormat="dd/MM/yyyy"
-            selected={this.state.startDate}
-            onChange={this.handleChange}
-          />
-        </label>
+            <label className="Form--Label">
+              <DatePicker
+                className="Form--Input DatePicker"
+                dateFormat="dd/MM/yyyy"
+                selected={this.state.startDate}
+                onChange={this.handleChange}
+              />
+            </label>
 
-        <Select
-          className="TextArea"
-          placeholder="Charter Type*"
-          selected={formCharter}
-          name="charterType"
-          options={[
-            'Raft Ups',
-            'Hens Parties',
-            'Birthday Parties',
-            'Corporate Events',
-            'Christmas Parties',
-            'Memorial Ashes Scattering',
-            'Wedding Proposals',
-            'Romantic Couples Only',
-            'Family with Kids',
-            'Holiday',
-            'Private Charters',
-            'Bucks Parties'
-          ]}
-        />
+            <Select
+              className="TextArea"
+              placeholder="Charter Type*"
+              selected={formCharter}
+              name="charterType"
+              options={[
+                'Raft Ups',
+                'Hens Parties',
+                'Birthday Parties',
+                'Corporate Events',
+                'Christmas Parties',
+                'Memorial Ashes Scattering',
+                'Wedding Proposals',
+                'Romantic Couples Only',
+                'Family with Kids',
+                'Holiday',
+                'Private Charters',
+                'Bucks Parties'
+              ]}
+            />
 
-        <Select
-          className="TextArea"
-          placeholder="How did you hear about us?*"
-          name="source"
-          options={[
-            'Web Search',
-            'Facebook',
-            'Instagram',
-            'Friend or family referral',
-            'Signage',
-            'Flyer',
-            'Sailed with us before',
-            'Other'
-          ]}
-        />
-        <label className="Form--Label TextArea">
-          <textarea
-            className="Form--Input Form--Textarea"
-            placeholder="Let us know anything else we can help with."
-            name="message"
-            rows="3"
-            required
-          />
-        </label>
-        <div className="form-footer">
-          <input
-            className="button Form--SubmitButton"
-            type="submit"
-            value="Send"
-            disabled={this.state.disabled}
-          />
-          <ICONButtonArrows />
-        </div>
+            <Select
+              className="TextArea"
+              placeholder="How did you hear about us?*"
+              name="source"
+              options={[
+                'Web Search',
+                'Facebook',
+                'Instagram',
+                'Friend or family referral',
+                'Signage',
+                'Flyer',
+                'Sailed with us before',
+                'Other'
+              ]}
+            />
+            <label className="Form--Label TextArea">
+              <textarea
+                className="Form--Input Form--Textarea"
+                placeholder="Let us know anything else we can help with."
+                name="message"
+                rows="3"
+                required
+              />
+            </label>
+            <div className="form-footer">
+              <input
+                className="button Form--SubmitButton"
+                type="submit"
+                value="Send"
+                disabled={this.state.disabled}
+              />
+              <ICONButtonArrows />
+            </div>
+          </Fragment>
+        )}
       </form>
     )
   }
