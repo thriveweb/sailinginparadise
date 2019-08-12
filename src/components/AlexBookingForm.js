@@ -138,7 +138,7 @@ class AlexBookingForm extends React.Component {
                 type="text"
                 placeholder="First Name*"
                 name="firstName"
-                handleValueChange={this.handleValueChange}
+                onChange={this.handleValueChange}
                 required
               />
             </label>
@@ -148,7 +148,7 @@ class AlexBookingForm extends React.Component {
                 type="text"
                 placeholder="Last Name*"
                 name="lastName"
-                handleValueChange={this.handleValueChange}
+                onChange={this.handleValueChange}
                 required
               />
             </label>
