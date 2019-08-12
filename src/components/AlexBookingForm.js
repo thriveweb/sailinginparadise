@@ -34,7 +34,9 @@ class AlexBookingForm extends React.Component {
       alert: '',
       disabled: false,
       clickDate: false,
-      charterType: ''
+      charterType: '',
+      firstName: '',
+      lastName: ''
     }
     this.handleChange = this.handleChange.bind(this)
   }
