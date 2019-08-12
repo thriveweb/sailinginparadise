@@ -30,7 +30,8 @@ class AlexBookingForm extends React.Component {
     this.state = {
       startDate: new Date(),
       alert: '',
-      disabled: false
+      disabled: false,
+      clickDate: false
     }
     this.handleChange = this.handleChange.bind(this)
   }
@@ -39,6 +40,14 @@ class AlexBookingForm extends React.Component {
     this.setState({
       startDate: date
     })
+  }
+
+  handleClick = event => {
+    event.preventDefault()
+    this.setState({
+      clickDate: true
+    })
+    event.target.classList.toggle('active')
   }
 
   handleSubmit = e => {
@@ -112,8 +121,34 @@ class AlexBookingForm extends React.Component {
               <input
                 className="Form--Input"
                 type="text"
-                placeholder="Full Name"
-                name="fullName"
+                placeholder="First Name*"
+                name="firstName"
+                required
+              />
+            </label>
+            <label className="Form--Label">
+              <input
+                className="Form--Input"
+                type="text"
+                placeholder="Last Name*"
+                name="lastName"
+                required
+              />
+            </label>
+            <label className="Form--Label">
+              <input
+                className="Form--Input"
+                type="text"
+                placeholder="Company Name"
+                name="compnayName"
+              />
+            </label>
+            <label className="Form--Label">
+              <input
+                className="Form--Input"
+                type="text"
+                placeholder="Phone*"
+                name="phone"
                 required
               />
             </label>
@@ -121,17 +156,8 @@ class AlexBookingForm extends React.Component {
               <input
                 className="Form--Input"
                 type="email"
-                placeholder="Email"
+                placeholder="Email*"
                 name="emailAddress"
-                required
-              />
-            </label>
-            <label className="Form--Label TextArea">
-              <input
-                className="Form--Input"
-                type="text"
-                placeholder="Phone"
-                name="phone"
                 required
               />
             </label>
@@ -145,7 +171,15 @@ class AlexBookingForm extends React.Component {
               />
             </label>
 
-            <label className="Form--Label">
+            <label className="Form--Label TextArea" onClick={this.handleClick}>
+              <div className="dateMessage">
+                <div className="dateMessageText">
+                  Preferred Date*{' '}
+                  <span>
+                    (if unsure please select any date within Preffered month)
+                  </span>
+                </div>
+              </div>
               <DatePicker
                 className="Form--Input DatePicker"
                 dateFormat="dd/MM/yyyy"
@@ -196,7 +230,6 @@ class AlexBookingForm extends React.Component {
                 placeholder="Let us know anything else we can help with."
                 name="message"
                 rows="3"
-                required
               />
             </label>
             <div className="form-footer">
