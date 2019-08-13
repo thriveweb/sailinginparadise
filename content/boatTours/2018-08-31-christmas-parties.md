@@ -4,7 +4,25 @@ tourType: Boat Charter
 title: Christmas Parties
 icon: ''
 featuredImage: 'https://ucarecdn.com/584d17b1-3d39-403c-bb4d-4a6a340506fe/'
-intro: "## gold coast Christmas boat party\n\nLooking for somewhere unique to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?  You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.\n\nSounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.\r\n\nSailing in Paradise would love to create a Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you."
+intro: >-
+  ## gold coast Christmas boat party
+
+
+  Looking for somewhere unique to host this year’s work Christmas Party 2019? 
+  How does a Boat Cruise aboard your own private catamaran sound?  You’ll be
+  sailing in the beautiful Gold Coast sunshine surrounded by crystal blue
+  waters, isolated islands and golden beaches, sipping on icy cold drinks and
+  enjoying delicious food.
+
+
+  Sounds awesome right?   Yes, we know.  We are out on the water every day and
+  it still makes us smile to see how much our guests enjoy the experience.
+
+
+  Sailing in Paradise would love to create a 2019 Christmas Party that you and
+  your guests will remember forever!     So please fill out our enquiry form,
+  send us an email or give us a bell.  We are a friendly, professional crew and
+  we’d love the chance to chat with you.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
@@ -185,7 +203,7 @@ featuredTestimonials:
   testimonial: 'RACEVIEW STATE SCHOOL, Aus '
 meta:
   description: >-
-    Celebrate this year's Christmas party sailing the beautiful Gold Coast with
+    Celebrate this 2019 Christmas party sailing the beautiful Gold Coast with
     Sailing in Paradise. Packages for up to 30 people. Call Now 0438915222.
   title: Gold Coast Christmas Party Cruise | Sailing in Paradise
 ---
