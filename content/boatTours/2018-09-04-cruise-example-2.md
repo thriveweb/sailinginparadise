@@ -114,5 +114,6 @@ meta:
   description: >-
     Discover a new side to the Gold Coast aboard our Island Cruise. Sit back and
     enjoy 3 hours of bliss on the water aboard a beautiful Sailing Catamaran!
-  title: Island Adventure Cruise | Sailing In Paradise
+  title: Island Cruise | Sailing In Paradise
 ---
+
