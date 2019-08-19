@@ -7,16 +7,21 @@ intro: >-
   ## Join our 'Sunset & City Lights Cruise' or 'Island Cruise'
 
 
-  If you are travelling alone or have a smaller group and don't mind sharing
-  your experience with other guests, consider one of our ticketed tour options
-  (subject to availability).
+  Step aboard one of our stylish sailing catamarans and take in the sights of
+  the Gold Coast Broadwater with a Sunset or Island Cruise.    By day our Island
+  Cruise offers a light lunch and Island Stop where you can enjoy activities
+  including Stand Up Paddle-boarding, Inflatables, Beach Volleyball, Snorkels or
+  simply relax and take a dip at Wavebreak Island.    At sunset relax on the
+  boat's deck with a glass of bubbly and take in the sunset over the Gold Coast
+  hinterland mountains as some cool tunes set the soundtrack.  
 
 
   See our current specials **'Adults at Kids Prices'** on the Sunset Cruise and
   Island Cruises.
 meta:
   description: >-
-    Join Our 'sunset & City Lights Cruise' Or 'island Cruise' with Sailing In
+    Join Our 'Sunset & City Lights Cruise' Or 'Island Cruise' with Sailing In
     Paradise - 0438 915 222.
   title: Gold Coast Cruises | Sailing In Paradise
 ---
+
