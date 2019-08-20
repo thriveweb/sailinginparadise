@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Birthday Parties
 icon: /images/uploads/cake.svg
-featuredImage: 'https://ucarecdn.com/3f435148-ea8e-4053-aca3-9793d259f9b0/'
+featuredImage: 'https://ucarecdn.com/5e010282-4dd5-4062-bf35-187125c435c8/'
 intro: >-
   ## gold coast birthday party cruise
 
