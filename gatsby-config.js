@@ -15,6 +15,12 @@ module.exports = {
         anonymize: true
       }
     },
+    {
+      resolve: `gatsby-plugin-facebook-pixel`,
+      options: {
+        pixelId: '223323021332533'
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     // Add static assets before markdown files
