@@ -155,7 +155,7 @@ crewSection:
         years of hospitality experience under her belt.   A budding photographer
         and medicine student Anna grew up around boats in coastal England.
       image: >-
-        https://ucarecdn.com/4bbc0ae5-bc31-47fd-88f4-bd5a52293c50/-/crop/1080x1140/0,0/-/preview/
+        https://ucarecdn.com/30cd3292-9404-491f-8e62-15e89aa63e30/-/crop/1067x1253/0,163/-/preview/
       name: 'Anna '
       title: Cruise Hostess
   crewIntro: "## Our Crew\n\nThe crew onboard your vessel are such an important aspect of chartering a boat.    Our aim is that you step aboard and feel instantly at ease so we have carefully selected our crew not only for their skill but also their amazing hospitality and fun personalities.   \r\n\nYou don't want a grumpy skipper or sleazy deck crew making you feel uneasy on your special day and rest assured that won’t happen on a charter with us."
@@ -184,3 +184,4 @@ meta:
     Gold Coast Broad Waters. Call 0418 915 222.
   title: About Sailing in Paradise | Gold Coast Boat Hire & Private Charters
 ---
+
