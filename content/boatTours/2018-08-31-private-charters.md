@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Private Charters
 icon: ''
-featuredImage: 'https://ucarecdn.com/3d7d7bc6-e529-4cbc-8893-a233ae1a3897/'
+featuredImage: 'https://ucarecdn.com/3d0b1c64-6e83-44f3-bbc7-ecc59fcbc23b/'
 intro: >-
   ## gold coast Private Charter boat
 
@@ -102,3 +102,4 @@ meta:
     Boat Charter | Party Boat Hire | Private Charters - Book now 0438 915 222.
   title: Gold Coast Private Charters - Sailing in Paradise | Book now
 ---
+
