@@ -18,11 +18,7 @@ Whether you are visiting the Gold Coast on holidays or a local to the area, the 
 
 For those with knowledge of the local waterways or previous boating experience a Self-Drive Boat hire can be a great way to explore the area on a budget. If you are unfamiliar with the area it may be beneficial to consider a skippered charter boat where you can relax and enjoy the experience in comfort without worrying about ending up stuck on one of the many sandbars.
 
-
-
 ![](https://ucarecdn.com/657830d3-095e-455e-a7f2-c11daa57cf30/-/preview/-/enhance/65/)
-
-
 
 **2. Do you want to enjoy a few drinks?**
 
@@ -32,11 +28,11 @@ If you are wanting to relax with a few beers or a glass of bubbly for your day o
 
 Self-Drive boat hire options on the Gold Coast are varied and include; half cabin boat hire, BBQ pontoon hire, and speedboat hire (with license). For smaller groups of under 10 or 12 guests you may be able to hire a small boat for self drive with no license. For larger groups you will find that most vessels require a skipper to drive for you anyway so then it becomes an option of comparing pricing and which boat you prefer. You might also consider a ticketed cruise (where you share with other guests) as a budget-friendly option.
 
+![](https://ucarecdn.com/2a2da761-2662-4938-81ae-7e3dd3e425e3/-/preview/-/enhance/50/)
+
 **4. What style of boat do you prefer?**
 
 There are a variety of self-drive boat options on the Gold Coast from electric boats to donut shaped boats, BBQ pontoons to classic half-cabins. Skippered Boat charters offer a step-up in luxury with stunning sailing catamarans and motor cruisers available to host your day on the water in style. So take a look at some photos of the boat and see if you can picture yourself on board. In addition consider the facilities that you require on board including bathroom, eskies, BBQ etc to ensure you pick the correct vessel for your group.
-
-
 
 ![](https://ucarecdn.com/a4935384-3c30-46c8-9e70-39da270b2a93/-/preview/-/enhance/50/)
 
@@ -68,8 +64,6 @@ Before choosing your perfect boat we recommend discussing with the operator your
 
 We also recommend discussing your preferred destination with skippered boat charter companies as some vessels cope better with certain itineraries.
 
-
-
 ![](https://ucarecdn.com/4ebe0f17-2ad7-4cb4-b8ab-1d42f04425a0/-/preview/-/enhance/22/)
 
 **8. Would you like to see the sunset?**
@@ -77,8 +71,6 @@ We also recommend discussing your preferred destination with skippered boat char
 You will find that most self-drive boats will need to be returned prior to sunset due to the safety implications of being out on the water after dark. You will need to consider a [skippered boat charter ](https://sailinginparadise.com.au/boat-charter/private-charters/)or join a ticketed [sunset cruise](https://sailinginparadise.com.au/cruise/sunset-city-lights-cruise/) should you wish to enjoy the sunset from the water (which by the way is highly recommended).
 
 ![](https://ucarecdn.com/14ef02f7-f463-4a18-b86d-74dbecfb4313/)
-
-
 
 **9. Are you planning a party or event?**
 
