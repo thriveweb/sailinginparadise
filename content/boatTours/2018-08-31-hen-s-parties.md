@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Hen's Parties
 icon: ''
-featuredImage: 'https://ucarecdn.com/dccf71c8-c148-421b-982f-e57f5f10deec/'
+featuredImage: 'https://ucarecdn.com/a816439e-6014-4cab-8ad1-a710e81b9210/'
 intro: >-
   ## gold coast Hens party boat
 
@@ -271,3 +271,4 @@ meta:
     happen!
   title: The Ultimate Hens Party Cruise on the Gold Coast
 ---
+
