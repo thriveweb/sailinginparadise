@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Corporate Events
 icon: ''
-featuredImage: 'https://ucarecdn.com/94f40dc0-08c9-4308-b78c-98d4a1104709/'
+featuredImage: 'https://ucarecdn.com/ea9d0ab8-7dbf-4c8a-b7bd-4cf8fcb17504/'
 intro: >-
   ## Gold Coast Corporate Yacht Charter
 
@@ -137,3 +137,4 @@ meta:
     of catering and drinks packages for up to 30 guests.
   title: Gold Coast Corporate Events | Sailing in Paradise
 ---
+
