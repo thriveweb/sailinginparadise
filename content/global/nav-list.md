@@ -22,8 +22,9 @@ navItems:
   - title: Our Boats
   - title: About Us
   - subNavItems:
-      - title: Happy Sailors off
+      - title: Happy Sailors
       - title: Latest News
       - title: Contact Us
     title: More
 ---
+
