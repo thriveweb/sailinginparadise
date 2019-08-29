@@ -3,7 +3,8 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Private Charters
 icon: ''
-featuredImage: 'https://ucarecdn.com/5fb2ff23-e85f-4e32-939b-9d48808c3a31/'
+featuredImage: >-
+  https://ucarecdn.com/5fb2ff23-e85f-4e32-939b-9d48808c3a31/-/preview/-/enhance/33/
 intro: >-
   ## gold coast Private Charter boat
 
