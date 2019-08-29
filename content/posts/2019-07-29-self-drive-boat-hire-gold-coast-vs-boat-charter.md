@@ -12,12 +12,17 @@ excerpt: >-
   universal.   So if you have been considering a self-drive boat hire there are
   a few things to consider.
 ---
-
 Whether you are visiting the Gold Coast on holidays or a local to the area, the appeal of getting out and exploring our beautiful waterways is universal. So if you have been considering a self-drive boat hire there are a few things to consider;
 
 1. **Your knowledge of the Gold Coast Waterways.**
 
 For those with knowledge of the local waterways or previous boating experience a Self-Drive Boat hire can be a great way to explore the area on a budget. If you are unfamiliar with the area it may be beneficial to consider a skippered charter boat where you can relax and enjoy the experience in comfort without worrying about ending up stuck on one of the many sandbars.
+
+
+
+![](https://ucarecdn.com/657830d3-095e-455e-a7f2-c11daa57cf30/-/preview/-/enhance/65/)
+
+
 
 **2. Do you want to enjoy a few drinks?**
 
@@ -31,9 +36,15 @@ Self-Drive boat hire options on the Gold Coast are varied and include; half cabi
 
 There are a variety of self-drive boat options on the Gold Coast from electric boats to donut shaped boats, BBQ pontoons to classic half-cabins. Skippered Boat charters offer a step-up in luxury with stunning sailing catamarans and motor cruisers available to host your day on the water in style. So take a look at some photos of the boat and see if you can picture yourself on board. In addition consider the facilities that you require on board including bathroom, eskies, BBQ etc to ensure you pick the correct vessel for your group.
 
+
+
+![](https://ucarecdn.com/a4935384-3c30-46c8-9e70-39da270b2a93/-/preview/-/enhance/50/)
+
 **5. Fancy snorkelling, Stand Up Paddleboarding, Beach Volleyball or other activities as part of your day?**
 
 Due to the smaller size of most self-drive options you will find that you will need to look at a skippered boat hire to find one with any activities on board for your enjoyment. At Sailing in Paradise we carry Stand Up Paddleboards, Inflatables, Beach Volleyball, Beach Cricket, Buckets & Spades for the kids, snorkels and fishing rods on board which are available for the use of guests on our private charters or Island Cruises.
+
+![](https://ucarecdn.com/33354065-3cfd-4d44-bc55-2a63e14018a7/-/preview/-/enhance/14/)
 
 **6. Do you have children?**
 
@@ -43,21 +54,29 @@ No-one knows your kids better than you, do you think they would enjoy the thrill
 
 Opportunities are varied for exploring the Gold Coast’s waterways;
 
-- Cruise the canals of Surfers Paradise,
-- Sail the wide beautiful Gold Coast Broadwater,
-- Visit the beaches of Wavebreak Island often blessed with gorgeous clear water due to the proximity to the seaway,
-- Stop a spot for snorkelling,
-- See South Stradbroke Island and perhaps the Golden Wallaby,
-- Marvel at the millionnaires mansions of Sovereign Islands
-- Stop for a quick seafood lunch at Charis Seafoods and watch the pelican feeding
+* Cruise the canals of Surfers Paradise,
+* Sail the wide beautiful Gold Coast Broadwater,
+* Visit the beaches of Wavebreak Island often blessed with gorgeous clear water due to the proximity to the seaway,
+* Stop a spot for snorkelling,
+* See South Stradbroke Island and perhaps the Golden Wallaby,
+* Marvel at the millionnaires mansions of Sovereign Islands
+* Stop for a quick seafood lunch at Charis Seafoods and watch the pelican feeding
 
 Before choosing your perfect boat we recommend discussing with the operator your plans and check if this will be possible on this boat. You may find with many self-drive options the lower required speed of the vessel and difficulty in coping with certain tide or weather conditions may make some destinations difficult to reach. As such, you may wish to consider carefully the location from which you hire the self-drive boat to make it as easy (and close) as possible to reach these locations.
 
 We also recommend discussing your preferred destination with skippered boat charter companies as some vessels cope better with certain itineraries.
 
+
+
+![](https://ucarecdn.com/4ebe0f17-2ad7-4cb4-b8ab-1d42f04425a0/-/preview/-/enhance/22/)
+
 **8. Would you like to see the sunset?**
 
 You will find that most self-drive boats will need to be returned prior to sunset due to the safety implications of being out on the water after dark. You will need to consider a [skippered boat charter ](https://sailinginparadise.com.au/boat-charter/private-charters/)or join a ticketed [sunset cruise](https://sailinginparadise.com.au/cruise/sunset-city-lights-cruise/) should you wish to enjoy the sunset from the water (which by the way is highly recommended).
+
+![](https://ucarecdn.com/14ef02f7-f463-4a18-b86d-74dbecfb4313/)
+
+
 
 **9. Are you planning a party or event?**
 
@@ -72,3 +91,5 @@ It goes without saying that on a self-drive option you will be left to enjoy the
 Self-drive boat hire is of course an extremely budget-friendly option. Remember to factor in the bond payment often required. For more luxurious charter boats you may find that charter rates vary seasonally so it is worth enquiring. At Sailing in Paradise we often offer mid-week and winter season special rates so please enquire for a full price list. You may also wish to consider joining our Island Cruise or Sunset Cruise for a great value option to try out one of these beautiful sailing catamarans at a fraction of the cost of a private charter.
 
 So there you have it. We are often asked about Self Drive Boat Hire so hopefully this article offers some thought starters to help you decide on the best option for you and your family/friends.
+
+![](https://ucarecdn.com/c8af91db-cef2-4782-8ae0-6b5f319222db/)
