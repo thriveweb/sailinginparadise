@@ -40,6 +40,8 @@ There are a variety of self-drive boat options on the Gold Coast from electric b
 
 ![](https://ucarecdn.com/a4935384-3c30-46c8-9e70-39da270b2a93/-/preview/-/enhance/50/)
 
+![](https://ucarecdn.com/7a9d3eb5-66c6-4e3a-ad71-906bcc948ebb/)
+
 **5. Fancy snorkelling, Stand Up Paddleboarding, Beach Volleyball or other activities as part of your day?**
 
 Due to the smaller size of most self-drive options you will find that you will need to look at a skippered boat hire to find one with any activities on board for your enjoyment. At Sailing in Paradise we carry Stand Up Paddleboards, Inflatables, Beach Volleyball, Beach Cricket, Buckets & Spades for the kids, snorkels and fishing rods on board which are available for the use of guests on our private charters or Island Cruises.
