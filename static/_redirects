@@ -1,4 +1,5 @@
 # Redirect domain aliases to primary domain
+https://sailing-paradise.netlify.com/* https://sailinginparadise.com.au/:splat 301!
 
 https://sailinginparadise.com.au/the-boat/*	https://sailinginparadise.com.au/our-boats/:splat 301!
 https://sailinginparadise.com.au/gold-coast-boat-hire/*	https://sailinginparadise.com.au/our-boats/:splat 301!
