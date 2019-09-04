@@ -91,7 +91,7 @@ captainSection:
     ## Captains
 
 
-    Hi!  We are Steve and Jess and we own and manage Sailing in Paradise.  
+    Hi!  We are Steve and Jess and we own and run Sailing in Paradise.  
 
 
     We realise that chartering a boat is not something that you do every day.
