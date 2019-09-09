@@ -432,7 +432,7 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/private-charters.md'
+      - file: 'content/pages/boat-charters.md'
         label: 'Private Charters'
         name: 'privateCharters'
         fields:
@@ -819,7 +819,7 @@ collections: # A list of collections the CMS should be able to edit
                     }
                   - {
                       label: VideoURL,
-                      name: videoURL, 
+                      name: videoURL,
                       widget: string,
                       required: false,
                     }
@@ -1408,17 +1408,14 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
               - { label: Title, name: title, widget: string, required: false }
+              - { label: Optional Title, name: optionalTitle, widget: string, required: false }
               - label: SubNav Items
                 name: subNavItems
                 required: false
                 widget: list
                 fields:
-                  - {
-                      label: Title,
-                      name: title,
-                      widget: string,
-                      required: false,
-                    }
+                  - { label: Title, name: title, widget: string, required: false }
+                  - { label: Optional Title, name: optionalTitle, widget: string, required: false }
       - file: 'content/global/global-sections.md'
         label: 'Global Sections'
         name: 'globalSections'
