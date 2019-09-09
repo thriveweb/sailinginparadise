@@ -59,8 +59,10 @@ class Layout extends Component {
               frontmatter {
                 navItems {
                   title
+                  optionalTitle
                   subNavItems {
                     title
+                    optionalTitle
                   }
                 }
               }
