@@ -6,7 +6,8 @@ navItems:
       - title: Sunset & City Lights Cruise
       - title: Gift Vouchers
     title: Cruise Tickets
-  - subNavItems:
+  - optionalTitle: ''
+    subNavItems:
       - title: Birthday Parties
       - title: Proposals
       - title: Hen's Parties
