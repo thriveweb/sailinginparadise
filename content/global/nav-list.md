@@ -17,7 +17,7 @@ navItems:
       - title: Raft Up Events
       - title: Memorial Charters
       - optionalTitle: Christmas Parties
-        title: Christmas Parties
+        title: Gold Coast Christmas Parties
       - title: Private Charters
       - title: Sightseeing
     title: Boat Charter
