@@ -15,7 +15,8 @@ navItems:
       - title: Family Charters
       - title: Raft Up Events
       - title: Memorial Charters
-      - title: Christmas Parties
+      - optionalTitle: Christmas Parties Test
+        title: Christmas Parties
       - title: Private Charters
       - title: Sightseeing
     title: Boat Charter
