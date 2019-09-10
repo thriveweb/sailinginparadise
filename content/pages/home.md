@@ -40,7 +40,7 @@ services:
       title: Private Boat Hire
   - image: 'https://ucarecdn.com/7a39bdfd-fe39-4891-b4b7-d8c2ca53d9a1/'
     serviceContent:
-      buttonUrl: cruises
+      buttonUrl: cruise-tickets
       description: >-
         Join Sailing in Paradise on a cruise of the Gold Coast Broadwater.  Take
         in the sunset or sail to an island by day.
@@ -157,3 +157,4 @@ meta:
     offering private cruises for up to 50 people. | Call 0438 915 222.
   title: 'Boat Hire Gold Coast, Catamaran, Party Boat rental and Boat Charters'
 ---
+
