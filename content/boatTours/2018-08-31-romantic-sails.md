@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Romantic Sails
+title: Gold Coast Romantic Sails
 icon: ''
 featuredImage: >-
   https://ucarecdn.com/d2d65573-01c7-491e-9b79-2fb05ca1133e/-/crop/6000x3118/0,0/-/preview/
@@ -211,3 +211,4 @@ featuredTestimonials:
   testimonial: 'Taryn, Aus'
   title: Taryn
 ---
+
