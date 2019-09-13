@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Birthday Parties
+title: Gold Coast Birthday Parties
 icon: /images/uploads/cake.svg
 featuredImage: 'https://ucarecdn.com/5e010282-4dd5-4062-bf35-187125c435c8/'
 intro: >-
