@@ -432,7 +432,7 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/private-charters.md'
+      - file: 'content/pages/boat-charters.md'
         label: 'Private Charters'
         name: 'privateCharters'
         fields:
@@ -819,7 +819,7 @@ collections: # A list of collections the CMS should be able to edit
                     }
                   - {
                       label: VideoURL,
-                      name: videoURL, 
+                      name: videoURL,
                       widget: string,
                       required: false,
                     }

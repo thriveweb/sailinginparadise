@@ -16,6 +16,7 @@ export const PrivateChartersTemplate = ({
   chartersListing,
   meta
 }) => {
+
   return (
     <main className="Blog">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
