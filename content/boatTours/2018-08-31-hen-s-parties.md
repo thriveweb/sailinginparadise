@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Hen's Parties
+title: Gold Coast Hen's Parties
 icon: ''
 featuredImage: 'https://ucarecdn.com/a816439e-6014-4cab-8ad1-a710e81b9210/'
 intro: >-
