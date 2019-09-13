@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Family Charters
+title: Gold Coast Family Charters
 icon: ''
 featuredImage: 'https://ucarecdn.com/9dc97703-5834-4418-9c0c-cd9c0af7b59c/'
 intro: >-
@@ -209,3 +209,4 @@ featuredTestimonials:
   testimonial: 'Tim, Aus'
   title: Tim
 ---
+
