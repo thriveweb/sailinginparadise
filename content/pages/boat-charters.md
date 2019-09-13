@@ -39,17 +39,17 @@ intro: >-
   for your group and discover the reasons why we have 5* ratings on all review
   platforms.
 chartersListing:
-  - tours: Birthday Parties
-  - tours: Hen's Parties
-  - tours: Corporate Events
-  - tours: Raft Up Parties
-  - tours: Christmas Parties
-  - tours: Sightseeing
-  - tours: Proposals
-  - tours: Romantic Sails
-  - tours: Family Charters
-  - tours: Memorials/ Scattering of Ashes at Sea
-  - tours: Private Charters
+  - tours: Gold Coast Birthday Parties
+  - tours: Gold Coast Hen's Parties
+  - tours: Gold Coast Corporate Events
+  - tours: Gold Coast Raft Up Events
+  - tours: Gold Coast Christmas Parties
+  - tours: Gold Coast Sightseeing
+  - tours: Gold Coast Proposals
+  - tours: Gold Coast Romantic Sails
+  - tours: Gold Coast Family Charters
+  - tours: Gold Coast Memorial Charters
+  - tours: Gold Coast Private Charters
 meta:
   description: >-
     Join us on one of our luxury sailing catamarans. Suitable for parties,
@@ -57,3 +57,4 @@ meta:
     friends.
   title: Private Boat Charter | Sailing In Paradise
 ---
+

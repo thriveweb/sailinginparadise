@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Corporate Events
+title: Gold Coast Corporate Events
 icon: ''
 featuredImage: 'https://ucarecdn.com/ea9d0ab8-7dbf-4c8a-b7bd-4cf8fcb17504/'
 intro: >-

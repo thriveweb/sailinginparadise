@@ -2,22 +2,37 @@
 slug: nav-items
 navItems:
   - subNavItems:
-      - title: Island Cruise
-      - title: Sunset & City Lights Cruise
-      - title: Gift Vouchers
+      - optionalTitle: Island Cruise
+        title: Gold Coast Island Cruise
+      - optionalTitle: Sunset & City Lights Cruise
+        title: Gold Coast Sunset & City Lights Cruise
+      - optionalTitle: Gift Vouchers
+        title: Gold Coast Gift Vouchers
     title: Cruise Tickets
-  - subNavItems:
-      - title: Birthday Parties
-      - title: Proposals
-      - title: Hen's Parties
-      - title: Romantic Sails
-      - title: Corporate Events
-      - title: Family Charters
-      - title: Raft Up Events
-      - title: Memorial Charters
-      - title: Christmas Parties
-      - title: Private Charters
-      - title: Sightseeing
+  - optionalTitle: ''
+    subNavItems:
+      - optionalTitle: Birthday Parties
+        title: Gold Coast Birthday Parties
+      - optionalTitle: Proposals
+        title: Gold Coast Proposals
+      - optionalTitle: Hen's Parties
+        title: Gold Coast Hen's Parties
+      - optionalTitle: Romantic Sails
+        title: Gold Coast Romantic Sails
+      - optionalTitle: Corporate Events
+        title: Gold Coast Corporate Events
+      - optionalTitle: Family Charters
+        title: Gold Coast Family Charters
+      - optionalTitle: Raft Up Events
+        title: Gold Coast Raft Up Events
+      - optionalTitle: Memorial Charters
+        title: Gold Coast Memorial Charters
+      - optionalTitle: Christmas Parties
+        title: Gold Coast Christmas Parties
+      - optionalTitle: Private Charters
+        title: Gold Coast Private Charters
+      - optionalTitle: Sightseeing
+        title: Gold Coast Sightseeing
     title: Boat Charter
   - title: Our Boats
   - title: About Us

@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Cruise
-title: Sunset & City Lights Cruise
+title: Gold Coast Sunset & City Lights Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
 featuredImage: >-
   https://ucarecdn.com/a472ede7-7040-420b-9f25-765eb30d513a/-/crop/4327x2003/0,362/-/preview/

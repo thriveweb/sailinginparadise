@@ -78,7 +78,8 @@ export default class Nav extends Component {
                     <Logo />
                   </Link>
                   <div className="Nav--Links">
-                    {navItems.map(({ title, subNavItems }, index) => {
+                    {navItems.map(({ title, optionalTitle, subNavItems }, index) => {
+
                       const foundItem = allMarkdownRemark.edges.find(
                         ({ node }) => _get(node, 'frontmatter.title') === title
                       )
@@ -102,10 +103,10 @@ export default class Nav extends Component {
                               })
                             }
                           >
-                            <span>{title}</span>
+                            {optionalTitle ? <span>{optionalTitle}</span> : <span>{title}</span>}
                             {subNavItems && (
                               <ul className="subMenu">
-                                {subNavItems.map(({ title }, index) => {
+                                {subNavItems.map(({ title, optionalTitle }, index) => {
                                   const foundItem = allMarkdownRemark.edges.find(
                                     ({ node }) =>
                                       _get(node, 'frontmatter.title') === title
@@ -121,7 +122,7 @@ export default class Nav extends Component {
                                         key={`subNav-${index}`}
                                         className="NavLink"
                                       >
-                                        <Link to={foundItemSlug}>{title}</Link>
+                                        {optionalTitle ? <Link to={foundItemSlug}>{optionalTitle}</Link> : <Link to={foundItemSlug}>{title}</Link>}
                                       </li>
                                     )
                                   )
@@ -142,7 +143,7 @@ export default class Nav extends Component {
                               : ''
                           } ${menuItemActive === index ? 'active' : ''}`}
                         >
-                          <Link to={foundItemSlug}>{title}</Link>
+                          {optionalTitle ? <Link to={foundItemSlug}>{optionalTitle}</Link> : <Link to={foundItemSlug}>{title}</Link>}
                           <p
                             className="toggle-subNav"
                             onClick={() =>
@@ -156,7 +157,7 @@ export default class Nav extends Component {
                           </p>
                           {subNavItems && (
                             <ul className="subMenu">
-                              {subNavItems.map(({ title }, index) => {
+                              {subNavItems.map(({ title, optionalTitle }, index) => {
                                 const foundItem = allMarkdownRemark.edges.find(
                                   ({ node }) =>
                                     _get(node, 'frontmatter.title') === title
@@ -172,7 +173,7 @@ export default class Nav extends Component {
                                       key={`subNav-${index}`}
                                       className="NavLink"
                                     >
-                                      <Link to={foundItemSlug}>{title}</Link>
+                                      {optionalTitle ? <Link to={foundItemSlug}>{optionalTitle}</Link> : <Link to={foundItemSlug}>{title}</Link>}
                                     </li>
                                   )
                                 )

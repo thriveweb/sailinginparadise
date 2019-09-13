@@ -1408,17 +1408,14 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
               - { label: Title, name: title, widget: string, required: false }
+              - { label: Optional Title, name: optionalTitle, widget: string, required: false }
               - label: SubNav Items
                 name: subNavItems
                 required: false
                 widget: list
                 fields:
-                  - {
-                      label: Title,
-                      name: title,
-                      widget: string,
-                      required: false,
-                    }
+                  - { label: Title, name: title, widget: string, required: false }
+                  - { label: Optional Title, name: optionalTitle, widget: string, required: false }
       - file: 'content/global/global-sections.md'
         label: 'Global Sections'
         name: 'globalSections'

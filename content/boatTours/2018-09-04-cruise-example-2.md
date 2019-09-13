@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Cruise
-title: Island Cruise
+title: Gold Coast Island Cruise
 featuredImage: 'https://ucarecdn.com/a477c53f-47b3-4c35-9d38-f29ce0c52e4f/'
 intro: >-
   ## gold coast island cruise

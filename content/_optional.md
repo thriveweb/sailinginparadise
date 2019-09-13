@@ -131,9 +131,11 @@ socialMedia:
   tripAdvisor: ''
 navItems:
   - title: ''
+  - optionalTitle: ''
   - slug: ''
   - subNavItems:
       - title: ''
+      - optionalTitle: ''
       - slug: ''
 globalVideo:
   title: ''

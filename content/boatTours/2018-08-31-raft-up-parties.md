@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Raft Up Events
+title: Gold Coast Raft Up Events
 icon: ''
 featuredImage: 'https://ucarecdn.com/d5d38b7b-3a79-447c-af43-93cf738464c2/'
 intro: >-
@@ -106,3 +106,4 @@ featuredTestimonials:
   testimonial: 'Margaret, Aus'
   title: ''
 ---
+

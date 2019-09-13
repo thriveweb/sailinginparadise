@@ -1,10 +1,9 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Proposals
+title: Gold Coast Proposals
 icon: ''
-featuredImage: >-
-  https://ucarecdn.com/a6fb8404-c3e0-44eb-b501-34a8bc33ec07/
+featuredImage: 'https://ucarecdn.com/a6fb8404-c3e0-44eb-b501-34a8bc33ec07/'
 intro: >-
   ## Gold Coast Proposal Cruise
 
@@ -145,3 +144,4 @@ featuredTestimonials:
   testimonial: 'Lauren, Aus'
   title: Lauren
 ---
+

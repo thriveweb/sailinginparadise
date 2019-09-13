@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Sightseeing
+title: Gold Coast Sightseeing
 icon: ''
 featuredImage: 'https://ucarecdn.com/468e330d-05a6-467b-b098-fcdff53fc4f8/'
 intro: >-
