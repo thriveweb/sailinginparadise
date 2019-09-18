@@ -24,23 +24,6 @@ intro: >-
 
 
   We've got the champagne on ice!
-
-
-
-
-  > **SPECIAL OFFER**
-
-  >
-
-  > Adults at kids prices
-
-  >
-
-  > Adult - was $69 - NOW $49
-
-  >
-
-  > Kids      $49
 contentBox:
   buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
   buttonUrl: booking-enquiry
