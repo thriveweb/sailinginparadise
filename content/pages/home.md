@@ -33,10 +33,10 @@ featuredSlider:
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
 featuredBanner:
-  buttonTitle: Find out more
-  buttonUrl: boat-charter/gold-coast-christmas-parties
-  image: 'https://ucarecdn.com/c6031c28-3f5a-4de9-a205-792c02e870ad/'
-  title: CHRISTMAS PARTY TIME!
+  buttonTitle: Get the kids on the water!
+  buttonUrl: posts/the-ultimate-gold-coast-family-holiday-activity/
+  image: 'https://ucarecdn.com/be6b7374-42fe-4c3c-9f56-4a05e54193c5/'
+  title: School Holidays are here
 services:
   - image: 'https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/'
     serviceContent:
