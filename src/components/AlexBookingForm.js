@@ -183,7 +183,7 @@ class AlexBookingForm extends React.Component {
                 className="Form--Input"
                 type="number"
                 placeholder="Approx. number of guests*"
-                name="numberOfGuests"
+                name="numberOfGusets"
                 required
               />
             </label>
