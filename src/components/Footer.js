@@ -39,21 +39,39 @@ export default props => {
             {socialMedia && <SocialLinks socialMedia={socialMedia} />}
           </div>
           <div className="footer-col col2">
-            {cruises.map(({ title, subNavItems }, index) => {
+            {cruises.map(({ title, optionalTitle, subNavItems }, index) => {
               return (
                 <Fragment key={`cruise-nav-${index}`}>
                   <h4>
-                    <Link to="/cruise-tickets/">{title}</Link>
+                    <Link to="/cruise-tickets/">
+                      {optionalTitle ? (
+                        <span>{optionalTitle}</span>
+                      ) : (
+                        <span>{title}</span>
+                      )}
+                    </Link>
                   </h4>
                   {subNavItems &&
-                    subNavItems.map(({ title, slug }, index) => (
-                      <Link
-                        key={`cruise-subNav-${index}`}
-                        className="NavLink"
-                        to={`/cruise/${_kebabCase(title)}/`}
-                      >
-                        {title}
-                      </Link>
+                    subNavItems.map(({ title, optionalTitle, slug }, index) => (
+                      <Fragment>
+                        {optionalTitle ? (
+                          <Link
+                            key={`cruise-subNav-${index}`}
+                            className="NavLink"
+                            to={`/cruise/${_kebabCase(title)}/`}
+                          >
+                            {optionalTitle}
+                          </Link>
+                        ) : (
+                          <Link
+                            key={`cruise-subNav-${index}`}
+                            className="NavLink"
+                            to={`/cruise/${_kebabCase(title)}/`}
+                          >
+                            {title}
+                          </Link>
+                        )}
+                      </Fragment>
                     ))}
                 </Fragment>
               )
@@ -83,14 +101,26 @@ export default props => {
                     <Link to="/boat-charter/">{title}</Link>
                   </h4>
                   {subNavItems &&
-                    subNavItems.map(({ title }, index) => (
-                      <Link
-                        key={`charter-subNav-${index}`}
-                        className="NavLink"
-                        to={`/boat-charter/${_kebabCase(title)}`}
-                      >
-                        {title}
-                      </Link>
+                    subNavItems.map(({ title, optionalTitle }, index) => (
+                      <Fragment>
+                        {optionalTitle ? (
+                          <Link
+                            key={`cruise-subNav-${index}`}
+                            className="NavLink"
+                            to={`/cruise/${_kebabCase(title)}/`}
+                          >
+                            {optionalTitle}
+                          </Link>
+                        ) : (
+                          <Link
+                            key={`cruise-subNav-${index}`}
+                            className="NavLink"
+                            to={`/cruise/${_kebabCase(title)}/`}
+                          >
+                            {title}
+                          </Link>
+                        )}
+                      </Fragment>
                     ))}
                 </Fragment>
               )
