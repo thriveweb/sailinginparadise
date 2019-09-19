@@ -13,25 +13,25 @@ featuredSlider:
   - buttonUrl: boat-charter/gold-coast-christmas-parties/
     description: Experience an unforgettable Christmas Party on the water!
     title: Christmas Party Charters
-  - buttonUrl: boat-charter
-    description: For any occasion. From 3 hours to a full day. BYO or fully catered.
-    title: Private Skippered Boat Hire
+  - buttonUrl: 'https://sailinginparadise.com.au/cruise-tickets/'
+    description: >-
+      Experience our 3 hour Island Cruise or 2 hour sunset cruise at a special
+      price these holidays!
+    title: Save 40% Island and Sunset Cruises!
   - buttonUrl: boat-charter/hens-parties
     description: >-
       We are the hens party specialists. Let us create a truly special event for
       you and your friends.
     title: Gold Coast Hens Party
+  - buttonUrl: boat-charter
+    description: For any occasion. From 3 hours to a full day. BYO or fully catered.
+    title: Private Skippered Boat Hire
   - buttonUrl: cruise/island-cruise
     description: 3 hour afternoon cruise with light lunch and beach activities.
     title: Island Cruise
   - buttonUrl: cruise/sunset-city-lights-cruise
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
-  - buttonUrl: 'https://sailinginparadise.com.au/cruise-tickets/'
-    description: >-
-      Experience our 3 hour Island Cruise or 2 hour sunset cruise at a special
-      price these holidays!
-    title: Save 40% Island and Sunset Cruises!
 featuredBanner:
   buttonTitle: Buy Online
   buttonUrl: cruise/gift-vouchers
