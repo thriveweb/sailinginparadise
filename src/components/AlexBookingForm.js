@@ -195,6 +195,7 @@ class AlexBookingForm extends React.Component {
                 dateFormat="dd/MM/yyyy"
                 selected={this.state.startDate}
                 onChange={this.handleChange}
+                name="preferredDate"
               />
               <span className="PreferredDate-message">
                 (if unsure please select any date within preferred month)
