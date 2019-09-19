@@ -18,7 +18,7 @@ import './AlexBookingForm.css'
 
 class AlexBookingForm extends React.Component {
   static defaultProps = {
-    name: 'New Booking Form',
+    name: 'The Booking Form',
     action: '',
     honeypot: 'confirm',
     successMessage:
@@ -183,7 +183,7 @@ class AlexBookingForm extends React.Component {
                 className="Form--Input"
                 type="number"
                 placeholder="Approx. number of guests*"
-                name="numberOfGusets"
+                name="numberOfGuests"
                 required
               />
             </label>
