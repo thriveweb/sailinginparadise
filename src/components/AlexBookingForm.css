@@ -50,28 +50,21 @@
 .dateMessage span {
   font-size: 8px;
 }
-.active .dateMessage {
-  display: none;
-}
-
-.active {
-}
-
-.react-datepicker-wrapper {
-  display: none;
-  height: 0;
-  overflow: hidden;
-}
-.active .react-datepicker-wrapper {
-  display: block;
-  height: auto;
-  overflow: visible;
-}
 
 .react-datepicker-wrapper,
 .react-datepicker__input-container {
   width: 100%;
   position: relative;
+}
+
+.PreferredDate {
+  position: relative;
+}
+.PreferredDate .PreferredDate-message {
+  position: absolute;
+  font-size: 0.85rem;
+  bottom: 0.5rem;
+  left: 1rem;
 }
 
 .react-datepicker-wrapper,

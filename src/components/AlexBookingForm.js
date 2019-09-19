@@ -30,7 +30,7 @@ class AlexBookingForm extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      startDate: new Date(),
+      startDate: null,
       alert: '',
       disabled: false,
       clickDate: false,
@@ -188,21 +188,17 @@ class AlexBookingForm extends React.Component {
               />
             </label>
 
-            <label className="Form--Label TextArea" onClick={this.handleClick}>
-              <div className="dateMessage">
-                <div className="dateMessageText">
-                  Preferred Date*{' '}
-                  <span>
-                    (if unsure please select any date within preferred month)
-                  </span>
-                </div>
-              </div>
+            <label className="Form--Label TextArea PreferredDate">
               <DatePicker
+                placeholderText="Preferred Date*"
                 className="Form--Input DatePicker"
                 dateFormat="dd/MM/yyyy"
                 selected={this.state.startDate}
                 onChange={this.handleChange}
               />
+              <span className="PreferredDate-message">
+                (if unsure please select any date within preferred month)
+              </span>
             </label>
 
             <Select
