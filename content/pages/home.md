@@ -13,27 +13,23 @@ featuredSlider:
   - buttonUrl: boat-charter/gold-coast-christmas-parties/
     description: Experience an unforgettable Christmas Party on the water!
     title: Christmas Party Charters
-<<<<<<< HEAD
-  - buttonUrl: '/cruise-tickets/'
-=======
-  - buttonUrl: cruise-tickets/
->>>>>>> 6a48c2b353627884866ea8673670314f2e591de6
+  - buttonUrl: cruise-tickets
     description: >-
       Experience our 3 hour Island Cruise or 2 hour sunset cruise at a special
       price these holidays!
     title: Save 40% on Island and Sunset Cruises!
-  - buttonUrl: /boat-charter/gold-coast-hens-parties/
+  - buttonUrl: boat-charter/gold-coast-hens-parties/
     description: >-
       We are the hens party specialists. Let us create a truly special event for
       you and your friends.
     title: Gold Coast Hens Party
-  - buttonUrl: /boat-charter/
+  - buttonUrl: boat-charter/
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
     title: Private Skippered Boat Hire
   - buttonUrl: /cruise/gold-coast-island-cruise/
     description: 3 hour afternoon cruise with light lunch and beach activities.
     title: Island Cruise
-  - buttonUrl: /cruise/gold-coast-sunset-city-lights-cruise/
+  - buttonUrl: cruise/gold-coast-sunset-city-lights-cruise/
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
 featuredBanner:
@@ -44,7 +40,7 @@ featuredBanner:
 services:
   - image: 'https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/'
     serviceContent:
-      buttonUrl: /boat-charter/
+      buttonUrl: boat-charter/
       description: >-
         Sailing in Paradise invites you to step aboard one of our luxurious
         sailing catamarans for an event to be remembered.
@@ -52,7 +48,7 @@ services:
       title: Private Boat Hire
   - image: 'https://ucarecdn.com/7a39bdfd-fe39-4891-b4b7-d8c2ca53d9a1/'
     serviceContent:
-      buttonUrl: /cruise-tickets/
+      buttonUrl: cruise-tickets/
       description: >-
         Join Sailing in Paradise on a cruise of the Gold Coast Broadwater.  Take
         in the sunset or sail to an island by day.
@@ -60,7 +56,7 @@ services:
       title: Ticketed Cruises
   - image: 'https://ucarecdn.com/8b52eb78-1a5d-4e8d-b370-673f86813142/'
     serviceContent:
-      buttonUrl: /boat-charter/hens-parties
+      buttonUrl: boat-charter/gold-coast-hens-parties/
       description: >-
         A unique hen’s party idea on the Gold Coast. Whether you are looking for
         a relaxing day on the water with some delicious food and drinks, an
@@ -69,7 +65,7 @@ services:
       title: Hens Party Specialists
 serviceBanner:
   buttonTitle: Find your Perfect Charter
-  buttonUrl: /boat-charter/
+  buttonUrl: boat-charter/
   featuredImage: 'https://ucarecdn.com/117d8fce-576b-4fe1-9dad-d9f34471faee/'
   subtitle: Let’s Get The Party Started!
   title: Ready to book your Gold Coast Boat Hire?
