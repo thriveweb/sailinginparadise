@@ -13,7 +13,7 @@ featuredSlider:
   - buttonUrl: boat-charter/gold-coast-christmas-parties/
     description: Experience an unforgettable Christmas Party on the water!
     title: Christmas Party Charters
-  - buttonUrl: 'https://sailinginparadise.com.au/cruise-tickets/'
+  - buttonUrl: cruise-tickets/
     description: >-
       Experience our 3 hour Island Cruise or 2 hour sunset cruise at a special
       price these holidays!
