@@ -13,7 +13,11 @@ featuredSlider:
   - buttonUrl: boat-charter/gold-coast-christmas-parties/
     description: Experience an unforgettable Christmas Party on the water!
     title: Christmas Party Charters
+<<<<<<< HEAD
   - buttonUrl: '/cruise-tickets/'
+=======
+  - buttonUrl: cruise-tickets/
+>>>>>>> 6a48c2b353627884866ea8673670314f2e591de6
     description: >-
       Experience our 3 hour Island Cruise or 2 hour sunset cruise at a special
       price these holidays!
