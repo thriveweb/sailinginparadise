@@ -24,7 +24,10 @@ export const ContactPageTemplate = ({
   contactInfo = contactInfo
     ? contactInfo.edges.map(edge => ({ ...edge.node.frontmatter }))
     : []
+  const phoneTitle = _get(contactInfo[0], 'phoneTitle') || ''
   const phone = _get(contactInfo[0], 'phone') || ''
+  const emailTitle = _get(contactInfo[0], 'emailTitle') || ''
+  const email = _get(contactInfo[0], 'email') || ''
   const address = _get(contactInfo[0], 'address') || ''
   const addressButtonTitle = _get(contactInfo[0], 'addressButtonTitle') || ''
   const addressButtonUrl = _get(contactInfo[0], 'addressButtonUrl') || ''
@@ -44,9 +47,29 @@ export const ContactPageTemplate = ({
         <div className="container Contact--Section1--Container">
           <IntroText content={intro} center />
           <div className="Contact--Details">
-            {phone && (
-              <Content className="Contact--Details--Item" src={phone} />
-            )}
+            <div class="Content Contact--Details--Item">
+              {phoneTitle && (
+                <p>
+                  <strong>CALL US ON</strong>
+                </p>
+              )}
+              {phone && (
+                <p>
+                  <a href={`tel:${phone}`}>{phone}</a>
+                </p>
+              )}
+              {emailTitle && (
+                <p>
+                  <strong>EMAIL US AT</strong>
+                </p>
+              )}
+              {email && (
+                <p>
+                  <a href={`mailto:${email}`}>Click to email</a>
+                </p>
+              )}
+            </div>
+
             {address && (
               <div className="Contact--Details--Item">
                 <Content src={address} />
@@ -138,7 +161,10 @@ export const pageQuery = graphql`
       edges {
         node {
           frontmatter {
+            phoneTitle
             phone
+            emailTitle
+            email
             hours
             address
             addressButtonTitle

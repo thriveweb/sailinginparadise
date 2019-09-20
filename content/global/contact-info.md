@@ -1,13 +1,11 @@
 ---
 slug: general-contact
-phone: |-
-  **CALL US ON**
 
-  [0438 915 222](tel:0438915222)
+phoneTitle: CALL US ON
+phone: 0438 915 222
+emailTitle: EMAIL US AT
+email: info@sailinginparadise.com.au
 
-  **EMAIL US AT**
-
-  ### [click to email](mailto:info@sailinginparadise.com.au)
 address: >-
   **WHERE WE ARE**
 
@@ -26,4 +24,3 @@ socialMedia:
   tripAdvisor: >-
     https://www.tripadvisor.com.au/Attraction_Review-g658994-d4705796-Reviews-Sailing_In_Paradise-Main_Beach_Gold_Coast_Queensland.html
 ---
-

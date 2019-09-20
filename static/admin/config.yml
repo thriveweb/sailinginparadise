@@ -1371,7 +1371,10 @@ collections: # A list of collections the CMS should be able to edit
               widget: hidden,
               default: 'general-contact',
             }
+          - { label: phoneTitle, name: phoneTitle, widget: markdown, required: false }
           - { label: Phone, name: phone, widget: markdown, required: false }
+          - { label: emailTitle, name: emailTitle, widget: markdown, required: false }
+          - { label: email, name: email, widget: markdown, required: false }
           - { label: Address, name: address, widget: markdown, required: false }
           - {
               label: Address Button Title,
