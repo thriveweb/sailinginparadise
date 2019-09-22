@@ -28,6 +28,9 @@ intro: >-
 
 
   **Enter promo code SPRING20 at checkout**
+
+
+  Valid for purchase for a limited time only and for travel until 24 October.
 contentBox:
   buttonTitle: BOOK NOW
   buttonUrl: booking-enquiry
