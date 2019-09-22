@@ -30,6 +30,9 @@ intro: >-
 
 
   **Enter promo code SPRING40 at checkout**
+
+
+  Valid for purchase for a limited time only and for travel until 24 October.
 contentBox:
   buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
   buttonUrl: booking-enquiry
