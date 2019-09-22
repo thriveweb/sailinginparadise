@@ -24,7 +24,7 @@ intro: >-
   Cruise includes light lunch and one complimentary bubbly, beer or soft drink.
 
 
-  > **SPRING HOLIDAY DEAL - SAVE 20%**
+  > **SPRING HOLIDAY DIRECT BOOKING DEAL - SAVE 20%**
 
 
   **Enter promo code SPRING20 at checkout**
