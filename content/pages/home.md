@@ -17,7 +17,7 @@ featuredSlider:
     description: >-
       Experience our 3 hour Island Cruise or 2 hour sunset cruise at a special
       price these holidays!
-    title: Save 40% on Island and Sunset Cruises!
+    title: Save 20-40% on Island and Sunset Cruises!
   - buttonUrl: boat-charter/gold-coast-hens-parties/
     description: >-
       We are the hens party specialists. Let us create a truly special event for
@@ -165,3 +165,4 @@ meta:
     offering private cruises for up to 50 people. | Call 0438 915 222.
   title: 'Boat Hire Gold Coast, Catamaran, Party Boat rental and Boat Charters'
 ---
+
