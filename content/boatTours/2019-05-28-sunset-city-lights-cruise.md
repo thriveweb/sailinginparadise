@@ -26,7 +26,7 @@ intro: >-
   We've got the champagne on ice!
 
 
-  > **SPRING HOLIDAY DEAL - SAVE 40%**
+  > **SPRING HOLIDAY DIRECT BOOKING DEAL - SAVE 40%**
 
 
   **Enter promo code SPRING40 at checkout**
