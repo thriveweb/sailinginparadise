@@ -26,16 +26,10 @@ intro: >-
   We've got the champagne on ice!
 
 
-
-
   > **SPRING HOLIDAY DEAL - SAVE 40%**
 
-  >
 
-  >  
-
-
-  **Enter promo code DGC19SS at checkout**
+  **Enter promo code SPRING40 at checkout**
 contentBox:
   buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
   buttonUrl: booking-enquiry
