@@ -20,12 +20,19 @@ intro: >-
 
   >
 
-  > **'SAVE 40%'**
+  > **SAVE 40% on the Sunset Cruise** 
 
   >
 
-  >  on the Sunset Cruise and Island Cruises.  Click on your preferred cruise
-  below for promo code.
+  > and 
+
+  >
+
+  > **SAVE 20% on the Island Cruise**.  
+
+  >
+
+  > Click on your preferred cruise below for promo code.
 meta:
   description: >-
     Join Our 'Sunset & City Lights Cruise' Or 'Island Cruise' with Sailing In
