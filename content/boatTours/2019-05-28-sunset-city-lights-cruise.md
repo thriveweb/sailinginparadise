@@ -26,16 +26,13 @@ intro: >-
   We've got the champagne on ice!
 
 
+  > **SPRING HOLIDAY DIRECT BOOKING DEAL - SAVE 40%**
 
 
-  > **SPRING HOLIDAY DEAL - SAVE 40%**
-
-  >
-
-  >  
+  **Enter promo code SPRING40 at checkout**
 
 
-  **Enter promo code DGC19SS at checkout**
+  Valid for purchase for a limited time only and for travel until 24 October.
 contentBox:
   buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
   buttonUrl: booking-enquiry

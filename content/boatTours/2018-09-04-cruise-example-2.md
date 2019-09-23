@@ -24,16 +24,13 @@ intro: >-
   Cruise includes light lunch and one complimentary bubbly, beer or soft drink.
 
 
+  > **SPRING HOLIDAY DIRECT BOOKING DEAL - SAVE 20%**
 
 
-  > **SPRING HOLIDAY DEAL - SAVE 40%**
-
-  >
-
-  >  
+  **Enter promo code SPRING20 at checkout**
 
 
-  **Enter promo code DGC19IC at checkout**
+  Valid for purchase for a limited time only and for travel until 24 October.
 contentBox:
   buttonTitle: BOOK NOW
   buttonUrl: booking-enquiry
