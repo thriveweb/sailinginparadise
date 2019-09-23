@@ -17,7 +17,7 @@ featuredSlider:
     description: >-
       Experience our 3 hour Island Cruise or 2 hour sunset cruise at a special
       price these holidays!
-    title: Save 20-40% on Island and Sunset Cruises!
+    title: Save 20-40% on Island and Sunset Cruise Tickets!
   - buttonUrl: boat-charter/gold-coast-hens-parties/
     description: >-
       We are the hens party specialists. Let us create a truly special event for
