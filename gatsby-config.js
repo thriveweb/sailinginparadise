@@ -10,11 +10,19 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'UA-77246883-1',
-        // Defines where to place the tracking script - `true` in the head and `false` in the body
         head: true,
         anonymize: true
       }
     },
+    {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        /*id: 'GTM-add_your_tag_here',*/
+        id: 'GTM-K9HLJT2',
+        includeInDevelopment: false
+      }
+    },
+
     {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
