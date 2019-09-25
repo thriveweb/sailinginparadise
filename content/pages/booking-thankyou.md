@@ -7,5 +7,8 @@ featuredImage: >-
 intro: >-
   ## Success
 
-  Thank you for enquiring about cruise with sailing in paradise, we will be in touch very soon.
+
+  Thank you for enquiring about a cruise with sailing in paradise, we will be in
+  touch very soon.
 ---
+
