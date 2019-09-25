@@ -80,10 +80,10 @@ class AlexBookingForm extends React.Component {
       .then(() => {
         window.location = this.props.action
         // form.reset()
-        // this.setState({
-        //   alert: this.props.successMessage,
-        //   disabled: false
-        // })
+        this.setState({
+          alert: '',
+          disabled: false
+        })
       })
       .catch(err => {
         console.error(err)
