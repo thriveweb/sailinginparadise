@@ -19,7 +19,7 @@ import './AlexBookingForm.css'
 class AlexBookingForm extends React.Component {
   static defaultProps = {
     name: 'The Booking Form',
-    action: '',
+    action: '/thank-you-booking-enquiry/',
     honeypot: 'confirm',
     successMessage:
       'Thank you for enquiring about cruise with sailing in paradise, we will be in touch very soon',
@@ -78,11 +78,12 @@ class AlexBookingForm extends React.Component {
         }
       })
       .then(() => {
-        form.reset()
-        this.setState({
-          alert: this.props.successMessage,
-          disabled: false
-        })
+        window.location = this.props.action
+        // form.reset()
+        // this.setState({
+        //   alert: this.props.successMessage,
+        //   disabled: false
+        // })
       })
       .catch(err => {
         console.error(err)
