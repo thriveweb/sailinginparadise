@@ -55,7 +55,9 @@ export const ContactPageTemplate = ({
               )}
               {phone && (
                 <p>
-                  <a href={`tel:${phone}`}>{phone}</a>
+                  <a className="contact-phone" href={`tel:${phone}`}>
+                    {phone}
+                  </a>
                 </p>
               )}
               {emailTitle && (
@@ -65,7 +67,9 @@ export const ContactPageTemplate = ({
               )}
               {email && (
                 <p>
-                  <a href={`mailto:${email}`}>Click to email</a>
+                  <a className="contact-email" href={`mailto:${email}`}>
+                    Click to email
+                  </a>
                 </p>
               )}
             </div>
