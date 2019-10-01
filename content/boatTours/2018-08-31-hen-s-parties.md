@@ -3,7 +3,8 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Hen's Parties
 icon: ''
-featuredImage: 'https://ucarecdn.com/a816439e-6014-4cab-8ad1-a710e81b9210/'
+featuredImage: >-
+  https://ucarecdn.com/9ac9aaff-468e-49fb-9409-5d4c8e0f5111/-/preview/-/enhance/10/
 intro: >-
   ## gold coast Hens party boat
 
@@ -22,34 +23,52 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Let us tailor your Gold Coast Hens Party Boat Charter
 gallery:
-  - image: 'https://ucarecdn.com/bf29c995-9a6f-4a59-b508-237f6ba3e9c6/'
-  - image: 'https://ucarecdn.com/dfe2a61f-4c13-4a9f-9f2c-621df754ab3d/'
-  - image: 'https://ucarecdn.com/c73ea055-a37d-4d2e-b329-541950a83637/'
-  - image: 'https://ucarecdn.com/fc35981e-9413-4ecd-82b1-f8953dd63da2/'
-  - image: 'https://ucarecdn.com/f0530b00-ceff-492d-932d-f3293489353c/'
-  - image: 'https://ucarecdn.com/1470e49d-4543-4db9-b1f3-11ddf80c04fb/'
-  - image: 'https://ucarecdn.com/8635aedf-09c0-4ec7-8037-8bc34b2b40ac/'
-  - image: 'https://ucarecdn.com/929fcd52-3249-47df-a17a-a7044cf9a1be/'
-  - image: 'https://ucarecdn.com/9962c4fe-a540-4923-af86-9d2d0c0aaa20/'
-  - image: 'https://ucarecdn.com/1d985a35-b743-4e07-96e8-2b3d4c43ec2e/'
-  - image: 'https://ucarecdn.com/5dca54b5-3812-4f0e-b244-e17ed85e9df8/'
-  - image: 'https://ucarecdn.com/cd8b9b3e-7b56-4c7f-8fd0-fe0814495f67/'
-  - image: 'https://ucarecdn.com/f760e33f-d718-4163-a736-dc36491b9ccd/'
-  - image: 'https://ucarecdn.com/7755b2c1-1106-4fd5-a172-33d532f7f75e/'
-  - image: 'https://ucarecdn.com/e23ba4eb-5646-468f-84ba-531c7993a4e8/'
-  - image: 'https://ucarecdn.com/53be78a9-953e-4052-a40b-94fd154b67a7/'
-  - image: 'https://ucarecdn.com/70d8609f-f459-4319-bf5c-c5b242fb8779/'
-  - image: 'https://ucarecdn.com/4985bf4a-8bd0-43b4-bf65-6b7f03dd6f92/'
-  - image: 'https://ucarecdn.com/b8b6aa04-42c4-4a15-a459-d22624f50cd2/'
-  - image: 'https://ucarecdn.com/abbf842a-023e-46e3-80c2-1e662e7b70e6/'
-  - image: 'https://ucarecdn.com/3aaea0b2-b761-4c23-9635-4d878c6a71b8/'
-  - image: 'https://ucarecdn.com/37bc29ff-0e1d-4ef3-a546-1479737baf54/'
-  - image: 'https://ucarecdn.com/a3b2f47f-5956-44e9-b187-7f237e36efb8/'
-  - image: 'https://ucarecdn.com/1212c7b3-4162-4413-94b5-9339ce705af2/'
-  - image: 'https://ucarecdn.com/355fee7c-7e6b-4a17-af84-31776b70265c/'
-  - image: 'https://ucarecdn.com/08106231-cf6d-4ee5-a3ea-95c2cd3cd788/'
-  - image: 'https://ucarecdn.com/a69368d6-da6e-4bd2-b5f2-08e1154f4857/'
-  - image: 'https://ucarecdn.com/2acf19a8-2d59-4d88-8201-b1c5c67eda25/'
+  - image: >-
+      https://ucarecdn.com/b48b8729-7e35-4049-b3d8-f707224f64ae/-/preview/-/enhance/22/
+  - image: 'https://ucarecdn.com/8f486ec3-739d-42cd-a1bb-1542175aeadb/'
+  - image: >-
+      https://ucarecdn.com/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1/-/preview/-/enhance/20/
+  - image: 'https://ucarecdn.com/ad4cba93-24b4-4da5-ba3a-4477b55fd02f/'
+  - image: >-
+      https://ucarecdn.com/9e1af779-767b-4de5-b0f2-e6d80836bd18/-/preview/-/enhance/30/
+  - image: 'https://ucarecdn.com/1b4fe18b-3ac4-481c-a1a7-665771d8e819/'
+  - image: >-
+      https://ucarecdn.com/f1899ee6-b8c6-467a-b7eb-1f6940be9f1d/-/crop/1125x1250/0,401/-/preview/
+  - image: >-
+      https://ucarecdn.com/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5/-/crop/1334x1507/0,109/-/preview/
+  - image: 'https://ucarecdn.com/103a523a-4f7a-4ca6-85f9-99b804e06a0b/'
+  - image: >-
+      https://ucarecdn.com/53d6d510-2a29-43c8-915f-6ca97e2e4d3f/-/crop/1041x1188/0,137/-/preview/
+  - image: >-
+      https://ucarecdn.com/b89fbd1c-13f9-480f-bd4c-65ed787390d4/-/crop/1333x1569/0,256/-/preview/
+  - image: >-
+      https://ucarecdn.com/256fe6d0-07cf-45f2-b598-0f89e7b295a9/-/preview/-/enhance/25/
+  - image: >-
+      https://ucarecdn.com/9d2866d7-f659-43e2-b6c0-66e29f9d8a66/-/crop/1177x1250/0,74/-/preview/
+  - image: >-
+      https://ucarecdn.com/4d311d5c-48ce-49af-ba59-52279b0f1d86/-/preview/-/enhance/6/
+  - image: 'https://ucarecdn.com/ab1e4055-0368-4b75-b01e-5ca80cdb4e7e/'
+  - image: 'https://ucarecdn.com/f0c92d44-2169-4da2-96ed-e749a806092b/'
+  - image: 'https://ucarecdn.com/cf31a2d2-534a-4238-bdc8-030a3c3ec420/'
+  - image: >-
+      https://ucarecdn.com/df0249f9-b0af-4628-b173-4f7fcf6d334e/-/crop/1333x1654/0,137/-/preview/
+  - image: >-
+      https://ucarecdn.com/7f622bb5-ca9a-47fc-85f2-c0ca95c26a74/-/crop/1333x1612/0,227/-/preview/
+  - image: >-
+      https://ucarecdn.com/1f074d84-5e91-41c2-b11a-2a1bd08a261a/-/crop/1333x1612/0,194/-/preview/
+  - image: 'https://ucarecdn.com/eb89e356-84c2-42e6-8d7c-696b74565537/'
+  - image: >-
+      https://ucarecdn.com/a8ae5472-af71-4979-b08d-053423dd479e/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/a6d74733-b27b-4901-ba91-7877c3c9c581/-/crop/1335x1598/0,402/-/preview/
+  - image: >-
+      https://ucarecdn.com/f8a8546b-bffb-4f3c-9c64-d9e136af475a/-/crop/1333x1689/0,188/-/preview/
+  - image: 'https://ucarecdn.com/d2ced6f0-114e-4b9d-af39-c5c1b3da5b57/'
+  - image: 'https://ucarecdn.com/cb8e81e6-5001-4117-b8c3-20400b5afe72/'
+  - image: >-
+      https://ucarecdn.com/e497a006-7430-4c30-8206-3ccefb3701df/-/preview/-/enhance/25/
+  - image: >-
+      https://ucarecdn.com/6a25d58d-804d-4113-b446-69283c90a88a/-/preview/-/enhance/11/
 videoSection:
   imageOverlay: 'https://ucarecdn.com/013dd280-261c-4b1a-857a-4a582aaa8f3b/'
   video: ''
@@ -257,7 +276,7 @@ columnBanner:
     featuredImage: ''
   - title: ''
     featuredImage: >-
-      https://ucarecdn.com/16c75551-b0a2-485a-bee8-f6a61cf6f164/-/crop/2996x3000/1500,0/-/preview/
+      https://ucarecdn.com/33f657ae-7a01-4c5c-b067-8474baef4bed/-/crop/1343x1335/657,0/-/preview/
 featuredTestimonials:
   description: >-
     Ruby attended a hen's party charter with us, see what she said about the
