@@ -105,8 +105,8 @@ contentColumn: >-
 
 
   ![hen's party boat gold
-  coast](https://ucarecdn.com/647b0819-971a-4e28-bd2f-6976e07abd49/-/crop/3269x2226/0,209/-/preview/
-  "hen's party boat gold coast")
+  coast](https://ucarecdn.com/b3b8a3c7-5a4f-4ea1-b7c9-9a129713c208/ "hen's party
+  boat gold coast")
 
 
   ## All the hens party extras
