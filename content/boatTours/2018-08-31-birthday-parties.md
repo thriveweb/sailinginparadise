@@ -34,33 +34,45 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Let us tailor your VIP Gold Coast Birthday Party Experience
 gallery:
-  - image: 'https://ucarecdn.com/be1f43cc-8dbd-4105-a8e9-98089d4de492/'
-  - image: 'https://ucarecdn.com/ede918d3-48a6-44f4-907e-81183f4ed79d/'
-  - image: 'https://ucarecdn.com/151bb5c3-3625-4c97-bc2d-9fa843195de1/'
-  - image: 'https://ucarecdn.com/f9911190-3db1-488c-a374-eabb98cb37a0/'
-  - image: 'https://ucarecdn.com/991f70bc-36d3-430b-9d3f-7846312d0936/'
-  - image: 'https://ucarecdn.com/5e8fc815-b936-4974-9429-71743eff6895/'
-  - image: 'https://ucarecdn.com/044177d7-ab7f-445f-9690-70c0a5f4ad5d/'
-  - image: 'https://ucarecdn.com/28064d24-dc3d-4079-8c69-e94b4a150214/'
-  - image: 'https://ucarecdn.com/0a360696-3910-4e80-9cd8-8139917e3488/'
+  - image: 'https://ucarecdn.com/8a88a51f-fa19-4d06-9d18-9df2d0d1dc7b/'
   - image: >-
-      https://ucarecdn.com/50b6641d-9eb5-4ba3-aaa0-f7cc09ac47c9/-/crop/3000x2713/0,731/-/preview/
+      https://ucarecdn.com/f865379e-0f36-4eb1-beb6-f6963d7bbb25/-/preview/-/enhance/50/
+  - image: 'https://ucarecdn.com/6ed19c04-86a9-40dc-8146-ac09a59e17fe/'
   - image: >-
-      https://ucarecdn.com/a8c79c77-1a4b-44af-873e-1538d54a9ef1/-/crop/1500x1557/0,329/-/preview/
-  - image: 'https://ucarecdn.com/c4b23c04-f1be-4c6a-9db7-1798efcb1b38/'
+      https://ucarecdn.com/7be499af-62de-42d7-bae8-2c712b820029/-/preview/-/enhance/34/
   - image: >-
-      https://ucarecdn.com/b907a301-c7cf-412e-865a-92a6c53c3bba/-/crop/3000x2955/0,378/-/preview/
+      https://ucarecdn.com/ef7cb3c9-9038-40d1-8be0-bf60647a2de3/-/preview/-/enhance/31/
+  - image: 'https://ucarecdn.com/c7c30657-2faa-4839-acb4-ec40a7829942/'
   - image: >-
-      https://ucarecdn.com/cae093f6-99dc-4d73-8840-a66ee7b1ce90/-/crop/2813x2744/0,618/-/preview/
+      https://ucarecdn.com/f2217399-28c4-4c80-aa2c-b9563b6a93de/-/preview/-/enhance/38/
   - image: >-
-      https://ucarecdn.com/67642906-22a1-40f2-ac59-f2207b87f8aa/-/crop/3000x3268/0,0/-/preview/
-  - image: 'https://ucarecdn.com/1834820a-646f-483e-9a4e-dabb31111c46/'
-  - image: 'https://ucarecdn.com/c6f32cab-a970-4aa1-baf3-0275377de84a/'
-  - image: 'https://ucarecdn.com/a123bec2-2e70-4de1-a13a-00e91eba9c43/'
-  - image: 'https://ucarecdn.com/941c2aac-b26e-4710-a7c3-107ec28e6bf4/'
+      https://ucarecdn.com/325d6ecb-df32-4a6c-af30-f57332d6e0ac/-/preview/-/enhance/28/
   - image: >-
-      https://ucarecdn.com/425e8ca4-0f4e-48d6-8a08-3cb3c26716ff/-/crop/1500x1391/0,426/-/preview/
-  - image: 'https://ucarecdn.com/9fa3b953-d7e1-4c9e-aa2a-fbc09d158b4e/'
+      https://ucarecdn.com/8569fd2c-7875-412f-aac1-ba7ac1a54646/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/f6c457e7-f341-4a97-95bb-4a1802e471a1/-/crop/1335x1768/0,0/-/preview/
+  - image: >-
+      https://ucarecdn.com/384acda2-300f-441c-88fe-cf5ccbdc651e/-/preview/-/enhance/33/
+  - image: >-
+      https://ucarecdn.com/f31f17d7-37c0-4b73-8f55-480980c7913e/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/c5b1b10d-c1e1-4891-b907-c275d278316d/-/crop/1335x1564/0,0/-/preview/-/enhance/39/
+  - image: >-
+      https://ucarecdn.com/513cda00-9f84-4cf4-8779-04ecbdbc1783/-/crop/1500x1773/0,227/-/preview/-/enhance/40/
+  - image: >-
+      https://ucarecdn.com/2061cd9b-12f5-4d17-894f-fd1ef17b2846/-/crop/1335x1564/0,0/-/preview/-/enhance/42/
+  - image: >-
+      https://ucarecdn.com/96b81991-efb9-48d5-951f-836c47951738/-/preview/-/enhance/63/
+  - image: >-
+      https://ucarecdn.com/3d1e5e4c-fe27-4f42-9b18-5b1fbe668172/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/dd4bf67d-4187-4d63-87e5-1d0a371bfeb3/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/b34f5fb6-0ce2-4b8a-91ef-b04efe2506fa/-/preview/-/enhance/32/
+  - image: >-
+      https://ucarecdn.com/4e070061-2d0a-49a5-9280-2d940dc3af74/-/crop/1333x1564/0,52/-/preview/-/enhance/38/
+  - image: >-
+      https://ucarecdn.com/91191a4e-d17b-4341-a053-84104f0507dd/-/preview/-/enhance/43/
 videoSection:
   imageOverlay: 'https://ucarecdn.com/fed3e65a-d510-462a-9f5c-d7faa5dda8f4/'
   title: How your birthday cruise could look...
