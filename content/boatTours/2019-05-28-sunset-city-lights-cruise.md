@@ -4,7 +4,7 @@ tourType: Cruise
 title: Gold Coast Sunset & City Lights Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
 featuredImage: >-
-  https://ucarecdn.com/a472ede7-7040-420b-9f25-765eb30d513a/-/crop/4327x2003/0,362/-/preview/
+  https://ucarecdn.com/874a37c4-62f7-4734-958b-3d39d11ec6fd/-/preview/-/enhance/50/
 intro: >-
   ## Gold Coast Sunset Cruise
 
@@ -42,24 +42,42 @@ bookingIframe: >-
   class="rezdy"
   src="https://sailinginparadise.rezdy.com/calendarWidget/241550?iframe=true"></iframe>
 gallery:
-  - image: 'https://ucarecdn.com/010205fa-7374-4ac5-ab1b-eea79c74a0f7/'
-  - image: 'https://ucarecdn.com/22fa2713-7f3a-4f2e-8f6f-9c30fc21c798/'
-  - image: 'https://ucarecdn.com/365c0d1d-28ce-4a17-94b3-08accecd3661/'
-  - image: 'https://ucarecdn.com/402dadb7-f30d-46ce-8954-6c1c9b284af0/'
-  - image: 'https://ucarecdn.com/b4941b61-ac59-48ac-94ae-7868a9819a62/'
-  - image: 'https://ucarecdn.com/f05997e0-6916-4036-923c-49938b61aab3/'
-  - image: 'https://ucarecdn.com/540bb45d-f2de-42dc-9de7-1d469590d04a/'
-  - image: 'https://ucarecdn.com/04344e4a-457e-43db-9afa-cb8cc510f96d/'
-  - image: 'https://ucarecdn.com/a20c5320-401c-4de4-b32a-4a76ece68c9f/'
-  - image: 'https://ucarecdn.com/8038fa88-1413-43f9-9030-a3882c50d010/'
-  - image: 'https://ucarecdn.com/b4c6a5fe-3a90-4ff8-bafa-2434b1fde34a/'
-  - image: 'https://ucarecdn.com/78b0abd6-ef74-433c-ad66-bfce57ef0446/'
-  - image: 'https://ucarecdn.com/a582820e-1ae4-432a-93ed-b1c1579c5794/'
-  - image: 'https://ucarecdn.com/ba32a14d-1580-4472-9314-08c2757ce452/'
-  - image: 'https://ucarecdn.com/5f2131b7-994a-426c-9490-6af637bf299c/'
-  - image: 'https://ucarecdn.com/0081538e-1366-4d04-8a07-b00792c5cce4/'
-  - image: 'https://ucarecdn.com/769f0c96-ab64-4341-8a3e-91aee6653345/'
-  - image: 'https://ucarecdn.com/85f9fce6-8c7b-4073-81ce-96b040e94e49/'
+  - image: >-
+      https://ucarecdn.com/3911a16c-58d6-483c-ab45-90c925ae713b/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/3acfb375-f50f-485f-ad48-f497ce94d377/-/preview/-/enhance/13/
+  - image: >-
+      https://ucarecdn.com/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4/-/preview/-/enhance/39/
+  - image: >-
+      https://ucarecdn.com/1a7d5854-61e1-4fc6-8ab8-30297de40790/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/9ced1658-7097-4bc7-b9f1-10efaf65f184/-/preview/-/enhance/25/
+  - image: >-
+      https://ucarecdn.com/1d9b7b83-755b-4d92-ba6b-fd21b4db5894/-/preview/-/enhance/39/
+  - image: >-
+      https://ucarecdn.com/9269a739-47ef-4540-9ff3-337c0dd3d07e/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/a0047999-5aaf-4dff-acb2-d2c838d353f0/-/preview/-/enhance/25/
+  - image: >-
+      https://ucarecdn.com/8be61e6b-0bfa-4c60-974c-3744fea80fa8/-/preview/-/enhance/36/
+  - image: >-
+      https://ucarecdn.com/3171af8a-ff68-4b50-b48b-d28a19742d9c/-/preview/-/enhance/41/
+  - image: >-
+      https://ucarecdn.com/c55cdc8d-3a07-4847-83a5-577941519a1b/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/46a748e9-7b87-431a-a2ac-6c2ba0d13061/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/42f631aa-ddd7-41a1-b4eb-762b4546d9ec/-/preview/-/enhance/42/
+  - image: >-
+      https://ucarecdn.com/b24fbc76-268a-4751-a300-4d648a3cd9c7/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/b85e2cc2-2dc2-42fd-b8fa-eb164b9bf27e/-/preview/-/enhance/27/
+  - image: >-
+      https://ucarecdn.com/14f24d71-a217-41c5-abb3-aaa7a945d188/-/preview/-/enhance/24/
+  - image: >-
+      https://ucarecdn.com/b3b551a1-34a1-440c-a8e1-fe62fc790aed/-/preview/-/enhance/34/
+  - image: >-
+      https://ucarecdn.com/7ba15080-d97b-4046-b1fd-7ec0a700c195/-/preview/-/enhance/33/
 contentColumnTitle: Sundowners on the water...
 contentColumn: >-
   Join us for a cruise of the Gold Coast Broadwater aboard our beautiful Seawind
