@@ -3,7 +3,8 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Christmas Parties
 icon: ''
-featuredImage: 'https://ucarecdn.com/584d17b1-3d39-403c-bb4d-4a6a340506fe/'
+featuredImage: >-
+  https://ucarecdn.com/e6d70810-9de3-4ef3-a87a-1a77be12d43d/-/preview/-/enhance/50/
 intro: >-
   ## gold coast Christmas boat party
 
@@ -28,23 +29,36 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Let us tailor your VIP Gold Coast Christmas Party Experience
 gallery:
-  - image: 'https://ucarecdn.com/9de5f1c0-2207-460f-a285-77d43365c0bb/'
-  - image: 'https://ucarecdn.com/f73ace6b-21fc-4a27-966f-b964c917b132/'
-  - image: 'https://ucarecdn.com/9ca4c73d-f081-443b-b587-c76ecd1781f4/'
-  - image: 'https://ucarecdn.com/fbf6587d-8a2e-4b40-b1dc-cf97e30c045b/'
-  - image: 'https://ucarecdn.com/36b89cc7-61e9-4279-8ddd-483a11a63bb9/'
-  - image: 'https://ucarecdn.com/1c9a1df4-55f4-40f6-9599-56b2299864ad/'
-  - image: 'https://ucarecdn.com/d674dbcb-762e-4636-b875-84d347732aed/'
-  - image: 'https://ucarecdn.com/72ed8bbd-9c56-4c1b-b5e4-37b09d4b12ab/'
-  - image: 'https://ucarecdn.com/26b337b1-9fdd-4ea6-af14-188b792ea6f7/'
-  - image: 'https://ucarecdn.com/adfcb20b-7de3-4301-8b09-bd5db2ec9666/'
-  - image: 'https://ucarecdn.com/21f95f1f-4c68-4319-8601-f9fa109b631c/'
-  - image: 'https://ucarecdn.com/312b9f9b-efb9-4bba-a578-559619bab0a8/'
-  - image: 'https://ucarecdn.com/5d636c06-a2d0-4d24-b520-dee810d53eff/'
-  - image: 'https://ucarecdn.com/7df2ce9f-9538-4bd9-82e0-9f91be09dad1/'
-  - image: 'https://ucarecdn.com/9bba90f9-e869-46c0-bd8b-676a62802121/'
-  - image: 'https://ucarecdn.com/8b926132-ae45-433e-b1d4-2a24379f3971/'
-  - image: 'https://ucarecdn.com/3dfbea83-3061-440e-914a-998da5674ef3/'
+  - image: 'https://ucarecdn.com/3ac9fb35-c360-45b7-8073-f8fc4276aa3c/'
+  - image: >-
+      https://ucarecdn.com/8039e778-fc75-4c1d-b801-7857a4ef3559/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/13c4367f-0750-4104-80fa-a9f4bae1b966/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/da692a43-a7a5-4a35-8fcb-3c6663be40a1/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/4f3fd348-7e7c-4f69-811f-140e3557fb21/-/preview/-/enhance/50/
+  - image: 'https://ucarecdn.com/145e93bb-d643-42b9-a3f8-90b6d29b837d/'
+  - image: 'https://ucarecdn.com/e053756f-8c7a-48ae-8c6e-0d1814fc78c9/'
+  - image: >-
+      https://ucarecdn.com/c041dbaa-ab58-4736-b90e-89e50ab31ff8/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/ce75f74e-ee06-4b0b-b50b-1e65058423b0/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/6907a577-c18a-48d9-95fe-69551a8b7b94/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/b98bd5bc-c0a1-4483-b2d9-ce7e620bf1f4/-/preview/-/enhance/28/
+  - image: >-
+      https://ucarecdn.com/3fd391e4-3880-4fa8-982e-b080d96fd92b/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/124b00b3-dd52-42ae-94f9-9f924f16f992/-/preview/-/enhance/33/
+  - image: >-
+      https://ucarecdn.com/30f073cb-9c84-4485-b593-432839a45ae8/-/preview/-/enhance/27/
+  - image: 'https://ucarecdn.com/27e9516b-4513-4c9e-8416-fe685b1086d8/'
+  - image: >-
+      https://ucarecdn.com/4688abc4-af09-4aaa-abe8-6f3b4712fdea/-/preview/-/enhance/3/
+  - image: >-
+      https://ucarecdn.com/c7badd83-8677-4299-854c-c405897d55ce/-/preview/-/enhance/28/
 videoSection:
   imageOverlay: ''
   video: ''
@@ -59,7 +73,7 @@ contentColumn: >-
   Christmas Party perfect for your group.  
 
 
-  ![](https://ucarecdn.com/b7cfff84-d3df-4e4d-9965-3808ef5f0594/)
+  ![](https://ucarecdn.com/5dfe4b3a-36e7-4af6-ba39-79d339e820a3/-/preview/-/enhance/20/)
 
 
   ## Christmas Party Ideas
@@ -108,7 +122,7 @@ contentColumn: >-
   of the service.  So you can actually relax and enjoy the party!  
 
 
-  ![](https://ucarecdn.com/e9794a87-7b75-42dc-856b-ef9c741b3f12/)
+  ![](https://ucarecdn.com/5fc05902-4b88-40e3-aafc-bdf8001d2c22/-/preview/-/enhance/50/)
 
 
   ## The Christmas Party Boats
@@ -195,7 +209,7 @@ columnBanner:
       on the water with your team!
     title: Start planning your Christmas Party today
     featuredImage: ''
-  - featuredImage: 'https://ucarecdn.com/aa3f13b5-0d75-42ae-9068-2af7c395a965/'
+  - featuredImage: 'https://ucarecdn.com/09890049-dceb-4c48-a88b-0e5201004105/'
 featuredTestimonials:
   description: >-
     See what the staff at Raceview State School had to say about their Christmas
