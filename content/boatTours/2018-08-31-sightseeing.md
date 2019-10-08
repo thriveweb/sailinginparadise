@@ -3,7 +3,8 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Sightseeing
 icon: ''
-featuredImage: 'https://ucarecdn.com/468e330d-05a6-467b-b098-fcdff53fc4f8/'
+featuredImage: >-
+  https://ucarecdn.com/ecd8d123-c8fc-4598-ad75-c149932f1916/-/preview/-/enhance/88/
 intro: >-
   ## gold coast Sightseeing Cruise
 
@@ -27,23 +28,40 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Let us tailor your VIP Gold Coast Sightseeing Party Experience
 gallery:
-  - image: 'https://ucarecdn.com/a9a6fce5-54d7-4700-ac44-d2d13753c77d/'
-  - image: 'https://ucarecdn.com/fb9bc362-3716-47d5-925f-2ad375be3450/'
-  - image: 'https://ucarecdn.com/4730d35c-3313-4c93-ab1c-f0f133aa63d0/'
-  - image: 'https://ucarecdn.com/2a8e3219-a021-4676-abef-b9ef28630a90/'
-  - image: 'https://ucarecdn.com/b254e1da-6cb1-4ada-acf7-84756d5e0370/'
-  - image: 'https://ucarecdn.com/916e1d38-b573-4387-80c7-76753fab9d55/'
-  - image: 'https://ucarecdn.com/31103af3-65dd-42b8-92eb-251e82938908/'
-  - image: 'https://ucarecdn.com/8b847209-3b43-450b-bb8b-e0bf769b26df/'
-  - image: 'https://ucarecdn.com/e3d86b3d-25fc-4530-85ae-acf4bacdd88e/'
-  - image: 'https://ucarecdn.com/6feba6bc-51f0-4515-80ce-9c4f313d9ef8/'
-  - image: 'https://ucarecdn.com/1ac66328-84f0-459f-a343-3098cb6c1982/'
-  - image: 'https://ucarecdn.com/120e56f7-2606-494f-b328-c9f39d703559/'
-  - image: 'https://ucarecdn.com/1edc202a-9ee7-45b1-a0cd-ab1c241213dd/'
-  - image: 'https://ucarecdn.com/4e29f35f-a382-4dd5-939c-1ce29c7d0e87/'
-  - image: 'https://ucarecdn.com/3abaaba8-9314-4692-b3a7-e9529fc9be43/'
-  - image: 'https://ucarecdn.com/2dc92470-a927-47ba-8721-c723f706022c/'
-  - image: 'https://ucarecdn.com/94f435ed-04d6-4e88-9879-e9c51036ada0/'
+  - image: >-
+      https://ucarecdn.com/5a75a58f-60be-4724-b30f-df677622d5a5/-/preview/-/enhance/66/
+  - image: >-
+      https://ucarecdn.com/605d50ba-a306-4eed-9f97-4022f4f68a8c/-/preview/-/enhance/19/
+  - image: >-
+      https://ucarecdn.com/c7b2283e-6409-416a-bdc8-71d57c61f740/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/abc4dac6-6990-4ab3-a95e-ad848aa70e67/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/aed6529f-bfe5-41c5-9545-8249a9f80f3e/-/preview/-/enhance/37/
+  - image: >-
+      https://ucarecdn.com/6019d2cf-d7ad-4be3-8f02-0651e64b07e8/-/preview/-/enhance/22/
+  - image: >-
+      https://ucarecdn.com/2e22db0e-12fd-492e-acd1-c59776b55c08/-/preview/-/enhance/72/
+  - image: >-
+      https://ucarecdn.com/7843557b-42ab-4875-b5ff-e3eeffe59ea6/-/preview/-/enhance/32/
+  - image: >-
+      https://ucarecdn.com/de7e3b0d-f553-4c3b-9117-7c2b6543304f/-/preview/-/enhance/26/
+  - image: >-
+      https://ucarecdn.com/d84189d5-3b3b-4cd3-87db-a9b593fc2110/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/4ef51e44-e22f-4512-b89d-3622e7b7e23d/-/preview/-/enhance/40/
+  - image: >-
+      https://ucarecdn.com/3c6500ed-7157-458e-81be-fb9fca763a5d/-/preview/-/enhance/34/
+  - image: >-
+      https://ucarecdn.com/677479b2-70e1-43d1-abf4-d849984c95a8/-/preview/-/enhance/25/
+  - image: >-
+      https://ucarecdn.com/4735fe31-3c0c-4e7d-a7b2-d1b9c3ceaf2b/-/preview/-/enhance/28/
+  - image: >-
+      https://ucarecdn.com/2420a184-553a-478c-9c4a-3e2aa762885f/-/preview/-/enhance/28/
+  - image: >-
+      https://ucarecdn.com/f144c4b6-d624-406f-9713-019859fd5920/-/preview/-/enhance/32/
+  - image: >-
+      https://ucarecdn.com/8a6c3cc3-31f9-40f5-9c33-e52050bf035f/-/preview/-/enhance/38/
 videoSection:
   imageOverlay: ''
   video: ''
