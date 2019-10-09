@@ -121,7 +121,7 @@ class Form extends React.Component {
             <input type="hidden" name="form-name" value={name} />
             <div className="form-footer">
               <input
-                className="button Form--SubmitButton"
+                className="quick-contact button Form--SubmitButton"
                 type="submit"
                 value="Send"
                 disabled={this.state.disabled}
