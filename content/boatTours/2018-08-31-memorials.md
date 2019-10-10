@@ -3,7 +3,8 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Memorial Charters
 icon: ''
-featuredImage: 'https://ucarecdn.com/1be1c526-f818-485a-be42-a25b4d1cac1f/'
+featuredImage: >-
+  https://ucarecdn.com/66e3ed8a-68d0-48ca-bc82-5afedd1d2e3b/-/preview/-/enhance/70/
 intro: >-
   A scattering of ashes at sea is often chosen by families whose dearly departed
   had a love of the water or boating.  As we too share this love, we will do
@@ -27,14 +28,22 @@ contentBox:
   buttonUrl: booking-enquiry
   title: ''
 gallery:
-  - image: 'https://ucarecdn.com/3f2f2c39-4494-44dc-8f5d-c8c305877605/'
-  - image: 'https://ucarecdn.com/c79cc827-83da-4970-bc40-74f2209e78f5/'
-  - image: 'https://ucarecdn.com/36e73e08-d822-4b84-a2b5-693a07085ac9/'
-  - image: 'https://ucarecdn.com/d2c6e447-8f7a-4445-9d08-9654a7ba6c66/'
-  - image: 'https://ucarecdn.com/0b797c29-301a-458b-830e-8bedf94ba3cc/'
-  - image: 'https://ucarecdn.com/0c9ecdd1-99e7-4a76-874e-efe5a98e25d2/'
-  - image: 'https://ucarecdn.com/5003ef77-a609-4f4b-a28a-025e2e02af6c/'
-  - image: 'https://ucarecdn.com/8a8f6b8f-77c0-4798-8ac2-695f41045ace/'
+  - image: >-
+      https://ucarecdn.com/3ff58452-e97c-4bba-b535-3852fcb3e57e/-/preview/-/enhance/66/
+  - image: >-
+      https://ucarecdn.com/831ac488-7f38-411e-9e78-c43f9f8a75aa/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/b88ce2ca-f141-4565-91ea-e22d1297ccca/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/dbf82333-a81f-4381-8771-09a24aba9a16/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/7ca021c5-3bed-4768-b464-f8b732fb4be3/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/4f534e5f-a6eb-4d96-a072-a9615f91e752/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/9c91b6f0-b6d3-4082-a836-7a58f33f9ee9/-/preview/-/enhance/67/
+  - image: >-
+      https://ucarecdn.com/0643faba-bb3f-463a-b8f8-b4af78518cbb/-/preview/-/enhance/35/
 videoSection:
   imageOverlay: ''
   video: ''
@@ -95,7 +104,8 @@ columnBanner:
       your wishes.
     title: 'Enquire now '
     featuredImage: /images/uploads/girl-img-column2.jpg
-  - featuredImage: 'https://ucarecdn.com/6754bb1e-837c-4e33-bcba-69f6251f758f/'
+  - featuredImage: >-
+      https://ucarecdn.com/8bc0eee6-214b-4662-90a7-633c81e192c4/-/preview/-/enhance/67/
 featuredTestimonials:
   description: >-
     We were honoured to look after Elyce and her family for their loved ones
