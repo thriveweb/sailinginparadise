@@ -26,24 +26,40 @@ contentBox:
   buttonUrl: booking-enquiry
   title: 'Let us tailor your Private Boat Charter '
 gallery:
-  - image: 'https://ucarecdn.com/14933057-6c11-437f-9da5-3a22e2ea7529/'
-  - image: 'https://ucarecdn.com/dc9f4c3f-3276-49e2-af8c-1b803f9a2ee7/'
-  - image: 'https://ucarecdn.com/e0866f72-e8b6-4530-a6f8-c948f33fc505/'
-  - image: 'https://ucarecdn.com/e1239380-d66b-49b4-b0ee-767a1d86ec01/'
-  - image: 'https://ucarecdn.com/07188f0f-170d-4568-956a-58d1f8b0c49b/'
-  - image: 'https://ucarecdn.com/c0611544-3950-4b35-a202-dc2cbe273fdf/'
-  - image: 'https://ucarecdn.com/a1a5cd2d-05bc-49db-9e22-25f6477c971e/'
-  - image: 'https://ucarecdn.com/f13aab13-585d-478d-ba7f-5497cd1d2517/'
-  - image: 'https://ucarecdn.com/c26983d6-9183-4a6a-8637-1453a7745f69/'
-  - image: 'https://ucarecdn.com/7e0e79d2-a710-4036-8d16-3d36b9a7e77e/'
-  - image: 'https://ucarecdn.com/99b0cf07-3c2b-4c1f-8deb-a0088730ddc9/'
-  - image: 'https://ucarecdn.com/23fa0a31-af90-4465-a68d-993028d5b93f/'
-  - image: 'https://ucarecdn.com/fa486a81-9720-4cc4-883c-8336363dfb98/'
-  - image: 'https://ucarecdn.com/62c2735c-c07d-4918-aae7-b4a3b4a07db8/'
-  - image: 'https://ucarecdn.com/cd390577-b848-4682-8881-82b39f36b179/'
-  - image: 'https://ucarecdn.com/e90cc414-94d2-40fe-9bbb-e3e5e46a9e00/'
-  - image: 'https://ucarecdn.com/71395562-928f-422f-8c9e-31b0d93ec896/'
-  - image: 'https://ucarecdn.com/2824ffaa-2aa4-46e2-98cf-5192cd0e7ce7/'
+  - image: >-
+      https://ucarecdn.com/837421ea-a5da-41b7-9153-703081b3e1b3/-/preview/-/enhance/23/
+  - image: >-
+      https://ucarecdn.com/054e68d5-3cd0-44c8-bad9-90af5191867e/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/b09330b7-2809-4422-a09e-b57602631baf/-/preview/-/enhance/34/
+  - image: >-
+      https://ucarecdn.com/edac77ce-7a56-442f-a631-21e7b32f73f2/-/preview/-/enhance/74/
+  - image: >-
+      https://ucarecdn.com/0320f8b4-f407-41e2-9da9-50c5bc6a3af6/-/preview/-/enhance/39/
+  - image: >-
+      https://ucarecdn.com/b6f0f33c-7420-4891-adec-e98166fff3a3/-/preview/-/enhance/50/
+  - image: 'https://ucarecdn.com/fb3c9bfb-5eeb-46a3-858f-3e37de05c45f/'
+  - image: >-
+      https://ucarecdn.com/0b125dc9-7cb0-4f19-8c0f-2022cd12887f/-/preview/-/enhance/100/
+  - image: >-
+      https://ucarecdn.com/c21f6290-35ed-4c25-bcb4-d83f24022796/-/preview/-/enhance/30/
+  - image: >-
+      https://ucarecdn.com/59f12649-5e70-4a06-a016-5bf9d191f67f/-/preview/-/enhance/50/
+  - image: 'https://ucarecdn.com/0bf0067c-8c39-4f91-aae9-60e3086f859b/'
+  - image: >-
+      https://ucarecdn.com/34c9a85f-f067-4159-8a14-2c05ae69f2d0/-/preview/-/enhance/33/
+  - image: >-
+      https://ucarecdn.com/116d7759-df41-4481-b8b1-d929ea58cdbc/-/preview/-/enhance/32/
+  - image: >-
+      https://ucarecdn.com/cd7ce99c-f6c7-4b0d-9016-40088413f3c5/-/preview/-/enhance/38/
+  - image: >-
+      https://ucarecdn.com/423937f1-fc1c-4e9c-a803-349848e7752e/-/preview/-/enhance/26/
+  - image: >-
+      https://ucarecdn.com/95e275f6-8143-4fef-b298-24d89b8a4738/-/preview/-/enhance/34/
+  - image: >-
+      https://ucarecdn.com/5be94011-b667-4b11-8b76-fb00b6e7a809/-/preview/-/enhance/74/
+  - image: >-
+      https://ucarecdn.com/3af242b5-a29b-4890-83e4-2687330a4f99/-/preview/-/enhance/33/
 videoSection:
   imageOverlay: 'https://ucarecdn.com/529672e8-e082-475b-bb88-3360acb4912e/'
   title: How your private charter could look...
@@ -93,7 +109,8 @@ columnBanner:
     buttonUrl: ''
     content: ''
     title: ''
-    featuredImage: 'https://ucarecdn.com/4022b0fd-9830-4bab-924b-241eba6926c8/'
+    featuredImage: >-
+      https://ucarecdn.com/17b4668a-b462-4c3f-b247-ed3ef1eaad5e/-/preview/-/enhance/36/
 featuredTestimonials:
   description: 'Bree has been out with us 3 times now, check out her lovely review here...'
   testimonial: 'Bree, Aus'
