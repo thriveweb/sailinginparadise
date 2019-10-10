@@ -4,7 +4,8 @@ slug: ''
 title: ''
 buttonTitle: ''
 buttonUrl: ''
-posterImage: 'https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/'
+posterImage: >-
+  https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview/-/enhance/29/
 hdVideo: >-
   https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: >-
@@ -35,7 +36,8 @@ featuredSlider:
 featuredBanner:
   buttonTitle: Get the kids on the water!
   buttonUrl: posts/the-ultimate-gold-coast-family-holiday-activity/
-  image: 'https://ucarecdn.com/be6b7374-42fe-4c3c-9f56-4a05e54193c5/'
+  image: >-
+    https://ucarecdn.com/1c3762bb-deac-4bb2-a125-5831d7d4bc10/-/preview/-/enhance/50/
   title: School Holidays are here
 services:
   - image: 'https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/'
@@ -46,7 +48,7 @@ services:
         sailing catamarans for an event to be remembered.
       icon: /images/uploads/wheel.svg
       title: Private Boat Hire
-  - image: 'https://ucarecdn.com/7a39bdfd-fe39-4891-b4b7-d8c2ca53d9a1/'
+  - image: 'https://ucarecdn.com/7904ec34-41d8-4a6f-9cd3-3aa9d1860afd/'
     serviceContent:
       buttonUrl: cruise-tickets/
       description: >-
@@ -54,7 +56,8 @@ services:
         in the sunset or sail to an island by day.
       icon: /images/uploads/boat2.svg
       title: Ticketed Cruises
-  - image: 'https://ucarecdn.com/8b52eb78-1a5d-4e8d-b370-673f86813142/'
+  - image: >-
+      https://ucarecdn.com/ecabb807-6406-4b08-a605-e26a7d1d9293/-/preview/-/enhance/20/
     serviceContent:
       buttonUrl: boat-charter/gold-coast-hens-parties/
       description: >-
@@ -66,13 +69,15 @@ services:
 serviceBanner:
   buttonTitle: Find your Perfect Charter
   buttonUrl: boat-charter/
-  featuredImage: 'https://ucarecdn.com/117d8fce-576b-4fe1-9dad-d9f34471faee/'
+  featuredImage: >-
+    https://ucarecdn.com/0b1e7280-9ce8-4d88-992a-e4f93a041c03/-/preview/-/enhance/13/
   subtitle: Let’s Get The Party Started!
   title: Ready to book your Gold Coast Boat Hire?
 secondaryBanner:
   buttonTitle: Know More
   buttonUrl: cruises
-  featuredImage: 'https://ucarecdn.com/56f44beb-7878-4241-9e81-bca565ab969d/'
+  featuredImage: >-
+    https://ucarecdn.com/aced6591-d9d3-44f8-b19c-a0a9671473b4/-/preview/-/enhance/50/
   subtitle: SAVE on Ticketed Cruises
   title: Adults at Kids prices
 aboutSection:
@@ -117,7 +122,7 @@ aboutSection:
 
     On the day you will be greeted with smiles.. and good times will follow.
   featuredImage: >-
-    https://ucarecdn.com/ef63baa0-cab6-40a7-ae8d-1ac5f8348de4/-/crop/5434x3069/0,105/-/preview/
+    https://ucarecdn.com/2c1d7fda-d75d-4133-b44e-efe1fcb5c755/-/preview/-/enhance/19/
   subtitle: Our Boats & Crew
   title: Meet Us
 highlightsIntro: '## PRIVATE CHARTER HIGHLIGHTS'
