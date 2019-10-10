@@ -2,7 +2,8 @@
 template: SingleBoatTour
 tourType: Cruise
 title: Gold Coast Island Cruise
-featuredImage: 'https://ucarecdn.com/a477c53f-47b3-4c35-9d38-f29ce0c52e4f/'
+featuredImage: >-
+  https://ucarecdn.com/90385426-9887-4332-9389-1a4211b34104/-/preview/-/enhance/50/
 intro: >-
   ## gold coast island cruise
 
@@ -39,17 +40,28 @@ bookingIframe: >-
   <iframe seamless="" width="300px" height="400px" frameborder="0" class="rezdy"
   src="https://sailinginparadise.rezdy.com/calendarWidget/265343?iframe=true"></iframe>
 gallery:
-  - image: 'https://ucarecdn.com/ab453f80-ee31-47e9-b9a1-d8050c618756/'
-  - image: 'https://ucarecdn.com/2829ceff-aad9-4f29-b2eb-a139b4e7cb9c/'
-  - image: 'https://ucarecdn.com/d7f25bca-f3b8-4573-bf3e-d50e86547a34/'
-  - image: 'https://ucarecdn.com/a028e189-101c-48d9-bffa-93397f880f92/'
-  - image: 'https://ucarecdn.com/d72195d0-4dae-48cc-b172-218c94958fea/'
-  - image: 'https://ucarecdn.com/1168578d-e606-45ec-aad1-0c067bc70a80/'
-  - image: 'https://ucarecdn.com/b5739643-7be7-48d8-bb30-66836e9c3f30/'
-  - image: 'https://ucarecdn.com/05ae9cce-86dd-4d41-9a63-06507430fb48/'
-  - image: 'https://ucarecdn.com/b316e927-54f2-410c-945b-32f44b9978d4/'
-  - image: 'https://ucarecdn.com/64552680-0c99-4965-bec7-fdda60d56ef5/'
-  - image: 'https://ucarecdn.com/554d4bff-8d80-4cf4-bede-b21ce132ae33/'
+  - image: >-
+      https://ucarecdn.com/279fc1b4-8074-4e4c-b836-3632ff3d6597/-/preview/-/enhance/64/
+  - image: >-
+      https://ucarecdn.com/04d833ad-6334-43e4-af83-658592b32b09/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/83c2a001-9e25-4d5c-ac16-01c312586349/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/1df2e90b-4a80-434a-baf2-df316b155ea1/-/preview/-/enhance/30/
+  - image: >-
+      https://ucarecdn.com/ac03c5de-eeb7-4960-adea-20f4284ddbcd/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/3af10b85-48d4-4283-8a3c-3cddf165c0c9/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/0b4bb3c9-2d65-4d82-9dfb-5be31fc79e88/-/preview/-/enhance/19/
+  - image: >-
+      https://ucarecdn.com/22ecb641-a4d3-4476-b268-b53dc917a9c7/-/preview/-/enhance/81/
+  - image: >-
+      https://ucarecdn.com/da3a53ae-83d4-46d3-9b0b-43d13a93dad7/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/405c3ac4-262d-41c7-a97d-d3941f6c3cc0/-/preview/-/enhance/23/
+  - image: >-
+      https://ucarecdn.com/a87ff58b-7783-4f53-bdd3-f33de7f40e10/-/preview/-/enhance/50/
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ''
@@ -95,7 +107,8 @@ columnBanner:
       new date (if you cannot see your preferred date as available).
     title: Book your Gold Coast Island Cruise Today
     featuredImage: ''
-  - featuredImage: 'https://ucarecdn.com/bf0f3f38-142e-4ba9-b40a-9d299c54ab38/'
+  - featuredImage: >-
+      https://ucarecdn.com/eb0dbf13-8b4a-4386-b9e2-ae289024029d/-/preview/-/enhance/85/
 featuredTestimonials:
   description: >-
     We took Mariella and her friend out to our favourite swimming spot, check
