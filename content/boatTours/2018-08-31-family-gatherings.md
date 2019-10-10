@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Family Charters
 icon: ''
-featuredImage: 'https://ucarecdn.com/9dc97703-5834-4418-9c0c-cd9c0af7b59c/'
+featuredImage: 'https://ucarecdn.com/a87a0211-dfa8-4d84-b6d4-87ababbecf6c/'
 intro: >-
   ## gold coast Family yacht charters
 
@@ -23,22 +23,37 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Ask about chartering a boat for your family on the Gold Coast
 gallery:
-  - image: 'https://ucarecdn.com/647a22b9-b7f5-4d23-88f6-a99ff0582da0/'
-  - image: 'https://ucarecdn.com/5361eaf7-70a8-4641-9835-1bc3ee1c20fb/'
-  - image: 'https://ucarecdn.com/1e0407b9-8360-4655-a134-a18e1b5df498/'
-  - image: 'https://ucarecdn.com/98c63106-e488-45b4-b1be-7f7a5dee194b/'
-  - image: 'https://ucarecdn.com/e3c764cf-b641-4485-869e-082e158d6034/'
-  - image: 'https://ucarecdn.com/9fa2a5c1-c6c5-488d-a285-2a3c37e5b8ce/'
-  - image: 'https://ucarecdn.com/739038df-3c45-4e70-9ba4-82ff4d628170/'
-  - image: 'https://ucarecdn.com/880753f7-5222-4fa2-8e76-3494b2cf6b8b/'
-  - image: 'https://ucarecdn.com/0aca2495-a23c-4c54-9c90-970c223ba307/'
-  - image: 'https://ucarecdn.com/2d785464-153c-4feb-9f39-e286911a33e7/'
-  - image: 'https://ucarecdn.com/ed5040d9-21de-4391-ac95-e16d16d7cba0/'
-  - image: 'https://ucarecdn.com/3170045f-c5d2-46ed-a00e-7745de730f13/'
-  - image: 'https://ucarecdn.com/d7f9c554-a946-403c-84cd-da8b3a0f5c59/'
-  - image: 'https://ucarecdn.com/5ce29b78-7b14-4911-a5e1-ffd49c92751b/'
-  - image: 'https://ucarecdn.com/9721286e-6cac-4932-995b-9833ef1c5fe8/'
-  - image: 'https://ucarecdn.com/7bc31479-2cfe-4fea-983a-b12480f2a7bf/'
+  - image: >-
+      https://ucarecdn.com/cc700503-a014-4961-8580-a33dd56ee748/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/72c2badc-b77b-4a3a-b0b0-fc851cbe5e3c/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/4f63cc38-65c9-4bad-830a-cf3b9c413c46/-/preview/-/enhance/12/
+  - image: >-
+      https://ucarecdn.com/e45f243c-9b3a-4c40-b615-b6946b170f50/-/preview/-/enhance/50/
+  - image: 'https://ucarecdn.com/6e743e38-355a-4605-b57c-2c1ccbc18af3/'
+  - image: >-
+      https://ucarecdn.com/8ae177a1-3c5d-4cad-ba6b-6a1684a2eef7/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/019825e9-7bc2-4c67-86b5-3b1f66ccfed9/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/ef6a2325-de53-4007-a712-e1502b95d129/-/preview/-/enhance/17/
+  - image: >-
+      https://ucarecdn.com/7f0e5b62-2441-42f3-8f67-2ee94243a8d1/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/06df8116-079f-4783-bb10-7a53a1f2314a/-/preview/-/enhance/38/
+  - image: >-
+      https://ucarecdn.com/89f6bee2-0aba-4346-a67b-c2a90a5bc8d2/-/preview/-/enhance/68/
+  - image: >-
+      https://ucarecdn.com/968255bb-4f73-480d-8766-99321f2ca627/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/5a181ef4-94b4-4f14-9b4e-8b7c80410505/-/preview/-/enhance/100/
+  - image: >-
+      https://ucarecdn.com/17cd8650-040f-4cab-adfb-2aefe148c5f8/-/preview/-/enhance/21/
+  - image: >-
+      https://ucarecdn.com/567a2a33-8028-455c-8bc5-407925a6a45b/-/preview/-/enhance/36/
+  - image: >-
+      https://ucarecdn.com/92089020-50ec-4dac-b3eb-dd96db1cc273/-/preview/-/enhance/50/
 videoSection:
   imageOverlay: ''
   video: ''
