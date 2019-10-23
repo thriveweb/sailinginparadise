@@ -15,10 +15,8 @@ featuredSlider:
     description: Experience an unforgettable Christmas Party on the water!
     title: Christmas Party Charters
   - buttonUrl: cruise-tickets
-    description: >-
-      Experience our 3 hour Island Cruise or 2 hour sunset cruise at a special
-      price these holidays!
-    title: Save 20-40% on Island and Sunset Cruise Tickets!
+    description: See our 3 hour Island Cruise or 2 hour ticketed sunset cruise!
+    title: Share your experience and save!
   - buttonUrl: boat-charter/gold-coast-hens-parties/
     description: >-
       We are the hens party specialists. Let us create a truly special event for
