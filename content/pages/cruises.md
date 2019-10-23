@@ -13,26 +13,7 @@ intro: >-
   including Stand Up Paddle-boarding, Inflatables, Beach Volleyball, Snorkels or
   simply relax and take a dip at Wavebreak Island.    At sunset relax on the
   boat's deck with a glass of bubbly and take in the sunset over the Gold Coast
-  hinterland mountains as some cool tunes set the soundtrack.  
-
-
-  > See our current Spring specials 
-
-  >
-
-  > **SAVE 40% on the Sunset Cruise** 
-
-  >
-
-  > and 
-
-  >
-
-  > **SAVE 20% on the Island Cruise**.  
-
-  >
-
-  > Click on your preferred cruise below for promo code.
+  hinterland mountains as some cool tunes set the soundtrack.
 meta:
   description: >-
     Join Our 'Sunset & City Lights Cruise' Or 'Island Cruise' with Sailing In
