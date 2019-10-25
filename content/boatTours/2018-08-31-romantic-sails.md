@@ -4,7 +4,7 @@ tourType: Boat Charter
 title: Gold Coast Romantic Sails
 icon: ''
 featuredImage: >-
-  https://ucarecdn.com/d2d65573-01c7-491e-9b79-2fb05ca1133e/-/crop/6000x3118/0,0/-/preview/
+  https://ucarecdn.com/a511561a-a3ed-4f76-989b-f28bb7d461e8/-/preview/-/enhance/50/
 intro: >-
   ## gold coast Romantic Sails
 
@@ -21,22 +21,38 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Ask us about creating a romantic experience on the water
 gallery:
-  - image: 'https://ucarecdn.com/112e9a71-0890-4641-ba16-3ef0611d2c18/'
-  - image: 'https://ucarecdn.com/f460bdd9-6679-4874-98ae-3baec69e254b/'
-  - image: 'https://ucarecdn.com/b489f183-bc4c-4c7f-ad3a-181d13bd76f7/'
-  - image: 'https://ucarecdn.com/f2090516-7358-4669-9258-06b55fd95a8e/'
-  - image: 'https://ucarecdn.com/9f97899a-4c28-4ac0-9417-29c1f98a654f/'
-  - image: 'https://ucarecdn.com/ce7251c0-46cf-4b01-9c3f-784b1e10606c/'
-  - image: 'https://ucarecdn.com/98716db3-c03e-4ee1-825d-ada8430e6929/'
-  - image: 'https://ucarecdn.com/7c902ebc-5222-477a-9ac0-20b05267d6c5/'
-  - image: 'https://ucarecdn.com/8b8dd092-5bb9-46e2-a913-8580d336e208/'
-  - image: 'https://ucarecdn.com/eb823c26-1f4f-4ac9-ba65-010549cd7314/'
-  - image: 'https://ucarecdn.com/b15ca50d-be5c-47ca-a497-949a13d0d174/'
-  - image: 'https://ucarecdn.com/efc0a12c-108b-481b-a49b-69fb5c908ca4/'
-  - image: 'https://ucarecdn.com/97fc8553-889e-4b2a-ac7d-895e79f347be/'
-  - image: 'https://ucarecdn.com/38b78224-2629-4c8e-801d-6960ae2f8ea5/'
-  - image: 'https://ucarecdn.com/c927653a-c1dd-4f4b-b9b4-4f8de6c7593f/'
-  - image: 'https://ucarecdn.com/a3c7b9c5-bedf-41d8-989f-0a4cbbf74d0e/'
+  - image: >-
+      https://ucarecdn.com/bfadca2a-5bbc-43e3-8a86-0d1c53b2f5cb/-/preview/-/enhance/32/
+  - image: >-
+      https://ucarecdn.com/c07567b0-d897-4b34-a4e2-912d6c2b7be3/-/preview/-/enhance/65/
+  - image: >-
+      https://ucarecdn.com/ed54039c-1ff2-4ebe-b213-cab0c02fdedf/-/preview/-/enhance/17/
+  - image: >-
+      https://ucarecdn.com/7904d3bf-efec-4268-8b49-e22bc725525c/-/preview/-/enhance/15/
+  - image: >-
+      https://ucarecdn.com/7533995e-9f02-458c-a2a2-6261b372207a/-/preview/-/enhance/24/
+  - image: >-
+      https://ucarecdn.com/e926884b-eb80-43b9-beb2-1e0dc59db866/-/preview/-/enhance/70/
+  - image: >-
+      https://ucarecdn.com/a4fc044d-a3f8-4abe-b3b8-065f83e7bab0/-/preview/-/enhance/36/
+  - image: >-
+      https://ucarecdn.com/33dd5bcc-e2e6-4245-b1a1-c9c209077c79/-/preview/-/enhance/32/
+  - image: >-
+      https://ucarecdn.com/067f0e1e-d7d9-49b5-963a-b4a0438d86bd/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/532a611b-cc82-4ae5-bdbb-07b5fd376dc2/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/354ee4a5-d699-4e37-a389-ea6c38f5ee11/-/preview/-/enhance/32/
+  - image: >-
+      https://ucarecdn.com/83c208e5-21c1-484d-8703-112d1c049059/-/preview/-/enhance/50/
+  - image: >-
+      https://ucarecdn.com/acdd7e3e-3dff-452b-8678-0862e71a96a8/-/preview/-/enhance/11/
+  - image: >-
+      https://ucarecdn.com/576fd77d-f901-4e01-94ec-fcf4d095b493/-/preview/-/enhance/31/
+  - image: >-
+      https://ucarecdn.com/c927653a-c1dd-4f4b-b9b4-4f8de6c7593f/-/preview/-/enhance/29/
+  - image: >-
+      https://ucarecdn.com/08d0174d-8ed3-4f42-9455-57e83dc152b5/-/preview/-/enhance/50/
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ''
@@ -203,7 +219,7 @@ columnBanner:
     featuredImage: 'https://ucarecdn.com/ff047696-d270-4df2-b368-61f1443b93b5/'
   - buttonTitle: ''
     featuredImage: >-
-      https://ucarecdn.com/e98f8f7e-49cf-466f-9272-6263fc989671/-/crop/3107x2956/881,0/-/preview/
+      https://ucarecdn.com/ace3d138-0f8b-4468-86e0-38313771f2b3/-/crop/1298x1335/392,0/-/preview/-/enhance/11/
 featuredTestimonials:
   description: >-
     Check out this lovely review from Taryn who chartered a boat for a romantic
