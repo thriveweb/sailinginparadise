@@ -218,7 +218,7 @@ featuredTestimonials:
 meta:
   description: >-
     Celebrate this 2019 Christmas party sailing the beautiful Gold Coast with
-    Sailing in Paradise. Packages for up to 30 people. Call Now 0438915222.
-  title: Gold Coast Christmas Party Cruise | Sailing in Paradise
+    Sailing in Paradise. Packages for up to 5 to 50 people. 
+  title: Gold Coast Christmas Party Boat | Sailing in Paradise
 ---
 
