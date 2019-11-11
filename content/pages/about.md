@@ -150,14 +150,6 @@ crewSection:
         https://ucarecdn.com/cb0d6732-f1ae-47af-a901-97856b14a11c/-/crop/4000x3087/0,1233/-/preview/
       name: 'Ella '
       title: Cruise Hostess
-    - content: >-
-        Our newest recruit.  Anna joins the Sailing in Paradise family with
-        years of hospitality experience under her belt.   A budding photographer
-        and medicine student Anna grew up around boats in coastal England.
-      image: >-
-        https://ucarecdn.com/30cd3292-9404-491f-8e62-15e89aa63e30/-/crop/1067x1253/0,163/-/preview/
-      name: 'Anna '
-      title: Cruise Hostess
   crewIntro: "## Our Crew\n\nThe crew onboard your vessel are such an important aspect of chartering a boat.    Our aim is that you step aboard and feel instantly at ease so we have carefully selected our crew not only for their skill but also their amazing hospitality and fun personalities.   \r\n\nYou don't want a grumpy skipper or sleazy deck crew making you feel uneasy on your special day and rest assured that won’t happen on a charter with us."
 secondaryBanner:
   buttonTitle: Take a Tour
