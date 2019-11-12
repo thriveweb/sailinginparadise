@@ -31,7 +31,7 @@ CMS.registerPreviewTemplate('about-page', ({ entry }) => (
 CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
   <ContactPageTemplate {...entry.getIn(['data']).toJS()} />
 ))
-CMS.registerPreviewTemplate('infoPages', ({ entry }) => (
+CMS.registerPreviewTemplate('defaultPages', ({ entry }) => (
   <DefaultPageTemplate {...entry.getIn(['data']).toJS()} />
 ))
 CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
