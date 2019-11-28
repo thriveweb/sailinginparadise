@@ -32,7 +32,7 @@ featuredSlider:
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
 featuredBanner:
-  buttonTitle: SAVE 50% ON SUNSET CRUISE CHRISTMAS VOUCHERS
+  buttonTitle: SAVE 50% ON SUNSET CRUISE GIFT VOUCHERS
   buttonUrl: cruise/gift-vouchers/
   image: 'https://ucarecdn.com/462783ea-6c48-4c55-ab0e-d97f00286eaa/'
   title: BLACK FRIDAY CRUISE SALE
