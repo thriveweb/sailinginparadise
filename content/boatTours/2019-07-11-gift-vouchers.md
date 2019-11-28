@@ -22,12 +22,19 @@ intro: >-
   sail before returning to Marina Mirage.
 
 
+  ## BLACK FRIDAY SALE!
 
 
-  ## SAVE 40% WHEN YOU BUY VOUCHERS FOR 2 OR MORE GUESTS
+  ## SAVE 50% WHEN YOU BUY 4 OR MORE VOUCHERS.
 
 
-  > Use Promo Code GIFTSPRING at checkout
+  > Perfect Christmas Gift idea...   Once purchased the vouchers can be split
+  individually.  Gift to friends and family or treat yourself to a little
+  Christmas gift too :-)
+
+  >
+
+  > Use Promo Code BLACK FRIDAY at checkout
 bookingIframe: >-
   <iframe seamless="" width="300px" height="1000px" frameborder="0"
   class="rezdy"
