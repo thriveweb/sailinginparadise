@@ -14,7 +14,7 @@ featuredSlider:
   - buttonUrl: boat-charter/gold-coast-christmas-parties/
     description: Experience an unforgettable Christmas Party on the water!
     title: Christmas Party Charters
-  - buttonUrl: gift-vouchers
+  - buttonUrl: cruise/gift-vouchers/
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
   - buttonUrl: boat-charter/gold-coast-hens-parties/
@@ -32,10 +32,10 @@ featuredSlider:
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
 featuredBanner:
-  buttonTitle: Plan your best ever Christmas Celebration!
-  buttonUrl: boat-charter/gold-coast-christmas-parties/
-  image: 'https://ucarecdn.com/381a2c86-8ea0-44e3-bc75-2b6f36ca1dae/'
-  title: CHRISTMAS PARTY SEASON IS HERE
+  buttonTitle: SAVE 50% ON SUNSET CRUISE CHRISTMAS VOUCHERS
+  buttonUrl: cruise/gift-vouchers/
+  image: 'https://ucarecdn.com/462783ea-6c48-4c55-ab0e-d97f00286eaa/'
+  title: BLACK FRIDAY CRUISE SALE
 services:
   - image: 'https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/'
     serviceContent:
