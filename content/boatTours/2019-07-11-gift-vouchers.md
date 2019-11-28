@@ -4,20 +4,17 @@ tourType: Cruise
 title: Gift Vouchers
 featuredImage: 'https://ucarecdn.com/819e674e-12b8-4723-ba3a-8af615941a24/'
 intro: >-
-  ## SAVE 50% WHEN YOU BUY 4 OR MORE VOUCHERS.
-
-
   ## BLACK FRIDAY SALE!
 
 
-  Our Sunset Cruise Gift Vouchers are the perfect Christmas Gift idea.  Once
-  purchased the vouchers can be split individually.  Gift to friends and family
-  or treat yourself to a little Christmas gift too :-)
+  > SAVE 50% WHEN YOU BUY 4 OR MORE VOUCHERS.
 
 
 
 
-  > Use Promo Code BLACK FRIDAY at checkout
+
+
+  > Use Promo Code BLACKFRIDAY at checkout
 
 
 
