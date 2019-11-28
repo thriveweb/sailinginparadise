@@ -21,7 +21,9 @@ meta:
 ---
 This year to say thank you to all of our loyal guests throughout the year, Sailing in Paradise is getting in on the Black Friday action with a never-before-seen deal!
 
-Buy 4 or more sunset cruise gift vouchers and receive 50% off.    Its an unprecedented deal for 2 hours of bliss sailing the Broadwater on a stunning sailing catamaran, bubbly in hand, wind in the sails and the best sunset views on the coast!
+> Buy 4 or more sunset cruise gift vouchers and receive 50% off.    
+
+Its an unprecedented deal for 2 hours of bliss sailing the Broadwater on a stunning sailing catamaran, bubbly in hand, wind in the sails and the best sunset views on the coast!
 
 Your $35 ticket includes 2 hours of relaxed sunset sailing and one complimentary drink on board.  Our friendly crew will be on hand with icy cold coronas and sparkling wine at just $5 a pop if you are still feeling thirsty.  
 
