@@ -10,13 +10,12 @@ intro: >-
   ## BLACK FRIDAY SALE!
 
 
-
-
-  > Our Sunset Cruise Gift Vouchers are the perfect Christmas Gift idea.  Once
+  Our Sunset Cruise Gift Vouchers are the perfect Christmas Gift idea.  Once
   purchased the vouchers can be split individually.  Gift to friends and family
   or treat yourself to a little Christmas gift too :-)
 
-  >
+
+
 
   > Use Promo Code BLACK FRIDAY at checkout
 
