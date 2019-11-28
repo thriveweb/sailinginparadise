@@ -10,27 +10,30 @@ featuredImage: >-
 excerpt: Save 50% on Sunset Cruise Gift Vouchers for Black Friday
 videoSection:
   title: ''
+contentSecondary: >-
+  Cruises can be booked online using the voucher codes provided at time of
+  purchase.  Sunset Cruises are subject to availability and a calendar will be
+  published on the Sailing in Paradise website which is updated regularly.   All
+  other terms and conditions of the sunset cruise product apply.
 meta:
   description: Save 50% on Sunset Cruise Gift Vouchers this Black Friday
   title: Black Friday Sunset Cruise Sale
 ---
-This year Sailing in Paradise is getting in on the Black Friday action with a never-before-seen deal!
+This year to say thank you to all of our loyal guests throughout the year, Sailing in Paradise is getting in on the Black Friday action with a never-before-seen deal!
 
 Buy 4 or more sunset cruise gift vouchers and receive 50% off.    Its an unprecedented deal for 2 hours of bliss sailing the Broadwater on a stunning sailing catamaran, bubbly in hand, wind in the sails and the best sunset views on the coast!
 
-Your $35 ticket includes one complimentary drink on board, and our friendly crew will be on hand with icy cold coronas and sparkling wine at just $5 a pop if you are still feeling thirsty.  
+Your $35 ticket includes 2 hours of relaxed sunset sailing and one complimentary drink on board.  Our friendly crew will be on hand with icy cold coronas and sparkling wine at just $5 a pop if you are still feeling thirsty.  
 
-A sunset cruise is the perfect way to kick off your evening with a range of bars and restaurants available in the Marina Mirage area to kick on to.      Operating most Sunday evenings from late December on-wards, this cruise is ideal for couples and small groups.  
+A sunset cruise is the perfect way to kick off your evening with a range of bars and restaurants available in the Marina Mirage area to head out to on return should you wish.      Operating most Sunday evenings from late December onwards, this cruise is ideal for couples and small groups.  
 
-Sunset Cruise Gift Vouchers are supplied individually so you can split the purchase however you wish once received.     
+Sunset Cruise Gift Vouchers are supplied individually so you can split the purchase however you wish once received.     Our top 3 ways to make the most of this deal;
 
-Why not get a group of friends together for a night on the water?
+1. Get a group of friends together for a night on the water.   Cool tunes and a few cold ones on a boat at sunset for under $50...perfect!
+2. Think Christmas Gifts!!  Vouchers for 2 are perfect for those 'hard-to-buy-for' friends and family.   OK great that's the in-laws sorted for Christmas...
+3. Keep them up your sleeve for visiting friends and relatives in 2020!    Interstate and overseas visitors always adore getting out on the water...plus you get to come along for the ride too ... bonus!
 
-Gift some vouchers to your family (and come along for the ride too)?
-
-Or surprise a happy couple (or two) with a special wedding or anniversary gift?
-
-The options are endless...
+Ticket quantities at this epic discounted rate are extremely limited.  Get in quick.  
 
 > - - -
 >
