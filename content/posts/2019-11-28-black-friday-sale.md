@@ -1,0 +1,47 @@
+---
+template: SinglePost
+title: Black Friday Sale
+status: Published
+date: 2019-11-28T01:35:22.386Z
+categories:
+  - category: News
+featuredImage: >-
+  https://ucarecdn.com/f5e6067b-91e7-423a-9990-cec44f26094d/-/crop/1994x1005/0,187/-/preview/
+excerpt: Save 50% on Sunset Cruise Gift Vouchers for Black Friday
+videoSection:
+  title: ''
+meta:
+  description: Save 50% on Sunset Cruise Gift Vouchers this Black Friday
+  title: Black Friday Sunset Cruise Sale
+---
+This year Sailing in Paradise is getting in on the Black Friday action with a never-before-seen deal!
+
+Buy 4 or more sunset cruise gift vouchers and receive 50% off.    Its an unprecedented deal for 2 hours of bliss sailing the Broadwater on a stunning sailing catamaran, bubbly in hand, wind in the sails and the best sunset views on the coast!
+
+Your ticket includes one complimentary drink on board, and our friendly crew will be on hand with icy cold coronas and sparkling wine at just $5 a pop if you are still feeling thirsty.  
+
+A sunset cruise is the perfect way to kick off your evening with a range of bars and restaurants available in the Marina Mirage area to kick on to.      Operating most Sunday evenings from late December on-wards, this cruise is ideal for couples and small groups.  
+
+Sunset Cruise Gift Vouchers are supplied individually so you can split the purchase however you wish once received.     
+
+Why not get a group of friends together for a night on the water?
+
+Gift some vouchers to your family (and come along for the ride too)?
+
+Or surprise a happy couple (or two) with a special wedding or anniversary gift?
+
+The options are endless...
+
+> ****
+>
+> [**PURCHASE YOUR VOUCHERS HERE**](https://sailinginparadise.com.au/cruise/gift-vouchers/)
+>
+> ****
+>
+> ****
+>
+> [USE PROMO CODE - **BLACKFRIDAY**](https://sailinginparadise.com.au/cruise/gift-vouchers/)
+>
+> ****
+
+![](https://ucarecdn.com/c0e9d990-9f37-4881-b78f-0ac28a3a8366/)
