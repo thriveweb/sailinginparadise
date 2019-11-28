@@ -4,6 +4,25 @@ tourType: Cruise
 title: Gift Vouchers
 featuredImage: 'https://ucarecdn.com/819e674e-12b8-4723-ba3a-8af615941a24/'
 intro: >-
+  ## SAVE 50% WHEN YOU BUY 4 OR MORE VOUCHERS.
+
+
+  ## BLACK FRIDAY SALE!
+
+
+
+
+  > Our Sunset Cruise Gift Vouchers are the perfect Christmas Gift idea.  Once
+  purchased the vouchers can be split individually.  Gift to friends and family
+  or treat yourself to a little Christmas gift too :-)
+
+  >
+
+  > Use Promo Code BLACK FRIDAY at checkout
+
+
+
+
   Give the gift of a beautiful memory!   Your guests will be invited to join us
   for a beautiful 2 hour sunset and city lights cruise on the calm waters of the
   Gold Coast Broadwater.  
@@ -22,19 +41,7 @@ intro: >-
   sail before returning to Marina Mirage.
 
 
-  ## BLACK FRIDAY SALE!
-
-
-  ## SAVE 50% WHEN YOU BUY 4 OR MORE VOUCHERS.
-
-
-  > Perfect Christmas Gift idea...   Once purchased the vouchers can be split
-  individually.  Gift to friends and family or treat yourself to a little
-  Christmas gift too :-)
-
-  >
-
-  > Use Promo Code BLACK FRIDAY at checkout
+  ##
 bookingIframe: >-
   <iframe seamless="" width="300px" height="1000px" frameborder="0"
   class="rezdy"
