@@ -13,8 +13,15 @@ videoSection:
 contentSecondary: >-
   Cruises can be booked online using the voucher codes provided at time of
   purchase.  Sunset Cruises are subject to availability and a calendar will be
-  published on the Sailing in Paradise website which is updated regularly.   All
-  other terms and conditions of the sunset cruise product apply.
+  published on the Sailing in Paradise website which is updated regularly.  
+  Please note that whilst we welcome small groups on board our sunset cruise,
+  for the enjoyment of other guests on board we do limit group sizes to 10.  We
+  ask that groups respect the fact that this is a shared sailing experience and
+  there are often couples on board seeking a more relaxed experience too.   We
+  curate a social environment, however for larger groups and those celebrating a
+  special event you may find that a private charter is a better (and often just
+  as affordable) option which will be more enjoyable for your group.   All other
+  terms and conditions of the sunset cruise product apply.
 meta:
   description: Save 50% on Sunset Cruise Gift Vouchers this Black Friday
   title: Black Friday Sunset Cruise Sale
