@@ -95,7 +95,39 @@ accordionSection:
         follow the map and instructions on our
         [contact-us](https://sailinginparadise.com.au/contact-us/) page.
       title: When and Where to find us
-    - dropdownContent: "•\tIn the event of adverse weather requiring a cancellation of the cruise an SMS will be sent to your registered mobile (please ensure you provide one and check this before departing for the marina).\n\n•\tPlease provide notice of at least 72 hours should you wish to cancel to avoid forfeiture of ticket price.\n\n•\tThere is no BYO on our ticketed cruises however you will receive one complimentary bubbly, beer or soft drink and extra drinks may be purchased on board at very reasonable prices (cash preferred, cards accepted).\n\n•\tSailing in Paradise reserves the right to substitute the vessel if necessary without prior notice.\n\n•\tCruises are subject to weather suitability, the cruise can proceed in many weather conditions but if it is deemed unsafe or overly unpleasant we will not sail as we do want our guests to have a safe and enjoyable experience on board. Guests are able to reschedule or request a refund in this circumstance.\n\n•\tCruises require minimum numbers to depart. In the event of minimum numbers not being met guests will be offered a full refund or the opportunity to reschedule to an alternative date."
+    - dropdownContent: >-
+        In the event of adverse weather requiring a cancellation of the cruise
+        an SMS will be sent to your registered mobile (please ensure you provide
+        one and check this before departing for the marina).
+
+
+        * Whilst we welcome small groups on board our sunset cruise, group sizes
+        are limited to maximum 10 guests.   We ask that groups respect the fact
+        that this is a shared cruise with a relaxed laid-back vibe.   Groups
+        over 10 in size, celebrating a special occasion, or those who prefer to
+        curate a more party vibe would benefit from enquiring about a private
+        charter which can often be just as affordable for larger groups.  
+
+        * Please provide notice of at least 72 hours should you wish to cancel
+        to avoid forfeiture of ticket price.
+
+        * There is no BYO on our ticketed cruises however you will receive one
+        complimentary bubbly, beer or soft drink and extra drinks may be
+        purchased on board at very reasonable prices (cash preferred, cards
+        accepted).
+
+        * Sailing in Paradise reserves the right to substitute the vessel if
+        necessary without prior notice.
+
+        * Cruises are subject to weather suitability, the cruise can proceed in
+        many weather conditions but if it is deemed unsafe or overly unpleasant
+        we will not sail as we do want our guests to have a safe and enjoyable
+        experience on board. Guests are able to reschedule or request a refund
+        in this circumstance.
+
+        * Cruises require minimum numbers to depart. In the event of minimum
+        numbers not being met guests will be offered a full refund or the
+        opportunity to reschedule to an alternative date.
       title: Terms & Conditions
   sectionTitle: need to know
 columnBanner:
