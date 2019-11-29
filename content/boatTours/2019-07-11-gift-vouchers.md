@@ -9,14 +9,9 @@ intro: >-
 
   > SAVE 50% WHEN YOU BUY 4 OR MORE VOUCHERS.
 
-
-
-
-
+  >
 
   > Use Promo Code BLACKFRIDAY at checkout
-
-
 
 
   Give the gift of a beautiful memory!   Your guests will be invited to join us
@@ -27,7 +22,7 @@ intro: >-
   Departing from Marina Mirage aboard a spacious sailing catamaran, the cruise
   includes a complimentary glass of bubbly to enjoy whilst watching the sun sink
   gracefully behind the mountains.    With no more than 30 guests on board this
-  is an intimate cruise with a laid back and fun atmosphere.   
+  is an intimate cruise with a laid back and fun atmosphere. *  
 
 
   There is something very special about watching the sunset from the water and
@@ -37,7 +32,9 @@ intro: >-
   sail before returning to Marina Mirage.
 
 
-  ##
+  \*Please note we do not accept group sizes larger than 10 on board the sunset
+  cruise.  If you have a larger group please enquire about our private charter
+  option.
 bookingIframe: >-
   <iframe seamless="" width="300px" height="1000px" frameborder="0"
   class="rezdy"
