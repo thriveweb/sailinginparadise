@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Black Friday Sale
-status: Published
+status: Draft
 date: 2019-11-28T01:35:22.386Z
 categories:
   - category: News
