@@ -4,16 +4,6 @@ tourType: Cruise
 title: Gift Vouchers
 featuredImage: 'https://ucarecdn.com/819e674e-12b8-4723-ba3a-8af615941a24/'
 intro: >-
-  ## BLACK FRIDAY SALE!
-
-
-  > SAVE 50% WHEN YOU BUY 4 OR MORE VOUCHERS.
-
-  >
-
-  > Use Promo Code BLACKFRIDAY at checkout
-
-
   Give the gift of a beautiful memory!   Your guests will be invited to join us
   for a beautiful 2 hour sunset and city lights cruise on the calm waters of the
   Gold Coast Broadwater.  
