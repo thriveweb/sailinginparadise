@@ -14,20 +14,20 @@ featuredSlider:
   - buttonUrl: boat-charter/gold-coast-christmas-parties/
     description: Experience an unforgettable Christmas Party on the water!
     title: Christmas Party Charters
-  - buttonUrl: cruise/gift-vouchers/
-    description: A beautiful evening on the water at sunset
-    title: Gift the gift of experience
+  - buttonUrl: /cruise/gold-coast-island-cruise/
+    description: 3 hour afternoon cruise with light lunch and beach activities.
+    title: Island Cruise
   - buttonUrl: boat-charter/gold-coast-hens-parties/
     description: >-
       We are the hens party specialists. Let us create a truly special event for
       you and your friends.
     title: Gold Coast Hens Party
+  - buttonUrl: cruise/gift-vouchers/
+    description: A beautiful evening on the water at sunset
+    title: Gift the gift of experience
   - buttonUrl: boat-charter/
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
     title: Private Skippered Boat Hire
-  - buttonUrl: /cruise/gold-coast-island-cruise/
-    description: 3 hour afternoon cruise with light lunch and beach activities.
-    title: Island Cruise
   - buttonUrl: cruise/gold-coast-sunset-city-lights-cruise/
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
