@@ -35,7 +35,7 @@ featuredBanner:
   buttonTitle: A beautiful evening on the water makes the perfect gift!
   buttonUrl: cruise/gift-vouchers/
   image: 'https://ucarecdn.com/462783ea-6c48-4c55-ab0e-d97f00286eaa/'
-  title: CHRISTMAS GIFT VOUCHERS
+  title: GIFT VOUCHERS
 services:
   - image: 'https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/'
     serviceContent:
