@@ -23,7 +23,13 @@ intro: >-
   Gold Coast Broadwater.    
 
 
-  We've got the champagne on ice!
+  BUSHFIRE APPEAL CRUISE - we will be donating 100% of all revenue from our
+  Sunset and City Lights Cruise on Friday 31st January to the Australia Red
+  Cross Disaster Relief and Recovery Appeal to help those in need during and in
+  the aftermath of the Australian Bushfire disaster.    As a small business we
+  want to do something to help and will donate all proceeds (including ticket
+  and bar sales) from this evening.    Please join us and help with the
+  fundraising efforts.
 contentBox:
   buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
   buttonUrl: booking-enquiry
