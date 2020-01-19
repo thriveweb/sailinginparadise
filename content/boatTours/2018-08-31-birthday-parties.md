@@ -213,7 +213,12 @@ accordionSection:
         Q. What happens if it's raining?
 
 
-        A. Check out our wet weather policy HERE.
+        A. First of all remember...a little rain doesn't stop a great party on
+        our boats ha ha... But do rest assured that we have a very generous wet
+        weather policy as we want you to enjoy your time on board the boat, so
+        if there is torrential rain or storms at the time you will be able to
+        cancel or reschedule your cruise. Please see the full booking policy
+        provided with your invoice for full details or contact our team.
 
 
         Q. I sometimes get seasick, are there waves?
@@ -237,11 +242,10 @@ accordionSection:
         Q. How do I book?
 
 
-        A. Fill out an enquiry form HERE and you will quickly get all the info
-        you need including availability, pricing, inclusions etc. Then it is
-        simply a matter of paying your deposit to secure your preferred date.
-        But don't dawdle as we quickly book out and we don't want you to be
-        disappointed.
+        A. Fill out an enquiry form and you will quickly get all the info you
+        need including availability, pricing, inclusions etc. Then it is simply
+        a matter of paying your deposit to secure your preferred date. But don't
+        dawdle as we quickly book out and we don't want you to be disappointed.
 
 
         Q. Why should we choose you over another operator?
