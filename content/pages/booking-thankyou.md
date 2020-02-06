@@ -8,14 +8,15 @@ intro: >-
   ## Success
 
 
-  Thank you for enquiring about a cruise with sailing in paradise, we will be in
-  touch very soon.
+  Thank you for enquiring about a cruise with sailing in paradise, we'll reply
+  to your enquiry personally (usually within 1 working day).     We can't wait
+  to welcome you on board!
 
 
   .
 
 
-  > With Hotmail, Outlook or Live?   Be sure to check your junk mail folder as
-  they aren't our friends at the moment :-(
+  > PS.  Are you with Hotmail, Outlook or Live?   Be sure to check your junk
+  mail folder.
 ---
 
