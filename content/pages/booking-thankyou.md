@@ -10,5 +10,12 @@ intro: >-
 
   Thank you for enquiring about a cruise with sailing in paradise, we will be in
   touch very soon.
+
+
+  .
+
+
+  > With Hotmail, Outlook or Live?   Be sure to check your junk mail folder as
+  they aren't our friends at the moment :-(
 ---
 
