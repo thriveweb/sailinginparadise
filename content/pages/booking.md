@@ -9,6 +9,7 @@ intro: >-
 
 
   Give us the lowdown on your cruise plans and we'll have some info and pricing
-  with you asap.
+  with you asap.    We reply to your enquiry personally (usually within 1
+  working day)...be sure to check your junk mail folder too!
 ---
 
