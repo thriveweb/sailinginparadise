@@ -13,7 +13,7 @@ First and foremost our main priority as a business is to follow government guide
 
 Thankfully we are lucky enough to work in the beautiful Queensland sunshine and ocean waters (rather than in a confined indoor space) but nevertheless we have put some additional steps in place to ensure a safe and sanitary environment at this time;
 
-* We will be re-scheduling some bookings to allow extra time for cleaning and sanitization between charters. 
+* We will be re-scheduling some bookings slightly to allow extra time for cleaning and sanitization between charters. 
 * We have added extra cleaning routines and disinfecting on board the vessels, particularly around high touch points on the boat. 
 * We have hand sanitiser available for guests/crew on board the boat.   
 * We have cancelled our ticketed tourist cruises at this time, with boats only available for private charters (generally local guests).
