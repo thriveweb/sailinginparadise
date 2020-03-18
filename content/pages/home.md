@@ -14,6 +14,11 @@ featuredSlider:
   - buttonUrl: boat-charter/
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
     title: Private Skippered Boat Hire
+  - buttonUrl: boat-charter/gold-coast-family-charters/
+    description: >-
+      Hire a private yacht for your small family group to enjoy our beautiful
+      waterways and the Queensland sunshine!
+    title: Small family day charters
   - buttonUrl: boat-charter/gold-coast-hens-parties/
     description: >-
       We are the hens party specialists. Let us create a truly special event for
@@ -28,11 +33,6 @@ featuredSlider:
   - buttonUrl: cruise/gift-vouchers/
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
-  - buttonUrl: boat-charter/gold-coast-family-charters/
-    description: >-
-      Hire a private yacht for your small family group to enjoy our beautiful
-      waterways and the Queensland sunshine!
-    title: Small family day charters
 featuredBanner:
   buttonTitle: An update on our outdoor sailing operations at this time
   buttonUrl: posts/sailing-during-covid-19-pandemic/
