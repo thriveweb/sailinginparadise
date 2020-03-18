@@ -9,9 +9,11 @@ featuredImage: 'https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/'
 videoSection:
   title: ''
 ---
-First and foremost our main priority as a business is to follow government guidelines and keep people safe including our most vulnerable.    We have made the decision to continue operating at this time and will be reviewing this daily as new information comes to hand.
+So, in this crazy, crazy world we are living in, it is business as usual for Sailing in Paradise… Well, for the most part...    
 
-Thankfully we are lucky enough to work in the beautiful Queensland sunshine and ocean waters (rather than in a confined indoor space) but nevertheless we have put some additional steps in place to ensure a safe and sanitary environment at this time;
+We are lucky enough to work in the salt air and the beautiful Queensland sunshine (rather than a confined space), but nevertheless, do feel it is the responsibility of every person, and every business to slow the spread of this virus.  
+
+So we have put some additional steps in place to ensure a safe and sanitary environment at this time;
 
 * We will be re-scheduling some bookings slightly to allow extra time for cleaning and sanitization between charters. 
 * We have added extra cleaning routines and disinfecting on board the vessels, particularly around high touch points on the boat. 
