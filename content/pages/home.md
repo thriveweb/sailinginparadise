@@ -11,9 +11,6 @@ hdVideo: >-
 mobileVideo: >-
   https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
-  - buttonUrl: /cruise/gold-coast-island-cruise/
-    description: 3 hour afternoon cruise with light lunch and beach activities.
-    title: Island Cruise
   - buttonUrl: boat-charter/
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
     title: Private Skippered Boat Hire
@@ -25,9 +22,17 @@ featuredSlider:
   - buttonUrl: cruise/gold-coast-sunset-city-lights-cruise/
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
+  - buttonUrl: /cruise/gold-coast-island-cruise/
+    description: 3 hour afternoon cruise with light lunch and beach activities.
+    title: Island Cruise
   - buttonUrl: cruise/gift-vouchers/
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
+  - buttonUrl: boat-charter/gold-coast-family-charters/
+    description: >-
+      Hire a private yacht for your small family group to enjoy our beautiful
+      waterways and the Queensland sunshine!
+    title: Small family day charters
 featuredBanner:
   buttonTitle: An update on our outdoor sailing operations at this time
   buttonUrl: posts/sailing-during-covid-19-pandemic/
