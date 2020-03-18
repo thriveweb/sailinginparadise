@@ -27,3 +27,7 @@ Thankfully we are lucky enough to work in the beautiful Queensland sunshine and 
 The Sailing in Paradise family have chosen to remain positive at this time and we honestly feel that this is something we can get through together as a community.    Stay strong, keep giving off the good vibes, support local business...and get some sunshine!! :-)   
 
 We appreciate your custom and look forward to welcoming you on board.
+
+
+
+\*some date exclusions may apply
