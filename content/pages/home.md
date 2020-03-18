@@ -29,10 +29,10 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: A beautiful evening on the water makes the perfect gift!
-  buttonUrl: cruise/gift-vouchers/
-  image: 'https://ucarecdn.com/462783ea-6c48-4c55-ab0e-d97f00286eaa/'
-  title: GIFT VOUCHERS
+  buttonTitle: An update on our outdoor sailing operations at this time
+  buttonUrl: test
+  image: 'https://ucarecdn.com/6f3cb75d-8fe0-4988-8c47-97035026ff12/'
+  title: SAILING DURING COVID-19
 services:
   - image: 'https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/'
     serviceContent:
