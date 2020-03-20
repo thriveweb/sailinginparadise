@@ -30,6 +30,4 @@ The Sailing in Paradise family have chosen to remain positive at this time and w
 
 We appreciate your custom and look forward to welcoming you on board.
 
-
-
-\*some date exclusions may apply
+\*some date exclusions apply
