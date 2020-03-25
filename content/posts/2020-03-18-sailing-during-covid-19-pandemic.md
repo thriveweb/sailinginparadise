@@ -11,7 +11,15 @@ videoSection:
 ---
 UPDATE 24 MARCH 2020
 
-The party is over…at least for a while… ⛵️ In light of the continuing escalation of the COVID-19 health crisis, as per government advice we will be discontinuing all group gatherings and tours for at least the next 4 weeks. It is truly heart-breaking to witness what is happening throughout the world… We have spent the last 9 years bringing people together, celebrating and creating memories on the water however we realise this thing is bigger than all of us and we wish to do our part to stop the spread.    We will continue to follow government advice and look forward to seeing you all on the other side of this for good times on the water ☀️🌴💦. Stay safe, stay home and please find ways to support your local small businesses at this time. 
+The party is over…at least for a while… ⛵️ In light of the continuing escalation of the COVID-19 health crisis, as per government advice we will be discontinuing all group gatherings and tours for at least the next 4 weeks. 
+
+It is truly heart-breaking to witness what is happening throughout the world and our thoughts and prayers go out to all those affected by the disease.   
+
+We have spent the last 9 years bringing people together, celebrating and creating memories on the water however we realise this thing is bigger than all of us and we wish to do our part to stop the spread.    
+
+We will continue to follow government advice and look forward to seeing you all on the other side of this for good times on the water ☀️🌴💦. 
+
+Until then stay safe, stay home and please find ways to support your local small businesses at this time. 
 
 From the Sailing in Paradise Team xxx
 
