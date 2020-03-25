@@ -9,7 +9,15 @@ featuredImage: 'https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/'
 videoSection:
   title: ''
 ---
-So, in this crazy, crazy world we are living in, it is business as usual for Sailing in Paradise… Well, for the most part...    
+UPDATE 24 MARCH 2020
+
+The party is over…at least for a while… ⛵️ In light of the continuing escalation of the COVID-19 health crisis, as per government advice we will be discontinuing all group gatherings and tours for at least the next 4 weeks. It is truly heart-breaking to witness what is happening throughout the world… We have spent the last 9 years bringing people together, celebrating and creating memories on the water however we realise this thing is bigger than all of us and we wish to do our part to stop the spread.    We will continue to follow government advice and look forward to seeing you all on the other side of this for good times on the water ☀️🌴💦. Stay safe, stay home and please find ways to support your local small businesses at this time. 
+
+From the Sailing in Paradise Team xxx
+
+![](https://ucarecdn.com/be2b0a9d-0485-43e8-a0a0-d14184dd5046/-/crop/1080x588/0,0/-/preview/)
+
+18 MARCH 2020
 
 We are lucky enough to work in the salt air and the beautiful Queensland sunshine (rather than a confined space), but nevertheless, do feel it is the responsibility of every person, and every business to slow the spread of this virus.  
 
