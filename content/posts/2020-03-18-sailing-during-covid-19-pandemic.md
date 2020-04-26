@@ -9,6 +9,16 @@ featuredImage: 'https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/'
 videoSection:
   title: ''
 ---
+UPDATE 26 APRIL 2020
+
+We are delighted to announce we will be back on the water from Saturday 2nd May offering charters for small family household groups and couples.   This is in line with current QLD government advice.  
+
+[Please enquire about our special last minute rates here.](/booking-enquiry)
+
+We have procedures in place to ensure sanitation of the vessels and our crew will respect social distancing on board...  [Please take a tour of our spacious boats here.](/our-boats/)    There is lots of room available for you to spread out on board and enjoy the fresh air and our beautiful Gold Coast waterways.  
+
+![](https://ucarecdn.com/6074dbca-9ce6-4fab-8c38-90687abb6f03/-/crop/1080x1082/0,413/-/preview/)
+
 UPDATE 24 MARCH 2020
 
 The party is over…at least for a while… ⛵️ In light of the continuing escalation of the COVID-19 health crisis, as per government advice we will be discontinuing all group gatherings and tours for at least the next 4 weeks. 
