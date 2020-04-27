@@ -11,7 +11,7 @@ videoSection:
 ---
 UPDATE 26 APRIL 2020
 
-We are hoping to be back on the water very soon offering charters for small family household groups and couples.   This is in line with current QLD government advice.  
+We are hoping to be back on the water very soon.  We initially expect to be offering charters for small family household groups and couples.   Followed by larger numbers as time passes in line with goverment guidelines.  
 
 [Please enquire about our special last minute rates here.](/booking-enquiry)
 
