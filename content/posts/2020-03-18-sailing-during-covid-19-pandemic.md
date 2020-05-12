@@ -9,9 +9,9 @@ featuredImage: 'https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/'
 videoSection:
   title: ''
 ---
-UPDATE 26 APRIL 2020
+UPDATE 13 MAY 2020
 
-We are hoping to be back on the water very soon.  We initially expect to be offering charters for small family household groups and couples.   Followed by larger numbers as time passes in line with government guidelines.  
+We are thrilled to announce we are available for charter from Friday 15th May for groups of up to 10 guests.    We are so excited to be back on the water, enjoying our beautiful Gold Coast waterways!   
 
 [Please enquire about our special last minute rates here.](/booking-enquiry)
 
