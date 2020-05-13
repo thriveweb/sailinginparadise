@@ -11,7 +11,7 @@ videoSection:
 ---
 UPDATE 13 MAY 2020
 
-We are thrilled to announce we are available for charter from Friday 15th May for groups of up to 10 guests.    We are so excited to be back on the water, enjoying our beautiful Gold Coast waterways!   
+We are thrilled to announce we are available for charter from Friday 15th May for groups of up to 10 guests.    We are so excited to be back on the water!   
 
 [Please enquire about our special last minute rates here.](/booking-enquiry)
 
