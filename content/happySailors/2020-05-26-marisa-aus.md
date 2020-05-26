@@ -10,16 +10,14 @@ videoSection:
 secondaryImage: >-
   https://ucarecdn.com/3372826a-2e92-4f62-a44d-804ff7994bde/-/preview/-/enhance/14/
 excerpt: >-
-  Sailing in Paradise delivered a wonderful experience my guests and I on the
+  "Sailing in Paradise delivered a wonderful experience my guests and I on the
   Spirit of Gwonda as I celebrated a big milestone! The feedback from all my
-  guests was that it was a great night and we all had the best time. 
-
-
-  From a personal perspective, Jess took all the stress away from organising the
-  event. The service and offerings along with a beautiful cruise of the
-  Broadwater exceeded my expectations. I appreciate everything they did for me
-  and will definitely recommend Sailing in Paradise to everybody and look
-  forward to enjoying another charter sometime soon.
+  guests was that it was a great night and we all had the best time.  From a
+  personal perspective, Jess took all the stress away from organising the event.
+  The service and offerings along with a beautiful cruise of the Broadwater
+  exceeded my expectations. I appreciate everything they did for me and will
+  definitely recommend Sailing in Paradise to everybody and look forward to
+  enjoying another charter sometime soon." Trip Advisor
 gallery:
   - image: >-
       https://ucarecdn.com/a7acc313-6964-4ae8-b420-ac18eafbe21e/-/preview/-/enhance/13/
