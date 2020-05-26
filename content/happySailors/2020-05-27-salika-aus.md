@@ -10,13 +10,14 @@ videoSection:
 secondaryImage: >-
   https://ucarecdn.com/fc33983d-6032-4daa-b0df-edc095f1e961/-/preview/-/enhance/44/
 excerpt: >-
-  My bridesmaids surprised me with my hens party with Sailing In Paradise and I
+  "My bridesmaids surprised me with my hens party with Sailing In Paradise and I
   seriously had the best time! They were so helpful and my MoH said that they
   made organising it super easy as they were very helpful and accommodating. We
   cruised around the Broadwater and then stopped on an island and went for a
   swim. They had floaties and SUP's that we could use. They also had a camera
   and took plenty of pictures and sent them all to us via email as well! Would
-  definitely love to go on another sail with them! Thanks for everything guys!
+  definitely love to go on another sail with them! Thanks for everything guys!"
+  Google Review
 gallery:
   - image: >-
       https://ucarecdn.com/f4816655-6c24-4970-b73a-62915562e99c/-/preview/-/enhance/32/
