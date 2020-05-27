@@ -4,7 +4,7 @@ title: 'Marisa, Aus'
 cruiseType: Private Charter
 date: 2019-12-09T14:00:00.000Z
 featuredImage: >-
-  https://ucarecdn.com/92edd425-fae5-4bde-9365-a02b3a9eb5c0/-/preview/-/enhance/17/
+  https://ucarecdn.com/0b42af43-12ea-4569-aa9c-acd5d8827484/-/crop/1762x1143/38,57/-/preview/-/enhance/16/
 videoSection:
   title: ''
 secondaryImage: >-
