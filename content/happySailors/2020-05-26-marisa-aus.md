@@ -32,4 +32,4 @@ gallery:
   - image: >-
       https://ucarecdn.com/92cac79a-8e30-4f8a-9a21-ee5f7ffe3308/-/preview/-/enhance/20/
 ---
-It makes us so happy to help our guests celebrate their amazing achievements in life and ensure it will be a memorable experience for them, just like it was for Marisa who organised a private charter with us to celebrate her graduation.
+It makes us so happy to help our guests celebrate their amazing achievements in life! We strive to create a memorable experience for them, just like it was for Marisa who organised a private charter with us to celebrate her graduation.
