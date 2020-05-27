@@ -3,8 +3,7 @@ template: SingleCaseStudy
 title: 'Marisa, Aus'
 cruiseType: Private Charter
 date: 2019-12-09T14:00:00.000Z
-featuredImage: >-
-  https://ucarecdn.com/0b42af43-12ea-4569-aa9c-acd5d8827484/-/crop/1762x1143/38,57/-/preview/-/enhance/16/
+featuredImage: 'https://ucarecdn.com/e135dfea-d5ff-46c7-97c9-0f7a1fbe07c3/'
 videoSection:
   title: ''
 secondaryImage: >-
