@@ -1,6 +1,6 @@
 ---
 template: SingleCaseStudy
-title: Shaliesha
+title: 'Shaliesha, Aus'
 cruiseType: Hen's Parties
 date: 2019-07-26T14:00:00.000Z
 featuredImage: >-
