@@ -21,8 +21,6 @@ UPDATE 13 MAY 2020
 
 We are thrilled to announce we are available for charter from Friday 15th May for groups of up to 10 guests.    We are so excited to be back on the water!   
 
-[Please enquire about our special last minute rates here.](/booking-enquiry)
-
 We have procedures in place to ensure sanitation of the vessels and our crew will respect social distancing on board...  [Please take a tour of our spacious boats here.](/our-boats/)    There is lots of room available for you to spread out on board and enjoy the fresh air and our beautiful Gold Coast waterways.  
 
 ![](https://ucarecdn.com/6074dbca-9ce6-4fab-8c38-90687abb6f03/-/crop/1080x1082/0,413/-/preview/)
