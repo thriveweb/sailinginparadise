@@ -9,11 +9,11 @@ intro: >-
 
   We are friendly and we love to chat!   If you are making an enquiry for the
   first time we suggest completing the enquiry form located
-  [HERE](https://sailinginparadise.com.au/booking-enquiry) on our website
-  and we will then send through info for you to read at your leisure.   If you
-  have any specific questions not covered in the reply email, perhaps check out
-  the FAQ's on each page, drop us an email or give us a bell!   We look forward
-  to talking with you!
+  [HERE](https://sailinginparadise.com.au/booking-enquiry) on our website and we
+  will then send through info for you to read at your leisure.   If you have any
+  specific questions not covered in the reply email, perhaps check out the FAQ's
+  on each page, drop us an email or give us a bell!   We look forward to talking
+  with you!
 secondaryBanner:
   buttonTitle: Book or enquire now
   buttonUrl: booking-enquiry
@@ -27,15 +27,16 @@ meta:
     222.
   title: Gold Coast Boast Hire | Contact Us | Sailing in Paradise
 ---
-
 ### FIND US AT MARINA MIRAGE
 
 We are conveniently located at Marina Mirage, 74 Seaworld Drive, Main Beach. There is plentiful free parking which you are invited to use alongside and beneath the Marina Mirage Shopping Centre.
 
 ### HOW TO FIND THE BOAT AT THE MARINA
 
-When you reach Marina Mirage you will need to find the boat!! The access to our wharf is located near the Ray White Marine Office. **Please enter through the BLACK GATES (you will see our sign here on your left) and follow the walkway down to the floating wharf. This is the D Arm of Marina Mirage (you will also see a map of the marina on your left before entering these gates).**
+Marina Mirage are currently undergoing works on the commercial arm of their marina.  As such our vessels are being occasionally relocated within the marina.  We recommend checking back prior to your charter to confirm current vessel location (please disregard the adjacent map on this page).
 
-Please **DO NOT** go down the pier with the big yellow arches as that is Mariners Cove and you will not be able to access the boat easily from this side.
+At present you will find our vessels located adjacent to the gold Coast Ferry Terminal.  The location is indicated by a blue star on the aerial photo below.  
+
+![](https://ucarecdn.com/f9bbe07a-c195-4e85-99d3-4c8840e553ea/)
 
 If you can’t find us you can always call us and we will be happy to guide you.
