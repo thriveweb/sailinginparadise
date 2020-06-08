@@ -11,7 +11,7 @@ videoSection:
 ---
 UPDATE 1 JUNE 2020
 
-In line with government directions we can now offer charters for up to 20 guests.  
+In line with government directions we can now offer charters for up to 20 guests.  We look forward to welcoming you on board.  
 
 [Please enquire about our special last minute rates here.](/booking-enquiry)
 
