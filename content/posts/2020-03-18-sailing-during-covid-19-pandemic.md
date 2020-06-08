@@ -9,6 +9,14 @@ featuredImage: 'https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/'
 videoSection:
   title: ''
 ---
+UPDATE 1 JUNE 2020
+
+In line with government directions we can now offer charters for up to 20 guests.  
+
+[Please enquire about our special last minute rates here.](/booking-enquiry)
+
+
+
 UPDATE 13 MAY 2020
 
 We are thrilled to announce we are available for charter from Friday 15th May for groups of up to 10 guests.    We are so excited to be back on the water!   
