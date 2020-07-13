@@ -25,6 +25,8 @@ In response to the COVID pandemic;
 * We encourage our guests who are BYO food and drinks to follow to avoid food and drink sharing and instead bring individually portioned food and drinks.  
 * In the current health situation we are altering the usual cancellation policy and allowing guests unable to attend due to COVID-19 government lockdown to reschedule their cruise for a new date within 18 months of their original charter date with no penalty*.    We ask that guests contact us directly to discuss individual circumstances as we are happy to work together to come to a solution.  
 
+![](https://ucarecdn.com/7a46aa56-ac90-4181-b7c5-ee57acf1182c/)
+
 UPDATE 1 JUNE 2020
 
 In line with government directions we can now offer charters for up to 20 guests.  We look forward to welcoming you on board.  
