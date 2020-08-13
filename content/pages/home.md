@@ -34,7 +34,7 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: An update on our outdoor sailing operations at this time
+  buttonTitle: An update on our outdoor sailing operations at this time.
   buttonUrl: posts/sailing-during-covid-19-pandemic/
   image: 'https://ucarecdn.com/6f3cb75d-8fe0-4988-8c47-97035026ff12/'
   title: SAILING DURING COVID-19
