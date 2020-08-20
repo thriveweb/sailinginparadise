@@ -25,10 +25,12 @@ if (typeof window !== 'undefined') {
     }
   
     // check for netlifyIdentity, redirect to admin if user is logging in
+    /*
     if (window.localStorage && window.netlifyIdentity) {
       window.netlifyIdentity.on('login', function() {
         document.location.reload()
       })
     }
+    */
   }
   
