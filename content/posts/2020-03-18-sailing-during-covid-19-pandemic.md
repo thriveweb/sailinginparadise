@@ -5,10 +5,20 @@ status: Published
 date: 2020-03-18T02:29:35.464Z
 categories:
   - category: News
-featuredImage: 'https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/'
+featuredImage: https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/
 videoSection:
-  title: ''
+  title: ""
 ---
+UPDATE 28 AUG
+
+Sailing in Paradise operates under the Industry Covid Safe Checklist for vehicles and vessels under 50 people.    
+
+We continue to offer private charters in the beautiful Gold Coast sunshine and look forward to welcoming you on board.  Groups of up to 20 guests (on the Seawind 1000XL) or 30 guests (on Spirit of Gwonda) are welcome on board at this time.  
+
+BYO is welcome within recommended COVID safe guidelines provided at time of booking.  COVID Safe catering options are also available.  
+
+
+
 UPDATE 3 JULY
 
 We are delighted to be back to full capacity on our vessels as of 3 July.   Our vessels are spacious and open plan and we are lucky enough to spend our days in the sunshine, ocean breezes and the beautiful QLD fresh air.  We look forward to sharing this experience with you.
