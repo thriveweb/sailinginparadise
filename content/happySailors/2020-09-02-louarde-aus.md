@@ -2,7 +2,7 @@
 template: SingleCaseStudy
 title: Louarde, AuS
 cruiseType: Hen's Parties
-date: 2020-10-05T14:00:00.000Z
+date: 2019-10-09T14:00:00.000Z
 featuredImage: https://ucarecdn.com/070b1ff1-13e1-4e44-8bc5-63c45e5f81bf/-/preview/-/enhance/42/
 videoSection:
   title: ""
