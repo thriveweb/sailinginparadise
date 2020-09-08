@@ -273,7 +273,7 @@ featuredTestimonials:
     Christmas Party with us...
   testimonial: "RACEVIEW STATE SCHOOL, Aus "
 meta:
-  description: "Celebrate this 2019 Christmas party sailing the beautiful Gold
+  description: "Celebrate this 2020 Christmas party sailing the beautiful Gold
     Coast with Sailing in Paradise. Packages for up to 5 to 50 people. "
   title: Gold Coast Christmas Party Boat | Sailing in Paradise
 ---
