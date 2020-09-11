@@ -9,9 +9,9 @@ address: |-
 
   We are located at Mariner's Cove, 60-70 Seaworld Drive, Main Beach
 hours: |-
-  **OFFICE HOURS** 9AM - 5PM
+  **OFFICE HOURS** (via phone) 9AM - 5PM
 
-  **SAILING HOURS** 6AM - Midnight
+  **SAILING HOURS** (pre-booking required) 6AM - Midnight
 map: https://ucarecdn.com/9e27bc3c-3d64-4591-8fc3-7fbd8be00ba3/
 socialMedia:
   facebook: https://www.facebook.com/sailinginparadise
