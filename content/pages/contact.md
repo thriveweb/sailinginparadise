@@ -28,6 +28,6 @@ We are conveniently located at Mariner's Cove, 60-70 Seaworld Drive, Main Beach.
 
 Please take the jetty with the big yellow archway.  You will find us half way along on the left hand side.  
 
-![](https://ucarecdn.com/d264f1e2-ae43-4be4-b1a1-605fdae7ee75/)
+![]()
 
 If you can’t find us you can always call us and we will be happy to guide you.
