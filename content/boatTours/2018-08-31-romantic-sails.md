@@ -9,6 +9,11 @@ intro: >-
 
 
   If you are celebrating a wedding anniversary, birthday, Valentines Day or looking to impress a special date, trust us when we say, there is honestly nothing more romantic than setting sail on your own private yacht.    Imagine lazing back in the sunshine sipping on champagne, waves lapping beneath you, the sounds of your favourite tunes filling the air as the wind fills the sails.  Sounds blissful right?   There are serious brownie points up for grabs with this date idea and as a bonus you get to have fun too!
+
+
+
+
+  Our mid-week sunset yacht charter is a popular option for romantic date nights on the Gold Coast and can be booked online.  We can also offer daytime sails and weekend options so please feel free to click on the booking/enquiry tab above should you wish to receive more info and discuss other charter options.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
