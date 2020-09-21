@@ -130,13 +130,19 @@ latestNews: >-
   ## Latest News
 
 
-  June and July - 2019.  
+  ![](https://ucarecdn.com/fa38b07d-cd9a-412b-97b7-35cdd487cf89/)
 
 
-  > It's Winter...but Gold Coast Style
+  Hit the water with the kids these School Holidays!
 
 
-  Winter on the Gold Coast brings crisp, blue skies, plenty of sunshine, crystal clear waters and some amazing sailing weather.  Plus you will find our best value rates of the year on offer in June and July.  So gather your crew and hit us up for a charter.   #noexcuseneeded
+  > Come aboard with Sailing in Paradise – a fun experience for the whole family!
+
+
+  Trying to coordinate things to do on the Gold Coast can be tough when trying to please a whole family. We aim to provide a stress-free day that gets the kids active and enjoying the outdoors while the parents enjoy a beautiful day on the water.
+
+
+  [Read Blog](the-ultimate-gold-coast-family-holiday-activity/)
 meta:
   description: Sailing In Paradise |Gold Coast boat hire. Unique sailing
     catamarans offering private cruises for up to 50 people. | Call 0438 915
