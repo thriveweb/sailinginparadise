@@ -34,7 +34,7 @@ navItems:
       - optionalTitle: Sightseeing
         title: Gold Coast Sightseeing
       - title: Last Minute Charters
-        optionalTitle: Last Minute Charters
+        optionalTitle: "Last Minute "
     title: Boat Charter
   - title: Our Boats
   - title: About Us
