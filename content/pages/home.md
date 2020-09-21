@@ -43,7 +43,7 @@ services:
       title: Private Boat Hire
   - image: https://ucarecdn.com/7904ec34-41d8-4a6f-9cd3-3aa9d1860afd/
     serviceContent:
-      buttonUrl: last-minute-charters/
+      buttonUrl: boat-charter/last-minute-charters/
       description: Join Sailing in Paradise on a private charter and explore the Gold
         Coast Broadwater with your closest friends or family.
       icon: /images/uploads/boat2.svg
