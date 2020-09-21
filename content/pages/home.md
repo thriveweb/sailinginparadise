@@ -130,7 +130,7 @@ latestNews: >-
   ## Latest News
 
 
-  ![](https://ucarecdn.com/fa38b07d-cd9a-412b-97b7-35cdd487cf89/)
+  ![]()
 
 
   Hit the water with the kids these School Holidays!
@@ -142,7 +142,7 @@ latestNews: >-
   Trying to coordinate things to do on the Gold Coast can be tough when trying to please a whole family. We aim to provide a stress-free day that gets the kids active and enjoying the outdoors while the parents enjoy a beautiful day on the water.
 
 
-  [Read Blog](the-ultimate-gold-coast-family-holiday-activity/)
+  [Read Blog](posts/the-ultimate-gold-coast-family-holiday-activity/)
 meta:
   description: Sailing In Paradise |Gold Coast boat hire. Unique sailing
     catamarans offering private cruises for up to 50 people. | Call 0438 915
