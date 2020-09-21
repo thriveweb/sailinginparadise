@@ -9,7 +9,7 @@ navItems:
       - optionalTitle: Gift Vouchers
         title: Gift Vouchers
     title: Cruise Tickets
-  - optionalTitle: ''
+  - optionalTitle: ""
     subNavItems:
       - optionalTitle: Birthday Parties
         title: Gold Coast Birthday Parties
@@ -33,6 +33,8 @@ navItems:
         title: Gold Coast Private Charters
       - optionalTitle: Sightseeing
         title: Gold Coast Sightseeing
+      - title: Last Minute Charters
+        optionalTitle: Last Minute Charters
     title: Boat Charter
   - title: Our Boats
   - title: About Us
@@ -42,4 +44,3 @@ navItems:
       - title: Contact Us
     title: More
 ---
-
