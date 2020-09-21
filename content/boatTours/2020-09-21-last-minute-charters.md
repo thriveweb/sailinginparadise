@@ -8,7 +8,7 @@ intro: >-
   ##### Looking to sail mid-week with a smaller group?
 
 
-  We occasionally offer special last minute rates on our Seawind 1000XL
+  We occasionally offer special last minute rates on our Seawind 1000XL for groups of up to 10 guests.
 
 
   ![](https://ucarecdn.com/71ea2e47-98ab-4951-b7d4-f056671620e0/)
@@ -30,8 +30,6 @@ intro: >-
   * Access to Spotify account
 
   * Lots of fun!
-
-
 
 
   ### Do you have special requests?
