@@ -261,7 +261,7 @@ accordionSection:
       title: Christmas Party FAQ's
     - title: Christmas Party Pricing
       dropdownContent: "[DOWNLOAD CHRISTMAS PARTY INFO PACK AND RATE
-        CARD](https://drive.google.com/file/d/1dWYRsvhbmIKQMhyT0CIwA3xjM2qcDOvD\
+        CARD](https://drive.google.com/file/d/1JbagmO5K7igbvaOwJ_FnILWJwywXa1ZY\
         /view?usp=sharing)"
     - title: CATERING OPTIONS
       dropdownContent: VIEW CURRENT CATERING OPTIONS
