@@ -267,15 +267,18 @@ accordionSection:
       dropdownContent: VIEW CURRENT CATERING OPTIONS
   sectionTitle: Why book your Christmas Party with us?
 columnBanner:
-  - buttonTitle: Enquire now
-    buttonUrl: booking-enquiry
-    content: Ask about chartering one of our catamarans for a beautiful day or
-      evening on the water with your team!
-    title: Start planning your Christmas Party today
+  - buttonTitle: ""
+    buttonUrl: ""
+    content: >-
+      <!--StartFragment-->
+
+
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/285987/christmas-parties?iframe=true"></iframe>
+
+
+      <!--EndFragment-->
+    title: Book your Christmas Party today
     featuredImage: ""
-  - featuredImage: https://ucarecdn.com/09890049-dceb-4c48-a88b-0e5201004105/
-    bookingWidget: ""
-    content: ""
 featuredTestimonials:
   description: See what the staff at Raceview State School had to say about their
     Christmas Party with us...
