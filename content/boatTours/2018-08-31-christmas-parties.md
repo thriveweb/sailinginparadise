@@ -259,6 +259,12 @@ accordionSection:
         cruise. Please see the full booking policy provided with your invoice
         for full details or contact our team."
       title: Christmas Party FAQ's
+    - title: Christmas Party Pricing
+      dropdownContent: "[DOWNLOAD CHRISTMAS PARTY INFO PACK AND RATE
+        CARD](https://drive.google.com/file/d/1dWYRsvhbmIKQMhyT0CIwA3xjM2qcDOvD\
+        /view?usp=sharing)"
+    - title: CATERING OPTIONS
+      dropdownContent: VIEW CURRENT CATERING OPTIONS
   sectionTitle: Why book your Christmas Party with us?
 columnBanner:
   - buttonTitle: Enquire now
@@ -268,6 +274,8 @@ columnBanner:
     title: Start planning your Christmas Party today
     featuredImage: ""
   - featuredImage: https://ucarecdn.com/09890049-dceb-4c48-a88b-0e5201004105/
+    bookingWidget: ""
+    content: ""
 featuredTestimonials:
   description: See what the staff at Raceview State School had to say about their
     Christmas Party with us...
