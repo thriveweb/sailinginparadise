@@ -273,7 +273,8 @@ accordionSection:
         /view?usp=sharing)"
     - title: CATERING OPTIONS
       dropdownContent: "[VIEW CURRENT CATERING
-        OPTIONS](https://sailinginparadise.com.au/catering-menus/)"
+        OPTIONS](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLw\
+        y1f/view?usp=sharing)"
   sectionTitle: Why book your Christmas Party with us?
 columnBanner:
   - buttonTitle: Enquire Now
