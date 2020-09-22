@@ -17,7 +17,7 @@ intro: >-
   Sailing in Paradise would love to create a 2020 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
 contentBox:
   buttonTitle: BOOK ONLINE NOW
-  buttonUrl: https://sailinginparadise.rezdy.com/catalog/285987/christmas-parties
+  buttonUrl: christmas-party-bookings
   title: Book your VIP Gold Coast Christmas Party Experience
 gallery:
   - image: https://ucarecdn.com/3ac9fb35-c360-45b7-8073-f8fc4276aa3c/
