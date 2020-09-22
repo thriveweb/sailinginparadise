@@ -16,9 +16,9 @@ intro: >-
 
   Sailing in Paradise would love to create a 2020 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
 contentBox:
-  buttonTitle: Make enquiry
-  buttonUrl: booking-enquiry
-  title: Let us tailor your VIP Gold Coast Christmas Party Experience
+  buttonTitle: BOOK ONLINE NOW
+  buttonUrl: https://sailinginparadise.rezdy.com/catalog/285987/christmas-parties
+  title: Book your VIP Gold Coast Christmas Party Experience
 gallery:
   - image: https://ucarecdn.com/3ac9fb35-c360-45b7-8073-f8fc4276aa3c/
   - image: https://ucarecdn.com/8039e778-fc75-4c1d-b801-7857a4ef3559/-/preview/-/enhance/50/
@@ -267,18 +267,13 @@ accordionSection:
       dropdownContent: VIEW CURRENT CATERING OPTIONS
   sectionTitle: Why book your Christmas Party with us?
 columnBanner:
-  - buttonTitle: ""
-    buttonUrl: ""
-    content: >-
-      <!--StartFragment-->
-
-
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/285987/christmas-parties?iframe=true"></iframe>
-
-
-      <!--EndFragment-->
-    title: Book your Christmas Party today
+  - buttonTitle: Enquire Now
+    buttonUrl: booking-enquiry
+    content: Ask about chartering one of our catamarans for a beautiful day or
+      evening on the water with your team.
+    title: Start planning your Christmas Party today
     featuredImage: ""
+  - featuredImage: https://ucarecdn.com/ac32039b-c795-46db-81d3-73994772702d/
 featuredTestimonials:
   description: See what the staff at Raceview State School had to say about their
     Christmas Party with us...
