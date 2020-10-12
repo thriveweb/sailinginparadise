@@ -275,6 +275,15 @@ accordionSection:
       dropdownContent: "[VIEW CURRENT CATERING
         OPTIONS](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLw\
         y1f/view?usp=sharing)"
+    - dropdownContent: >-
+        <!--StartFragment-->
+
+
+        <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/285987/christmas-parties" style="background: rgb(6, 24, 61); border: 1px solid rgb(6, 24, 61); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">CHECK AVAILABILITY and BOOK NOW</a>
+
+
+        <!--EndFragment-->
+      title: check availability and book now
   sectionTitle: Why book your Christmas Party with us?
 columnBanner:
   - buttonTitle: Enquire Now
@@ -284,6 +293,8 @@ columnBanner:
     title: Start planning your Christmas Party today
     featuredImage: ""
   - featuredImage: https://ucarecdn.com/ac32039b-c795-46db-81d3-73994772702d/
+    content: ""
+    bookingWidget: ""
 featuredTestimonials:
   description: See what the staff at Raceview State School had to say about their
     Christmas Party with us...
