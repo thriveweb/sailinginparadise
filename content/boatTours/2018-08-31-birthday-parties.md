@@ -25,14 +25,7 @@ contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
   title: Let us tailor your VIP Gold Coast Birthday Party Experience
-bookingIframe: >-
-  <!--StartFragment-->
-
-
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/414811/birthday-parties" style="background: rgb(5, 36, 97); border: 1px solid rgb(5, 36, 97); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">CHECK AVAILABILITY and BOOK NOW</a>
-
-
-  <!--EndFragment-->
+bookingIframe: ""
 gallery:
   - image: https://ucarecdn.com/8a88a51f-fa19-4d06-9d18-9df2d0d1dc7b/
   - image: https://ucarecdn.com/f865379e-0f36-4eb1-beb6-f6963d7bbb25/-/preview/-/enhance/50/
@@ -201,15 +194,6 @@ accordionSection:
       dropdownContent: "[View current catering
         options](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLw\
         y1f/view?usp=sharing)"
-    - title: Check availability and book now
-      dropdownContent: >-
-        <!--StartFragment-->
-
-
-        <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/414811/birthday-parties" style="background: rgb(5, 36, 97); border: 1px solid rgb(5, 36, 97); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">CHECK AVAILABILITY and BOOK NOW</a>
-
-
-        <!--EndFragment-->
   sectionTitle: boat party info
 columnBanner:
   - buttonTitle: Make Enquiry
