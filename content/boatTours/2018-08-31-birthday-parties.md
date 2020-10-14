@@ -29,7 +29,7 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/414811/birthday-parties" style="background: rgb(5, 36, 97); border: 1px solid rgb(5, 36, 97); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">CHECK AVAILABILITY AND BOOK NOW</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/414811/birthday-parties" style="background: rgb(5, 36, 97); border: 1px solid rgb(5, 36, 97); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">CHECK AVAILABILITY and BOOK NOW</a>
 
 
   <!--EndFragment-->
@@ -190,6 +190,26 @@ accordionSection:
 
         A. This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again.  We can blow our own trumpet from time to time right?  :-)
       title: Birthday Party FAQ's
+    - title: Birthday Party Pricing
+      dropdownContent: >-
+        [Download Private Charter
+        Info](https://drive.google.com/file/d/1D_-g735whw-G95VzIX_VezBKQWvFLdDn/view?usp=sharing)
+
+
+        [Download Private Charter Rate Card](https://drive.google.com/file/d/1TXs7WJOuM__B6RLVuvrsC0Bbd-v9G29B/view?usp=sharing)
+    - title: Catering Options
+      dropdownContent: "[View current catering
+        options](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLw\
+        y1f/view?usp=sharing)"
+    - title: Check availability and book now
+      dropdownContent: >-
+        <!--StartFragment-->
+
+
+        <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/414811/birthday-parties" style="background: rgb(5, 36, 97); border: 1px solid rgb(5, 36, 97); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">CHECK AVAILABILITY and BOOK NOW</a>
+
+
+        <!--EndFragment-->
   sectionTitle: boat party info
 columnBanner:
   - buttonTitle: Make Enquiry
