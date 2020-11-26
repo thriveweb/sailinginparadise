@@ -101,6 +101,29 @@ crewSection:
       image: https://ucarecdn.com/0471683b-545b-4d9a-9940-d00645c6dcad/-/crop/4000x3422/0,799/-/preview/
       name: "Anthony "
       title: Skipper
+    - image: https://ucarecdn.com/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc/-/crop/750x898/0,48/-/preview/-/enhance/21/
+      name: "Megan "
+      title: Cruise Hostess
+      content: Megan is always smiling when out on the water and will be sure to make
+        your event as special and fun as possible!  Studying to become a
+        teacher, her warm and caring nature will make your guests feel at home
+        aboard our beautiful vessels.
+    - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
+      name: Jemma
+      title: Cruise Hostess
+      content: Jemma has spent the past 10 years working as an outdoor adventure guide
+        taking groups diving, kayaking, camping and hiking all over Australia.
+        As a self-professed ocean nerd, Jemma will happily talk to you all about
+        the local marine life… and she’s always ready to bust a move with our
+        guests if the music is right!
+    - image: https://ucarecdn.com/ca86eebd-2c87-4cd1-b08b-dab8481a6d51/-/preview/-/enhance/18/
+      name: Nick
+      title: Skipper
+      content: Nick is a super fun skipper with over 20 years of commercial boating
+        experience. With a background in diving he loves being on and in the
+        water. When he isn't sailing he can be found restoring yachts and caring
+        for his adorable Jack Russel. He's a bit of comedian so you'll have some
+        good laughs with Nick on board!
     - image: https://ucarecdn.com/54aaf577-8bb8-4aa0-91c4-0fae994fec1e/-/preview/-/enhance/10/
       name: Peggy
       title: Cruise Hostess
@@ -111,30 +134,6 @@ crewSection:
 
 
         With a background in marketing and a love of social media trends, she likes to capture both those candid and ‘plandid’ moments with our on board camera.
-    - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
-      name: Jemma
-      title: Cruise Hostess
-      content: Jemma has spent the past 10 years working as an outdoor adventure guide
-        taking groups diving, kayaking, camping and hiking all over Australia.
-        As a self-professed ocean nerd, Jemma will happily talk to you all about
-        the local marine life… and she’s always ready to bust a move with our
-        guests if the music is right!
-    - image: https://ucarecdn.com/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc/-/crop/750x898/0,48/-/preview/-/enhance/21/
-      name: "Megan "
-      title: Cruise Hostess
-      content: Megan is always smiling when out on the water and will be sure to make
-        your event as special and fun as possible! Don't be surprised if you
-        catch her jumping in the water with you and your mates, she can't help
-        herself! Studying to become a teacher, her warm and caring nature will
-        make your guests feel at home aboard our beautiful vessels.
-    - image: https://ucarecdn.com/ca86eebd-2c87-4cd1-b08b-dab8481a6d51/-/preview/-/enhance/18/
-      name: Nick
-      title: Skipper
-      content: Nick is a super fun skipper with over 20 years of commercial boating
-        experience. With a background in diving he loves being on and in the
-        water. When he isn't sailing he can be found restoring yachts and caring
-        for his adorable Jack Russel. He's a bit of comedian so you'll have some
-        good laughs with Nick on board!
     - content: Ella is currently completing her PhD in Chemical Engineering and is
         also a keen surfer, wakeboarder and snowboarder.    Great fun to be
         around and with a love of photography, you are sure to enjoy having Ella
