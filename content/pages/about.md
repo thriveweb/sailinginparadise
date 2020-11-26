@@ -101,23 +101,16 @@ crewSection:
       image: https://ucarecdn.com/0471683b-545b-4d9a-9940-d00645c6dcad/-/crop/4000x3422/0,799/-/preview/
       name: "Anthony "
       title: Skipper
-    - content: Ella is currently completing her PhD in Chemical Engineering and is
-        also a keen surfer, wakeboarder and snowboarder.    Great fun to be
-        around and with a love of photography, you are sure to enjoy having Ella
-        on board your charter.
-      image: https://ucarecdn.com/cb0d6732-f1ae-47af-a901-97856b14a11c/-/crop/4000x3087/0,1233/-/preview/
-      name: "Ella "
-      title: Cruise Hostess
     - image: https://ucarecdn.com/54aaf577-8bb8-4aa0-91c4-0fae994fec1e/-/preview/-/enhance/10/
       name: Peggy
       title: Cruise Hostess
       content: >-
-        Peggy first fell in love with being out on the water when she sailed
-        around the Greek Islands. Always up for some fun, her warm smile and
-        sociable nature will ensure you and your guest feel welcome on board. 
+        Peggy first fell in love with the ocean when she sailed around the Greek
+        Islands. Always up for some fun, her warm smile and sociable nature will
+        ensure you and your guests feel welcome on board. 
 
 
-        With a background in marketing and a love of social media trends, she likes to capture both those candid and ‘plandid’ moments.
+        With a background in marketing and a love of social media trends, she likes to capture both those candid and ‘plandid’ moments with our on board camera.
     - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
       name: Jemma
       title: Cruise Hostess
@@ -142,6 +135,13 @@ crewSection:
         water. When he isn't sailing he can be found restoring yachts and caring
         for his adorable Jack Russel. He's a bit of comedian so you'll have some
         good laughs with Nick on board!
+    - content: Ella is currently completing her PhD in Chemical Engineering and is
+        also a keen surfer, wakeboarder and snowboarder.    Great fun to be
+        around and with a love of photography, you are sure to enjoy having Ella
+        on board your charter.
+      image: https://ucarecdn.com/cb0d6732-f1ae-47af-a901-97856b14a11c/-/crop/4000x3087/0,1233/-/preview/
+      name: "Ella "
+      title: Cruise Hostess
   crewIntro: "## Our Crew
 
 
