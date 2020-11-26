@@ -126,7 +126,7 @@ crewSection:
         As a self-professed ocean nerd, Jemma will happily talk to you all about
         the local marine life… and she’s always ready to bust a move with our
         guests if the music is right!
-    - image: https://ucarecdn.com/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc/-/preview/-/enhance/21/
+    - image: https://ucarecdn.com/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc/-/crop/750x898/0,48/-/preview/-/enhance/21/
       name: "Megan "
       title: Cruise Hostess
       content: Megan is always smiling when out on the water and will be sure to make
