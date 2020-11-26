@@ -108,14 +108,6 @@ crewSection:
       image: https://ucarecdn.com/cb0d6732-f1ae-47af-a901-97856b14a11c/-/crop/4000x3087/0,1233/-/preview/
       name: "Ella "
       title: Cruise Hostess
-    - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
-      name: Jemma
-      title: Cruise Hostess
-      content: Jemma has spent the past 10 years working as an outdoor adventure guide
-        taking groups diving, kayaking, camping and hiking all over Australia.
-        As a self-professed ocean nerd, Jemma will happily talk to you all about
-        the local marine life… and she’s always ready to bust a move with our
-        guests if the music is right!
     - image: https://ucarecdn.com/54aaf577-8bb8-4aa0-91c4-0fae994fec1e/-/preview/-/enhance/10/
       name: Peggy
       title: Cruise Hostess
@@ -126,6 +118,14 @@ crewSection:
 
 
         With a background in marketing and a love of social media trends, she likes to capture both those candid and ‘plandid’ moments.
+    - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
+      name: Jemma
+      title: Cruise Hostess
+      content: Jemma has spent the past 10 years working as an outdoor adventure guide
+        taking groups diving, kayaking, camping and hiking all over Australia.
+        As a self-professed ocean nerd, Jemma will happily talk to you all about
+        the local marine life… and she’s always ready to bust a move with our
+        guests if the music is right!
     - image: https://ucarecdn.com/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc/-/preview/-/enhance/21/
       name: "Megan "
       title: Cruise Hostess
