@@ -134,10 +134,9 @@ crewSection:
 
 
         With a background in marketing and a love of social media trends, she likes to capture both those candid and ‘plandid’ moments with our on board camera.
-    - content: Ella is currently completing her PhD in Chemical Engineering and is
-        also a keen surfer, wakeboarder and snowboarder.    Great fun to be
-        around and with a love of photography, you are sure to enjoy having Ella
-        on board your charter.
+    - content: Ella has a PhD in Chemical Engineering and is also a keen surfer,
+        wakeboarder and snowboarder.      Great fun to be around and with a love
+        of photography, you are sure to enjoy having Ella on board your charter.
       image: https://ucarecdn.com/cb0d6732-f1ae-47af-a901-97856b14a11c/-/crop/4000x3087/0,1233/-/preview/
       name: "Ella "
       title: Cruise Hostess
