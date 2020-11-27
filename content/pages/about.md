@@ -122,8 +122,8 @@ crewSection:
       content: Nick is a super fun skipper with over 20 years of commercial boating
         experience. With a background in diving he loves being on and in the
         water. When he isn't sailing he can be found restoring yachts and caring
-        for his adorable Jack Russel. He's a bit of comedian so you'll have some
-        good laughs with Nick on board!
+        for his adorable Jack Russel. He's a bit of a comedian so you'll have
+        some good laughs with Nick on board!
     - image: https://ucarecdn.com/54aaf577-8bb8-4aa0-91c4-0fae994fec1e/-/preview/-/enhance/10/
       name: Peggy
       title: Cruise Hostess
