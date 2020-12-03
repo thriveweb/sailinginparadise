@@ -108,14 +108,6 @@ crewSection:
         your event as special and fun as possible!  Studying to become a
         teacher, her warm and caring nature will make your guests feel at home
         aboard our beautiful vessels.
-    - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
-      name: Jemma
-      title: Cruise Hostess
-      content: Jemma has spent the past 10 years working as an outdoor adventure guide
-        taking groups diving, kayaking, camping and hiking all over Australia.
-        As a self-professed ocean nerd, Jemma will happily talk to you all about
-        the local marine life… and she’s always ready to bust a move with our
-        guests if the music is right!
     - image: https://ucarecdn.com/ca86eebd-2c87-4cd1-b08b-dab8481a6d51/-/preview/-/enhance/18/
       name: Nick
       title: Skipper
@@ -124,6 +116,14 @@ crewSection:
         water. When he isn't sailing he can be found restoring yachts and caring
         for his adorable Jack Russel. He's a bit of a comedian so you'll have
         some good laughs with Nick on board!
+    - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
+      name: Jemma
+      title: Cruise Hostess
+      content: Jemma has spent the past 10 years working as an outdoor adventure guide
+        taking groups diving, kayaking, camping and hiking all over Australia.
+        As a self-professed ocean nerd, Jemma will happily talk to you all about
+        the local marine life… and she’s always ready to bust a move with our
+        guests if the music is right!
     - image: https://ucarecdn.com/54aaf577-8bb8-4aa0-91c4-0fae994fec1e/-/preview/-/enhance/10/
       name: Peggy
       title: Cruise Hostess
@@ -134,6 +134,15 @@ crewSection:
 
 
         With a background in marketing and a love of social media trends, she likes to capture both those candid and ‘plandid’ moments with our on board camera.
+    - image: https://ucarecdn.com/45612d4c-023c-4409-ab6a-6cbeecabc6a6/-/crop/2052x1420/158,0/-/preview/
+      name: Deon
+      title: Skipper
+      content: Deon is the newest member of the Sailing in Paradise team. He has a
+        love for the outdoors and has 15 years in the marine and tourism
+        industry.    When not skippering for Sailing in Paradise Deon can
+        usually be found hanging out with his dolphin friends and caring for our
+        marine environment by rescuing trapped whales and injured marine
+        life...  Go Deon!!
     - content: Ella has a PhD in Chemical Engineering and is also a keen surfer,
         wakeboarder and snowboarder.      Great fun to be around and with a love
         of photography, you are sure to enjoy having Ella on board your charter.
