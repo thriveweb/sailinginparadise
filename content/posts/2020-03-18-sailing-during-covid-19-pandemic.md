@@ -17,8 +17,6 @@ We continue to offer private charters in the beautiful Gold Coast sunshine and l
 
 BYO is welcome within recommended COVID safe guidelines provided at time of booking.  COVID Safe catering options are also available.  
 
-
-
 UPDATE 3 JULY
 
 We are delighted to be back to full capacity on our vessels as of 3 July.   Our vessels are spacious and open plan and we are lucky enough to spend our days in the sunshine, ocean breezes and the beautiful QLD fresh air.  We look forward to sharing this experience with you.
@@ -33,7 +31,7 @@ In response to the COVID pandemic;
 * We require that our crew follow all government guidelines and advise us ASAP if symptomatic or have been in contact with a COVID-19 case. 
 * We have a COVID-friendly catering menu available incorporating a range of individually portioned foods.
 * We encourage our guests who are BYO food and drinks to follow to avoid food and drink sharing and instead bring individually portioned food and drinks.  
-* In the current health situation we are altering the usual cancellation policy and allowing guests unable to attend due to COVID-19 government lockdown to reschedule their cruise for a new date within 18 months of their original charter date with no penalty.    We ask that guests contact us directly to discuss individual circumstances as we are happy to work together to come to a solution.  
+* In the current health situation we are altering the usual cancellation policy and allowing guests unable to attend due to COVID-19 government lockdown to reschedule their cruise for a new date as outlined in the booking terms and conditions.    We ask that guests contact us directly to discuss individual circumstances as we are happy to work together to come to a solution.  
 
 ![](https://ucarecdn.com/7a46aa56-ac90-4181-b7c5-ee57acf1182c/)
 
