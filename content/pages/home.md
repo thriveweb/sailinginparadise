@@ -31,6 +31,9 @@ featuredSlider:
   - buttonUrl: cruise/gift-vouchers/
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
+  - title: Last Minute Charters
+    description: See our last minute availability at sensational rates!
+    buttonUrl: boat-charter/last-minute-charters/
 featuredBanner:
   buttonTitle: An update on our outdoor sailing operations at this time.
   buttonUrl: posts/sailing-during-covid-19-pandemic/
