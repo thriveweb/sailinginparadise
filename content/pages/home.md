@@ -8,9 +8,13 @@ posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
-  - title: Christmas Party Charters
-    description: Treat your team to an unforgettable day or evening on the water.
-    buttonUrl: boat-charter/gold-coast-christmas-parties/
+  - title: Last Minute Charters
+    description: See our last minute availability at sensational rates!
+    buttonUrl: boat-charter/last-minute-charters/
+  - buttonUrl: boat-charter/gold-coast-hens-parties/
+    description: We are the hens party specialists. Let us create a truly special
+      event for you and your friends.
+    title: Gold Coast Hens Party
   - buttonUrl: boat-charter/
     description: For any occasion. From 3 hours to a full day. BYO or fully catered.
     title: Private Skippered Boat Hire
@@ -18,10 +22,9 @@ featuredSlider:
     description: Hire a private yacht for your small family group to enjoy our
       beautiful waterways and the Queensland sunshine!
     title: Small family day charters
-  - buttonUrl: boat-charter/gold-coast-hens-parties/
-    description: We are the hens party specialists. Let us create a truly special
-      event for you and your friends.
-    title: Gold Coast Hens Party
+  - title: Christmas Party Charters
+    description: Treat your team to an unforgettable day or evening on the water.
+    buttonUrl: boat-charter/gold-coast-christmas-parties/
   - buttonUrl: cruise/gold-coast-sunset-city-lights-cruise/
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
@@ -31,9 +34,6 @@ featuredSlider:
   - buttonUrl: cruise/gift-vouchers/
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
-  - title: Last Minute Charters
-    description: See our last minute availability at sensational rates!
-    buttonUrl: boat-charter/last-minute-charters/
 featuredBanner:
   buttonTitle: An update on our outdoor sailing operations at this time.
   buttonUrl: posts/sailing-during-covid-19-pandemic/
