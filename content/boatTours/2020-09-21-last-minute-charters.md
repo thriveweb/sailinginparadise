@@ -5,10 +5,10 @@ title: Last Minute Charters
 icon: https://ucarecdn.com/746a0750-45be-4c63-9d8e-2279d30e0442/
 featuredImage: https://ucarecdn.com/25fc3e45-1762-4c98-81a1-89866e3535b3/
 intro: >-
-  ##### Looking to sail mid-week with a smaller group?
+  ##### Looking to sail last minute?
 
 
-  We occasionally offer special last minute rates on our Seawind 1000XL for groups of up to 10 guests.
+  We occasionally offer special last minute rates on our Seawind 1000XL for groups of up to 10 guests.  Larger Groups and alternative vessels may be available on request...please contact us for more info!
 
 
   ![](https://ucarecdn.com/71ea2e47-98ab-4951-b7d4-f056671620e0/)
@@ -16,6 +16,8 @@ intro: >-
 
   ### What's included?
 
+
+  * Exclusive charter of the Seawind 1000XL for up to 10 guests (contact us for larger groups)
 
   * Skipper plus 1 crew, (we are fun and friendly, laid-back yet professional) we promise you'll love us,
 
