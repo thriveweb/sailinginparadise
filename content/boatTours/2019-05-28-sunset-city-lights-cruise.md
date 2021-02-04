@@ -8,7 +8,10 @@ intro: >-
   ## Gold Coast Sunset Cruise
 
 
-  **THIS TICKETED CRUISE IS NOT CURRENTLY OPERATIONAL DUE TO COVID-19 RESTRICTIONS.   OUR PRIVATE CHARTERS CONTINUE TO SAIL WITH GREAT RATES AVAILABLE FOR SMALL GROUPS/MID-WEEK.  PLEASE CONTACT US VIA THE BOOKING/ENQUIRY FORM TO ENQUIRE ABOUT A PRIVATE CHARTER.**  
+  **THE TICKETED SUNSET CRUISE (shared vessel) IS NOT CURRENTLY OPERATIONAL DUE TO SOCIAL DISTANCING REQUIREMENTS.   OUR PRIVATE SUNSET CHARTERS CONTINUE TO SAIL.**
+
+
+  **Please click the private charter tab above to view private charter options.**  
 
 
   Looking for the Gold Coast's best sunset views?   There is no better place to watch the sunset on the Gold Coast than relaxing on a yacht on the Broadwater!   No seriously...
@@ -19,12 +22,10 @@ intro: >-
 
   So come and join us on our sunset cruise as the sun sinks behind the mountains of the Gold Coast Hinterland and casts a glow across the calm waters of the Gold Coast Broadwater.
 contentBox:
-  buttonTitle: BOOK TO JOIN OUR NEXT CRUISE
+  buttonTitle: BOOK A PRIVATE SUNSET CHARTER
   buttonUrl: booking-enquiry
   title: The Gold Coast's best sunset views
-bookingIframe: <iframe seamless="" width="300px" height="1000px" frameborder="0"
-  class="rezdy"
-  src="https://sailinginparadise.rezdy.com/calendarWidget/241550?iframe=true"></iframe>
+bookingIframe: ""
 gallery:
   - image: https://ucarecdn.com/3911a16c-58d6-483c-ab45-90c925ae713b/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/3acfb375-f50f-485f-ad48-f497ce94d377/-/preview/-/enhance/13/
