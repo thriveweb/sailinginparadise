@@ -7,5 +7,8 @@ content: >-
   on your behalf for a stress-free cruise. BYO is also possible if you prefer.
 
 
-  [DOWNLOAD CURRENT CATERING MENUS](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLwy1f/view?usp=sharing)
+  [Standard Catering Menu](https://drive.google.com/file/d/1T9_HOn8Q_2NN7F8ldeZEOsjDRD7vPZyn/view?usp=sharing)
+
+
+  [Small Group Catering Menu](https://drive.google.com/file/d/1x_uRuW5TVB_oK6C_8-Sy4mNST95t0mbX/view?usp=sharing)
 ---
