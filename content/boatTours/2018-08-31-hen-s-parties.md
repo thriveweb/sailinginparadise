@@ -290,11 +290,10 @@ accordionSection:
         Info](https://drive.google.com/file/d/1PHqSALr-wdxhFT5Q9v7vhJzvGRmFuf2F/view?usp=sharing)
 
 
-        [Download Private Charter Rate Card](https://drive.google.com/file/d/1TXs7WJOuM__B6RLVuvrsC0Bbd-v9G29B/view?usp=sharing)
+        [Download Private Charter Rate Card](https://sailinginparadise.com.au/charter-rate-cards/)
     - title: Catering Options
       dropdownContent: "[View Current Catering
-        Options](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLw\
-        y1f/view?usp=sharing)"
+        Options](https://sailinginparadise.com.au/catering-menus/)"
   sectionTitle: Hen's party - need to knows
 columnBanner:
   - buttonTitle: Make Enquiry
