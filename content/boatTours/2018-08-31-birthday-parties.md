@@ -196,11 +196,10 @@ accordionSection:
         Info](https://drive.google.com/file/d/1D_-g735whw-G95VzIX_VezBKQWvFLdDn/view?usp=sharing)
 
 
-        [Download Private Charter Rate Card](https://drive.google.com/file/d/1TXs7WJOuM__B6RLVuvrsC0Bbd-v9G29B/view?usp=sharing)
+        [View Private Charter Rates](https://sailinginparadise.com.au/charter-rate-cards/)
     - title: Catering Options
       dropdownContent: "[View current catering
-        options](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLw\
-        y1f/view?usp=sharing)"
+        options](https://sailinginparadise.com.au/catering-menus/)"
   sectionTitle: boat party info
 columnBanner:
   - buttonTitle: Make Enquiry
