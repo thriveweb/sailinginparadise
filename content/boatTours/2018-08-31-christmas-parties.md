@@ -268,13 +268,11 @@ accordionSection:
         for full details or contact our team."
       title: Christmas Party FAQ's
     - title: Christmas Party Pricing
-      dropdownContent: "[DOWNLOAD CHRISTMAS PARTY INFO PACK AND RATE
-        CARD](https://drive.google.com/file/d/1JbagmO5K7igbvaOwJ_FnILWJwywXa1ZY\
-        /view?usp=sharing)"
+      dropdownContent: "[Download Charter
+        Rates](https://sailinginparadise.com.au/charter-rate-cards/)"
     - title: CATERING OPTIONS
-      dropdownContent: "[VIEW CURRENT CATERING
-        OPTIONS](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLw\
-        y1f/view?usp=sharing)"
+      dropdownContent: "[View current catering
+        options](https://sailinginparadise.com.au/catering-menus/)"
     - dropdownContent: >-
         <!--StartFragment-->
 
