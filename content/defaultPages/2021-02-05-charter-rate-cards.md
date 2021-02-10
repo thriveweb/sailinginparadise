@@ -7,5 +7,5 @@ content: >-
   2021](https://drive.google.com/file/d/1_nnmB3FhErKy-K4sBL53AituWr1WK871/view?usp=sharing)
 
 
-  [Download rates valid from July 1 2021](https://drive.google.com/file/d/1_nnmB3FhErKy-K4sBL53AituWr1WK871/view?usp=sharing)
+  [Download rates valid from July 1 2021](https://drive.google.com/file/d/1E0QUM2qDUjDdx1lswYixxoGTD7sS4Ult/view?usp=sharing)
 ---
