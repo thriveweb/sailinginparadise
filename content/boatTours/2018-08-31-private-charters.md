@@ -247,11 +247,10 @@ accordionSection:
         Info](https://drive.google.com/file/d/1D_-g735whw-G95VzIX_VezBKQWvFLdDn/view)
 
 
-        [Download Private Charter Rate Card](https://drive.google.com/file/d/1TXs7WJOuM__B6RLVuvrsC0Bbd-v9G29B/view)
+        [Download Private Charter Rate Card](https://sailinginparadise.com.au/charter-rate-cards/)
     - title: Optional Catering Menus
       dropdownContent: "[View Catering
-        Options](https://drive.google.com/file/d/1plVh2gsxp_lovWrTAbgonOYWkueLw\
-        y1f/view)"
+        Options](https://sailinginparadise.com.au/catering-menus/)"
   sectionTitle: About our charters
 columnBanner:
   - buttonTitle: Make Enquiry
