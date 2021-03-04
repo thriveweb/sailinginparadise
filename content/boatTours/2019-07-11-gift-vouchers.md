@@ -5,8 +5,8 @@ title: Gift Vouchers
 featuredImage: https://ucarecdn.com/819e674e-12b8-4723-ba3a-8af615941a24/
 intro: >-
   PLEASE NOTE OUR TICKETED CRUISES ARE NOT CURRENTLY OPERATIONAL DUE TO COVID
-  RESTRICTIONS.  OUR PRIVATE CHARTERS CONTINUE TO OPERATE.   WE RECOMMEND
-  WAITING UNTIL OUR TOURS RESUME OPERATIONS BEFORE PURCHASING A GIFT VOUCHER.
+  RESTRICTIONS.  OUR PRIVATE CHARTERS CONTINUE TO OPERATE.   GIFT VOUCHERS ARE
+  UNAVAILABLE TO PURCHASE AT THIS TIME.
 
 
   Give the gift of a beautiful memory!   Your guests will be invited to join us for a beautiful 2 hour sunset and city lights cruise on the calm waters of the Gold Coast Broadwater.  
@@ -19,9 +19,7 @@ intro: >-
 
 
   \*Please note we do not accept group sizes larger than 10 on board the sunset cruise.  If you have a larger group please enquire about our private charter option.
-bookingIframe: <iframe seamless="" width="300px" height="1000px" frameborder="0"
-  class="rezdy"
-  src="https://sailinginparadise.rezdy.com/calendarWidget/279666?iframe=true"></iframe>
+bookingIframe: ""
 gallery:
   - image: https://ucarecdn.com/35f18be0-a3d1-4f5f-9786-2f3dc587525b/
   - image: https://ucarecdn.com/351241fc-1d70-4b01-884e-47c49f83129c/
