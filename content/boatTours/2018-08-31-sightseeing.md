@@ -16,9 +16,13 @@ intro: >-
 
   Whether you are a Gold Coast local or on vacation as an international visitor, experiencing the many attractions on the Gold Coast Broadwater from a luxury catamaran is the perfect way to create a memorable experience for your group!
 contentBox:
-  buttonTitle: Make enquiry
-  buttonUrl: booking-enquiry
+  buttonTitle: Check Availability and BOOK NOW
+  buttonUrl: <script defer="" type="text/javascript"
+    src="https://sailinginparadise.rezdy.com/pluginJs"></script>                 <iframe
+    seamless="" width="100%" height="1000px" frameborder="0" class="rezdy"
+    src="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true"></iframe>
   title: Let us tailor your VIP Gold Coast Sightseeing Party Experience
+bookingIframe: ""
 gallery:
   - image: https://ucarecdn.com/5a75a58f-60be-4724-b30f-df677622d5a5/-/preview/-/enhance/66/
   - image: https://ucarecdn.com/605d50ba-a306-4eed-9f97-4022f4f68a8c/-/preview/-/enhance/19/
