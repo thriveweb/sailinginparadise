@@ -43,6 +43,43 @@ boats:
       imageOverlay: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
       title: 360° VR tour - Spirit Of Gwonda
       videoURL: https://roundme.com/embed/vbLlexBhnhqkTATZiUsd
+  - virtualTourPopup:
+      title: ""
+    videoSection:
+      title: ""
+    title: NEW - Oceans
+    featuredImage: https://ucarecdn.com/414b45ab-b5a0-404b-a324-8d824b63c9aa/-/crop/594x399/82,85/-/preview/
+    description: >-
+      Our largest and most luxurious vessel, Oceans joined the fleet in April
+      2021 and is guaranteed to impress.    With a maximum guest capacity of 30,
+      Oceans delivers the space required for your larger group without
+      sacrificing any of the creature comforts.  
+
+
+      Oceans offers a comfortable lounging/dining area with flexible table configuration.   The open plan undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.  
+
+
+      Promotional photos and 360 degree tours are yet to come as the vessel is so new to Sailing in Paradise.  She is a beauty and we are thrilled to welcome her to our fleet!
+    boatFeatures:
+      - content: 11.6m long, 6.5m wide
+      - content: 30 passengers + 2 crew
+      - content: Seawind 1160 Deluxe 2008
+      - content: Spacious cushioned dining/lounge area
+      - content: Side access to foredeck
+      - content: Spacious indoor/outdoor undercover space suitable in all weather
+      - content: Expansive foredeck with mini trampolines and cushioned relaxation area
+      - content: Modern bathroom
+      - content: Hot & Cold Deck Shower
+      - content: Cushioned overwater bench seating
+      - content: Main Sail & Headsail
+      - content: Read Boarding Ladder with wide transoms
+      - content: BBQ
+      - content: Eskies
+      - content: Sound System
+    gallery:
+      - image: https://ucarecdn.com/1cf27e02-c8d8-440c-9006-1307cc2fd592/
+      - image: https://ucarecdn.com/16cc10ac-282b-4532-9fef-06724dd40a1d/
+      - image: https://ucarecdn.com/c9e6e3f2-989d-4163-ba27-35f072f2b477/
   - boatFeatures:
       - content: 10.85m long, 5.9m wide
       - content: 20 passengers + 2 crew
@@ -84,43 +121,6 @@ boats:
       imageOverlay: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
       title: 360° VR tour - Seawind 1000XL
       videoURL: https://roundme.com/embed/muQI7AJ8syNd5aD7HNS4
-  - virtualTourPopup:
-      title: ""
-    videoSection:
-      title: ""
-    title: NEW - Oceans, A SEAWIND 1160 DELUXE
-    featuredImage: https://ucarecdn.com/414b45ab-b5a0-404b-a324-8d824b63c9aa/-/crop/594x399/82,85/-/preview/
-    description: >-
-      Our largest and most luxurious vessel, Oceans joined the fleet in April
-      2021 and is guaranteed to impress.    With a maximum guest capacity of 30,
-      Oceans delivers the space required for your larger group without
-      sacrificing any of the creature comforts.  
-
-
-      Oceans offers a comfortable lounging/dining area with flexible table configuration.   The open plan undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.  
-
-
-      Promotional photos and 360 degree tours are yet to come as the vessel is so new to Sailing in Paradise.  She is a beauty and we are thrilled to welcome her to our fleet!
-    boatFeatures:
-      - content: 11.6m long, 6.5m wide
-      - content: 30 passengers + 2 crew
-      - content: Seawind 1160 Deluxe 2008
-      - content: Spacious cushioned dining/lounge area
-      - content: Side access to foredeck
-      - content: Spacious indoor/outdoor undercover space suitable in all weather
-      - content: Expansive foredeck with mini trampolines and cushioned relaxation area
-      - content: Modern bathroom
-      - content: Hot & Cold Deck Shower
-      - content: Cushioned overwater bench seating
-      - content: Main Sail & Headsail
-      - content: Read Boarding Ladder with wide transoms
-      - content: BBQ
-      - content: Eskies
-      - content: Sound System
-    gallery:
-      - image: https://ucarecdn.com/1cf27e02-c8d8-440c-9006-1307cc2fd592/
-      - image: https://ucarecdn.com/16cc10ac-282b-4532-9fef-06724dd40a1d/
-      - image: https://ucarecdn.com/c9e6e3f2-989d-4163-ba27-35f072f2b477/
 secondaryBanner:
   buttonTitle: Meet our Crew...
   buttonUrl: about-us
