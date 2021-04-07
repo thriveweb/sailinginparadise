@@ -3,7 +3,7 @@ template: BoatsPage
 slug: our-boats
 title: Our Boats
 featuredImage: https://ucarecdn.com/7eb05bf9-806d-415f-8ceb-d7b21fa685ce/
-intro: "## Choose from 3 beautiful catamarans"
+intro: "## Choose from three beautiful catamarans"
 boats:
   - boatFeatures:
       - content: 10.5m long x 6.5m wide
