@@ -21,7 +21,7 @@ intro: >-
 
   * Skipper plus 1 crew, (we are fun and friendly, laid-back yet professional) we promise you'll love us,
 
-  * Use of Stand up Paddle Boards, beach games, cute inflatables, snorkelling gear, fishing rods,
+  * Use of Stand up Paddle Boards, beach games, cute inflatables,
 
   * Use of small marine BBQ,
 
