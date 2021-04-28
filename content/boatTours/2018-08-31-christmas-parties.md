@@ -102,10 +102,10 @@ contentColumn: >-
 accordionSection:
   accordion:
     - dropdownContent: >-
-        Our 2 luxurious 10.5 metre resort style sailing catamarans mean we can
-        now cater for larger groups of up to 50 people – The Spirit Of Gwonda
-        can accommodate up to 30 guests (plus 2 crew) and our new boat the
-        1000XL has a capacity of 20 (plus 2 crew).
+        Our 3 luxurious and spacious sailing catamarans mean we can now cater
+        for larger groups of up to 80 people – The Spirit Of Gwonda and Oceans
+        can accommodate up to 30 guests (plus 2 crew) and 1000XL has a capacity
+        of 20 (plus 2 crew).
 
 
         We can also arrange additional vessels for groups of up to 90 guests.
