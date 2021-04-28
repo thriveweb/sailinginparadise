@@ -29,7 +29,13 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/414811/birthday-parties" style="background: rgb(25, 54, 112); border: 1px solid rgb(25, 54, 112); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">CHECK AVAILABILITY and BOOK ONLINE</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="<!--StartFragment-->
+
+
+  https://sailinginparadise.rezdy.com/productsCalendar/414811?iframe=true
+
+
+  <!--EndFragment-->" style="background: rgb(0, 82, 241); border: 1px solid rgb(0, 82, 241); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
 
 
   <!--EndFragment-->
