@@ -82,7 +82,7 @@ aboutSection:
     - buttonTitle: See our boats
       buttonUrl: our-boats
   content: >-
-    We have 2 of the most beautiful and well maintained sailing catamarans
+    We have 3 of the most beautiful and well maintained sailing catamarans
     available.
 
 
