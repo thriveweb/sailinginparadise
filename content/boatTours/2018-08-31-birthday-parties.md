@@ -66,7 +66,7 @@ contentColumn: >-
   years to come.
 
 
-  We can cater for groups of up to 30 people on our signature sailing catamaran the 'Spirit of Gwonda', or up to 20 on our Seawind 1000XL.  If you have a larger group be sure to check out our amazing [Raft-Up Party](https://sailinginparadise.com.au/boat-charter/raft-up-parties/) options.  
+  We can cater for groups of up to 30 people on our signature sailing catamaran the 'Spirit of Gwonda' and 'Oceans', or up to 20 on our Seawind 1000XL.  If you have a larger group be sure to check out our amazing [Raft-Up Party](https://sailinginparadise.com.au/boat-charter/raft-up-parties/) options.  
 
 
   The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.   [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/).
