@@ -29,7 +29,7 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/414811?iframe=true" style="background: rgb(0, 82, 241); border: 1px solid rgb(0, 82, 241); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/414811?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
 
 
   <!--EndFragment-->
@@ -66,7 +66,7 @@ contentColumn: >-
   years to come.
 
 
-  We can cater for groups of up to 30 people on our signature sailing catamaran the 'Spirit of Gwonda' and 'Oceans', or up to 20 on our Seawind 1000XL.  If you have a larger group be sure to check out our amazing [Raft-Up Party](https://sailinginparadise.com.au/boat-charter/raft-up-parties/) options.  
+  We can cater for groups of up to 30 people on our signature sailing catamaran the 'Spirit of Gwonda', or up to 20 on our Seawind 1000XL.  If you have a larger group be sure to check out our amazing [Raft-Up Party](https://sailinginparadise.com.au/boat-charter/raft-up-parties/) options.  
 
 
   The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.   [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/).
