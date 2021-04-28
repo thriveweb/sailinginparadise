@@ -25,13 +25,16 @@ boats:
       extra deck space to accommodate up to 30 guests.
 
 
-      The clever and unique design of this vessel offers a completely open plan layout so your guests can interact with each other at all times.
+      The clever and unique design of this vessel offers a completely open plan layout so your guests can interact with each other at all times whether inside or outside the vessel.  
 
 
-      Of course we still offer all the luxuries you would expect including the ever-popular front trampoline sections for soaking up the sun, comfortable inside seating around a large central table, barbecue and modern bathroom facilities.
+      Of course we still offer all the luxuries you would expect including the ever-popular front trampoline sections for soaking up the sun, generous inside bench seating with our largest undercover area and a central table, barbecue and renovated bathroom facilities.
 
 
-      Measuring 10.5m long by 6.5m wide, there is ample space for up to 30 people (plus 2 crew), approx 60 square metres of deck space in fact.  You will be amazed at the room available inside this smooth and stable boat, making it ideal for social occasions of all kinds. The Spirit Of Gwonda is truly unique and the only one of it’s kind on the Gold Coast.
+      This is the ideal boat for larger groups and it's our ultimate 'party boat'.  Spirit of Gwonda is also wonderful for families with small children.  
+
+
+      Measuring 10.5m long by 6.5m wide, there is ample space for up to 30 people (plus 2 crew), approx 60 square metres of deck space in fact.  You will be amazed at the room available inside this smooth and stable boat, making it ideal for social occasions of all kinds.   Spirit Of Gwonda is truly unique and the only one of it’s kind on the Gold Coast.
     gallery:
       - image: https://ucarecdn.com/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e/
       - image: https://ucarecdn.com/9a68ca1c-1414-4282-990c-1656ba923df9/
@@ -52,11 +55,11 @@ boats:
     description: >-
       Our largest and most luxurious vessel, Oceans joined the fleet in April
       2021 and is guaranteed to impress.    With a maximum guest capacity of 30,
-      Oceans delivers the space required for your larger group without
-      sacrificing any of the creature comforts.  
+      Oceans delivers the space required for your group without sacrificing any
+      of the creature comforts.  
 
 
-      Oceans offers a comfortable lounging/dining area with flexible table configuration.   The open plan undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.  
+      Oceans offers a comfortable lounging/dining area with flexible table configuration.   The undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.    This vessel is ideal for more relaxed celebrations, families with older kids and corporate events.  
 
 
       Promotional photos and 360 degree tours are yet to come as the vessel is so new to Sailing in Paradise.  She is a beauty and we are thrilled to welcome her to our fleet!
@@ -76,6 +79,7 @@ boats:
       - content: BBQ
       - content: Eskies
       - content: Sound System
+      - content: Access to beach via tender
     gallery:
       - image: https://ucarecdn.com/1cf27e02-c8d8-440c-9006-1307cc2fd592/
       - image: https://ucarecdn.com/16cc10ac-282b-4532-9fef-06724dd40a1d/
@@ -106,10 +110,10 @@ boats:
       The interior is set out with upholstered booth style seating around a dining table with windows allowing for 360 degree viewing from all areas. There is extra seating in the targa area at the back, and, as with our other vessel, there is ample area to laze around in the sun on the front trampoline area.
 
 
-      The 1000XL is also equipped with large esky, a marine bbq, and a modern bathroom with the added bonus of hot and cold showers.
+      The 1000XL is also equipped with large esky, a marine bbq, and a modern bathroom.
 
 
-      The 1000XL is perfect for groups of up to 20 people (plus 2 crew).
+      The 1000XL is perfect for groups of up to 20 people (plus 2 crew) but is recommended for group sizes under 15 where possible.
     gallery:
       - image: https://ucarecdn.com/71e0b977-2d7b-4d0e-9ec5-627dc75cb1cc/
       - image: https://ucarecdn.com/e1ff071b-d30c-4a90-abae-5dbc77a4369e/
