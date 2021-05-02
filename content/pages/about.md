@@ -108,14 +108,6 @@ crewSection:
         your event as special and fun as possible!  Studying to become a
         teacher, her warm and caring nature will make your guests feel at home
         aboard our beautiful vessels.
-    - image: https://ucarecdn.com/ca86eebd-2c87-4cd1-b08b-dab8481a6d51/-/preview/-/enhance/18/
-      name: Nick
-      title: Skipper
-      content: Nick is a super fun skipper with over 20 years of commercial boating
-        experience. With a background in diving he loves being on and in the
-        water. When he isn't sailing he can be found restoring yachts and caring
-        for his adorable Jack Russel. He's a bit of a comedian so you'll have
-        some good laughs with Nick on board!
     - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
       name: Jemma
       title: Cruise Hostess
