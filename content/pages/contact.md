@@ -20,13 +20,15 @@ meta:
     Call 0438 915 222.
   title: Gold Coast Boast Hire | Contact Us | Sailing in Paradise
 ---
-### FIND US AT MARINER;S COVE
+### FIND US AT MARINA MIRAGE/MARINER'S COVE
 
-We are conveniently located at Mariner's Cove, 60-70 Seaworld Drive, Main Beach. There is plentiful free parking which you are invited to use.
+We are conveniently located at Marina Mirage and Mariner's Cove on Seaworld Drive, Main Beach.   The marinas are directly adjacent to one another and there is plentiful free parking which you are invited to use.
 
-### HOW TO FIND THE BOAT AT THE MARINA
+### HOW TO FIND THE BOATS AT THE MARINAS
 
-Please take the jetty with the big yellow archway.  You will find us half way along on the left hand side.  
+For 'Spirit of Gwonda' and the 'Seawind 1000XL' - Please take the jetty with the big yellow archway at Mariner's Cove.  You will find us half way along on the left hand side.  (yellow oval on map)
+
+For our vessel 'Oceans' - Please follow the Marina Mirage walkway around towards Palazzo Versace.  You will find our boat after Glass Restaurant and prior to reaching the HOPO Ferry.  (blue triangle on map)
 
 ![]()
 
