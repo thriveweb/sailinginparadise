@@ -14,7 +14,7 @@ intro: >-
   Our sailing catamarans are smooth and stable and open-plan making these boats the perfect venue for your next birthday party event.
 
 
-  We offer a range of delicious catering options and beverage packages and we also welcome BYO, the choice is absoutely yours.
+  We offer a range of delicious catering options and beverage packages and we also welcome BYO, the choice is absolutely yours. 
 
 
   Each boat is equipped with everything you would expect from a luxury catamaran including superb sound system with free access to premium Spotify, stainless steel barbecue, large eskies with ice and beautiful bathrooms.
@@ -97,13 +97,13 @@ accordionSection:
         Some things we love include:
 
 
-        Sailing, beach stopovers, inflatables, stand up paddleboards, snorkeling, sunbathing, sunsets and dolphins.   All included free of charge*.
+        Sailing, beach stopovers, inflatables, stand up paddleboards, sunbathing, sunsets and dolphins.   All included free of charge*.
 
 
         Some things are almost mandatory:
 
 
-        Singing Happy Birthday to you, cake, embarassing speeches, presents, cake, all your favourite songs...did we mention cake?
+        Singing Happy Birthday to you, cake, embarrassing speeches, presents, cake, all your favourite songs...did we mention cake?
 
 
         \*As much as we have tried to bribe the dolphins to turn up every cruise we can't guarantee they will...fish to chase, waves to jump, fun to be had etc... but it sure is a beautiful sight when they do join us.
@@ -139,19 +139,21 @@ accordionSection:
         than welcome to BYO.
 
 
-        We do have a bbq on board which you are welcome to use however we recommend this only if you have booked the boat for 4 hours or more as it can take quite a while for you to cook a BBQ and you need to leave time for relaxation too right?
+        We do have a BBQ on board which you are welcome to use however we recommend this only if you have booked the boat for 4 hours or more as it can take quite a while for you to cook a BBQ and you need to leave time for relaxation too right?
 
 
-        Grazing style boards and platters are ideal 'boat food'. These can look sensational as a centrepiece for the large timber tables we have on board and your guests are free to pick away at their convenience.
+        Grazing style boards and platters are ideal 'boat food'. These can look sensational as a centrepiece for the large timber tables we have on board and your guests are free to pick away at their convenience. 
 
 
-        We offer Grazing Boards, Tapas , BBQs, Canapes and Private Chefs plus many more catering options.  
+        We offer Grazing Boards, Tapas , BBQs, Canapes and Private Chefs plus many more catering options. 
 
 
-        We can also assist with a drinks service and offer pre-paid tabs, drinks packages or paid bar options.   If you prefer to BYO your drinks this is also possible.
+        We can also assist with a drinks service and offer pre-paid tabs, drinks packages or paid bar options.   If you prefer to BYO your drinks this is also possible. 
 
 
-        Please enquire and you will receive a list of catering and beverage options.
+
+
+        (BYO food/drinks, catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
       title: Catered or BYO
     - dropdownContent: >-
         Arrive in style with a stretch Hummer or limousine transfer to the
@@ -176,7 +178,7 @@ accordionSection:
         Q. Do I need to bring sunscreen, inflatables, towels, camera, water or music?
 
 
-        A. Most things are provided however you will need to byo towel ad camera. One of our friendly staff can let you know what is included when you make your initial enquiry.
+        A. Most things are provided however you will need to byo towel and camera. One of our friendly staff can let you know what is included when you make your initial enquiry.
 
 
         Q. How do I book?
