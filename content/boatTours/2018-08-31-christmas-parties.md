@@ -14,7 +14,7 @@ intro: >-
   Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
 
 
-  Sailing in Paradise would love to create a 2020 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
+  Sailing in Paradise would love to create a 2021 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
 contentBox:
   buttonTitle: ""
   buttonUrl: ""
@@ -109,7 +109,7 @@ accordionSection:
 
 
         We can also arrange additional vessels for groups of up to 90 guests.
-      title: 1-90 Guest Capacity
+      title: 1-80 Guest Capacity
     - dropdownContent: >-
         The layout of our boats are ideal for a Christmas party venue and make
         entertaining large groups a delight.   The spacious interior of the boat
@@ -133,7 +133,7 @@ accordionSection:
         Fancy floating around on an inflatable flamingo, or maybe giving Stand Up Paddle Boarding a go?   Perhaps you are feeling energetic and want to bring the team together with a hit of beach cricket or volleyball.   We carry all of these activities on-board for your use free of charge.
       title: Island landings and Beach Activities included
     - dropdownContent: >-
-        If your boss got sick once on a Caribbean Cruise, or Carol from accounts
+        If your boss got sick once on a Caribbean Cruise, or Karen from accounts
         feels a bit queasy whenever she gets in the bath, please tell them not
         to worry.    Why?  A few reasons;
 
@@ -145,7 +145,7 @@ accordionSection:
         3. You will be having too much fun!
 
 
-        PS...  Carol should probably see a doctor, this is not normal :-)
+        PS...  Karen should probably see a doctor, this is not normal :-)
       title: Smooth and Stable Catamarans = No sea-sickness guaranteed
     - dropdownContent: >-
         We work with some excellent caterers and can offer a range of Christmas,
@@ -154,6 +154,9 @@ accordionSection:
 
 
         We offer a full bar service including competitively priced drinks packages.  Alternatively you can choose to BYO drinks.
+
+
+        (BYO, catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
       title: Fully Catered and licensed or BYO
     - dropdownContent: "**Where do your boats depart from?**\r
 
@@ -298,7 +301,7 @@ featuredTestimonials:
     Christmas Party with us...
   testimonial: "RACEVIEW STATE SCHOOL, Aus "
 meta:
-  description: "Celebrate this 2020 Christmas party sailing the beautiful Gold
-    Coast with Sailing in Paradise. Packages for up to 5 to 50 people. "
+  description: "Celebrate this 2021 Christmas party sailing the beautiful Gold
+    Coast with Sailing in Paradise. Packages for up to 1 to 80 people. "
   title: Gold Coast Christmas Party Boat | Sailing in Paradise
 ---
