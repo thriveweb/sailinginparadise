@@ -73,7 +73,7 @@ contentColumn: >-
   ## the perfect hen's party boats
 
 
-  With 2 beautiful sailing catamarans available for charter we can accommodate groups of up to 20 or 30 guests.    [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
+  With 3 beautiful sailing catamarans available for charter we can accommodate groups of up to 20 or 30 guests.    [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
 
 
   The large trampoline-style fore-decks are perfect for lazing in the sunshine or dancing, while we sail the calm, clear waters of the Gold Coast. The ample undercover space makes the vessels perfect for those seeking shade. Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
@@ -88,7 +88,7 @@ contentColumn: >-
   We have a great range of novelty floating inflatables available. Kick back on one of our supersized flamingos or swans, laze on a giant slice of watermelon or pull up a pineapple.
 
 
-  We also offer a range of free activities including stand up paddleboards, beach cricket, snorkelling, beach volleyball or frisbees.
+  We also offer a range of free activities including stand up paddleboards, beach cricket, beach volleyball or frisbees.
 
 
   Be sure to dress for the occasion, as we always take photos on the day to capture all those precious moments so you can take lots of great memories home.  Practically all of the photos you will see on our Instagam page are taken by our crew on board actual charters.  
@@ -109,7 +109,7 @@ accordionSection:
         Don't expect a cookie-cutter hens party!   We realise that every hen is different and therefore every hen's party is different.  We celebrate that, and will adapt our service on the day to suit your vibe, whatever that may be.
 
 
-        From your initial enquiry, we aim to make the booking process as simple as possible for you, offering a variety of optional extras including catering, beverages, motorised watersports and butlers should you wish to book them.   But none of this is obligatory, we also welcome BYO.
+        From your initial enquiry, we aim to make the booking process as simple as possible for you, offering a variety of optional extras including catering, beverages, motorised watersports and butlers should you wish to book them.   But none of this is obligatory, we also welcome BYO food and drinks.
 
 
         We offer a personalised and customised service so if you have any questions or special requirements please feel free to reach out to our team and we will do our best to accommodate you.
@@ -138,9 +138,9 @@ accordionSection:
         * Swimmers and towel (if you plan to swim)
         * Sunglasses, sunscreen
         * Jacket for cooler days
-        * Shoes that you can slip off if required
+        * Shoes that you can slip off 
         * Perhaps some decorations or mementos for the bride
-        * Food and drink/cups etc if BYO
+        * Food and drink/non-breakable cups etc if BYO
       title: What to Bring
     - dropdownContent: >-
         So you've decided you want a boat party...now time to plan it!   
@@ -193,96 +193,68 @@ accordionSection:
 
         For even more great ideas and inspiration be sure to follow our instagram page @sailinginparadisegoldcoast or our facebook page @sailinginparadise via the links at the base of the site.
       title: Hen's Party Ideas
-    - dropdownContent: "**Where do your boats depart from?**\r
+    - dropdownContent: >-
+        **Where do your boats depart from?**
 
 
-        Our boats are berthed at D9 and D10 at Marina Mirage. Please see
-        the 'contact us' page on our website\r www.sailinginparadise.com.au for
-        further details and a map. Marina Mirage is about 10 mins from Surfers
-        and 15 mins\r from Broadbeach.\r
+        Our boats are berthed at D9 and D10 at Marina Mirage. Please see the 'contact us' page on our website
+
+        [www.sailinginparadise.com.au/contact-us/](www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins
+         from Broadbeach.
+
+        **Where can I park?**
 
 
-        **Where can I park?**\r
+        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
 
 
-        There is plentiful free parking underneath the Marina Mirage
-        Shopping Centre which you are permitted to use.\r
+        **What about other transport options?**
 
 
-        **What about other transport options?**\r
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via
+         Maxi Taxis. We can also assist in organizing bus, hummer or limo transfers if you are after more of an experience.
+
+        **Can I BYO?**
 
 
-        There are lots of ways to get to the boat! The most popular (and
-        cost effective/convenient) if often via\r Maxi Taxis. We can also assist
-        in organizing bus, hummer or limo transfers if you are after more of an
-        experience.
+        Yes if you would like to bring your own food and drinks on board that is completely fine. 
 
 
-        **Can I BYO?**\r
+        **I am short on time can you please help me out with catering/drinks?**
 
 
-        Yes if you would like to bring your own food and drinks on board
-        that is completely fine.\r
+        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance
+         bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
+
+        **Do you have Eskies on board?**
 
 
-        **I am short on time can you please help me out with
-        catering/drinks?**\r
+        Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
 
 
-        Yes, we also offer catering and drinks service for your
-        convenience. Please request our full catering list as advance\r bookings
-        are required. We offer a range of catering options from grazing boards,
-        to tapas and private chefs.\r
+        **Where can we go on our charter?**
 
 
-        **Do you have Eskies on board?**\r
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you
+         would like to do and how long your boat charter is for so please feel free to discuss this with our team.   In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board.   Your skipper can make recommendations on the day, if you don't wish to swim you could also go
+         up and sail around the millionaires mansions at Sovereign Islands.   
+
+        In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.  
 
 
-        Yes we do and we also provide ice. The eskies are very large and
-        can be used for food or drink.
+        **Will I get seasick?**  
 
 
-        **Where can we go on our charter?**\r
+        Nope.   We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go
 
 
-        We operate in the calm, protected waters of the Gold Coast
-        Broadwater. Where to go very much depends on what you\r would like to do
-        and how long your boat charter is for so please feel free to discuss
-        this with our team.   In a 3 hour charter during the day our guests
-        usually love a swim stop at Wavebreak Island where you can enjoy the
-        range of island activities on board.   Your skipper can make
-        recommendations on the day, if you don't wish to swim you could also
-        go\r up and sail around the millionaires mansions at Sovereign
-        Islands.  \ 
-
-
-        In the evening we usually recommend sailing north to watch the
-        sunset and returning to the southern part of the Broadwater to see the
-        city lights after dark which are just beautiful. \ 
-
-
-        **Will I get seasick?** \ 
-
-
-        Nope.   We operate in the calm, protected waters of the Gold
-        Coast Broadwater. We do not go\r
-
-
-        offshore (into the open ocean) so we do not experience large
-        waves. Our catamarans are very stable, and do\r not have the same side
-        to side rocking motion as experienced by single hull vessels so you
-        won't get seasick or spill your drink either :-). \ 
-
+        offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do
+         not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).  
 
         **What happens if it rains?**
 
 
-        First of all remember...a little rain doesn't stop a great party
-        on our boats ha ha...   But do rest assured that we have a very generous
-        wet weather policy as we want you to enjoy your time on board the boat,
-        so if there is torrential rain or storms at the time you will be able to
-        cancel or reschedule your cruise.  Please see the full booking policy
-        provided with your invoice for full details or contact our team."
+        First of all remember...a little rain doesn't stop a great party on our boats ha ha...   But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise.  Please see the full booking policy provided with your invoice for full details or contact our team.
       title: Hens Party FAQ's
     - title: HEN'S PARTY PRICING
       dropdownContent: >-
