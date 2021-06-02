@@ -217,7 +217,10 @@ accordionSection:
         **Can I BYO?**
 
 
-        Yes if you would like to bring your own food and drinks on board that is completely fine. 
+        Yes if you would like to bring your own food and drinks on board that is completely fine.  
+
+
+        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
 
         **I am short on time can you please help me out with catering/drinks?**
@@ -225,6 +228,9 @@ accordionSection:
 
         Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance
          bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
+
+        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
+
 
         **Do you have Eskies on board?**
 
