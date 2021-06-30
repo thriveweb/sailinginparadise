@@ -1,4 +1,9 @@
-siteTitle: ''
-siteUrl: 'https://sailinginparadise.com.au'
-siteDescription: ''
-headerScripts: ''
+siteTitle: ""
+siteUrl: https://sailinginparadise.com.au
+siteDescription: ""
+headerScripts: >-
+  {
+    "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+    "Domain": "sailinginparadise.com.au",
+    "Id": "99d146c6-accb-4491-b8fe-bf5c6d714910"
+  }
