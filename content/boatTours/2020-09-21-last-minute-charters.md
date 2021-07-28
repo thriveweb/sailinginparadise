@@ -8,7 +8,9 @@ intro: >-
   ##### Looking to sail last minute?
 
 
-  We occasionally offer special last minute rates on our Seawind 1000XL for groups of up to 10 guests.  Larger Groups and alternative vessels may be available on request...please contact us for more info!
+  We occasionally offer special last minute rates on our Seawind 1000XL for groups of up to 10 guests.*  Larger Groups and alternative vessels may be available on request...please contact us for more info!
+
+
 
 
   ![](https://ucarecdn.com/71ea2e47-98ab-4951-b7d4-f056671620e0/)
@@ -48,6 +50,8 @@ intro: >-
   * Please contact us directly to confirm your charter for bookings within the next 7 days.
 
   * If you encounter any difficulties making a booking online or have any special requests please contact us at info@sailinginparadise.com.au or call 0438 915222 and we will be happy to help.
+
+    \*Last minute rates are not available with any other offer.
 bookingIframe: >-
   <!--StartFragment-->
 
