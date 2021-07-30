@@ -20,9 +20,9 @@ meta:
     Call 0438 915 222.
   title: Gold Coast Boast Hire | Contact Us | Sailing in Paradise
 ---
-### FIND US AT MARINA MIRAGE/MARINER'S COVE
+### GETTING TO THE MARINA
 
-We are conveniently located at Marina Mirage and Mariner's Cove on Seaworld Drive, Main Beach.   The marinas are directly adjacent to one another and there is plentiful free parking which you are invited to use.
+We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.   The marinas are directly adjacent to one another and there is plentiful free parking which you are invited to use.
 
 ### HOW TO FIND THE BOATS AT THE MARINAS
 
