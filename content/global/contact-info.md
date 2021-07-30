@@ -7,7 +7,7 @@ email: info@sailinginparadise.com.au
 address: |-
   **WHERE WE ARE**
 
-  We are located at Mariner's Cove, 60-70 Seaworld Drive, Main Beach
+  We are located at Marina Mirage, 74 Seaworld Dr, Main Beach QLD 4217
 hours: |-
   **OFFICE HOURS** (via phone) 9AM - 5PM
 
