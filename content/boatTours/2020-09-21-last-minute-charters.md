@@ -11,15 +11,13 @@ intro: >-
   We occasionally offer special last minute rates on our Seawind 1000XL for groups of up to 10 guests.*  Larger Groups and alternative vessels may be available on request...please contact us for more info!
 
 
-
-
   ![](https://ucarecdn.com/71ea2e47-98ab-4951-b7d4-f056671620e0/)
 
 
   ### What's included?
 
 
-  * Exclusive charter of the Seawind 1000XL for up to 10 guests (contact us for larger groups)
+  * Exclusive charter of the Seawind 1000XL for up to 10 guests (contact us for larger groups), 
 
   * Skipper plus 1 crew, (we are fun and friendly, laid-back yet professional) we promise you'll love us,
 
@@ -29,9 +27,9 @@ intro: >-
 
   * Use of large esky (ice supplied),
 
-  * Memento Photos taken by our crew
+  * Memento Photos taken by our crew,
 
-  * Access to Spotify account
+  * Access to Spotify account,
 
   * Lots of fun!
 
