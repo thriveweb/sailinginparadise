@@ -38,7 +38,7 @@ gallery:
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ""
-contentColumnTitle: For groups from 31 - 50 guests
+contentColumnTitle: For groups from 31 - 80 guests
 contentColumn: >-
   Set sail in convoy to a secret beach location for a couple of hours of fun in
   the sun, sea and sand.
@@ -53,7 +53,7 @@ contentColumn: >-
   Private chefs and wait staff, DJ's, watersports activities (parasailing, jetboats etc), drones and professional photographers, the list goes on.
 
 
-  Raft Up yacht parties can cater from 31 to 50 people on 2 sailing catamarans.
+  Raft Up yacht parties can cater from 31 to 80 people on 3 sailing catamarans.
 
 
   You are welcome to BYO everything or take advantage of our extensive catering options from some of the Gold Coast's best caterers and private chefs.
@@ -85,135 +85,74 @@ accordionSection:
         * Food & Drink (plus cups etc) if you have opted to BYO
         * A jacket on cooler days
       title: What to Bring
-    - dropdownContent: "**How many people can you accommodate?**
+    - dropdownContent: >-
+        **How many people can you accommodate?**
 
 
-        We have 4 sailing catamarans available which can carry a total
-        of 90 guests.
-
-
-        ****
+        We have 4 sailing catamarans available which can carry a total of 90 guests.
 
 
         **What is included?**
 
 
-        Each boats comes with a skipper and crew member. Also included
-        is ice, free use of paddleboards and inflatables, beach volleyball and
-        cricket, and snorkeling gear.
+        Each boats comes with a skipper and crew member. Also included is ice, free use of paddleboards, inflatables, beach volleyball and cricket.
 
 
+        **Where do your boats depart from?**
 
 
-        **Where do your boats depart from?**\r
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
-        Our boats are berthed at D9 and D10 at Marina Mirage. Please see
-        the 'contact us' page on our website for further details and a map.
-        Marina Mirage is about 10 mins from Surfers and 15 mins from
-        Broadbeach.\r
+        **Where can I park?**
 
 
-        \r
+        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
 
 
-        **Where can I park?**\r
+        **What about other transport options?**
 
 
-        There is plentiful free parking underneath the Marina Mirage
-        Shopping Centre which you are permitted to use.\r
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.
 
 
-        \r
+        **Can I BYO food and drink?**
 
 
-        **What about other transport options?**\r
+        Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        There are lots of ways to get to the boat! The most popular (and
-        cost effective/convenient) if often via Maxi Taxis.\r
+        **I am short on time can you please help me out with catering/drinks?**
 
 
-        \r
+        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
 
 
-        **Can I BYO food and drink?**\r
+        **Do you have Eskies on board?**
 
 
-        Yes if you would like to bring your own food and drinks on board
-        that is completely fine.\r
+        Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
 
 
-        \r
+        **Where can we go on our charter?**
 
 
-        **I am short on time can you please help me out with
-        catering/drinks?**\r
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper can make recommendations on the day, if you don't wish to swim you could also go up and sail around the millionaires mansions at Sovereign Islands.
 
 
-        Yes, we also offer catering and drinks service for your
-        convenience. Please request our full catering list as advance bookings
-        are required. We offer a range of catering options from grazing boards,
-        to tapas and private chefs.\r
+        In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
 
 
-        \r
+        **Will I get seasick?**
 
 
-        **Do you have Eskies on board?**\r
+        Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not gooffshore (into the open ocean) so we do not e xperience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).
 
 
-        Yes we do and we also provide ice. The eskies are very large and
-        can be used for food or drink.\r
+        **What happens if it rains?**
 
 
-        \r
-
-
-        **Where can we go on our charter?**\r
-
-
-        We operate in the calm, protected waters of the Gold Coast
-        Broadwater. Where to go very much depends on what you would like to do
-        and how long your boat charter is for so please feel free to discuss
-        this with our team. In a 3 hour charter during the day our guests
-        usually love a swim stop at Wavebreak Island where you can enjoy the
-        range of island activities on board. Your skipper can make
-        recommendations on the day, if you don't wish to swim you could also go
-        up and sail around the millionaires mansions at Sovereign Islands.\r
-
-
-        In the evening we usually recommend sailing north to watch the
-        sunset and returning to the southern part of the Broadwater to see the
-        city lights after dark which are just beautiful.\r
-
-
-        \r
-
-
-        **Will I get seasick?**\r
-
-
-        Nope. We operate in the calm, protected waters of the Gold Coast
-        Broadwater. We do not go\r offshore (into the open ocean) so we do not
-        experience large waves. Our catamarans are very stable, and do not have
-        the same side to side rocking motion as experienced by single hull
-        vessels so you won't get seasick :-).\r
-
-
-        \r
-
-
-        **What happens if it rains?**\r
-
-
-        First of all remember...a little rain doesn't stop a great time
-        on our boats especially in the warm Gold Coast endless summer... But do
-        rest assured that we have a very generous wet weather policy as we want
-        you to enjoy your time on board the boat, so if there is torrential rain
-        or storms at the time you will be able to cancel or reschedule your
-        cruise. Please see the full booking policy provided with your invoice
-        for full details or contact our team."
+        First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
       title: Raft Up Party FAQ's
 columnBanner:
   - buttonTitle: Make Enquiry
