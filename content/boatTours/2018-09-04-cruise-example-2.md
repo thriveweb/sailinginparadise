@@ -108,8 +108,8 @@ accordionSection:
         •	Camera
       title: What to Bring
     - dropdownContent: Please arrive 15 minutes prior to your departure time.   We
-        depart from Berth D11 Marina Mirage, Main Beach.   When arriving at the
-        Marina please follow the map and instructions on our [Contact
+        depart from Marina Mirage, Main Beach.   When arriving at the Marina
+        please follow the map and instructions on our [Contact
         Us](https://sailinginparadise.com.au/contact-us/) page.
       title: When and Where to find us
     - dropdownContent: >-
