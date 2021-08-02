@@ -103,31 +103,28 @@ accordionSection:
 
         In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
       title: Where can we go?
-    - dropdownContent: "* Private use of your own beautiful sailing catamaran for 3 to
-        6 hours.\r
+    - dropdownContent: >-
+        * Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
-        * Skipper plus 1 crew, (our crew are heaps of fun and have a
-        laid-back yet professional nature) we promise you will love them, Check
-        out our-crew page to meet the gang!\r
+        * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them, Check out our-crew page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle
-        Boards, beach games and cute inflatables\r
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach games and cute inflatables
 
-        * Use of tablet with premium spotify and sound system on board\r
+        * Use of tablet with premium spotify and sound system on board
 
-        * Use of small marine BBQ if required\r
+        * Use of small marine BBQ if required
 
-        * Use of large eskies (ice supplied)\r
+        * Use of large eskies (ice supplied)
 
-        * Instaworthy Memento Photos taken by our crew\r
+        * Instaworthy Memento Photos taken by our crew
 
-        * Lots of FUN!!"
+        * Lots of FUN!!
       title: What's included?
     - dropdownContent: >-
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at D9 and D10 at Marina Mirage. Please see the 'contact us' page on our website www.sailinginparadise.com.au for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website www.sailinginparadise.com.au for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
