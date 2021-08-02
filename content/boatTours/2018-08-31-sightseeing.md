@@ -11,7 +11,7 @@ intro: >-
   If you’re looking for things to do on the Gold Coast, we invite you on a unique Gold Coast experience... sailing the calm, clear waters of the Gold Coast Broadwater aboard a beautiful sailing catamaran. 
 
 
-  With 2 boats available for private charter, and catering for groups of 1-50 guests, our private sightseeing charters are ideal for families, colleagues and friends looking to explore the area and see the Gold Coast from a different perspective.   
+  With 3 boats available for private charter, and catering for groups of 1-80 guests, our private sightseeing charters are ideal for families, colleagues and friends looking to explore the area and see the Gold Coast from a different perspective.   
 
 
   Whether you are a Gold Coast local or on vacation as an international visitor, experiencing the many attractions on the Gold Coast Broadwater from a luxury catamaran is the perfect way to create a memorable experience for your group!
@@ -75,9 +75,6 @@ accordionSection:
         You’re going to see lots of interesting things while out on the Broadwater with us, so be sure to keep an eye out for friendly bottle-nose dolphins, stingrays, turtles, wallabies and soaring sea-eagles!   You can touch up your tan while lounging out on the foredeck as we sail up to Sovereign Islands to see the mansions of the rich and famous (free sunscreen is available and recommended).
 
 
-        We have rods and bait available (on request) so you can have a go at dropping a line in, you might even catch a fish!
-
-
         Fancy trying your hand at sailing?   No problem, let our friendly crew know and they will have you hoisting the sails and manning the helm in no time.   Just want to chill and enjoy a few drinks and  maybe take a quick swim, this is totally fine too.  We also carry a range of fun activities on board the boat for your use.  
 
 
@@ -110,7 +107,7 @@ accordionSection:
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at D9 and D10 at Marina Mirage. Please see the 'contact us' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         - - -
@@ -168,6 +165,9 @@ accordionSection:
 
 
         In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
+
+
+        - - -
 
 
         **Will I get seasick?**
