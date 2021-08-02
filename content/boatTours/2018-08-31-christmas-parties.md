@@ -8,7 +8,7 @@ intro: >-
   ## gold coast Christmas boat party
 
 
-  Looking for somewhere unique to host this year’s work Christmas Party 2020?  How does a Boat Cruise aboard your own private catamaran sound?  You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
+  Looking for somewhere unique to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?  You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
 
 
   Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
@@ -124,10 +124,10 @@ accordionSection:
         The front of the boat is extremely popular with guests, offering a trampoline-style area perfect for lazing in the sun whilst listening to the sounds of your favourite Christmas songs streaming through our Fusion sound system.
       title: Our boats are ideal for parties
     - dropdownContent: >-
-        The front boarding ladder and shallow draft make the vessel perfect for
-        pulling up onto a beach at Wavebreak Island, South Stradbroke Island or
-        one of the many golden sandy shores in the Gold Coast broadwater. Your
-        skipper will pick the best spot for you on the day!
+        The shallow draft make the vessel perfect for pulling up onto a beach at
+        Wavebreak Island, South Stradbroke Island or one of the many golden
+        sandy shores in the Gold Coast broadwater. Your skipper will pick the
+        best spot for you on the day!
 
 
         Fancy floating around on an inflatable flamingo, or maybe giving Stand Up Paddle Boarding a go?   Perhaps you are feeling energetic and want to bring the team together with a hit of beach cricket or volleyball.   We carry all of these activities on-board for your use free of charge.
@@ -148,7 +148,7 @@ accordionSection:
         PS...  Karen should probably see a doctor, this is not normal :-)
       title: Smooth and Stable Catamarans = No sea-sickness guaranteed
     - dropdownContent: >-
-        We work with some excellent caterers and can offer a range of Christmas,
+        We work with some excellent caterers and can offer a range of Christmas
         brunch, lunch or dinner options from budget through to premium.   If you
         would prefer to BYO that is completely fine too!
 
@@ -158,117 +158,62 @@ accordionSection:
 
         (BYO, catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
       title: Fully Catered and licensed or BYO
-    - dropdownContent: "**Where do your boats depart from?**\r
+    - dropdownContent: >-
+        **Where do your boats depart from?**
 
 
-        Our boats are berthed at D9 and D10 at Marina Mirage. Please see
-        the 'contact us' page on our website for further details and a map.
-        Marina Mirage is about 10 mins from Surfers and 15 mins from
-        Broadbeach.\r
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
-        \r
+        **Where can I park?**
 
 
-        **Where can I park?**\r
+        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
 
 
-        There is plentiful free parking underneath the Marina Mirage
-        Shopping Centre which you are permitted to use.\r
+        **What about other transport options?**
 
 
-        \r
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.
+          We can also help to arrange bus transfers for larger groups.  
+
+        **Can you please help me out with catering/drinks?**
 
 
-        **What about other transport options?**\r
+        Yes, we offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
 
 
-        There are lots of ways to get to the boat! The most popular (and
-        cost effective/convenient) if often via Maxi Taxis.\r  We can also help
-        to arrange bus transfers for larger groups. \ 
+        **Can I BYO food and drink?**
 
 
+        Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        \r**Can you please help me out with catering/drinks?**\r
+        **Do you have Eskies on board?**
 
 
-        Yes, we offer catering and drinks service for your convenience.
-        Please request our full catering list as advance bookings are required.
-        We offer a range of catering options from grazing boards, to tapas and
-        private chefs.\r
+        Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
 
 
-        ****
+        **Where can we go on our charter?**
 
 
-        **Can I BYO food and drink?**\r
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper can make recommendations on the day, if you don't wish to swim you could also go up and sail around the millionaires mansions at Sovereign Islands.
 
 
-        Yes if you would like to bring your own food and drinks on board
-        that is completely fine.\r
+        In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
 
 
-        \r
+        **Will I get seasick?**
 
 
-        **Do you have Eskies on board?**\r
+        Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).
 
 
-        Yes we do and we also provide ice. The eskies are very large and
-        can be used for food or drink.\r
+        **What happens if it rains?**
 
 
-        \r
-
-
-        **Where can we go on our charter?**\r
-
-
-        We operate in the calm, protected waters of the Gold Coast
-        Broadwater. Where to go very much depends on what you would like to do
-        and how long your boat charter is for so please feel free to discuss
-        this with our team. In a 3 hour charter during the day our guests
-        usually love a swim stop at Wavebreak Island where you can enjoy the
-        range of island activities on board. Your skipper can make
-        recommendations on the day, if you don't wish to swim you could also go
-        up and sail around the millionaires mansions at Sovereign Islands.\r
-
-
-        In the evening we usually recommend sailing north to watch the
-        sunset and returning to the southern part of the Broadwater to see the
-        city lights after dark which are just beautiful.\r
-
-
-        \r
-
-
-        **Will I get seasick?**\r
-
-
-        Nope. We operate in the calm, protected waters of the Gold Coast
-        Broadwater. We do not go\r offshore (into the open ocean) so we do not
-        experience large waves. Our catamarans are very stable, and do not have
-        the same side to side rocking motion as experienced by single hull
-        vessels so you won't get seasick :-).\r
-
-
-        \r
-
-
-        **What happens if it rains?**\r
-
-
-        \r
-
-
-        First of all remember...a little rain doesn't stop a great time
-        on our boats especially in the warm Gold Coast endless summer... But do
-        rest assured that we have a very generous wet weather policy as we want
-        you to enjoy your time on board the boat, so if there is torrential rain
-        or storms at the time you will be able to cancel or reschedule your
-        cruise. Please see the full booking policy provided with your invoice
-        for full details or contact our team."
+        First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
       title: Christmas Party FAQ's
     - title: Christmas Party Pricing
       dropdownContent: "[Download Charter
