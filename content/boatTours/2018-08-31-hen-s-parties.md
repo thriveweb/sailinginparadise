@@ -115,7 +115,7 @@ accordionSection:
         We offer a personalised and customised service so if you have any questions or special requirements please feel free to reach out to our team and we will do our best to accommodate you.
       title: What to expect
     - dropdownContent: >-
-        * Private use of your own beautiful sailing catamaran for 3 to 6 hours.
+        * Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
         * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them,
           Check out the ['about us' ](https://sailinginparadise.com.au/about-us/)page to meet the gang!
@@ -158,10 +158,10 @@ accordionSection:
         **Pick a theme**
 
 
-        We love a themed hen's party!   Some of our faves have included nautical (think sailors hats, stripes), mermaids (Tails 'n all), white parties (a total classic and always looks so chic) and tropical (just perfect for a boat/island party)
+        We love a themed hen's party!   Some of our faves have included nautical (think sailors hats, stripes), mermaids (Tails 'n all), white parties (a total classic and always looks so chic) and tropical (just perfect for a boat/island party).
 
 
-        If you are looking at our BYO option why not carry the theme into your food and drink.  We also welcome themed decorations (there are a few guidelines around this so please do check in with us first).    Generally we recommend the table is a great place to start with theming since these are centrally located on both boats and provide a nice focal point.  
+        If you are looking at our BYO option why not carry the theme into your food and drink.  We also welcome themed decorations (there are a few guidelines around this so please do check in with us first).    Generally we recommend the table is a great place to start with theming since these are centrally located on all our boats and provide a nice focal point.  
 
 
         **Plan some hen's party games**
@@ -197,10 +197,8 @@ accordionSection:
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at D9 and D10 at Marina Mirage. Please see the 'contact us' page on our website
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website[ www.sailinginparadise.com.au/contact-us/](www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
-        [www.sailinginparadise.com.au/contact-us/](www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins
-         from Broadbeach.
 
         **Where can I park?**
 
@@ -211,8 +209,8 @@ accordionSection:
         **What about other transport options?**
 
 
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via
-         Maxi Taxis. We can also assist in organizing bus, hummer or limo transfers if you are after more of an experience.
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis. 
+
 
         **Can I BYO?**
 
@@ -226,8 +224,8 @@ accordionSection:
         **I am short on time can you please help me out with catering/drinks?**
 
 
-        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance
-         bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
+        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
+
 
         (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
@@ -241,9 +239,8 @@ accordionSection:
         **Where can we go on our charter?**
 
 
-        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you
-         would like to do and how long your boat charter is for so please feel free to discuss this with our team.   In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board.   Your skipper can make recommendations on the day, if you don't wish to swim you could also go
-         up and sail around the millionaires mansions at Sovereign Islands.   
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team.   In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board.   Your skipper can make recommendations on the day, if you don't wish to swim you could also go up and sail around the millionaires mansions at Sovereign Islands.   
+
 
         In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.  
 
@@ -251,11 +248,8 @@ accordionSection:
         **Will I get seasick?**  
 
 
-        Nope.   We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go
+        Nope.   We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).  
 
-
-        offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do
-         not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).  
 
         **What happens if it rains?**
 
