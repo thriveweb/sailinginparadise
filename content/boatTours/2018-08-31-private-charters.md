@@ -54,8 +54,7 @@ contentColumn: >-
   spectacular views and access to pristine beaches as the boat arrives at
   isolated islands surrounded by crystal clear turquoise waters.   There are
   plentiful activities available on board to keep you entertained including
-  Beach Volleyball, Stand Up Paddleboards, Inflatables, Beach Cricket and
-  Snorkel gear.  
+  Beach Volleyball, Stand Up Paddleboards, Inflatables and Beach Cricket.
 
 
   Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast Mountains followed by the twinkling Gold Coast City Skyline by night, simply breathtaking!
@@ -115,131 +114,76 @@ accordionSection:
         sunset and returning to the southern part of the Broadwater to see the
         city lights after dark which are just beautiful."
       title: Where can we go?
-    - dropdownContent: "* Private use of your own beautiful sailing catamaran for 3 to
-        6 hours.\r
+    - dropdownContent: >-
+        * Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
-        * Skipper plus 1 crew, (our crew are heaps of fun and have a
-        laid-back yet professional nature) we promise you will love them, Check
-        out our-crew page to meet the gang!\r
+        * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out our-crew page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle
-        Boards, beach games and cute inflatables\r
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach games and cute inflatables
 
-        * Use of tablet with premium spotify and sound system on board\r
+        * Use of tablet with premium spotify and sound system on board
 
-        * Use of small marine BBQ if required\r
+        * Use of small marine BBQ if required
 
-        * Use of large eskies (ice supplied)\r
+        * Use of large eskies (ice supplied)
 
-        * Instaworthy Memento Photos taken by our crew\r
+        * Instaworthy Memento Photos taken by our crew
 
-        * Lots of FUN!!"
+        * Lots of FUN!!
       title: What's included?
-    - dropdownContent: "**Where do your boats depart from?**\r
+    - dropdownContent: >-
+        **Where do your boats depart from?**
 
 
-        Our boats are berthed at D9 and D10 at Marina Mirage. Please see
-        the 'contact us' page on our website www.sailinginparadise.com.au for
-        further details and a map. Marina Mirage is about 10 mins from Surfers
-        and 15 mins from Broadbeach.\r
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website www.sailinginparadise.com.au for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
-        \r
+        **Where can I park?**
 
 
-        **Where can I park?**\r
+        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
 
 
-        There is plentiful free parking underneath the Marina Mirage
-        Shopping Centre which you are permitted to use.\r
+        **What about other transport options?**
 
 
-        \r****
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.
 
 
-        **What about other transport options?**\r
+        **Are your charters suitable for children?**
 
 
-        There are lots of ways to get to the boat! The most popular (and
-        cost effective/convenient) if often via Maxi Taxis.\r
+        Absolutely! We love having kids on board and our crew will often try and include them in the sailing and driving the boat. We also carry a range of beach games suitable for kids including buckets and spades for the littlest family members. The wide and spacious deck area also make the boats wonderful for kids, of course you are always careful with children when it comes to being on the water but as boats go our catamarans would be some of the most family friendly around. Please feel free to contact our team if you have any questions about which boat may be best for your family.
 
 
-        \r
+        **Can I BYO food and drink?**
 
 
-        **Are your charters suitable for children?**\r
+        Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        Absolutely! We love having kids on board and our crew will often
-        try and include them in the sailing and driving the boat. We also carry
-        a range of beach games suitable for kids including buckets and spades
-        for the littlest family members. The wide and spacious deck area also
-        make the boats wonderful for kids, of course you are always careful with
-        children when it comes to being on the water but as boats go our
-        catamarans would be some of the most family friendly around. Please feel
-        free to contact our team if you have any questions about which boat may
-        be best for your family.\r
+        **I am short on time can you please help me out with catering/drinks?**
 
 
-        \r
+        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
 
 
-        **Can I BYO food and drink?**\r
+        **Do you have Eskies on board?**
 
 
-        Yes if you would like to bring your own food and drinks on board
-        that is completely fine.\r
+        Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
 
 
-        \r
+        **Will I get seasick?**
 
 
-        **I am short on time can you please help me out with
-        catering/drinks?**\r
+        Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).
 
 
-        Yes, we also offer catering and drinks service for your
-        convenience. Please request our full catering list as advance bookings
-        are required. We offer a range of catering options from grazing boards,
-        to tapas and private chefs.\r
+        **What happens if it rains?**
 
 
-        \r
-
-
-        **Do you have Eskies on board?**\r
-
-
-        Yes we do and we also provide ice. The eskies are very large and
-        can be used for food or drink.\r
-
-
-        \r
-
-
-        **Will I get seasick?**\r
-
-
-        Nope. We operate in the calm, protected waters of the Gold Coast
-        Broadwater. We do not go offshore (into the open ocean) so we do not
-        experience large waves. Our catamarans are very stable, and do not have
-        the same side to side rocking motion as experienced by single hull
-        vessels so you won't get seasick :-).\r
-
-
-        \r
-
-
-        **What happens if it rains?**\r
-
-
-        First of all remember...a little rain doesn't stop a great time
-        on our boats especially in the warm Gold Coast endless summer... But do
-        rest assured that we have a very generous wet weather policy as we want
-        you to enjoy your time on board the boat, so if there is torrential rain
-        or storms at the time you will be able to cancel or reschedule your
-        cruise. Please see the full booking policy provided with your invoice
-        for full details or contact our team."
+        First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
       title: Private Charter FAQ's
     - title: Private Charter Pricing
       dropdownContent: >-
