@@ -38,9 +38,9 @@ contentColumn: >-
   Our catamarans offer comfort, space and style and are guaranteed to create a
   social atmosphere for your cruise.    With 30 and 20 capacity boats in the
   fleet, Sailing in Paradise can accommodate small intimate groups or larger
-  gatherings.   We can also arrange additional vessels for a 'yacht raft up' for
-  up to 90 people.  Imagine your own private fleet of yachts setting sail for a
-  secret rendezvous location for an afternoon of fun in the sunshine.
+  gatherings.   We can also arrange for a 'yacht raft up' for up to 80
+  people.  Imagine your own private fleet of yachts setting sail for a secret
+  rendezvous location for an afternoon of fun in the sunshine.
 
 
   For the ultimate in stress-free corporate event planning we offer a range of catering and drinks packages.  Partnering with some of the Gold Coast's best caterers our guests can enjoy a plethora of dining options from gourmet grazing boards to private chefs.    We also offer a range of beverage packages or welcome BYO.  
@@ -64,13 +64,19 @@ accordionSection:
 
         On board the vessel our crew are also selected for their professionalism and hospitality but will ultimately ensure your guests have a great time on the charter!   We even capture your experience on film, and photos of the charter will be provided to you following your event, it is all part of the service.
       title: What level of service can I expect?
-    - dropdownContent: |-
-        * Skipper plus 1 crew, (we are fun and friendly, laid-back yet
+    - dropdownContent: >-
+        *  Private use of your own beautiful sailing catamaran for 3 to 6 hours
+
+        * Skipper plus one crew, (we are fun and friendly, laid-back yet
            professional) we promise your guests will love us
-        * Use of Stand up Paddle Boards, beach games, novelty
-           inflatables, beach volleyball
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach games, novelty inflatables and beach volleyball
+
+        * Use of tablet with premium Spotify and sound system on board
+
         * Use of small marine BBQ if required for BYO charters
-        * Use of large eskies (ice supplied) if required for BYO charters,
+
+        * Use of large eskies (ice supplied) if required for BYO charters
+
         * Memento Photos taken by our crew
       title: What's included in the charter?
     - dropdownContent: >-
@@ -92,39 +98,25 @@ accordionSection:
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
-
-
-        - - -
+        Our boats are berthed at Marina Mirage. Please see the '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
 
 
-        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
-
-
-        - - -
+        There is plentiful free parking at Marina Mirage/Mariners Cove which you are permitted to use.  Please check signage at time of parking and if parking overnight consider street parking to avoid towing.
 
 
         **What about other transport options?**
 
 
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.
-
-        We can also assist in organising bus transfers for larger groups.  
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis. We can also assist in organising bus transfers for larger groups.  
 
 
-        - - -
-
-
-        **I would like the event to be catererd for me, can you arrange catering/drinks?**
+        **I would like the event to be catered for me?**
 
 
         Yes, we work with a range of amazing caterers to offer a wide variety of options for your guests to enjoy on board.  We are fully licensed so can also offer a drinks service for your convenience.   A catering and drinks list will be provided when you make an enquiry.   We offer a range of catering options from grazing boards, to tapas and private chefs.
-
-
-        - - -
 
 
         **Can I BYO food and drink?**
@@ -133,28 +125,19 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        - - -
-
-
         **Do you have Eskies on board?**
 
 
         Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
 
 
-        - - -
-
-
         **Where can we go on our charter?**
 
 
-        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper can make recommendations on the day, if you don't wish to swim you could also go up and sail around the millionaires mansions at Sovereign Islands.
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper is knowledgeable in the local area and will make recommendations based on the conditions on the day.  If you don't wish to swim in a 3 hour charter you instead opt to sail further north along the inside of South Stradbroke Island and see the millionaires mansions at Sovereign Islands.
 
 
-        In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
-
-
-        - - -
+        In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
 
 
         **Will I get seasick?**
@@ -163,13 +146,16 @@ accordionSection:
         Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).
 
 
-        - - -
-
-
         **What happens if it rains?**
 
 
         First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
+
+
+        **Are your charters suitable for guests with limited mobility?**
+
+
+        We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the 'Our Boats' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
       title: Corporate Event FAQ's
   sectionTitle: Why choose Sailing in Paradise?
 columnBanner:
