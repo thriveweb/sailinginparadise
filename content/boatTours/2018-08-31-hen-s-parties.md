@@ -282,7 +282,7 @@ accordionSection:
   sectionTitle: Hen's party - need to knows
 columnBanner:
   - buttonTitle: Make Enquiry
-    buttonUrl: booking-enquiry
+    buttonUrl: booking-enquiry?charter=gold-coast-corporate-events
     content: Let our friendly and experienced team tailor a VIP Gold Coast Hens
       Party Experience that they won’t forget.
     title: Give your friend the party they deserve!
