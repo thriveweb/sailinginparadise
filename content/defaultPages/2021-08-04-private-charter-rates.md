@@ -53,4 +53,17 @@ content: >-
 
 
   *Bucks parties/Footy Trips (all male charters) and under 21 birthdays are not permitted on this vessel. Rates vary on public holidays and special events, please enquire. Earlier or later charters available on request. 2 hour charters may be available on request.*
+
+
+  **Unsure how to check your rates?**
+
+
+  1. First, choose your season/month across the top;
+
+  2. Then Choose from our half or full day charter options;
+
+  3. Finally, find the charter rate for the full duration and option for additional hours;
+
+
+  Please feel free to call or [email us](https://sailinginparadise.com.au/booking-enquiry) you are unsure, we are happy to help!
 ---
