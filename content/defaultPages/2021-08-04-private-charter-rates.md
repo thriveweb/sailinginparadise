@@ -7,7 +7,7 @@ content: >-
 
   >
 
-  > ##### Rates for our 20 pax catamaran
+  > ##### 2021/22 Rates for our 20 pax catamaran
 
 
   This vessel is ideal for couples and small groups! 
@@ -25,7 +25,7 @@ content: >-
 
   >
 
-  > ##### Rates for our 30 pax catamaran
+  > ##### 2021/22 Rates for our 30 pax catamaran
 
 
   Our original and signature vessel, perfect for parties!
@@ -43,7 +43,7 @@ content: >-
 
   >
 
-  > ##### Rates for our Luxury 30 pax catamaran
+  > ##### 2021/22 Rates for our Luxury 30 pax catamaran
 
 
   Our largest and most luxurious vessel, guaranteed to impress!
