@@ -117,9 +117,9 @@ accordionSection:
     - dropdownContent: >-
         * Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
-        * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them,
-          Check out the ['about us' ](https://sailinginparadise.com.au/about-us/)page to meet the gang!
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach games and cute inflatables
+        * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the ['about us' ](https://sailinginparadise.com.au/about-us/)page to meet the gang!
+
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
 
         * Use of tablet with premium spotify and sound system on board
 
@@ -131,16 +131,23 @@ accordionSection:
 
         * Lots of FUN!!
       title: What's included
-    - dropdownContent: |-
+    - dropdownContent: >-
         This really depends on what you want from your experience but;
 
-        * A sense of fun (essential)
+
+        * A sense of fun, smiles and good vibes (essential)
+
         * Swimmers and towel (if you plan to swim)
+
         * Sunglasses, sunscreen
+
         * Jacket for cooler days
+
         * Shoes that you can slip off 
+
         * Perhaps some decorations or mementos for the bride
-        * Food and drink/non-breakable cups etc if BYO
+
+        * Food, drinks and non-breakable cups etc (unless you want us to organise the catering for you).
       title: What to Bring
     - dropdownContent: >-
         So you've decided you want a boat party...now time to plan it!   
@@ -197,13 +204,13 @@ accordionSection:
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website[ www.sailinginparadise.com.au/contact-us/](www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website[](www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
 
 
-        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
+        There is plentiful free parking at Marina Mirage/Mariners Cove which you are permitted to use.  Please check signage at time of parking and if parking overnight consider street parking to avoid towing.
 
 
         **What about other transport options?**
@@ -239,10 +246,10 @@ accordionSection:
         **Where can we go on our charter?**
 
 
-        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team.   In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board.   Your skipper can make recommendations on the day, if you don't wish to swim you could also go up and sail around the millionaires mansions at Sovereign Islands.   
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper is knowledgeable in the local area and will make recommendations based on the conditions on the day.  If you don't wish to swim in a 3 hour charter you instead opt to sail further north along the inside of South Stradbroke Island and see the millionaires mansions at Sovereign Islands.
 
 
-        In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.  
+        In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
 
 
         **Will I get seasick?**  
@@ -255,6 +262,12 @@ accordionSection:
 
 
         First of all remember...a little rain doesn't stop a great party on our boats ha ha...   But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise.  Please see the full booking policy provided with your invoice for full details or contact our team.
+
+
+        **Are your charters suitable for guests with limited mobility?**
+
+
+        We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the 'Our Boats' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
       title: Hens Party FAQ's
     - title: HEN'S PARTY PRICING
       dropdownContent: >-
@@ -277,10 +290,10 @@ columnBanner:
   - title: ""
     featuredImage: https://ucarecdn.com/33f657ae-7a01-4c5c-b067-8474baef4bed/-/crop/1343x1335/657,0/-/preview/
 featuredTestimonials:
-  description: Ruby attended a hen's party charter with us, see what she said
-    about the unforgettable experience here...
+  description: Lucy booked a charter with us for her husband's 30th birthday, read
+    what she had to say about the experience...
   testimonial: Ruby, Aus
-  title: Ruby
+  title: Happy Sailors
 meta:
   description: Sailing In Paradise - Gold Coast's ultimate VIP Hens Party
     experience. Affordable luxury aboard a smooth sailing catamaran. It's where
