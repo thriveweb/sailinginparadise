@@ -79,7 +79,7 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach activities, beach volleyball and cute inflatables
 
         * Use of tablet with premium spotify and sound system on board
 
@@ -135,7 +135,7 @@ accordionSection:
         **What about other transport options?**
 
 
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis.
 
 
         **Can I BYO food and drink?**
@@ -178,6 +178,18 @@ accordionSection:
 
 
         First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
+
+
+        **Why should we choose you over another operator?**
+
+
+        This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again. We can blow our own trumpet from time to time right? :-)
+
+
+        **How do I book?**
+
+
+        [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
       title: Family Charters FAQ's
     - title: Private Charter Pricing
       dropdownContent: >-
