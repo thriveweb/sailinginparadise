@@ -157,6 +157,22 @@ accordionSection:
 
         We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the '[Our Boats](https://sailinginparadise.com.au/our-boats/)' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
       title: Corporate Event FAQ's
+    - title: "Charter Pricing "
+      dropdownContent: >-
+        Sailing in Paradise offers an affordable luxury option for your boat
+        charter, we pride ourselves on offering the best value on the Gold Coast
+        for the quality of vessels and service that we provide.
+
+
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a Corporate Event info pack including rate card via email.
+    - title: Catering Options
+      dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
+        professional catering delivered to the boat for a stress-free option. 
+         We partner with quality caterers and can offer a range of delicious
+        options to suit every budget and occasion.   Please [click
+        here](https://sailinginparadise.com.au/booking-enquiry) to request
+        a Corporate Event info pack including current catering options via
+        email.
   sectionTitle: Why choose Sailing in Paradise?
 columnBanner:
   - buttonTitle: Make Enquiry
