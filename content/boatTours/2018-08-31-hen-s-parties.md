@@ -283,14 +283,19 @@ accordionSection:
       title: Hens Party FAQ's
     - title: HEN'S PARTY PRICING
       dropdownContent: >-
-        [Download Hen's Party
-        Info](https://drive.google.com/file/d/1PHqSALr-wdxhFT5Q9v7vhJzvGRmFuf2F/view?usp=sharing)
+        Sailing in Paradise offers an affordable luxury option for your boat
+        charter, we pride ourselves on offering the best value on the Gold Coast
+        for the quality of vessels and service that we provide.
 
 
-        [Download Private Charter Rate Card](https://sailinginparadise.com.au/charter-rate-cards/)
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a hen's party info pack including rate card via email.
     - title: Catering Options
-      dropdownContent: "[View Current Catering
-        Options](https://sailinginparadise.com.au/catering-menus/)"
+      dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
+        professional catering delivered to the boat for a stress-free option. 
+         We partner with quality caterers and can offer a range of delicious
+        options to suit every budget and occasion.   Please [click
+        here](https://sailinginparadise.com.au/booking-enquiry) to request
+        a hen's party info pack including current catering options via email.
   sectionTitle: Hen's party - need to knows
 columnBanner:
   - buttonTitle: Make Enquiry
