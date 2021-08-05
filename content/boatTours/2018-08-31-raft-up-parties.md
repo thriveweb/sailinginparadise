@@ -76,44 +76,59 @@ accordionSection:
         Beach Volleyball, Stand Up Paddleboards, Inflatables, Beach Cricket and
         more.   Raft Ups on anchor are also available on request."
       title: What to expect
-    - dropdownContent: |-
-        * Swimmers (for day sails)
-        * A towel
-        * Camera
-        * Easily removable shoes
-        * Good vibes and smiles
-        * Food & Drink (plus cups etc) if you have opted to BYO
-        * A jacket on cooler days
+    - title: What's Included
+      dropdownContent: >-
+        * Private use of 1-3 beautiful sailing catamarans for 3 to 6 hours
+
+        * Skipper plus one crew per boat, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
+
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
+
+        * Use of tablet with premium Spotify and sound system on board
+
+        * Use of small marine BBQ's if required
+
+        * Use of large eskies (ice supplied)
+
+        * Instaworthy Memento Photos taken by our crew
+
+        * Lots of FUN!!
+    - dropdownContent: >-
+        * Swimmers and towel (if you plan to swim)
+
+        * Food, drinks and non-breakable cups etc (unless you want us to organise the catering for you).
+
+        *  Smiles and good vibes (essential)
+
+        * Sunglasses, sunscreen
+
+        * Jacket for cooler days
+
+        * Shoes that you can slip off
       title: What to Bring
     - dropdownContent: >-
         **How many people can you accommodate?**
 
 
-        We have 4 sailing catamarans available which can carry a total of 90 guests.
-
-
-        **What is included?**
-
-
-        Each boats comes with a skipper and crew member. Also included is ice, free use of paddleboards, inflatables, beach volleyball and cricket.
+        We have 3 sailing catamarans available which can carry a total of 80 guests.
 
 
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
 
 
-        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
+        There is plentiful free parking at Marina Mirage/Mariners Cove which you are permitted to use.  Please check signage at time of parking and if parking overnight consider street parking to avoid towing.
 
 
         **What about other transport options?**
 
 
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis.
 
 
         **Can I BYO food and drink?**
@@ -122,10 +137,16 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
+        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
+
+
         **I am short on time can you please help me out with catering/drinks?**
 
 
-        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
+        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to canapes and private chefs.
+
+
+        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
 
         **Do you have Eskies on board?**
@@ -137,22 +158,34 @@ accordionSection:
         **Where can we go on our charter?**
 
 
-        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper can make recommendations on the day, if you don't wish to swim you could also go up and sail around the millionaires mansions at Sovereign Islands.
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper is knowledgeable in the local area and will make recommendations based on the conditions on the day.  If you don't wish to swim in a 3 hour charter you instead opt to sail further north along the inside of South Stradbroke Island and see the millionaires mansions at Sovereign Islands.
 
 
-        In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
+        In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
 
 
         **Will I get seasick?**
 
 
-        Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not gooffshore (into the open ocean) so we do not e xperience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).
+        Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).
 
 
         **What happens if it rains?**
 
 
         First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
+
+
+        **Are your charters suitable for guests with limited mobility?**
+
+
+        We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the '[Our Boats](https://sailinginparadise.com.au/our-boats/)' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
+
+
+        **Why should we choose you over another operator?**
+
+
+        This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again. We can blow our own trumpet from time to time right? :-)
       title: Raft Up Party FAQ's
 columnBanner:
   - buttonTitle: Make Enquiry
