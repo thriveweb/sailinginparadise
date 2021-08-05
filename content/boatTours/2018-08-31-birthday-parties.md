@@ -259,7 +259,7 @@ accordionSection:
         for the quality of vessels and service that we provide.
 
 
-        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a birthday party info pack including rate card via email (hyperlink to enquiry form)
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a birthday party info pack including rate card via email.
     - title: Catering Options
       dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
         professional catering delivered to the boat for a stress-free option. 
