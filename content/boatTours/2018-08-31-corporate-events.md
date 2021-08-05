@@ -73,9 +73,9 @@ accordionSection:
 
         * Use of tablet with premium Spotify and sound system on board
 
-        * Use of small marine BBQ if required for BYO charters
+        * Use of small marine BBQ if required 
 
-        * Use of large eskies (ice supplied) if required for BYO charters
+        * Use of large eskies (ice supplied) 
 
         * Memento Photos taken by our crew
       title: What's included in the charter?
@@ -88,7 +88,7 @@ accordionSection:
 
         * Jet Boat or Parasail Charters (VIP over-water pick-up available from the catamaran)
 
-        * Delicious catering options including Gourmet Grazing Boards, Tapas, BBQ, Canapes or Private Chef on board
+        * Delicious catering options including Gourmet Grazing Boards, BBQ, Canapes or Private Chef on board
 
         * A range of drinks packages available
 
@@ -110,7 +110,7 @@ accordionSection:
         **What about other transport options?**
 
 
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis. We can also assist in organising bus transfers for larger groups.  
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis. We can also assist in organising bus transfers for larger groups.  
 
 
         **I would like the event to be catered for me?**
