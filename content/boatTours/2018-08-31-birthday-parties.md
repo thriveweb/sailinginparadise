@@ -173,12 +173,10 @@ accordionSection:
         Grazing style boards and platters are ideal 'boat food'. These can look sensational as a centrepiece for the large timber tables we have on board and your guests are free to pick away at their convenience. 
 
 
-        We offer Grazing Boards, Tapas , BBQs, Canapes and Private Chefs plus many more catering options. 
+        We offer Grazing Boards, BBQs, Canapes and Private Chefs plus many more catering options. 
 
 
         We can also assist with a drinks service and offer pre-paid tabs, drinks packages or paid bar options.   If you prefer to BYO your drinks this is also possible. 
-
-
 
 
         (BYO food/drinks, catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
