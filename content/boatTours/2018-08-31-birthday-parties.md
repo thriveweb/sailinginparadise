@@ -97,7 +97,7 @@ accordionSection:
         Some things we love include:
 
 
-        Sailing, beach stopovers, inflatables, stand up paddleboards, sunbathing, sunsets and dolphins.   All included free of charge*.
+        Sailing, beach stopovers, beach volleyball, inflatables, stand up paddleboards, sunbathing, sunsets and dolphins.   All included free of charge*.
 
 
         Some things are almost mandatory:
@@ -108,13 +108,41 @@ accordionSection:
 
         \*As much as we have tried to bribe the dolphins to turn up every cruise we can't guarantee they will...fish to chase, waves to jump, fun to be had etc... but it sure is a beautiful sight when they do join us.
       title: What to expect
-    - dropdownContent: |-
+    - title: What's Included
+      dropdownContent: >-
+        *  Private use of your own beautiful sailing catamaran for 3 to 6 hours
+
+        * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the 'about us' page to meet the gang!
+
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
+
+        * Use of tablet with premium Spotify and sound system on board
+
+        * Use of small marine BBQ if required
+
+        * Use of large eskies (ice supplied)
+
+        *  Instaworthy Memento Photos taken by our crew
+
+        * Lots of FUN!!
+    - dropdownContent: >-
         Keep it simple;
 
-        * Swimmers and beach towels.
-        * Food and drink (unless you want us to organise the catering for you).
-        * Smiles and good vibes.
+
+        * Swimmers and towel (if you plan to swim)
+
+        * Food, drinks and non-breakable cups etc (unless you want us to organise the catering for you).
+
+        * Smiles and good vibes (essential)
+
+        * Sunglasses, sunscreen
+
+        * Jacket for cooler days
+
+        * Shoes that you can slip off
+
         * A few decorations or special photos to pop on the table if you wish.
+
 
         We'll provide the rest.
       title: What to Bring
@@ -163,34 +191,82 @@ accordionSection:
         Add some exciting watersports to your charter. Jetboating and Parasailing can be arranged and they can pick you up off the boat for a true VIP Experience.
       title: More Birthday Ideas
     - dropdownContent: >-
-        Q. What happens if it's raining?
+        **Where do your boats depart from?**
 
 
-        A. First of all remember...a little rain doesn't stop a great party on our boats ha ha... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website[](http://www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
-        Q. I sometimes get seasick, are there waves?
+        **Where can I park?**
 
 
-        A. The boat is very smooth and stable and we operate in the calm Broadwater so there are not many waves apart from the odd boat wash. Our skilled captains have ways of keeping the boat very smooth so you don't spill your drink and you definitely won't get seasick.
+        There is plentiful free parking at Marina Mirage/Mariners Cove which you are permitted to use.  Please check signage at time of parking and if parking overnight consider street parking to avoid towing.
 
 
-        Q. Do I need to bring sunscreen, inflatables, towels, camera, water or music?
+        **What about other transport options?**
 
 
-        A. Most things are provided however you will need to byo towel and camera. One of our friendly staff can let you know what is included when you make your initial enquiry.
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis.
 
 
-        Q. How do I book?
+        **Can I BYO?**
 
 
-        A. Fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
+        Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        Q. Why should we choose you over another operator?
+        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
 
-        A. This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again.  We can blow our own trumpet from time to time right?  :-)
+        **Do you have Eskies on board?**
+
+
+        Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
+
+
+        **Where can we go on our charter?**
+
+
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper is knowledgeable in the local area and will make recommendations based on the conditions on the day.  If you don't wish to swim in a 3 hour charter you instead opt to sail further north along the inside of South Stradbroke Island and see the millionaires mansions at Sovereign Islands.
+
+
+        In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
+
+
+        **Will I get seasick?**
+
+
+        Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).
+
+
+        **What happens if it rains?**
+
+
+        First of all remember...a little rain doesn't stop a great party on our boats ha ha... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
+
+
+        **Are your charters suitable for children?**
+
+
+        Absolutely! We love having kids on board and our crew will often try and include them in the sailing and driving the boat. We also carry a range of beach games suitable for kids including buckets and spades for the littlest family members. The wide and spacious deck area also make the boats wonderful for kids. Of course as any parent knows, you are always careful with children when it comes to being on the water, but as boats go our catamarans would be some of the most family friendly around. We do ask that there is a responsible, sober adult onboard to keep an eye on the kiddies. Please feel free to contact our team if you have any questions about which boat may be best for your family.
+
+
+        **Are your charters suitable for guests with limited mobility?**
+
+
+        We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the 'Our Boats' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
+
+
+        **Why should we choose you over another operator?**
+
+
+        This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again. We can blow our own trumpet from time to time right? :-)
+
+
+        **How do I book?**
+
+
+        [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
       title: Birthday Party FAQ's
     - title: Birthday Party Pricing
       dropdownContent: >-
