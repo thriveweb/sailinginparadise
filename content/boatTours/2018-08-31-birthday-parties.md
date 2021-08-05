@@ -161,32 +161,9 @@ accordionSection:
 
         * Budgie Smugglers and mankinis :-)    Well if you are the birthday boy and desperately want to wear one we might bend the rules for you just once...
       title: Considerations
-    - dropdownContent: >-
-        We have done a lot of research to find the best Gold Coast party
-        caterers and are happy to organise this on your behalf, or you are more
-        than welcome to BYO.
-
-
-        We do have a BBQ on board which you are welcome to use however we recommend this only if you have booked the boat for 4 hours or more as it can take quite a while for you to cook a BBQ and you need to leave time for relaxation too right?
-
-
-        Grazing style boards and platters are ideal 'boat food'. These can look sensational as a centrepiece for the large timber tables we have on board and your guests are free to pick away at their convenience. 
-
-
-        We offer Grazing Boards, BBQs, Canapes and Private Chefs plus many more catering options. 
-
-
-        We can also assist with a drinks service and offer pre-paid tabs, drinks packages or paid bar options.   If you prefer to BYO your drinks this is also possible. 
-
-
-        (BYO food/drinks, catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
-      title: Catered or BYO
-    - dropdownContent: >-
-        Arrive in style with a stretch Hummer or limousine transfer to the
-        marina.
-
-
-        Add some exciting watersports to your charter. Jetboating and Parasailing can be arranged and they can pick you up off the boat for a true VIP Experience.
+    - dropdownContent: Add some exciting watersports to your charter. Jetboating and
+        Parasailing can be arranged and they can pick you up off the boat for a
+        true VIP Experience.
       title: More Birthday Ideas
     - dropdownContent: >-
         **Where do your boats depart from?**
@@ -213,7 +190,16 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
+        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)
+
+
+        **I am short on time can you please help me out with catering/drinks?**
+
+
+        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to canapes and private chefs.
+
+
+        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)
 
 
         **Do you have Eskies on board?**
@@ -268,14 +254,19 @@ accordionSection:
       title: Birthday Party FAQ's
     - title: Birthday Party Pricing
       dropdownContent: >-
-        [Download Private Charter
-        Info](https://drive.google.com/file/d/1D_-g735whw-G95VzIX_VezBKQWvFLdDn/view?usp=sharing)
+        Sailing in Paradise offers an affordable luxury option for your boat
+        charter, we pride ourselves on offering the best value on the Gold Coast
+        for the quality of vessels and service that we provide.
 
 
-        [View Private Charter Rates](https://sailinginparadise.com.au/charter-rate-cards/)
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a birthday party info pack including rate card via email (hyperlink to enquiry form)
     - title: Catering Options
-      dropdownContent: "[View current catering
-        options](https://sailinginparadise.com.au/catering-menus/)"
+      dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
+        professional catering delivered to the boat for a stress-free option. 
+         We partner with quality caterers and can offer a range of delicious
+        options to suit every budget and occasion.   Please [click
+        here](https://sailinginparadise.com.au/booking-enquiry) to request
+        a birthday party info pack including current catering options via email.
   sectionTitle: boat party info
 columnBanner:
   - buttonTitle: Make Enquiry
