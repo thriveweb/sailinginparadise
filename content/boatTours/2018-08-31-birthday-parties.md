@@ -112,7 +112,7 @@ accordionSection:
       dropdownContent: >-
         *  Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
-        * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the 'about us' page to meet the gang!
+        * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
         * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
 
