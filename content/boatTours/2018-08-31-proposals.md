@@ -79,7 +79,7 @@ accordionSection:
         * If you are sailing during the day and wish to swim, please bring towels
       title: What to Bring
     - dropdownContent: >-
-        Yes we do!!   Our ‘Sail Away with me…’ Proposal package includes;
+        Yes we do!!   Our ‘**Sail Away with me…’ Proposal package** includes;
 
 
         * A 2 hour private sunset sail for 2 guests (mid-week)
@@ -93,7 +93,7 @@ accordionSection:
         * Beautiful photos captured of your proposal and voyage
 
 
-        $900*
+        **$900***
 
 
         \*Subject to availability.  Peak periods and public holidays may be excluded.  Weekends may be available on request, please enquire.  
