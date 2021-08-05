@@ -144,17 +144,6 @@ accordionSection:
         PS...  Karen should probably see a doctor, this is not normal :-)
       title: Smooth and Stable Catamarans = No sea-sickness guaranteed
     - dropdownContent: >-
-        We work with some excellent caterers and can offer a range of Christmas
-        brunch, lunch or dinner options from budget through to premium.   If you
-        would prefer to BYO that is completely fine too!
-
-
-        We offer a full bar service including competitively priced drinks packages.  Alternatively you can choose to BYO drinks.
-
-
-        (BYO, catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
-      title: Fully Catered and licensed or BYO
-    - dropdownContent: >-
         **Where do your boats depart from?**
 
 
@@ -180,6 +169,15 @@ accordionSection:
 
 
         *(BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)*
+
+
+        **I am short on time can you please help me out with catering/drinks?**
+
+
+        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to canapes and private chefs.
+
+
+        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)
 
 
         **Do you have Eskies on board?**
@@ -215,11 +213,21 @@ accordionSection:
         [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
       title: Christmas Party FAQ's
     - title: Christmas Party Pricing
-      dropdownContent: "[Download Charter
-        Rates](https://sailinginparadise.com.au/charter-rate-cards/)"
+      dropdownContent: >-
+        Sailing in Paradise offers an affordable luxury option for your boat
+        charter, we pride ourselves on offering the best value on the Gold Coast
+        for the quality of vessels and service that we provide.
+
+
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a Christmas party info pack including rate card via email (hyperlink to enquiry form)
     - title: CATERING OPTIONS
-      dropdownContent: "[View current catering
-        options](https://sailinginparadise.com.au/catering-menus/)"
+      dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
+        professional catering delivered to the boat for a stress-free option. 
+         We partner with quality caterers and can offer a range of delicious
+        options to suit every budget and occasion.   Please [click
+        here](https://sailinginparadise.com.au/booking-enquiry) to request
+        a Christmas party info pack including current catering options via
+        email.
   sectionTitle: Why book your Christmas Party with us?
 columnBanner:
   - buttonTitle: Enquire Now
