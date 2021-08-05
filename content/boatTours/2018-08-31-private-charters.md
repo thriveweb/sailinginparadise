@@ -82,46 +82,27 @@ accordionSection:
         any questions or special requirements please feel free to reach out to
         our team and we will do our best to accommodate you."
       title: What to expect
-    - dropdownContent: "* Hat\r
+    - dropdownContent: >-
+        * Swimmers and towel (if you plan to swim)
 
-        * Sunscreen\r
+        * Food, drinks and non-breakable cups etc (unless you want us to organise the catering for you)
 
-        * Sunglasses\r
+        * Smiles and good vibe :)
 
-        * Swimwear\r
+        * Sunglasses, sunscreen
 
-        * Towel\r
+        * Jacket for cooler days
 
-        * Jacket on cooler days\r
-
-        * Camera\r
-
-        * Easily removable shoes
-
-        * Food and drinks if you wish to BYO"
+        * Shoes that you can slip off
       title: What to Bring
-    - dropdownContent: "We operate in the calm, protected waters of the Gold Coast
-        Broadwater. Where to go very much depends on what you would like to do
-        and how long your boat charter is for so please feel free to discuss
-        this with our team. In a 3 hour charter during the day our guests
-        usually love a swim stop at Wavebreak Island where you can enjoy the
-        range of island activities on board. Your skipper can make
-        recommendations on the day, if you don't wish to swim you could also go
-        up and sail around the millionaires mansions at Sovereign Islands.\r
-
-
-        In the evening we usually recommend sailing north to watch the
-        sunset and returning to the southern part of the Broadwater to see the
-        city lights after dark which are just beautiful."
-      title: Where can we go?
     - dropdownContent: >-
         * Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
-        * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out our-crew page to meet the gang!
+        * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach games and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach games, beach volleyball and cute inflatables
 
-        * Use of tablet with premium spotify and sound system on board
+        * Use of tablet with premium Spotify and sound system on board
 
         * Use of small marine BBQ if required
 
@@ -132,28 +113,37 @@ accordionSection:
         * Lots of FUN!!
       title: What's included?
     - dropdownContent: >-
+        We operate in the calm, protected waters of the Gold Coast Broadwater.
+        Where to go very much depends on what you would like to do and how long
+        your boat charter is for so please feel free to discuss this with our
+        team. In a 3 hour charter during the day our guests usually love a swim
+        stop at Wavebreak Island where you can enjoy the range of island
+        activities on board. Your skipper is knowledgeable in the local area and
+        will make recommendations based on the conditions on the day.  If you
+        don't wish to swim in a 3 hour charter you instead opt to sail further
+        north along the inside of South Stradbroke Island and see the
+        millionaires mansions at Sovereign Islands.
+
+
+        In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
+      title: Where can we go?
+    - dropdownContent: >-
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website www.sailinginparadise.com.au for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
 
 
-        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
+        There is plentiful free parking at Marina Mirage/Mariners Cove which you are permitted to use.  Please check signage at time of parking and if parking overnight consider street parking to avoid towing.
 
 
         **What about other transport options?**
 
 
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis.
-
-
-        **Are your charters suitable for children?**
-
-
-        Absolutely! We love having kids on board and our crew will often try and include them in the sailing and driving the boat. We also carry a range of beach games suitable for kids including buckets and spades for the littlest family members. The wide and spacious deck area also make the boats wonderful for kids, of course you are always careful with children when it comes to being on the water but as boats go our catamarans would be some of the most family friendly around. Please feel free to contact our team if you have any questions about which boat may be best for your family.
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis.
 
 
         **Can I BYO food and drink?**
@@ -184,6 +174,30 @@ accordionSection:
 
 
         First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
+
+
+        **Are your charters suitable for children?**
+
+
+        Absolutely! We love having kids on board and our crew will often try and include them in the sailing and driving the boat. We also carry a range of beach games suitable for kids including buckets and spades for the littlest family members. The wide and spacious deck area also make the boats wonderful for kids, of course you are always careful with children when it comes to being on the water but as boats go our catamarans would be some of the most family friendly around. Please feel free to contact our team if you have any questions about which boat may be best for your family.
+
+
+        **Are your charters suitable for guests with limited mobility?**
+
+
+        We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the 'Our Boats' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
+
+
+        **Why should we choose you over another operator?**
+
+
+        This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again. We can blow our own trumpet from time to time right? :-)
+
+
+        **How do I book?**
+
+
+        [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
       title: Private Charter FAQ's
     - title: Private Charter Pricing
       dropdownContent: >-
