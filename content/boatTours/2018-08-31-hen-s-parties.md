@@ -85,7 +85,7 @@ contentColumn: >-
   ## All the hens party extras
 
 
-  We have a great range of novelty floating inflatables available. Kick back on one of our supersized flamingos or swans, laze on a giant slice of watermelon or pull up a pineapple.
+  We have a great range of cute inflatables available. Kick back on one of our supersized flamingos or swans, laze on a giant slice of watermelon or pull up a pineapple.
 
 
   We also offer a range of free activities including stand up paddleboards, beach cricket, beach volleyball or frisbees.
@@ -117,7 +117,7 @@ accordionSection:
     - dropdownContent: >-
         * Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
-        * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the ['about us' ](https://sailinginparadise.com.au/about-us/)page to meet the gang!
+        * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
         * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
 
@@ -216,7 +216,7 @@ accordionSection:
         **What about other transport options?**
 
 
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) if often via Maxi Taxis. 
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis. 
 
 
         **Can I BYO?**
@@ -268,6 +268,18 @@ accordionSection:
 
 
         We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the 'Our Boats' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
+
+
+        **Why should we choose you over another operator?**
+
+
+        This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again. We can blow our own trumpet from time to time right? :-)
+
+
+        **How do I book?**
+
+
+        [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
       title: Hens Party FAQ's
     - title: HEN'S PARTY PRICING
       dropdownContent: >-
