@@ -236,7 +236,7 @@ accordionSection:
          We partner with quality caterers and can offer a range of delicious
         options to suit every budget and occasion.   Please [click
         here](https://sailinginparadise.com.au/booking-enquiry) to request
-        a birthday party info pack including current catering options via email.
+        a romantic sail info pack including current catering options via email.
   sectionTitle: Romantic sails - the lowdown
 columnBanner:
   - buttonTitle: Make Enquiry
