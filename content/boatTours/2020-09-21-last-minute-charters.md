@@ -21,7 +21,7 @@ intro: >-
 
   * Skipper plus 1 crew, (we are fun and friendly, laid-back yet professional) we promise you'll love us,
 
-  * Use of Stand up Paddle Boards, beach games, cute inflatables,
+  * Use of Stand up Paddle Boards, beach games, cute inflatables, beach volleyball,
 
   * Use of small marine BBQ,
 
@@ -47,7 +47,7 @@ intro: >-
 
   * Please contact us directly to confirm your charter for bookings within the next 7 days.
 
-  * If you encounter any difficulties making a booking online or have any special requests please contact us at info@sailinginparadise.com.au or call 0438 915222 and we will be happy to help.
+  * If you encounter any difficulties making a booking online or have any special requests please contact us at info@sailinginparadise.com.au or call 0438 915 222 and we will be happy to help.
 
     \*Last minute rates are not available with any other offer.
 bookingIframe: >-
