@@ -132,25 +132,6 @@ accordionSection:
         \*(We are currently unable to provide snorkel gear due to Covid restrictions. Please BYO gear if you wish to snorkel on your charter)
       title: Where can we go?
     - dropdownContent: >-
-        Yes we do!
-
-
-        **Special Couples Mid-week Private Sunset & City Lights Charter.**    
-
-
-        * A 2 hour private sunset sail for 2 (mid-week)
-
-        * Chilled bottle of Chandon
-
-        * Photo memories of your experience
-
-
-        **$750***
-
-
-        \*Subject to availability.  Peak periods and public holidays may be excluded.  Weekends may be available last-minute on request, please enquire.
-      title: Do you offer special packages?
-    - dropdownContent: >-
         **Where do your boats depart from?**
 
 
@@ -222,6 +203,40 @@ accordionSection:
 
         [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
       title: Romantic Sails FAQ's
+    - dropdownContent: >-
+        Yes we do!
+
+
+        **Special Couples Mid-week Private Sunset & City Lights Charter.**    
+
+
+        * A 2 hour private sunset sail for 2 (mid-week)
+
+        * Chilled bottle of Chandon
+
+        * Photo memories of your experience
+
+
+        **$750***
+
+
+        \*Subject to availability.  Peak periods and public holidays may be excluded.  Weekends may be available last-minute on request, please enquire.
+      title: Do you offer special packages?
+    - title: "Private Charter Pricing "
+      dropdownContent: >-
+        Sailing in Paradise offers an affordable luxury option for your boat
+        charter, we pride ourselves on offering the best value on the Gold Coast
+        for the quality of vessels and service that we provide.
+
+
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a romantic sail info pack including rate card via email.
+    - title: "Catering Options "
+      dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
+        professional catering delivered to the boat for a stress-free option. 
+         We partner with quality caterers and can offer a range of delicious
+        options to suit every budget and occasion.   Please [click
+        here](https://sailinginparadise.com.au/booking-enquiry) to request
+        a birthday party info pack including current catering options via email.
   sectionTitle: Romantic sails - the lowdown
 columnBanner:
   - buttonTitle: Make Enquiry
