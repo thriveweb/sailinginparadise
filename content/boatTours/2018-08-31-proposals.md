@@ -78,6 +78,39 @@ accordionSection:
 
         * If you are sailing during the day and wish to swim, please bring towels
       title: What to Bring
+    - title: Charter FAQ's
+      dropdownContent: >-
+        **Where do your boats depart from?**
+
+
+        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website[](http://www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+
+
+        **Where can I park?**
+
+
+        There is plentiful free parking at Marina Mirage/Mariners Cove which you are permitted to use.  Please check signage at time of parking and if parking overnight consider street parking to avoid towing.
+
+
+        **What about other transport options?**
+
+
+        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis.
+
+
+        **Can I BYO?**
+
+
+        Yes if you would like to bring your own food and drinks on board that is completely fine.
+
+
+        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)
+
+
+        **Will I get seasick?**
+
+
+        Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).
     - dropdownContent: >-
         Yes we do!!   Our ‘**Sail Away with me…’ Proposal package** includes;
 
@@ -100,7 +133,19 @@ accordionSection:
 
 
         You can also consider a surprise proposal with your closest family and friends on board.  Please contact us for a quote for a customised private charter for larger groups.
+
+
+        Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a proposal charter info pack via email.
       title: Do you offer special packages?
+    - title: The perfect vessel for your special day
+      dropdownContent: >-
+        **Seawind 1000XL (20 capacity)** 
+
+
+        Perfect for small groups, families, couples, romantic sails and proposals... If you're looking for an intimate setting, XL is for you!
+
+
+        **[Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
   sectionTitle: Planning your proposal cruise
 columnBanner:
   - buttonTitle: Make Enquiry
