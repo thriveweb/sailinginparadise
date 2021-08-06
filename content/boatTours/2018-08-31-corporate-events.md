@@ -68,7 +68,7 @@ accordionSection:
         *  Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
         * Skipper plus one crew, (we are fun and friendly, laid-back yet
-           professional) we promise your guests will love us
+           professional) we promise your guests will love us. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the crew.
         * Island Activities for day charters incl. Stand up Paddle Boards, beach games, novelty inflatables and beach volleyball
 
         * Use of tablet with premium Spotify and sound system on board
@@ -78,7 +78,7 @@ accordionSection:
         * Use of large eskies (ice supplied) 
 
         * Memento Photos taken by our crew
-      title: What's included in the charter?
+      title: What's included?
     - dropdownContent: >-
         We are able to offer the following additional services to take your
         event to the next level;
@@ -157,6 +157,27 @@ accordionSection:
 
         We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the '[Our Boats](https://sailinginparadise.com.au/our-boats/)' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
       title: Corporate Event FAQ's
+    - title: Choosing the perfect vessel for your event
+      dropdownContent: >-
+        **Seawind 1000XL (20 capacity)** 
+
+
+        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
+
+
+        **Spirit of Gwonda (30 capacity)** 
+
+
+        The ultimate party boat! Built specifically with entertaining in mind, her open plan layout is designed for you to soak up the sun or dance the day/night away! The easy foredeck access via the centre of the boat ensures your guests can always see one another no matter where they are on the boat, which is also great for families with small children!
+
+
+        **Oceans (30 capacity)** 
+
+
+        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+
+
+        **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
     - title: "Private Charter Pricing "
       dropdownContent: >-
         Sailing in Paradise offers an affordable luxury option for your boat
