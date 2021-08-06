@@ -143,6 +143,23 @@ accordionSection:
 
         PS...  Karen should probably see a doctor, this is not normal :-)
       title: Smooth and Stable Catamarans = No sea-sickness guaranteed
+    - title: What's Included
+      dropdownContent: >-
+        * Private use of your own beautiful sailing catamaran for 3 to 6 hours
+
+        * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
+
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and novelty inflatables
+
+        * Use of tablet with premium Spotify and sound system on board
+
+        * Use of small marine BBQ if required
+
+        * Use of large eskies (ice supplied)
+
+        * Instaworthy Memento Photos taken by our crew
+
+        * Lots of FUN!!
     - dropdownContent: >-
         **Where do your boats depart from?**
 
@@ -212,6 +229,27 @@ accordionSection:
 
         [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
       title: Christmas Party FAQ's
+    - title: Choosing the perfect vessel for you
+      dropdownContent: >-
+        **Seawind 1000XL (20 capacity)** 
+
+
+        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
+
+
+        **Spirit of Gwonda (30 capacity)** 
+
+
+        The ultimate party boat! Built specifically with entertaining in mind, her open plan layout is designed for you to soak up the sun or dance the day/night away! The easy foredeck access via the centre of the boat ensures your guests can always see one another no matter where they are on the boat, which is also great for families with small children!
+
+
+        **Oceans (30 capacity)** 
+
+
+        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+
+
+        **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
     - title: Christmas Party Pricing
       dropdownContent: >-
         Sailing in Paradise offers an affordable luxury option for your boat
