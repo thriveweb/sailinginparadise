@@ -113,21 +113,6 @@ accordionSection:
         * Lots of FUN!!
       title: What's included?
     - dropdownContent: >-
-        We operate in the calm, protected waters of the Gold Coast Broadwater.
-        Where to go very much depends on what you would like to do and how long
-        your boat charter is for so please feel free to discuss this with our
-        team. In a 3 hour charter during the day our guests usually love a swim
-        stop at Wavebreak Island where you can enjoy the range of island
-        activities on board. Your skipper is knowledgeable in the local area and
-        will make recommendations based on the conditions on the day.  If you
-        don't wish to swim in a 3 hour charter you instead opt to sail further
-        north along the inside of South Stradbroke Island and see the
-        millionaires mansions at Sovereign Islands.
-
-
-        In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
-      title: Where can we go?
-    - dropdownContent: >-
         **Where do your boats depart from?**
 
 
@@ -162,6 +147,15 @@ accordionSection:
 
 
         Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
+
+
+        **Where can we go on our charter?**
+
+
+        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper is knowledgeable in the local area and will make recommendations based on the conditions on the day.  If you don't wish to swim in a 3 hour charter you instead opt to sail further north along the inside of South Stradbroke Island and see the millionaires mansions at Sovereign Islands.
+
+
+        In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
 
 
         **Will I get seasick?**
@@ -199,16 +193,43 @@ accordionSection:
 
         [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
       title: Private Charter FAQ's
+    - title: Choosing the perfect vessel for you
+      dropdownContent: >-
+        **Seawind 1000XL (20 capacity)** 
+
+
+        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
+
+
+        **Spirit of Gwonda (30 capacity)** 
+
+
+        The ultimate party boat! Built specifically with entertaining in mind, her open plan layout is designed for you to soak up the sun or dance the day/night away! The easy foredeck access via the centre of the boat ensures your guests can always see one another no matter where they are on the boat, which is also great for families with small children!
+
+
+        **Oceans (30 capacity)** 
+
+
+        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+
+
+        **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
     - title: Private Charter Pricing
       dropdownContent: >-
-        [Download Private Charter
-        Info](https://drive.google.com/file/d/1D_-g735whw-G95VzIX_VezBKQWvFLdDn/view)
+        Sailing in Paradise offers an affordable luxury option for your boat
+        charter, we pride ourselves on offering the best value on the Gold Coast
+        for the quality of vessels and service that we provide.
 
 
-        [Download Private Charter Rate Card](https://sailinginparadise.com.au/charter-rate-cards/)
-    - title: Optional Catering Menus
-      dropdownContent: "[View Catering
-        Options](https://sailinginparadise.com.au/catering-menus/)"
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a private charter info pack including rate card via email.
+    - title: "Catering Options "
+      dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
+        professional catering delivered to the boat for a stress-free option. 
+         We partner with quality caterers and can offer a range of delicious
+        options to suit every budget and occasion.   Please [click
+        here](https://sailinginparadise.com.au/booking-enquiry) to request
+        a private charter info pack including current catering options via
+        email.
   sectionTitle: About our charters
 columnBanner:
   - buttonTitle: Make Enquiry
