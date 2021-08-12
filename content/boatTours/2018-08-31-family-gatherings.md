@@ -39,8 +39,9 @@ gallery:
   - image: https://ucarecdn.com/567a2a33-8028-455c-8bc5-407925a6a45b/-/preview/-/enhance/36/
   - image: https://ucarecdn.com/92089020-50ec-4dac-b3eb-dd96db1cc273/-/preview/-/enhance/50/
 videoSection:
-  imageOverlay: ""
-  video: ""
+  imageOverlay: https://ucarecdn.com/5896d6be-d370-4425-8754-380e95e581d5/
+  video: "493602940"
+  title: The perfect family day out!
 contentColumnTitle: Bring the family together!
 contentColumn: >-
   Our luxury catamarans are so family friendly.  The wide and spacious deck
