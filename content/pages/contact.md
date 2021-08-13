@@ -26,9 +26,7 @@ We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.  
 
 ### HOW TO FIND THE BOATS AT THE MARINAS
 
-For 'Spirit of Gwonda' and the 'Seawind 1000XL' - Please take the jetty with the big yellow archway at Mariner's Cove.  You will find us half way along on the left hand side.  (yellow oval on map)
-
-For our vessel 'Oceans' - Please follow the Marina Mirage walkway around towards Palazzo Versace.  You will find our boat after Glass Restaurant and prior to reaching the HOPO Ferry.  (blue triangle on map)
+For 'Spirit of Gwonda', 'Oceans' and the 'Seawind 1000XL' - Please take the jetty with the big yellow archway at Mariner's Cove.  You will find us half way along on the left hand side.  (Logo & white arrow on map)
 
 ![]()
 
