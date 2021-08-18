@@ -7,7 +7,7 @@ intro: >-
   ## our story
 
 
-  We sailed into the Gold Coast commercial boating scene back in 2011 and thanks to our loyal guests and amazing crew we are thrilled to have grown to where we are now, offering 2 beautiful sailing catamarans for private charters and cruises departing from Marina Mirage.   
+  We sailed into the Gold Coast commercial boating scene back in 2011 and thanks to our loyal guests and amazing crew we are thrilled to have grown to where we are now, offering 3 beautiful sailing catamarans for private charters and cruises departing from Marina Mirage.   
 
 
   With years of commercial boating experience in Sydney and the Gold Coast including skippering charter boats, water taxis, jet boats and commercial jet skis, Sailing in Paradise owner Steve Buckley brought a new style of sailing experience to the Coast.   
@@ -17,16 +17,16 @@ intro: >-
 
   >
 
-  > _Owner - Steve Buckley_
+  > *Owner - Steve Buckley*
 
 
   After falling in love with our beautiful signature vessel ‘Spirit of Gwonda’ (which remains one of the best catamarans on the water for social occasions) the dream became a reality and Sailing in Paradise was born.  
 
 
-  In response to guest demand, Gwonda's sister vessel the Seawind 1000XL joined our fleet in 2018!
+  In response to guest demand, Gwonda's sister vessel the Seawind 1000XL joined our fleet in 2018, followed by Oceans in 2021!
 
 
-  Both boats were carefully selected to offer the same spacious deck area, stable sailing and beach landing capabilities.
+  All three boats were carefully selected to offer the same spacious deck area, stable sailing and beach landing capabilities.
 gallery:
   - image: https://ucarecdn.com/d3fce9ea-25bc-4f10-b643-e67e330427c4/
   - image: https://ucarecdn.com/1a97171f-a25e-46d9-a987-2940d52f9607/
