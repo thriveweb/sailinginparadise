@@ -93,7 +93,7 @@ crewSection:
       title: Cruise Hostess/Guest Relations
     - content: >-
         Daniel is a former tradesman and joined our crew after years on the
-        water at the Whitsunday Islands. Dan loves to make you laugh and he is
+        water at the Whitsunday Islands. He loves to make you laugh and he is
         always up for a chat! 
 
 
