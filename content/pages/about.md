@@ -92,14 +92,12 @@ crewSection:
       name: "Chanelle "
       title: Cruise Hostess/Guest Relations
     - content: >-
-        Daniel is a former tradesman. Good with his hands and now "captain of
-        your hearts"!  
+        Daniel is a former tradesman and joined our crew after years on the
+        water in the Whitsunday Islands. Dan loves to make you laugh and he is
+        always up for a chat! 
 
 
-        Dan joined our crew after years of touring guests around the beautiful Whitsunday Islands. He has a passion for the sea and gets joy from looking after our guests on board and providing them with entertainment! Dan loves to make you smile and he is always up for a chat! 
-
-
-        When he's not out sailing, he can be found wakeboarding or taking his jet ski out for a spin. You'll be sure to have a great day out with Daniel as your skipper!
+        Dan has a passion for the sea and when he's not out sailing, he can be found wakeboarding or jet skiing. You'll be sure to have a great day out with Daniel, "the captain of your hearts"!
       image: https://ucarecdn.com/27d8e87d-23c3-4176-8ef2-9eb88a5affd0/-/preview/-/enhance/50/
       name: Daniel
       title: Skipper
