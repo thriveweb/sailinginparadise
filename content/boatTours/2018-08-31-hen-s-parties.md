@@ -194,13 +194,17 @@ accordionSection:
 
         For even more great ideas and inspiration be sure to follow our instagram page @sailinginparadisegoldcoast or our facebook page @sailinginparadise via the links at the base of the site.
       title: Hen's Party Ideas
-    - dropdownContent: If you are looking for the perfect ice breaker, guaranteed to
-        make the bride smile and her nan giggle we can't recommend these guys
+    - dropdownContent: >-
+        If you are looking for the perfect ice breaker, guaranteed to make the
+        bride smile and her nan giggle we can't recommend these guys
         enough.   Wearing just an apron, bow tie and a smile, our butlers are
         the best in the business.  With a personality guaranteed to get the
         party started your personal butler will serve drinks, play games and
         keep your guests entertained all while making the perfect hen's party
         eye candy.
+
+
+        Enquire with our team [here](https://sailinginparadise.com.au/booking-enquiry) about adding a cheeky butler for your Hens event!
       title: Cheeky butlers...
     - dropdownContent: >-
         **Where do your boats depart from?**
