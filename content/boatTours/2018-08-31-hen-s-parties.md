@@ -26,13 +26,13 @@ bookingIframe: >-
   <!--EndFragment-->
 gallery:
   - image: https://ucarecdn.com/b48b8729-7e35-4049-b3d8-f707224f64ae/-/preview/-/enhance/22/
-  - image: https://ucarecdn.com/8f486ec3-739d-42cd-a1bb-1542175aeadb/
   - image: https://ucarecdn.com/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1/-/preview/-/enhance/20/
+  - image: https://ucarecdn.com/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5/-/crop/1334x1507/0,109/-/preview/
   - image: https://ucarecdn.com/ad4cba93-24b4-4da5-ba3a-4477b55fd02f/
   - image: https://ucarecdn.com/9e1af779-767b-4de5-b0f2-e6d80836bd18/-/preview/-/enhance/30/
+  - image: https://ucarecdn.com/8f486ec3-739d-42cd-a1bb-1542175aeadb/
   - image: https://ucarecdn.com/1b4fe18b-3ac4-481c-a1a7-665771d8e819/
   - image: https://ucarecdn.com/f1899ee6-b8c6-467a-b7eb-1f6940be9f1d/-/crop/1125x1250/0,401/-/preview/
-  - image: https://ucarecdn.com/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5/-/crop/1334x1507/0,109/-/preview/
   - image: https://ucarecdn.com/103a523a-4f7a-4ca6-85f9-99b804e06a0b/
   - image: https://ucarecdn.com/53d6d510-2a29-43c8-915f-6ca97e2e4d3f/-/crop/1041x1188/0,137/-/preview/
   - image: https://ucarecdn.com/b89fbd1c-13f9-480f-bd4c-65ed787390d4/-/crop/1333x1569/0,256/-/preview/
@@ -189,17 +189,19 @@ accordionSection:
 
         * Hen's Party Dares
 
-        * Plus some very cheeky games the girls have dreamed up involving our cheeky butlers ha ha
-
-
-        **Talking of cheeky butlers...**
-
-
-        If you are looking for the perfect ice breaker, guaranteed to make the bride smile and her nan giggle we can't recommend these guys enough.   Wearing just an apron, bow tie and a smile, our butlers are the best in the business.  With a personality guaranteed to get the party started your personal butler will serve drinks, play games and keep your guests entertained all while making the perfect hen's party eye candy.   
+        * Plus some very cheeky games the girls have dreamed up involving our cheeky butlers ha ha 
 
 
         For even more great ideas and inspiration be sure to follow our instagram page @sailinginparadisegoldcoast or our facebook page @sailinginparadise via the links at the base of the site.
       title: Hen's Party Ideas
+    - dropdownContent: If you are looking for the perfect ice breaker, guaranteed to
+        make the bride smile and her nan giggle we can't recommend these guys
+        enough.   Wearing just an apron, bow tie and a smile, our butlers are
+        the best in the business.  With a personality guaranteed to get the
+        party started your personal butler will serve drinks, play games and
+        keep your guests entertained all while making the perfect hen's party
+        eye candy.
+      title: Cheeky butlers...
     - dropdownContent: >-
         **Where do your boats depart from?**
 
