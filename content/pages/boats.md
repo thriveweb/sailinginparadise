@@ -89,9 +89,9 @@ boats:
       - image: https://ucarecdn.com/f846288b-df1e-4976-9fdb-b3e501e6b35d/-/preview/-/enhance/50/
       - image: https://ucarecdn.com/a3a5d277-4af4-44b2-bf18-481ae082038c/-/preview/-/enhance/24/
       - image: https://ucarecdn.com/4c58f7eb-9887-436a-8ed9-d5d618c86350/-/preview/-/enhance/43/
-      - image: https://ucarecdn.com/1cf27e02-c8d8-440c-9006-1307cc2fd592/
-      - image: https://ucarecdn.com/16cc10ac-282b-4532-9fef-06724dd40a1d/
-      - image: https://ucarecdn.com/c9e6e3f2-989d-4163-ba27-35f072f2b477/
+      - image: ""
+      - image: https://ucarecdn.com/5ac37a31-70a2-4224-b838-2e06d0be149c/
+      - image: ""
   - boatFeatures:
       - content: 10.85m long, 5.9m wide
       - content: 20 passengers + 2 crew
