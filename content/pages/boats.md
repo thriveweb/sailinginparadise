@@ -81,6 +81,14 @@ boats:
       - content: Sound System
       - content: Access to beach via tender
     gallery:
+      - image: https://ucarecdn.com/987ab6b6-b626-4996-8df6-0fd15ffdd0a3/-/preview/-/enhance/28/
+      - image: https://ucarecdn.com/8e98ff40-62b2-4e0e-bea2-ae6813c979ee/-/preview/-/enhance/13/
+      - image: https://ucarecdn.com/50f425d0-4c4e-4ef9-b6a7-f210d274f574/-/preview/-/enhance/14/
+      - image: https://ucarecdn.com/6e5a4b1d-64e6-404f-8177-b052f1dbae8b/-/crop/1000x569/0,98/-/preview/
+      - image: https://ucarecdn.com/0dbb5be0-73a4-4e8b-9907-4bd8be8f8a67/-/preview/-/enhance/50/
+      - image: https://ucarecdn.com/f846288b-df1e-4976-9fdb-b3e501e6b35d/-/preview/-/enhance/50/
+      - image: https://ucarecdn.com/a3a5d277-4af4-44b2-bf18-481ae082038c/-/preview/-/enhance/24/
+      - image: https://ucarecdn.com/4c58f7eb-9887-436a-8ed9-d5d618c86350/-/preview/-/enhance/43/
       - image: https://ucarecdn.com/1cf27e02-c8d8-440c-9006-1307cc2fd592/
       - image: https://ucarecdn.com/16cc10ac-282b-4532-9fef-06724dd40a1d/
       - image: https://ucarecdn.com/c9e6e3f2-989d-4163-ba27-35f072f2b477/
