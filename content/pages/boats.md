@@ -51,7 +51,7 @@ boats:
     videoSection:
       title: ""
     title: NEW - Oceans
-    featuredImage: https://ucarecdn.com/414b45ab-b5a0-404b-a324-8d824b63c9aa/-/crop/594x399/82,85/-/preview/
+    featuredImage: https://ucarecdn.com/169d4ebf-d0a7-41bc-a295-8257ef3f57db/-/preview/-/enhance/24/
     description: >-
       Our largest and most luxurious vessel, Oceans joined the fleet in April
       2021 and is guaranteed to impress.    With a maximum guest capacity of 30,
