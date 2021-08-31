@@ -40,7 +40,7 @@ If you aren’t up for the walk, there are some great spots on Burleigh hill to 
 
 Renowned worldwide as a pro-surf spot, Burleigh delivers the goods when it comes to its amazing beach.   If you aren’t quite up for the paddle out and just fancy a quick dip, you are sure to find a calm spot most days at Burleigh.
 
-![](https://ucarecdn.com/bfc9a668-3424-45d2-8f3e-e1b343b4df21/-/crop/2663x1347/0,275/-/preview/)
+![Girl swimming at Burleigh Point](https://ucarecdn.com/bfc9a668-3424-45d2-8f3e-e1b343b4df21/-/crop/2663x1347/0,275/-/preview/)
 
 **Shop, Shop, Shop (hint: bring your credit card)**
 
