@@ -2,23 +2,21 @@
 template: SinglePost
 title: Things to do on the Gold Coast - Burleigh Heads
 status: Featured / Published
-date: '2018-03-27'
+date: 2018-03-27
 categories:
   - category: News
-featuredImage: 'https://ucarecdn.com/21846993-44c8-4e96-96e2-e0549d8be1d9/'
-excerpt: >-
-  Burleigh’s heady mix of cool boutiques, hipster dining, golden beaches, surf
-  breaks and awesome walks have long endeared Burleigh with the local crowd and
-  are frequented by the Gold Coast’s beautiful people.
+featuredImage: https://ucarecdn.com/21846993-44c8-4e96-96e2-e0549d8be1d9/
+excerpt: Burleigh’s heady mix of cool boutiques, hipster dining, golden beaches,
+  surf breaks and awesome walks have long endeared Burleigh with the local crowd
+  and are frequented by the Gold Coast’s beautiful people.
 meta:
-  canonicalLink: ''
-  description: >-
-    Ask any Gold Coast local about their favourite places on the GC and Burleigh
-    Heads is sure to factor in pretty high on the list.
+  canonicalLink: ""
+  description: Ask any Gold Coast local about their favourite places on the GC and
+    Burleigh Heads is sure to factor in pretty high on the list.
   noindex: false
   title: Things to do in Burleigh Heads | Sailing In Paradise
 ---
-![Test Image](/images/uploads/vyouw5byhlc.jpeg)
+![Burleigh Heads Beach](https://ucarecdn.com/7a026b9b-2b4c-4e4d-89e4-ead69a06f90d/)
 
 Ask any Gold Coast local about their favourite places on the GC and Burleigh Heads (or simply Burleigh as it’s known to the locals) is sure to factor in pretty high on the list.   And it’s not hard to see why.  Burleigh’s heady mix of cool boutiques, hipster dining, golden beaches, surf breaks and awesome walks have long endeared Burleigh with the local crowd and are frequented by the Gold Coast’s beautiful people.
 
@@ -66,5 +64,3 @@ Parking is always at a premium in Burleigh and can be hard to find. Make sure yo
 **Getting to Sailing in Paradise from Burleigh Heads**
 
 Sailing in Paradise departs from Marina Mirage, Main Beach about a 30 minute drive north from Burleigh Heads.   Simply follow the Gold Coast Highway and then turn off before the Sundale Bridge following the signs for Sea World.    Marina Mirage is located on the left and there is ample undercover parking.
-
-###
