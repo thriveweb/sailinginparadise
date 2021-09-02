@@ -302,4 +302,9 @@ featuredTestimonials:
     what she had to say about the experience...
   testimonial: Lucy, Aus
   title: Happy Sailors
+meta:
+  description: If you are looking for the perfect birthday party venue on the Gold
+    Coast then look no further. Sailing In Paradise can help to create a
+    memorable birthday experience to share with family and friends aboard one of
+    our beautiful boats.
 ---
