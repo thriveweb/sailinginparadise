@@ -72,4 +72,7 @@ columnBanner:
 
       <!--EndFragment-->
     title: ""
+meta:
+  description: "We occasionally offer special last minute rates on our Seawind
+    1000XL for groups of up to 10 guests.*  "
 ---
