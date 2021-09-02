@@ -169,4 +169,9 @@ featuredTestimonials:
     ones memorial cruise. Read her lovely review here...
   testimonial: Elyce, Aus
   title: Elyce
+meta:
+  description: A scattering of ashes at sea is often chosen by families whose
+    dearly departed had a love of the water or boating. As we too share this
+    love, we will do everything within our power to make the experience
+    memorable for all guests who attend a memorial service on board our vessels
 ---
