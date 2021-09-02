@@ -239,4 +239,8 @@ featuredTestimonials:
     Margaret had to say...
   testimonial: Margaret, Aus
   title: ""
+meta:
+  description: Whether you are organising a corporate event, a wedding or a get
+    together with a big group of friends, if you want your next event to be
+    truly special you should talk to us about a Raft Up yacht party.
 ---
