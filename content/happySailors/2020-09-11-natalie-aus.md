@@ -29,5 +29,9 @@ gallery:
   - image: https://ucarecdn.com/caf84f2e-d99e-49c7-92bc-710ec3bec779/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/9405a017-0062-4071-966f-041e26847462/-/crop/1067x1031/0,569/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/2e9284e3-91e5-43e6-9657-a72d9a00ceb1/-/preview/-/enhance/50/
+meta:
+  description: A big happy birthday to Vanessa who celebrated her 18th birthday on
+    board with us! What better way to celebrate a milestone, a day on the water
+    with your best friends... sunshine... tropical vibes...private yacht!
 ---
 A big happy birthday to Vanessa who celebrated her 18th birthday on board with us! What better way to celebrate a milestone, a day on the water with your best friends... sunshine... tropical vibes...private yacht!
