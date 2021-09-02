@@ -8,6 +8,11 @@ categories:
 featuredImage: https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/
 videoSection:
   title: ""
+meta:
+  description: We continue to offer private charters in the beautiful Gold Coast
+    sunshine and look forward to welcoming you on board.  Groups of up to 20
+    guests (on the Seawind 1000XL) or 30 guests (on Spirit of Gwonda) are
+    welcome on board at this time.
 ---
 UPDATE 28 AUG
 
