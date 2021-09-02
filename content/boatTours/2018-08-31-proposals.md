@@ -159,4 +159,9 @@ featuredTestimonials:
     had to say about the unforgettable experience, other than "YES!"...
   testimonial: Lauren, Aus-1
   title: Lauren
+meta:
+  description: Are you planning to propose to your future wife, or husband and
+    seeking out unique proposal ideas? We absolutely adore hosting proposals and
+    are proud to offer one of the most beautiful ways to propose on the Gold
+    Coast!
 ---
