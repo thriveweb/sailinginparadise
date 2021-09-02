@@ -26,5 +26,9 @@ gallery:
   - image: https://ucarecdn.com/1f5478e3-e088-416b-a189-9b51abde07c4/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/811dfb1c-41d7-4db6-ba65-0f126558ffd2/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/925554ce-6330-469a-b666-f056c0b4bfd9/-/preview/-/enhance/50/
+meta:
+  description: We absolutely love hosting proposals and helping create
+    unforgettable memories for our guests! Seeing Laurens reaction to Matt's
+    proposal was priceless, it was such a special moment.
 ---
 We absolutely love hosting proposals and helping create unforgettable memories for our guests! Seeing Laurens reaction to Matt's proposal was priceless, it was such a special moment. Our Seawind 1000XL is the perfect boat for couples, we set up a private romantic picnic set up on the foredeck to make it more special and comfortable. Check out Laurens review on her experience below....
