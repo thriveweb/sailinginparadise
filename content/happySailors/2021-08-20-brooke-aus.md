@@ -23,5 +23,8 @@ gallery:
   - image: https://ucarecdn.com/ccca0cee-8cd7-45ba-9ca1-5c0a5c2503f8/-/preview/-/enhance/27/
   - image: https://ucarecdn.com/e960b261-e0ba-45ea-a74e-2277ee0d679d/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/901efc0b-7d6c-46c3-b802-ebc6abde3134/-/preview/-/enhance/27/
+meta:
+  description: Guys, If you love your bride to be sister like Brooke over here
+    does.... then treat her to a hen's party on a private yacht!
 ---
 Guys, If you love your bride to be sister like Brooke over here does.... then treat her to a hen's party on a private yacht! These lovely girls spent the day dancing in on the trampoline style foredeck before having a dip into the ocean at an island. Read about their experience below...
