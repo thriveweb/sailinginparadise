@@ -24,5 +24,8 @@ gallery:
   - image: https://ucarecdn.com/93a339e4-916e-483c-83ac-73057bf22a45/-/preview/-/enhance/38/
   - image: https://ucarecdn.com/5998f2db-9836-4cab-a1b4-e3547ec6d9ce/-/preview/-/enhance/31/
   - image: https://ucarecdn.com/98590515-d0e0-49c2-9b1b-7d9cc8228a50/-/preview/-/enhance/27/
+meta:
+  description: A private charter with your closest friends and family... We can't
+    think of a better way to celebrate a 21st birthday!
 ---
 A private charter with your closest friends and family... We can't think of a better way to celebrate a 21st birthday! We took David and his friends to check out the mansions at Sovereign Islands then to Wave Break island for some volleyball fun! Take a look at the photos below...
