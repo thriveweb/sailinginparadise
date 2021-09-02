@@ -22,5 +22,9 @@ gallery:
   - image: https://ucarecdn.com/f791a39e-d4fa-4f47-aa3b-60892bcd5aaf/-/preview/-/enhance/32/
   - image: https://ucarecdn.com/c1e7068a-d739-43e1-85b2-a8c8cd8af7e0/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/992e6b4a-a291-4ed5-b994-0dfefb0777eb/-/preview/-/enhance/33/
+meta:
+  description: Our beautiful hen Charise and her friends rocked up ready to have a
+    good time! The weather turned it on for them too (that Gold Coast weather,
+    seriously so good).
 ---
 Our beautiful hen Charise and her friends rocked up ready to have a good time! The weather turned it on for them too (that Gold Coast weather, seriously so good). We loved the all white theme for the girls and hot pink for the lovely bride to be! Our guests always have the option to either BYO food and drinks or we can offer delicious catering packages.  Check out the mother of the brides review below....
