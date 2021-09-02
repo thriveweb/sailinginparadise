@@ -243,4 +243,7 @@ featuredTestimonials:
     about their experience with us here...
   testimonial: Tim, Aus
   title: Tim
+meta:
+  description: When you charter a boat with Sailing in Paradise we aim to provide
+    a special experience the whole family will enjoy.
 ---
