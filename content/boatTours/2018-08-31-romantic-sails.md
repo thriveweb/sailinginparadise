@@ -252,4 +252,8 @@ featuredTestimonials:
     romantic sail with us...
   testimonial: Taryn, Aus
   title: Taryn
+meta:
+  description: If you are celebrating a wedding anniversary, birthday, Valentines
+    Day or looking to impress a special date, trust us when we say, there is
+    honestly nothing more romantic than setting sail on your own private yacht.
 ---
