@@ -13,6 +13,7 @@ meta:
     sunshine and look forward to welcoming you on board.  Groups of up to 20
     guests (on the Seawind 1000XL) or 30 guests (on Spirit of Gwonda) are
     welcome on board at this time.
+  title: Sailing during Covid-19 pandemic
 ---
 UPDATE 28 AUG
 
