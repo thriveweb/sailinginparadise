@@ -5,7 +5,7 @@ title: Gold Coast Sightseeing
 icon: ""
 featuredImage: https://ucarecdn.com/ecd8d123-c8fc-4598-ad75-c149932f1916/-/preview/-/enhance/88/
 intro: >-
-  ## gold coast Sightseeing Cruise
+  ## Gold Coast Sightseeing Cruise
 
 
   If you’re looking for things to do on the Gold Coast, we invite you on a unique Gold Coast experience... sailing the calm, clear waters of the Gold Coast Broadwater aboard a beautiful sailing catamaran. 
@@ -130,7 +130,7 @@ accordionSection:
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at Marina Mirage. Please see the '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our website[](http://www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our website[](https://www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
