@@ -78,9 +78,9 @@ secondaryBanner:
 aboutSection:
   buttons:
     - buttonTitle: More about us
-      buttonUrl: about-us
+      buttonUrl: about-us/
     - buttonTitle: See our boats
-      buttonUrl: our-boats
+      buttonUrl: our-boats/
   content: >-
     We have 3 of the most beautiful and well maintained sailing catamarans
     available.
