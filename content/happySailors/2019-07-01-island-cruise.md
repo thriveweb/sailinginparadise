@@ -21,5 +21,6 @@ meta:
   description: We love taking our guests out to our favourite swimming spot at
     Wave Break Island! The water is fresh, the Island is beautiful, and we are
     sure you will love it too just like Mariella and her girlfriends!
+  title: Mariella's Island Cruise Experience With Sailing in Paradise
 ---
 We love taking our guests out to our favourite swimming spot at Wave Break Island! The water is fresh, the Island is beautiful, and we are sure you will love it too just like Mariella and her girlfriends!
