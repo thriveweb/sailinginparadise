@@ -22,7 +22,7 @@ intro: >-
   ##
 contentBox:
   buttonTitle: Make an enquiry
-  buttonUrl: booking-enquiry
+  buttonUrl: booking-enquiry/
   title: ""
 gallery:
   - image: https://ucarecdn.com/3ff58452-e97c-4bba-b535-3852fcb3e57e/-/preview/-/enhance/66/
