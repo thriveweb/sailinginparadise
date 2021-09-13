@@ -27,5 +27,6 @@ meta:
     an event on board to ensure your event runs smoothly. From the organisation
     of catering/beverages/crew, right until the very end when you don’t want to
     get off the boat!
+  title: Kojo's Experience With Sailing in Paradise
 ---
 Sometimes planning corporate events can be time consuming and stressful. Our team do as much as we can to simplify the process in hosting an event on board to ensure your event runs smoothly. From the organisation of catering/beverages/crew, right until the very end when you don’t want to get off the boat!
