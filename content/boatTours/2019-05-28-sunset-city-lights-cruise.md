@@ -23,7 +23,7 @@ intro: >-
   So come and join us on our sunset cruise as the sun sinks behind the mountains of the Gold Coast Hinterland and casts a glow across the calm waters of the Gold Coast Broadwater.
 contentBox:
   buttonTitle: ENQUIRE ABOUT A PRIVATE SUNSET CHARTER
-  buttonUrl: booking-enquiry
+  buttonUrl: booking-enquiry/
   title: The Gold Coast's best sunset views
 bookingIframe: ""
 gallery:
