@@ -23,5 +23,6 @@ gallery:
 meta:
   description: Our Island cruise suits those seeking a relaxing afternoon in the
     sunshine and those after some awesome fun!
+  title: Mr Apple's Island Cruise
 ---
 Our Island cruise suits those seeking a relaxing afternoon in the sunshine and those after some awesome fun! Mr Apple and his group enjoyed a blissful afternoon relaxing on the trampoline style fore-deck as well as making use of our beach activities at the picturesque Wave Break Island. The highlight was having the friendly dolphins come to say hello!
