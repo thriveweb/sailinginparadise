@@ -23,5 +23,6 @@ meta:
     love us too! It’s kind of our speciality! Lauren organized an afternoon
     charter for her sister's hen's party which was a stress-free and easy
     process!
+  title: Lauren's Hens Party With Sailing in Paradise
 ---
 We absolutely love hosting hen's party charters, and hen's parties love us too! It’s kind of our speciality! Lauren organized an afternoon charter for her sister's hen's party which was a stress-free and easy process!
