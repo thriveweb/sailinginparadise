@@ -27,5 +27,6 @@ meta:
   description: Tim organized a private charter for a post-wedding experience for
     the whole family. Private charters can be a great idea for an unforgettable
     experience and bringing everyone together!
+  title: Tim's post wedding private family charter
 ---
 Tim organized a private charter for a post-wedding experience for the whole family. Private charters can be a great idea for an unforgettable experience and bringing everyone together! Our catamarans are family, kid and elderly friendly with lots of space onboard to move around easily and get everyone involved. There is something for everyone in the family!
