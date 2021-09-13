@@ -24,5 +24,6 @@ meta:
   description: We are always honoured to look after our clients who wish to have a
     memorial cruise for their loved ones. We took Elyce and her guests to a
     special place in the Broadwater to disperse their loved one’s ashes.
+  title: Elyce's Experience With Sailing in Paradise
 ---
 We are always honoured to look after our clients who wish to have a memorial cruise for their loved ones. We took Elyce and her guests to a special place in the Broadwater to disperse their loved one’s ashes. At the end, we provided the GPS coordinates as a record to cherish forever. We do our best to assist in making the experience memorable in the best way possible.
