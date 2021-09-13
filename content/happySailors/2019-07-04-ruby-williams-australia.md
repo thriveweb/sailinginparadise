@@ -29,5 +29,6 @@ meta:
     charter, afternoon charters are a great option if you want to soak up the
     sun in your bikini's or dive into the sparking turquoise water at Wave Break
     Island for some swimming and SUP’s!
+  title: Ruby's Hens Party Experience With Sailing in Paradise
 ---
 Harriet celebrated her hen's party with us on a private afternoon charter, afternoon charters are a great option if you want to soak up the sun in your bikini's or dive into the sparking turquoise water at Wave Break Island for some swimming and SUP’s! We loved their themed swimmers and helping to create a fun day for everyone!
