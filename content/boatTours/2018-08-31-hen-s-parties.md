@@ -14,7 +14,7 @@ intro: >-
   Any style, any vibe the choice is yours, we don't bring pre-prescribed ideas of what a hens party should be.  We simply bring beautiful, spacious (and totally photogenic) boats with a super-fun, professional crew to help you host the hen's party of your dreams.
 contentBox:
   buttonTitle: Make enquiry
-  buttonUrl: booking-enquiry
+  buttonUrl: booking-enquiry/
   title: Let us tailor your Gold Coast Hens Party Boat Charter
 bookingIframe: >-
   <!--StartFragment-->
