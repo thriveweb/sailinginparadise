@@ -21,5 +21,6 @@ meta:
   description: Whether you’re visiting our beautiful Gold Coast from overseas or a
     local or like Sandy, our Sunset and City Lights Cruise is a great way to see
     the Gold Coast from a different perspective.
+  title: Sandy's Sunset Cruise With Sailing in Paradise
 ---
 Whether you’re visiting our beautiful Gold Coast from overseas or a local or like Sandy, our Sunset and City Lights Cruise is a great way to see the Gold Coast from a different perspective. The twinkling city lights look magical from the water after the sun goes down.
