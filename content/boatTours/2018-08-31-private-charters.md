@@ -14,7 +14,7 @@ intro: >-
   # [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/)
 contentBox:
   buttonTitle: Make enquiry
-  buttonUrl: booking-enquiry
+  buttonUrl: booking-enquiry/
   title: "Let us tailor your Private Boat Charter "
 bookingIframe: >-
   <!--StartFragment-->
