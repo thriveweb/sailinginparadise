@@ -26,5 +26,6 @@ meta:
   description: Jade from Raceview State School organized a morning private charter
     with us for her Christmas party event. Morning charters are an amazing time
     to get out on the water, especially if you want some beach time.
+  title: Raceview State School's Christmas Party With Sailing in Paradise
 ---
 Jade from Raceview State School organized a morning private charter with us for her Christmas party event. Morning charters are an amazing time to get out on the water, especially if you want some beach time. We love being apart of our guests special occasions and love making them feel welcome!
