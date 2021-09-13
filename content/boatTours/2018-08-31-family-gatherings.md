@@ -11,7 +11,7 @@ intro: >-
   There is something about the appeal of a day on the water that spans generations.  When you charter a boat with Sailing in Paradise we aim to provide a special experience the whole family will enjoy.    Loved by the grandparents just as much as the kids (and everybody in between) our 3 beautiful sailing catamarans are comfortable, spacious and stable making them suitable for all ages and most abilities.    Whether it be for special family birthday, a reunion, family holiday or if you are a Gold Coast local wanting to show off our beautiful part of the world to visiting family members we invite you to enjoy a private yacht charter during the day or at sunset and create some new family memories to treasure for years to come.
 contentBox:
   buttonTitle: Make enquiry
-  buttonUrl: booking-enquiry
+  buttonUrl: booking-enquiry/
   title: Ask about chartering a boat for your family on the Gold Coast
 bookingIframe: >-
   <!--StartFragment-->
