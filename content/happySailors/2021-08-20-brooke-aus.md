@@ -26,5 +26,6 @@ gallery:
 meta:
   description: Guys, If you love your bride to be sister like Brooke over here
     does.... then treat her to a hen's party on a private yacht!
+  title: Brooke's Experience With Sailing in Paradise
 ---
 Guys, If you love your bride to be sister like Brooke over here does.... then treat her to a hen's party on a private yacht! These lovely girls spent the day dancing in on the trampoline style foredeck before having a dip into the ocean at an island. Read about their experience below...
