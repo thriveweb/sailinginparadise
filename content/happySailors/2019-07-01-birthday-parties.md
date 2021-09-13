@@ -30,5 +30,6 @@ meta:
     memorable way to celebrate her husband Craig’s 30th birthday. We love
     looking after our guests from start to finish to help create a stress-free
     cruise and special occasion that they will remember for years to come.
+  title: Lucy's Birthday With Sailing in Paradise
 ---
 Lucy organized an afternoon private charter as a special and memorable way to celebrate her husband Craig’s 30th birthday. We love looking after our guests from start to finish to help create a stress-free cruise and special occasion that they will remember for years to come.
