@@ -307,4 +307,5 @@ meta:
     Coast then look no further. Sailing In Paradise can help to create a
     memorable birthday experience to share with family and friends aboard one of
     our beautiful boats.
+  title: Gold Coast Birthday Party Cruise
 ---
