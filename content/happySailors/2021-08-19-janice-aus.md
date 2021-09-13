@@ -27,5 +27,6 @@ gallery:
 meta:
   description: A private charter with your closest friends and family... We can't
     think of a better way to celebrate a 21st birthday!
+  title: Janice's Experience With Sailing in Paradise
 ---
 A private charter with your closest friends and family... We can't think of a better way to celebrate a 21st birthday! We took David and his friends to check out the mansions at Sovereign Islands then to Wave Break island for some volleyball fun! Take a look at the photos below...
