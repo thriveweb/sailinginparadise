@@ -24,5 +24,6 @@ meta:
   description: Taryn knew how much her partner Mark was interested in sailing and
     loved being out on the water, so she organized a private afternoon couples
     charter as a special gift for him.
+  title: Taryn's Private Charter With Sailing in Paradise
 ---
 Taryn knew how much her partner Mark was interested in sailing and loved being out on the water, so she organized a private afternoon couples charter as a special gift for him. While we sailed around the beautiful Broadwater, the skipper included Mark in the sailing aspect and took the loved up couple to our favourite spot at Wave Break Island for relaxing time in the sun together and SUP’s.
