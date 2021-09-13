@@ -4,7 +4,7 @@ tourType: Cruise
 title: Gold Coast Island Cruise
 featuredImage: https://ucarecdn.com/90385426-9887-4332-9389-1a4211b34104/-/preview/-/enhance/50/
 intro: >-
-  ## gold coast island cruise
+  ## Gold Coast island cruise
 
 
   **THIS TICKETED CRUISE IS NOT CURRENTLY OPERATIONAL DUE TO COVID-19 RESTRICTIONS.   OUR PRIVATE CHARTERS CONTINUE TO SAIL WITH GREAT RATES AVAILABLE FOR SMALL GROUPS/MID-WEEK.  PLEASE CONTACT US VIA THE BOOKING/ENQUIRY FORM TO ENQUIRE ABOUT A PRIVATE CHARTER.**  
@@ -22,7 +22,7 @@ intro: >-
   Cruise includes light lunch and one complimentary bubbly, beer or soft drink.
 contentBox:
   buttonTitle: BOOK NOW
-  buttonUrl: booking-enquiry
+  buttonUrl: booking-enquiry/
   title: Experience the true beauty of the Gold Coast's island beaches.
 bookingIframe: <iframe seamless="" width="300px" height="400px" frameborder="0"
   class="rezdy"
