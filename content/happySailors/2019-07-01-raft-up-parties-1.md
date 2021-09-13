@@ -26,5 +26,6 @@ meta:
   description: "If you have a larger group like Margaret from Funky Trunks did, we
     can easily arrange additional vessels for a “raft up” party, you can then
     take up to 90 guests! "
+  title: Margaret's Raft Up Party With Sailing In Paradise
 ---
 If you have a larger group like Margaret from Funky Trunks did, we can easily arrange additional vessels for a “raft up” party, you can then take up to 90 guests! The more the merrier and no one gets left out! This occasion was for a special birthday party celebration and they had the biggest game of beach cricket we had ever seen!
