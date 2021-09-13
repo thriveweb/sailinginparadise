@@ -34,5 +34,6 @@ meta:
     charter with us to celebrate her boyfriend’s 40th birthday. The excitement
     was felt as we all watched her lead the blindfolded birthday boy to the boat
     while playing his favourite song.
+  title: Kalina's Experience With Sailing in Paradise
 ---
 We love surprise birthdays! Kalina organized an afternoon private charter with us to celebrate her boyfriend’s 40th birthday. The excitement was felt as we all watched her lead the blindfolded birthday boy to the boat while playing his favourite song. Kalina opted for catering with a private chef, an ideal option for stress-free planning. While lunch was all being taken care of by the chef, Kalina and her guests were out there having a blast and showed us one of the best volleyball rallies’ we have ever seen!
