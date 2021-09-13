@@ -169,7 +169,7 @@ accordionSection:
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at Marina Mirage. Please see the [contact us](https://sailinginparadise.com.au/contact-us/) page on our website[](http://www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the [contact us](https://sailinginparadise.com.au/contact-us/) page on our website[](https://www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
