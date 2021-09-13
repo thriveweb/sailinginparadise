@@ -246,4 +246,5 @@ featuredTestimonials:
 meta:
   description: When you charter a boat with Sailing in Paradise we aim to provide
     a special experience the whole family will enjoy.
+  title: Gold Coast Family Yacht Charters | Sailing in Paradise
 ---
