@@ -75,4 +75,5 @@ columnBanner:
 meta:
   description: "We occasionally offer special last minute rates on our Seawind
     1000XL for groups of up to 10 guests.*  "
+  title: Last Minute Yacht Charters | Sailing in Paradise
 ---
