@@ -26,5 +26,6 @@ meta:
   description: Our beautiful hen Charise and her friends rocked up ready to have a
     good time! The weather turned it on for them too (that Gold Coast weather,
     seriously so good).
+  title: Jeanette's Experience With Sailing in Paradise
 ---
 Our beautiful hen Charise and her friends rocked up ready to have a good time! The weather turned it on for them too (that Gold Coast weather, seriously so good). We loved the all white theme for the girls and hot pink for the lovely bride to be! Our guests always have the option to either BYO food and drinks or we can offer delicious catering packages.  Check out the mother of the brides review below....
