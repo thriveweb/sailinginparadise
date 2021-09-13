@@ -33,5 +33,6 @@ meta:
   description: A big happy birthday to Vanessa who celebrated her 18th birthday on
     board with us! What better way to celebrate a milestone, a day on the water
     with your best friends... sunshine... tropical vibes...private yacht!
+  title: Vanessa's 18th Birthday Experience With Sailing in Paradise
 ---
 A big happy birthday to Vanessa who celebrated her 18th birthday on board with us! What better way to celebrate a milestone, a day on the water with your best friends... sunshine... tropical vibes...private yacht!
