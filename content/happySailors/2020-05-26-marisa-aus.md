@@ -27,5 +27,6 @@ meta:
     achievements in life! We strive to create a memorable experience for them,
     just like it was for Marisa who organised a private charter with us to
     celebrate her graduation.
+  title: Marisa's Private Chart Experience With Sailing in Paradise
 ---
 It makes us so happy to help our guests celebrate their amazing achievements in life! We strive to create a memorable experience for them, just like it was for Marisa who organised a private charter with us to celebrate her graduation.
