@@ -25,5 +25,6 @@ meta:
     wish to chill out on the foredeck, sip on champagne and dance the night
     away, or get amongst the beach activities, we are sure we can help make your
     party/event a memorable one for you and your favourite people!
+  title: Bree's Experience With Sailing in Paradise
 ---
 Bree has been out with us at least 5 times now and more to come! Each time is different but always makes for an epic day out! Whether you wish to chill out on the foredeck, sip on champagne and dance the night away, or get amongst the beach activities, we are sure we can help make your party/event a memorable one for you and your favourite people!
