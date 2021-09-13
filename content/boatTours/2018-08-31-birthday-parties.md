@@ -23,7 +23,7 @@ intro: >-
   And those 'little extras' we offer are endless.  Please keep reading for the complete rundown...
 contentBox:
   buttonTitle: Make enquiry
-  buttonUrl: booking-enquiry
+  buttonUrl: booking-enquiry/
   title: Let us tailor your VIP Gold Coast Birthday Party Experience
 bookingIframe: >-
   <!--StartFragment-->
