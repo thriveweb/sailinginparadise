@@ -54,7 +54,7 @@ export const SinglePostTemplate = ({
           {date && (
             <time
               className="SinglePost--Meta--Date"
-              itemProp="dateCreated pubdate datePublished"
+              itemProp="dateCreated datePublished"
               date={date}
             >
               {_format(date, 'D.MM.YYYY')}
@@ -77,7 +77,7 @@ export const SinglePostTemplate = ({
         </div>
 
         {title && (
-          <h1 className="SinglePost--Title" itemProp="title">
+          <h1 className="SinglePost--Title" itemProp="headline">
             {title}
           </h1>
         )}
