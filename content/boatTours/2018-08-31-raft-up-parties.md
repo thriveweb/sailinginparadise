@@ -20,7 +20,7 @@ intro: >-
   Throw in a heap of inflatables, crystal clear blue waters, golden sandy beaches, awesome tunes and beach games, and you have an insta-worthy event that everyone will want to be a part of.
 contentBox:
   buttonTitle: Make enquiry
-  buttonUrl: booking-enquiry/
+  buttonUrl: booking-enquiry
   title: Let us help create the ultimate Boat Party Experience
 gallery:
   - image: https://ucarecdn.com/0b3086b7-73e5-41c7-ad22-aa099e8740c8/-/preview/-/enhance/34/

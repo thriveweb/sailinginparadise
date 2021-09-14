@@ -11,7 +11,7 @@ intro: >-
   Are you planning to propose to your future wife, or husband and seeking out unique proposal ideas?   Firstly, congratulations, this is such an exciting time!!    Secondly, we are thrilled that you are here as we absolutely adore hosting proposals and are proud to offer one of the most beautiful ways to propose on the Gold Coast!
 contentBox:
   buttonTitle: Make enquiry
-  buttonUrl: booking-enquiry/
+  buttonUrl: booking-enquiry
   title: Enquire about your unique proposal
 gallery:
   - image: https://ucarecdn.com/f7fb27d4-73d7-4788-b042-61f024f01e09/-/preview/-/enhance/50/
