@@ -46,7 +46,7 @@ class Popup extends Component {
                               </p>
                             ) : (
                               <div onClick={this.props.handlePopup}>
-                                <Button title={buttonTitle} url={buttonUrl} />
+                                <Button title={buttonTitle} url={buttonUrl+"/"} />
                               </div>
                             )}
                           </div>
