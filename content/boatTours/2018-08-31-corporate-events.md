@@ -13,8 +13,8 @@ intro: >-
 
   Sailing the picturesque Gold Coast Broadwater aboard your own private yacht, your guests will enjoy spectacular views and access to pristine beaches and isolated islands surrounded by crystal clear, turquoise waters.   A dusk charter offers front row seats to the best waterfront, sunset views on the coast, as the city lights set a backdrop for your celebrations.
 contentBox:
-  buttonTitle: Make enquiry
-  buttonUrl: https://sailinginparadise.com.au/booking-enquiry/
+  buttonTitle: Make an enquiry
+  buttonUrl: booking-enquiry/
   title: Let us tailor an event that is perfect for your delegates
 gallery:
   - image: https://ucarecdn.com/cb7fb7d6-93d2-4c5b-a904-42c4dab0c828/
