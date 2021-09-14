@@ -132,7 +132,7 @@ export default props => {
             <Link className="button" to="/booking-enquiry/">
               Enquire About Hiring our Boats
             </Link>
-            <Link className="button" to="/cruises-tickets/">
+            <Link className="button" to="/cruise-tickets/">
               Book Tickets on a Cruise
             </Link>
           </div>
