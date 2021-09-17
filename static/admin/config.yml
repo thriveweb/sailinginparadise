@@ -883,8 +883,8 @@ collections: # A list of collections the CMS should be able to edit
                       default: '',
                     }
                   - {
-                      label: Video,
-                      name: video,
+                      label: Video URL,
+                      name: videoURL,
                       widget: string,
                       required: false,
                     }
