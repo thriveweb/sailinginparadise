@@ -30,5 +30,6 @@ meta:
   description: We absolutely love hosting proposals and helping create
     unforgettable memories for our guests! Seeing Laurens reaction to Matt's
     proposal was priceless, it was such a special moment.
+  title: Lauren & Matt's Proposal Cruise
 ---
 We absolutely love hosting proposals and helping create unforgettable memories for our guests! Seeing Laurens reaction to Matt's proposal was priceless, it was such a special moment. Our Seawind 1000XL is the perfect boat for couples, we set up a private romantic picnic set up on the foredeck to make it more special and comfortable. Check out Laurens review on her experience below....
