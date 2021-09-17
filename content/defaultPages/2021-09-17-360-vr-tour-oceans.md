@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-title: 360 VR Tour Oceans
+title: 360 Tour Oceans
 featuredImage: https://ucarecdn.com/7d1f1623-ecc6-4892-b0d9-c96718e181a0/-/crop/1997x870/0,200/-/preview/
 content: >-
   ## Take a virtual reality tour
