@@ -49,7 +49,8 @@ boats:
   - virtualTourPopup:
       title: ""
     videoSection:
-      title: ""
+      title: " 360° VR TOUR - Oceans"
+      videoURL: https://roundme.com/embed/758450/2391283
     title: NEW - Oceans
     featuredImage: https://ucarecdn.com/208a2d56-a6b5-46bd-9d82-ecca8ac9adf1/
     description: >-
