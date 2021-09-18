@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Sailing during Covid-19 pandemic
+title: Sailing during Covid-19
 status: Published
 date: 2021-09-18T02:29:35.464Z
 categories:
