@@ -2,7 +2,7 @@
 template: SinglePost
 title: Sailing during Covid-19 pandemic
 status: Published
-date: 2020-03-18T02:29:35.464Z
+date: 2021-09-18T02:29:35.464Z
 categories:
   - category: News
 featuredImage: https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/
