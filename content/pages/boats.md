@@ -51,8 +51,9 @@ boats:
     videoSection:
       title: " 360° VR TOUR - Oceans"
       videoURL: https://roundme.com/embed/758450/2391283
+      imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
     title: NEW - Oceans
-    featuredImage: https://ucarecdn.com/208a2d56-a6b5-46bd-9d82-ecca8ac9adf1/
+    featuredImage: https://ucarecdn.com/48001cda-6d18-410d-a0bf-f78f9f16c900/-/crop/1637x1125/0,0/-/preview/
     description: >-
       Our largest and most luxurious vessel, Oceans joined the fleet in April
       2021 and is guaranteed to impress.    With a maximum guest capacity of 30,
