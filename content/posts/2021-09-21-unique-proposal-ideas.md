@@ -10,7 +10,7 @@ excerpt: So, you’ve met the love of your life and now you’re ready to pop th
   right?
 videoSection:
   title: ""
-  imageOverlay: https://ucarecdn.com/9c5a10ed-f637-459f-8f59-6c18451a94b4/
+  imageOverlay: ""
 contentSecondary: >-
   ## Romantic picnic brunch option with “will you marry me” written in the sand
 
@@ -36,13 +36,11 @@ First, you need a location! The Gold Coast Broadwater is an absolutely stunning 
 
 Imagine taking your future fiancé on board a beautiful sailing yacht and leading him/her towards the front of the [boat](https://sailinginparadise.com.au/our-boats/) where you will have your own intimate and private picnic setup. Awaiting you both is a large rug, comfortable pillows, blankets and a bottle of bubbles as well as a delicious grazing platter to share. As the boat departs you can enjoy each other's company and relax in comfort together while taking in the beautiful scenery and wildlife around you. 
 
-
-
 > Sunset is a beautiful time to be on the water and it’s hard to beat watching the sun dip below the hinterland on the water with your favourite person. 
 
-
-
 Whenever you feel the moment is right, you can “give the nod” to your crew who will be looking after you. They will pull the sail out with a “will you marry me” sign on it, ready for your fiancé to see. All you have to do is get on one knee! The “will you marry me sail” is perfect if you're looking for a unique way to propose to your loved one and blow them off their feet! 
+
+![](https://ucarecdn.com/9a73256b-b923-406c-8375-94c3663b3651/)
 
 Your crew will discreetly capture the moment for you and send you all the photos so you will always have that special and romantic moment frozen in time. We would recommend popping the question sooner rather than later so you can celebrate together, and of course, make the most of that golden hour light in your photos. 
 
