@@ -60,7 +60,7 @@ export const SinglePostTemplate = ({
               {_format(date, 'D.MM.YYYY')}
             </time>
           )}
-          {categories.length && (
+          {categories && categories.length > 0 && (
             <Fragment>
               <span>|</span>
               <div className="SinglePost--Meta--Category">

@@ -58,7 +58,7 @@ const PostCard = ({
           ) : (
             ''
           )}
-          {!!categories.length && (
+          {categories && !!categories.length && (
             <Fragment>
               <span>|</span>
               <div className="meta-categories">
