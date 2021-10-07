@@ -23,6 +23,8 @@ Christmas really is just around the corner! 2021 has certainly been a year full 
 
 Imagine your team, kicking back in the beautiful Gold Coast sunshine on a private yacht charter. Think of it as your own private waterfront venue...but this is even better, your view is constantly changing, from the beautiful sands of Wavebreak Island to the Surfers Paradise skyline, or the millionaire’s mansions of Sovereign Islands, the view never gets dull. What’s more, you choose the food/drinks that are on offer, your favourite tunes are on repeat and if you want to take a swim at any time that’s cool with us!
 
+
+
 ## Why Choose Sailing in Paradise For Your Gold Coast Staff Christmas Party?
 
 Ditch the mediocre Christmas lunch or standard (boring) work Christmas party, and instead, opt for a unique experience! Set sail on crystal blue waters, stop at isolated islands and golden beaches, or sail to the beautiful backdrop of a stunning Gold Coast sunset and the city skyline lit up as darkness falls. The drinks will be icy cold and the freshly prepared food delivered to your private yacht by our quality caterer will be divine.   
