@@ -23,7 +23,7 @@ Christmas really is just around the corner! 2021 has certainly been a year full 
 
 Imagine your team, kicking back in the beautiful Gold Coast sunshine on a private yacht charter. Think of it as your own private waterfront venue...but this is even better, your view is constantly changing, from the beautiful sands of Wavebreak Island to the Surfers Paradise skyline, or the millionaire’s mansions of Sovereign Islands, the view never gets dull. What’s more, you choose the food/drinks that are on offer, your favourite tunes are on repeat and if you want to take a swim at any time that’s cool with us!
 
-## Why Choose Sailing in Paradise For Your Christmas Party?
+## Why Choose Sailing in Paradise For Your Gold Coast Staff Christmas Party?
 
 Ditch the mediocre Christmas lunch or standard (boring) work Christmas party, and instead, opt for a unique experience! Set sail on crystal blue waters, stop at isolated islands and golden beaches, or sail to the beautiful backdrop of a stunning Gold Coast sunset and the city skyline lit up as darkness falls. The drinks will be icy cold and the freshly prepared food delivered to your private yacht by our quality caterer will be divine.   
 
@@ -45,7 +45,9 @@ Yes, that’s right! Everyone will enjoy celebrating on one of our boats. Whethe
 
 We have had all sorts of industry clients from fitness studios, restaurants, banks and law firms. There is really nothing like the feeling of being on the water to bring people of all ages and backgrounds together. Whether you want to partake in all the island activities or simply chill out on the foredeck while our private chef prepares a delicious meal, the choice is yours.
 
-## We offer party planning!
+## Work Christmas Party Ideas Got You Stumped?
+
+**We Can Do Your Party Planning!**
 
 We totally understand that Christmas can be an incredibly busy time for many businesses and the task of planning the Christmas Party is, at times, just another thing on a neverending ‘to-do’ list. Well, don’t worry we can take care of everything when it comes to planning your Christmas party. 
 
