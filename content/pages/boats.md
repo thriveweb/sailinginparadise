@@ -135,7 +135,8 @@ secondaryBanner:
   subtitle: ""
   title: Climb Aboard and get to know us
 meta:
-  description: if you are looking for boat charter on the gold coast then look no
-    further. Sailing In Paradise is perfect for all occassions.
-  title: Our Boats | Sailing in Paradise
+  description: If you are looking for a yacht charter on the gold coast then look
+    no further. Sailing In Paradise has a range of boat charter options that are
+    perfect for all occasions.
+  title: Our Boats | Yacht Charters Gold Coast From Sailing in Paradise
 ---
