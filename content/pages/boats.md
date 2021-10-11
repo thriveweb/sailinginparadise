@@ -1,7 +1,7 @@
 ---
 template: BoatsPage
 slug: our-boats
-title: Our Boats
+title: Our Charter Boats
 featuredImage: https://ucarecdn.com/7eb05bf9-806d-415f-8ceb-d7b21fa685ce/
 intro: "## Choose from three beautiful catamarans"
 boats:
