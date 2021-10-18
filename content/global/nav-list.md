@@ -36,8 +36,8 @@ navItems:
       - title: Last Minute Charters
         optionalTitle: "Last Minute "
     title: Boat Charter
+  - title: Our Charter Boats
   - title: About Us
-  - title: Our Boats
   - subNavItems:
       - title: Happy Sailors
       - title: Latest News
