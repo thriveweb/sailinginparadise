@@ -150,8 +150,9 @@ latestNews: >-
 
   [Read Blog](posts/the-ultimate-gold-coast-family-holiday-activity/)
 meta:
-  description: Sailing In Paradise |Gold Coast boat hire. Unique sailing
-    catamarans offering private cruises for up to 50 people. | Call 0438 915
-    222.
-  title: Boat Hire Gold Coast, Catamaran, Party Boat rental and Boat Charters
+  description: Sailing in Paradise are the Gold Coast boat hire specialists.
+    Unique sailing catamarans offering private yacht charters for up to 50
+    people. Call 0438 915 222 to book your Gold Coast luxury yacht hire
+    experience.
+  title: Boat Hire Gold Coast, Party Boat Rental & Boat Charters On The Gold Coast
 ---
