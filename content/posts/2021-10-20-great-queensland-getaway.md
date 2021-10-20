@@ -7,9 +7,7 @@ featuredImage: https://ucarecdn.com/320d2419-6b28-4403-a8c4-5ab18a5bdbdc/
 excerpt: Save $100 on all charters with the Great Queensland Getaway
 videoSection:
   title: How your getaway could look
-  video: <iframe src="https://player.vimeo.com/video/350091800" width="640"
-    height="564" frameborder="0" allow="autoplay; fullscreen"
-    allowfullscreen></iframe>
+  video: "350091800"
   imageOverlay: https://ucarecdn.com/820bd98f-3949-4782-9d7d-fe3ff9d931bd/
 meta:
   title: Great Queensland Getaway Promotion
