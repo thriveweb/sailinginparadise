@@ -35,10 +35,10 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: An update on our outdoor sailing operations at this time.
-  buttonUrl: posts/sailing-during-covid-19-pandemic/
+  buttonTitle: with The Great Queensland Getaway (limited time only)
+  buttonUrl: posts/great-queensland-getaway/
   image: https://ucarecdn.com/6f3cb75d-8fe0-4988-8c47-97035026ff12/
-  title: SAILING DURING COVID-19
+  title: save $100 on private charters
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
@@ -151,7 +151,7 @@ latestNews: >-
   [Read Blog](posts/the-ultimate-gold-coast-family-holiday-activity/)
 meta:
   description: Sailing in Paradise are the Gold Coast boat hire specialists.
-    Unique sailing catamarans offering private yacht charters from 2 - 80
+    Unique sailing catamarans offering private yacht charters for up to 50
     people. Call 0438 915 222 to book your Gold Coast luxury yacht hire
     experience.
   title: Boat Hire Gold Coast, Party Boat Rental & Boat Charters On The Gold Coast
