@@ -18,9 +18,9 @@ globalVideo:
 bookingPopup:
   contentBoxes:
     - buttonTitle: Book now
-      buttonUrl: cruise-tickets
+      buttonUrl: https://sailinginparadise.rezdy.com/catalog/279456/private-charters
       icon: /images/uploads/boat2.svg
-      title: Book & pay online for Cruise Tickets
+      title: Book now OR Check live availability
     - buttonTitle: Enquire
       buttonUrl: booking-enquiry
       icon: /images/uploads/wheel.svg

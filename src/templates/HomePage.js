@@ -64,7 +64,7 @@ export const HomePageTemplate = ({
       <TestimonialSlider {...featuredTestimonials} caseStudies={caseStudies} />
       <FeaturedPosts latestNews={latestNews} posts={posts} />
       <InstagramFeed />
-      <SubscribeForm />
+      {/* <SubscribeForm /> */}
     </main>
   )
 }

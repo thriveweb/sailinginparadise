@@ -7,11 +7,12 @@ import './Button.css'
 export default ({ title, url, white, className = '' }) => {
 	if(white) className += ' buttonWhite'
 
-	const pathName = url.toLowerCase().replace(' ', '-')
+	let pathName = url.toLowerCase().replace(' ', '-')
+	pathName = pathName.startsWith('http') ? pathName : '/'+pathName
 
 	return <Link
 			className={`button ${className}`}
-			to={`/${pathName}`}
+			to={`${pathName}`}
 		>
 			{title}
 			<ICONButtonArrows/>
