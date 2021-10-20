@@ -18,6 +18,8 @@ meta:
 
 For a very limited time you could **SAVE $100** on the cost of your private charter with the Great Queensland Getaway!    This incentive by 'Tourism and Events Queensland' is designed to assist tourism operators and encourage Australians to get out and explore our beautiful state.   The promo codes are easily claimed with a quick 2 minute website visit and are redeemable on bookings made until 31st October 2021 (or until sold out).  
 
+This voucher is redeemable on all charters including hen's parties, birthdays, Christmas parties and proposals.  But let's be honest there's no excuse needed for a day on the water, so gather the friends and fam and let's do this!
+
 Your charter experience must be enjoyed before 23rd January 2022.  
 
 Promo codes are extremely limited so act now to claim yours!
@@ -25,5 +27,3 @@ Promo codes are extremely limited so act now to claim yours!
 > **[To claim your promo code click here to visit](https://www.queensland.com/au/en/great-queensland-getaway/south-east-queensland-getaway)**
 >
 > **[The Great Queensland Getaway today](https://www.queensland.com/au/en/great-queensland-getaway/south-east-queensland-getaway)**
->
->
