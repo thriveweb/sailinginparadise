@@ -37,7 +37,7 @@ featuredSlider:
 featuredBanner:
   buttonTitle: with The Great Queensland Getaway (limited time only)
   buttonUrl: posts/great-queensland-getaway/
-  image: https://ucarecdn.com/6f3cb75d-8fe0-4988-8c47-97035026ff12/
+  image: https://ucarecdn.com/493582db-f83d-4dac-8678-0ffd8d5adfcf/
   title: save $100 on private charters
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
