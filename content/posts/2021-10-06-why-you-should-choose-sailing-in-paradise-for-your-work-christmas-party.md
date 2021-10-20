@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Why You Should Choose Sailing in Paradise for Your Work Christmas Party
+title: "The Ultimate Gold Coast Christmas Party Idea "
 status: Published
 date: 2021-10-06T06:14:24.271Z
 categories:
