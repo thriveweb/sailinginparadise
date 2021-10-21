@@ -9,7 +9,6 @@ export default ({ title, url, white, className = '' }) => {
 
 	let target = "_self";
 	let pathName = url.toLowerCase().replace(' ', '-')
-	// pathName = pathName.startsWith('http') ? pathName : '/'+pathName
 	if (pathName.startsWith('http')){
 		target = "_blank";
 	} else {
