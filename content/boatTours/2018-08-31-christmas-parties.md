@@ -284,5 +284,5 @@ featuredTestimonials:
 meta:
   description: "Celebrate this 2021 Christmas party sailing the beautiful Gold
     Coast with Sailing in Paradise. Packages for up to 1 to 80 people. "
-  title: Gold Coast Christmas Party Boat | Sailing in Paradise
+  title: Gold Coast Christmas Party Boat | Christmas Party Cruise Gold Coast
 ---
