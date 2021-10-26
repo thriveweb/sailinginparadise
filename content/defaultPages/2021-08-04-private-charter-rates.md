@@ -13,6 +13,9 @@ content: >-
   This vessel is ideal for couples and small groups! 
 
 
+  ![](https://ucarecdn.com/e8545e06-3b77-4568-9af4-4b5aef87e8b6/-/crop/457x173/0,121/-/preview/)
+
+
   ![Private Charter Rates Sail Gold Coast ](https://ucarecdn.com/e4889b96-f32f-4650-95b9-3068b2d1effb/ "Seawind 1000XL Private Charter Rates Gold Coast ")
 
 
