@@ -7657,7 +7657,7 @@
   dependencies:
     "@babel/runtime" "^7.10.3"
 
-"gatsby-plugin-netlify-cms@^4.1.13":
+"gatsby-plugin-netlify-cms@^4.3.11":
   "integrity" "sha512-RXObpig8ixXwqEDWux4zoEmNgtuo6c852IlwM9n5ai+ZApGSID+zpS2c+iK8LWQd0LhXxJM6Hyhk8psLuA9CDQ=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.3.11.tgz"
   "version" "4.3.11"
@@ -8042,7 +8042,7 @@
     "lodash" "^4.17.15"
     "unist-util-select" "^1.5.0"
 
-"gatsby@^2.0.0", "gatsby@^2.0.101", "gatsby@^2.0.15", "gatsby@^2.1.34", "gatsby@^2.12.0", "gatsby@^2.12.1", "gatsby@^2.2.0", "gatsby@^3.0.0 || ^2.0.0", "gatsby@>2.0.0-beta", "gatsby@>2.0.15", "gatsby@2.6.0":
+"gatsby@^2.0.0", "gatsby@^2.0.101", "gatsby@^2.0.15", "gatsby@^2.12.0", "gatsby@^2.12.1", "gatsby@^2.2.0", "gatsby@^2.24.47", "gatsby@^3.0.0 || ^2.0.0", "gatsby@>2.0.0-beta", "gatsby@>2.0.15", "gatsby@2.6.0":
   "integrity" "sha512-+LLqdKqfVGpk0GyKMaWMnCqonVUyumg7a5fhODdZbDELmcNsQKtO5HShKs8ZbMm1PIIHewmU3uRlqRZygfAD6w=="
   "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-2.24.47.tgz"
   "version" "2.24.47"
