@@ -31,12 +31,17 @@ class Popup extends Component {
                   {contentBoxes &&
                     contentBoxes.map(
                       ({ icon, title, buttonTitle, buttonUrl }, index) => {
+                        const iframeContent = `
+                        <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> 
+                        <a id="button-booking" class="button rezdy rezdy-modal" href="${buttonUrl}?iframe=true">${buttonTitle}</a>
+                        `;
+                        const isIframe = buttonUrl && buttonUrl.startsWith('http')
                         return (
                           <div className="contentBox" key={index}>
                             {icon && <Image src={icon} alt="" />}
                             {title && <h3>{title}</h3>}
                             {location &&
-                            location.pathname === `/${buttonUrl}` ? (
+                              location.pathname === `/${buttonUrl}` ? (
                               <p
                                 className="button"
                                 onClick={this.props.handlePopup}
@@ -46,7 +51,12 @@ class Popup extends Component {
                               </p>
                             ) : (
                               <div onClick={this.props.handlePopup}>
-                                <Button title={buttonTitle} url={buttonUrl+"/"} />
+                                {isIframe &&
+                                  <div dangerouslySetInnerHTML={{ __html: iframeContent }} />
+                                }
+                                {!isIframe &&
+                                  <Button title={buttonTitle} url={buttonUrl + "/"} />
+                                }
                               </div>
                             )}
                           </div>
