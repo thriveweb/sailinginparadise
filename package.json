@@ -37,7 +37,6 @@
     "netlify-cms-media-library-cloudinary": "^1.3.2",
     "netlify-cms-media-library-uploadcare": "^0.5.2",
     "node-sass": "^4.11.0",
-    "npm": "^6.11.1",
     "parcel-bundler": "^1.9.4",
     "postcss-preset-env": "^6.7.0",
     "prop-types": "^15.6.0",
