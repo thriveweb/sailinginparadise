@@ -7672,7 +7672,7 @@
     "netlify-identity-widget" "^1.6.0"
     "webpack" "^4.43.0"
 
-"gatsby-plugin-netlify@^2.0.6":
+"gatsby-plugin-netlify@^2.3.13":
   "integrity" "sha512-WaFks9jlysl9qLKGQaJBHIdxT+nV77fwd1iNAQsmJVs7pIye1JrMUJG6p+SmKvFTBOnuwCyLVMcPHHOHnS3jbA=="
   "resolved" "https://registry.npmjs.org/gatsby-plugin-netlify/-/gatsby-plugin-netlify-2.3.13.tgz"
   "version" "2.3.13"
