@@ -35,10 +35,10 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: with The Great Queensland Getaway (limited time only)
-  buttonUrl: posts/great-queensland-getaway/
+  buttonTitle: Find out why a boat party is the ultimate party this year
+  buttonUrl: posts/the-ultimate-gold-coast-christmas-party-idea/
   image: https://ucarecdn.com/493582db-f83d-4dac-8678-0ffd8d5adfcf/
-  title: save $100 on private charters
+  title: The perfect Christmas party venue
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
