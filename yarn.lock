@@ -11505,7 +11505,7 @@
   "resolved" "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
   "version" "2.6.2"
 
-"netlify-cms-app@^2.9.0", "netlify-cms-app@^2.9.7":
+"netlify-cms-app@^2.15.9", "netlify-cms-app@^2.9.0":
   "version" "2.15.9"
   dependencies:
     "@emotion/core" "^10.0.35"
