@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "The Ultimate Gold Coast Christmas Party Idea "
+title: "The Ultimate Gold Coast Staff Christmas Party Idea "
 status: Published
 date: 2021-10-06T06:14:24.271Z
 categories:
@@ -14,10 +14,10 @@ excerpt: Christmas really is just around the corner! 2021 has certainly been a
 videoSection:
   title: ""
 meta:
-  title: Why You Should Choose Sailing in Paradise for Your Work Christmas Party
-  description: Christmas really is just around the corner! If you are looking to
-    reward your team in style with a truly unforgettable experience why not
-    consider a private charter onboard one of our beautiful catamarans?
+  title: The Ultimate Gold Coast Work Christmas Party For Your Staff
+  description: What could be more Gold Coast than treating your team with a
+    tailored Sailing in Paradise adventure for your staff Christmas party. Click
+    here to find out more - Christmas bookings are filling fast!
 ---
 Christmas really is just around the corner! 2021 has certainly been a year full of highs and lows and one that many of us are glad to see the back of. An epic end of year celebration is in order for many this year! If you are looking to reward your team in style with a truly unforgettable experience why not consider a private charter onboard one of our beautiful catamarans?
 
