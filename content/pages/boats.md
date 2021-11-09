@@ -83,10 +83,15 @@ boats:
       - content: Sound System
       - content: Access to beach via tender
     gallery:
+      - image: https://ucarecdn.com/771916aa-1471-4f2a-b6fd-d6f0207cdcf4/
       - image: https://ucarecdn.com/987ab6b6-b626-4996-8df6-0fd15ffdd0a3/-/preview/-/enhance/28/
       - image: https://ucarecdn.com/50f425d0-4c4e-4ef9-b6a7-f210d274f574/-/preview/-/enhance/14/
       - image: https://ucarecdn.com/6e5a4b1d-64e6-404f-8177-b052f1dbae8b/-/crop/1000x569/0,98/-/preview/
       - image: https://ucarecdn.com/5ac37a31-70a2-4224-b838-2e06d0be149c/
+      - image: https://ucarecdn.com/0e3170b2-7d7d-4605-94ba-8744f1d458d9/
+      - image: https://ucarecdn.com/c92a9b14-1df3-4135-9c14-e313b734264b/
+      - image: https://ucarecdn.com/dfeee078-1196-4eb9-8ad7-be4f3e9f805a/-/crop/1120x1126/0,284/-/preview/
+      - image: https://ucarecdn.com/12879a49-dd42-49fa-85cb-a9db8521d7a3/
   - boatFeatures:
       - content: 10.85m long, 5.9m wide
       - content: 20 passengers + 2 crew
