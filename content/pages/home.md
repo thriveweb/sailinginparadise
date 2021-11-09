@@ -36,7 +36,7 @@ featuredSlider:
     title: Gift the gift of experience
 featuredBanner:
   buttonTitle: Find out why a boat party is the ultimate party this year
-  buttonUrl: /posts/the-ultimate-gold-coast-staff-christmas-party-idea/
+  buttonUrl: posts/the-ultimate-gold-coast-staff-christmas-party-idea/
   image: https://ucarecdn.com/493582db-f83d-4dac-8678-0ffd8d5adfcf/
   title: The perfect Christmas party venue
 services:
