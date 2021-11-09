@@ -51,11 +51,7 @@ Here are just a few of the many reviews we have received!
 
 “Totally the best day. Great communication from booking through to sailing. Boat amazing, staff fabulous. Highly recommend and will book again in the future for special events.” - Janice Aus. 
 
-
-
 “We celebrated our daughter’s sweet sixteen on board with a group of her friends. Staff couldn’t have been nicer, Gemma and Daniel were very friendly and accommodating. Everything was run very professionally and correspondence before and after were great. Would love to sail again with them one day.” - Zoe, Aus
-
-
 
 “Seriously the best experience ever!!! From start to finish, you didn’t need to worry about a thing! Staff are incredible and very funny, boat...perfect and the whole experience flowed beautifully! Highly recommend the catering packages too...delish. Now we are all trying to plan whose next birthday it is so we can rebook.” Kate, Aus 
 
@@ -69,15 +65,13 @@ If you’ve read this far, we imagine you’re already thinking about what catam
 
 Well, here are our 3 wonderful options. 
 
-We have [three beautiful catamarans](https://sailinginparadise.com.au/our-boats/) to choose from.   Check out this page - <https://sailinginparadise.com.au/our-boats/> to take a tour of our vessels.
+We have [three beautiful catamarans](https://sailinginparadise.com.au/our-boats/) to choose from.  
 
-
+Check out this page - <https://sailinginparadise.com.au/our-boats/> to take a tour of our vessels.
 
 ###### SPIRIT OF GWONDA (max 30 guests): 
 
 Our original and signature vessel, the ‘Spirit of Gwonda’ is a Seawind 1050 Resort sailing catamaran that has been purpose-built for entertaining and day cruises. 
-
-
 
 Its unique design offers an open plan layout so your guests can interact with each other at all times. The boat also offers all the luxuries you could expect including a front trampoline section for soaking up the sun, generous inside bench seating and a central table with a barbecue. 
 
@@ -86,8 +80,6 @@ Its unique design offers an open plan layout so your guests can interact with ea
 This is our largest and most luxurious vessel, which comes with a comfortable lounging/dining area with a flexible table configuration. The undercover space has a delightful indoor, outdoor zone that will provide comfort from any weather. 
 
 This vessel is ideal for more relaxed celebrations, families with older kids and more decadent events. So if you’re wanting a party with all the luxurious frills attached, including your own private chef, this catamaran is for you! 
-
-
 
 ###### SEAWIND 1000XL (max 20 guests): 
 
