@@ -8,6 +8,9 @@ posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
+  - title: Christmas Party Charters
+    description: Treat your team to an unforgettable day or evening on the water.
+    buttonUrl: boat-charter/gold-coast-christmas-parties/
   - title: Last Minute Charters
     description: See our last minute availability at sensational rates!
     buttonUrl: boat-charter/last-minute-charters/
@@ -22,9 +25,6 @@ featuredSlider:
     description: Hire a private yacht for your small family group to enjoy our
       beautiful waterways and the Queensland sunshine!
     title: Small family day charters
-  - title: Christmas Party Charters
-    description: Treat your team to an unforgettable day or evening on the water.
-    buttonUrl: boat-charter/gold-coast-christmas-parties/
   - buttonUrl: cruise/gold-coast-sunset-city-lights-cruise/
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
@@ -35,10 +35,10 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: Find out why a boat party is the ultimate party this year
-  buttonUrl: posts/the-ultimate-gold-coast-staff-christmas-party-idea/
+  buttonTitle: "Choose from 3 beautiful boats- owned and operated by Sailing in Paradise.  "
+  buttonUrl: our-boats/
   image: https://ucarecdn.com/493582db-f83d-4dac-8678-0ffd8d5adfcf/
-  title: The perfect Christmas party venue
+  title: Explore our vessels
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
