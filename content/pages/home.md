@@ -83,7 +83,9 @@ aboutSection:
       buttonUrl: our-boats/
   content: >-
     We have 3 of the most beautiful and well maintained sailing catamarans
-    available.
+    available on the Gold Coast.  Our vessels are owned and operated by Sailing
+    in Paradise so from the time you make an enquiry through to the charter
+    itself you will be dealing directly with our team.  
 
 
     These yachts are smooth and stable and  perfect for entertaining.
