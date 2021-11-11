@@ -143,7 +143,7 @@ class Layout extends Component {
 
                 <script
                   type="text/javascript"
-                  src="https://sailinginparadise.rezdy.com/pluginJs"
+                  src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"
                 ></script>
               </Helmet>
 

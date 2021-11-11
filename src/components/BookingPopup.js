@@ -7,6 +7,7 @@ import { ICONButtonArrows } from './Icons'
 import { X } from 'react-feather'
 
 import './BookingPopup.css'
+import { Helmet } from 'react-helmet'
 
 class Popup extends Component {
   render() {
@@ -17,6 +18,9 @@ class Popup extends Component {
 
           return (
             <section className={`booking-popup ${classActive}`}>
+              <Helmet>
+                <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal" async={false}></script>
+              </Helmet>
               <div
                 className="booking-popup-Background"
                 onClick={this.props.handlePopup}
@@ -31,11 +35,11 @@ class Popup extends Component {
                   {contentBoxes &&
                     contentBoxes.map(
                       ({ icon, title, buttonTitle, buttonUrl }, index) => {
-                        const iframeContent = `
-                        <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> 
-                        <a id="button-booking" class="button rezdy rezdy-modal" href="${buttonUrl}?iframe=true">${buttonTitle}</a>
-                        `;
                         const isIframe = buttonUrl && buttonUrl.startsWith('http')
+                        const iframeContent = isIframe ? `                        
+                        <a id="button-booking" class="button button-booking rezdy rezdy-modal" href="${buttonUrl}?iframe=true">${buttonTitle}</a>
+                        `: ``;
+                        // console.log("****** iframe", isIframe, iframeContent)
                         return (
                           <div className="contentBox" key={index}>
                             {icon && <Image src={icon} alt="" />}
