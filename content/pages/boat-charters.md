@@ -35,7 +35,8 @@ chartersListing:
   - tours: Gold Coast Family Charters
   - tours: Gold Coast Memorial Charters
   - tours: Gold Coast Private Charters
-  - tours: Last minute charters
+  - tours: Last Minute Charters
+  - tours: Gold Coast New Year's Eve Cruise
 meta:
   description: Join us on one of our luxury sailing catamarans. Suitable for
     parties, corporate events, family get-togethers, weddings or just for a day
