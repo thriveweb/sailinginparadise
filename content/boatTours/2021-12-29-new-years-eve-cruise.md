@@ -25,7 +25,14 @@ contentBox:
   buttonTitle: ""
   buttonUrl: ""
   title: ""
-bookingIframe: ""
+bookingIframe: >-
+  <!--StartFragment-->
+
+
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
+
+
+  <!--EndFragment-->
 gallery:
   - image: https://ucarecdn.com/3911a16c-58d6-483c-ab45-90c925ae713b/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/3acfb375-f50f-485f-ad48-f497ce94d377/-/preview/-/enhance/13/
