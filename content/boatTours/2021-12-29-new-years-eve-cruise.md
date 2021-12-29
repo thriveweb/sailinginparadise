@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Cruise
-title: New Year's Eve Cruise
+title: Gold Coast New Year's Eve Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
 featuredImage: https://ucarecdn.com/874a37c4-62f7-4734-958b-3d39d11ec6fd/-/preview/-/enhance/50/
 intro: >-
