@@ -35,6 +35,8 @@ navItems:
         title: Gold Coast Sightseeing
       - title: Last Minute Charters
         optionalTitle: "Last Minute "
+      - title: Gold Coast New Year's Eve Cruise
+        optionalTitle: New Year's Eve
     title: Boat Charter
   - title: Our Charter Boats
   - title: About Us
