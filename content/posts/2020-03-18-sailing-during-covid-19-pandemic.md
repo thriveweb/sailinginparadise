@@ -15,7 +15,7 @@ meta:
 ---
 UPDATE 1 JANUARY 2022
 
-During this difficult time of increased covid 19 cases in the community Sailing in Paradise is offering cancellation and reschedule options for any guests who are unable to make their scheduled charter due to sickness or isolation requirements.   Please see our booking terms here for more.  Please reach out to us asap if you may need to cancel your charter.  
+During this difficult time of increased covid 19 cases in the community Sailing in Paradise is offering cancellation and reschedule options for any guests who are unable to make their scheduled charter due to sickness or isolation requirements.   Please see our booking terms [here ](https://sailinginparadise.com.au/bookings-and-cancellation-policy/)for more.  Please reach out to us asap if you may need to cancel your charter.  
 
 \    
 
