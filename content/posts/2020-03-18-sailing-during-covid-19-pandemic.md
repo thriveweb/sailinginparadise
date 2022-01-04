@@ -13,6 +13,12 @@ meta:
     sunshine and look forward to welcoming you on board.  "
   title: Sailing during Covid-19 pandemic
 ---
+UPDATE 1 JANUARY 2022
+
+During this difficult time of increased covid 19 cases in the community Sailing in Paradise is offering cancellation and reschedule options for any guests who are unable to make their scheduled charter due to sickness or isolation requirements.   Please see our booking terms here for more.  Please reach out to us asap if you may need to cancel your charter.  
+
+\    
+
 UPDATE 18 SEPTEMBER 2021
 
 Sailing in Paradise operates under the Industry Covid Safe Checklist for vehicles and vessels under 50 people.    
