@@ -22,6 +22,17 @@ intro: >-
 
 
   We will be offering private yacht charters all day on Valentines Day and each option can be customised to suit your wishes.  Perhaps you may even wish to host a special marriage proposal on board this Valentine's Day?
+bookingIframe: >-
+  <!--StartFragment-->
+
+
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" 
+
+
+  "https://sailinginparadise.rezdy.com/catalog/459541/valentines-day" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability and BOOK NOW</a>
+
+
+  <!--EndFragment-->
 gallery:
   - image: https://ucarecdn.com/ad1b26e9-2728-4bba-8af0-19b684226580/
   - image: https://ucarecdn.com/5fa3301e-25ad-46cb-aa26-6d1a2dcc608f/
