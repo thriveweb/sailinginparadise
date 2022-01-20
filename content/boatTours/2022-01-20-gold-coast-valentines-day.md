@@ -90,7 +90,7 @@ accordionSection:
 
 
         **Oceans (deluxe vessel) - $1600**
-    - title: Valentines Day Sunset Sail with Private Chef
+    - title: Sunset Sail with Private Chef
       dropdownContent: >-
         With your own private chef on board cooking up a delicious 2 or 3 course
         meal as the sun sets over the mountains you will feel completely
@@ -144,7 +144,7 @@ accordionSection:
 
 
         **Oceans (deluxe vessel) - $1780**
-    - title: "Customisable Hourly Valentines Charter "
+    - title: Customisable Hourly Charter Rates
       dropdownContent: >-
         If you would like a unique customised experience perhaps consider our
         hourly charter option.   Our vessels are available to use as you
@@ -161,9 +161,7 @@ accordionSection:
         Valentine's Day Charters are available from 2 hours to 6 hours.   
 
 
-
-
-        Charter rates start from 
+        Charter rates start from;
 
 
         $800 for 2 hours on our Seawind 1000XL
