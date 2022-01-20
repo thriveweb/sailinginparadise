@@ -96,6 +96,86 @@ accordionSection:
 
 
         **Oceans (deluxe vessel) - $1600**
+    - title: Valentines Day Sunset Sail with Private Chef
+      dropdownContent: >-
+        With your own private chef on board cooking up a delicious 2 or 3 course
+        meal as the sun sets over the mountains you will feel completely
+        pampered this Valentines Day.  
+
+
+        Please discuss any dietary requirements with our helpful booking team.   
+
+
+
+
+        ###### **Private chef 2 hour sunset sail**
+
+
+        * 2 hour charter aboard your own private catamaran (with 2 crew)
+
+        * Chilled bottle of Chandon
+
+        * Amuse Bouche
+
+        * 2 course dinner (of your selection from our menu) cooked and served on board the vessel
+
+        * Beautiful memento photos taken by our crew 
+
+
+
+
+        **Seawind 1000XL - $1050**
+
+
+        **Oceans (deluxe vessel) - $1400**
+
+
+        ###### **Private chef 3 hour sunset sail**
+
+
+        * 3 hour charter aboard your own private catamaran (with 2 crew)
+
+        * Chilled bottle of Chandon
+
+        * Amuse Bouche
+
+        * 3 course dinner (of your selection from our menu) cooked and served on board the vessel
+
+        * Beautiful memento photos taken by our crew 
+
+
+
+
+        **Seawind 1000XL - $1430**
+
+
+        **Oceans (deluxe vessel) - $1780**
+    - title: "Customisable Hourly Valentines Charter "
+      dropdownContent: >-
+        If you would like a unique customised experience perhaps consider our
+        hourly charter option.   Our vessels are available to use as you
+        wish.   You may wish a short 2 hour charter or a full day 6 hour
+        sail.   You may wish to bring along your own food and drinks to enjoy or
+        select from the range of options we have available for you.  You are
+        invited to make this time your own and it can be as unique as your
+        relationship.
+
+
+        Upon boarding the boat you will be greeted by our friendly crew who will adapt to your preference of their involvement on board. We invite you to take a walk around the boat and find a place to chill out with a drink and enjoy the beautiful views and the sounds of the water. 
+
+
+        Valentine's Day Charters are available from 2 hours to 6 hours.   
+
+
+
+
+        Charter rates start from 
+
+
+        $800 for 2 hours on our Seawind 1000XL
+
+
+        $1100 for 2 hours on our deluxe vessel Oceans
     - title: What to expect
       dropdownContent: >-
         When you book a romantic sail with Sailing in Paradise you can expect a
@@ -239,58 +319,4 @@ accordionSection:
 
 
         <!--EndFragment-->
-    - title: Valentines Day Sunset Sail with Private Chef
-      dropdownContent: >-
-        With your own private chef on board cooking up a delicious 2 or 3 course
-        meal as the sun sets over the mountains you will feel completely
-        pampered this Valentines Day.  
-
-
-        Please discuss any dietary requirements with our helpful booking team.   
-
-
-
-
-        ###### **Private chef 2 hour sunset sail**
-
-
-        * 2 hour charter aboard your own private catamaran (with 2 crew)
-
-        * Chilled bottle of Chandon
-
-        * Amuse Bouche
-
-        * 2 course dinner (of your selection from our menu) cooked and served on board the vessel
-
-        * Beautiful memento photos taken by our crew 
-
-
-
-
-        **Seawind 1000XL - $1050**
-
-
-        **Oceans (deluxe vessel) - $1400**
-
-
-        ###### **Private chef 3 hour sunset sail**
-
-
-        * 3 hour charter aboard your own private catamaran (with 2 crew)
-
-        * Chilled bottle of Chandon
-
-        * Amuse Bouche
-
-        * 3 course dinner (of your selection from our menu) cooked and served on board the vessel
-
-        * Beautiful memento photos taken by our crew 
-
-
-
-
-        **Seawind 1000XL - $1430**
-
-
-        **Oceans (deluxe vessel) - $1780**
 ---
