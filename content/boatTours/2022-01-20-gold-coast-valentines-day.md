@@ -26,7 +26,7 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/productsCalendar/459541?iframe=true"></iframe>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/459541/valentines-day" style="background: rgb(18, 49, 112); border: 1px solid rgb(18, 49, 112); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">BOOK NOW FOR VALENTINES DAY </a>
 
 
   <!--EndFragment-->
