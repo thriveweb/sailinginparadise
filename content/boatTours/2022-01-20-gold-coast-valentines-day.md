@@ -42,7 +42,7 @@ contentColumn: >-
   Mirage.
 
 
-  Our beautiful Seawind 1000XL is the ideal vessel for couples due to its intimate design, and offers the relaxation of sailing in complete comfort. The trampoline-style foredeck is a favourite spot for snuggling and gives an immersive sailing experience with 360 degree views of the Gold Coast’s stunning waterways. It is also the ideal spot for spying the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans, so close you can almost touch...
+  Our beautiful Seawind 1000XL is the ideal vessel for couples due to its intimate design, and offers the relaxation of sailing in complete comfort. The trampoline-style foredeck is a favourite spot for snuggling and gives an immersive sailing experience with 360 degree views of the Gold Coast’s stunning waterways. It is also the ideal spot for spying the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans, so close you can almost touch...  If you are after a little added luxury our deluxe vessel Oceans offer all of the above but with a little added luxe and a lot of extra space.   
 
 
   [Read more about our boats here](https://sailinginparadise.com.au/our-boats/)
@@ -50,7 +50,7 @@ contentColumn: >-
 
   We would love to chat with you via phone or email any time and start planning your charter which can be fully customised to your wishes.
 accordionSection:
-  sectionTitle: All about our Valentines Sailing options
+  sectionTitle: " Valentines day ideas"
   accordion:
     - title: Private Brunch Charter Package
       dropdownContent: >-
