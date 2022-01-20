@@ -11,23 +11,17 @@ intro: >-
   Broadwater with the one you love.  
 
 
-
-
-
-
   Some ideas for your Valentines Private Boat Charter include;
 
 
   * An idyllic brunch picnic sail,
 
-  * An island BBQ cruise with private chef or
+  * An afternoon cruise with swimming, SUPs and sailing
 
-  * a romantic private champagne sunset and city lights cruise
-
-
+  * A romantic private sunset cruise with your own private chef
 
 
-  We will be offering private yacht charters all day on Valentines Day and each option can be customised to suit your wishes.  Perhaps you may even wish to host a special proposal on board this Valentine's Day?
+  We will be offering private yacht charters all day on Valentines Day and each option can be customised to suit your wishes.  Perhaps you may even wish to host a special marriage proposal on board this Valentine's Day?
 gallery:
   - image: https://ucarecdn.com/ad1b26e9-2728-4bba-8af0-19b684226580/
   - image: https://ucarecdn.com/5fa3301e-25ad-46cb-aa26-6d1a2dcc608f/
