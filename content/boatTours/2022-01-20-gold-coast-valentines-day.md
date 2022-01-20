@@ -69,12 +69,11 @@ accordionSection:
         Enjoy a leisurely Champagne Picnic Brunch in style
 
 
-        ###### **Private champagne brunch sail**
+        ###### **Private champagne 2 hour brunch sail**
 
 
-        * 3 hour charter aboard your own private catamaran (with 2 crew)
+        * 2 hour charter aboard your own private catamaran (with 2 crew)
 
-          Island Stop for swimming, SUPs etc
         * Chilled bottle of Chandon
 
         * Orange Juice (did somebody say mimosas?)
@@ -84,10 +83,34 @@ accordionSection:
         * Beautiful memento photos taken by our crew 
 
 
-        **Seawind 1000XL - $1245**
+        **Seawind 1000XL - $920**
 
 
-        **Oceans (deluxe vessel) - $1600**
+        **Oceans (deluxe vessel) - $1220**
+
+
+
+
+        ###### **Private champagne 3 hour brunch sail**
+
+
+        * 3 hour charter aboard your own private catamaran (with 2 crew)
+
+        * Island Stop for swimming, SUPs etc
+
+        * Chilled bottle of Chandon
+
+        * Orange Juice (did somebody say mimosas?)
+
+        * Brunch picnic including a selection of sweet and savoury baked items, fresh fruit, house-made dips, local and international cheeses, cured meats and locally baked artisan breads.
+
+        * Beautiful memento photos taken by our crew 
+
+
+        **Seawind 1000XL - $1220**
+
+
+        **Oceans (deluxe vessel) - $1620**
     - title: Sunset Sail with Private Chef
       dropdownContent: >-
         With your own private chef on board cooking up a delicious 2 or 3 course
@@ -112,7 +135,7 @@ accordionSection:
         * Beautiful memento photos taken by our crew 
 
 
-        **Seawind 1000XL - $1050**
+        **Seawind 1000XL - $1100**
 
 
         **Oceans (deluxe vessel) - $1400**
@@ -132,10 +155,10 @@ accordionSection:
         * Beautiful memento photos taken by our crew 
 
 
-        **Seawind 1000XL - $1475**
+        **Seawind 1000XL - $1450**
 
 
-        **Oceans (deluxe vessel) - $1780**
+        **Oceans (deluxe vessel) - $1850**
     - title: Customisable Hourly Charter Rates
       dropdownContent: >-
         If you would like a unique customised experience perhaps consider our
