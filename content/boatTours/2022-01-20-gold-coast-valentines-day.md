@@ -333,4 +333,24 @@ accordionSection:
 
 
         <!--EndFragment-->
+columnBanner:
+  - title: ""
+    content: >-
+      <!--StartFragment-->
+
+
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/productsCalendar/459541?iframe=true"></iframe>
+
+
+      <!--EndFragment-->
+    bookingWidget: ""
+featuredTestimonials:
+  testimonial: Taryn, Aus
+  title: Taryn's Romantic Sail
+  description: A beautiful day on the water for this lovely couple made for a
+    lifetime of memories
+meta:
+  title: Valentines Day Boat Charters on the Gold Coast
+  description: Charter a beautiful sailing catamaran for an intimate Valentines
+    Day experience on the Gold Coast Broadwater
 ---
