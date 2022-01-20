@@ -37,6 +37,8 @@ navItems:
         optionalTitle: "Last Minute "
       - title: Gold Coast New Year's Eve Cruise
         optionalTitle: New Year's Eve
+      - title: Gold Coast Valentine's Day Cruise
+        optionalTitle: Valentine's Day
     title: Boat Charter
   - title: Our Charter Boats
   - title: About Us
