@@ -334,7 +334,7 @@ accordionSection:
 
         <!--EndFragment-->
 columnBanner:
-  - title: ""
+  - title: "Book Now for Valentines day "
     content: >-
       <!--StartFragment-->
 
