@@ -58,6 +58,44 @@ contentColumn: >-
 accordionSection:
   sectionTitle: All about our Valentines Sailing options
   accordion:
+    - title: Private Brunch Charter Package
+      dropdownContent: >-
+        Set sail on the Beautiful Gold Coast Broadwater aboard your own
+        skippered private catamaran charter.  Departing from the prestigious
+        Marina Mirage you will discover calm waters and beautiful islands with
+        impressive views back to the Gold Coast City skyline, reminding you how
+        close you are to the city yet feeling a million miles away.   The
+        crystal clear waters of the Gold Coast are teaming with wildlife and you
+        may even spot a dolphin or two while sea-eagles soar overhead.
+
+
+        Your boat is set up for beach landings meaning you’ll have the sand between your toes in no time.  Fancy a quick dip or to try your hand at Stand Up Paddleboarding or beach volleyball?   Your friendly crew will be on hand to help you with the range of activities available on board for your use at your island destination depending on your cruise duration.  Please discuss with our helpful booking team.   
+
+
+        Enjoy a leisurely Champagne Picnic Brunch in style
+
+
+        ###### **Private champagne brunch sail**
+
+
+        * 3 hour charter aboard your own private catamaran (with 2 crew)
+
+          Island Stop for swimming, SUPs etc
+        * Chilled bottle of Chandon
+
+        * Orange Juice (did somebody say mimosas?)
+
+        * Brunch picnic including a selection of sweet and savoury baked items, fresh fruit, house-made dips, local and international cheeses, cured meats and locally baked artisan breads.
+
+        * Beautiful memento photos taken by our crew 
+
+
+
+
+        **Seawind 1000XL - $1250**
+
+
+        **Oceans (deluxe vessel) - $1600**
     - title: What to expect
       dropdownContent: >-
         When you book a romantic sail with Sailing in Paradise you can expect a
@@ -201,67 +239,58 @@ accordionSection:
 
 
         <!--EndFragment-->
-    - title: Valentines Day Private Brunch Charter
+    - title: Valentines Day Sunset Sail with Private Chef
       dropdownContent: >-
-        Set sail for 3 beautiful hours on the Beautiful Gold Coast Broadwater
-        aboard your own skippered private catamaran charter.  Departing from the
-        prestigious Marina Mirage you will discover calm waters and beautiful
-        islands with impressive views back to the Gold Coast City skyline,
-        reminding you how close you are to the city yet feeling a million miles
-        away.   The crystal clear waters of the Gold Coast are teaming with
-        wildlife and you may even spot a dolphin or two while sea-eagles soar
-        overhead.
+        With your own private chef on board cooking up a delicious 2 or 3 course
+        meal as the sun sets over the mountains you will feel completely
+        pampered this Valentines Day.  
 
 
-        Your boat is set up for beach landings meaning you’ll have the sand between your toes in no time.  Fancy a quick dip or to try your hand at Stand Up Paddleboarding or beach volleyball?   Your friendly crew will be on hand to help you with the range of activities available on board for your use at your island destination. 
-
-
-        Enjoy a leisurely Champagne Picnic Brunch at the island in style
+        Please discuss any dietary requirements with our helpful booking team.   
 
 
 
 
-        **private champagne brunch sail**
+        ###### **Private chef 2 hour sunset sail**
 
 
-        * **Island Stop for swimming, SUPs etc**
+        * 2 hour charter aboard your own private catamaran (with 2 crew)
 
-        * **Chilled bottle of Chandon**
+        * Chilled bottle of Chandon
 
-        * **Orange Juice (did somebody say mimosas?)**
+        * Amuse Bouche
 
-        * **Brunch picnic including** a selection of sweet and savoury baked items, fresh fruit, house-made dips, local and international cheeses, cured meats and locally baked artisan breads. 
+        * 2 course dinner (of your selection from our menu) cooked and served on board the vessel
 
-
-
-
-        **2 hour cruise option**
-
-
-        Seawind 1000XL - $950
-
-
-        Oceans (deluxe vessel) - $1200
+        * Beautiful memento photos taken by our crew 
 
 
 
 
-        **3 hour cruise option**
+        **Seawind 1000XL - $1050**
 
 
-        Seawind 1000XL - $1250
+        **Oceans (deluxe vessel) - $1400**
 
 
-        Oceans (deluxe vessel) - $1600
+        ###### **Private chef 3 hour sunset sail**
+
+
+        * 3 hour charter aboard your own private catamaran (with 2 crew)
+
+        * Chilled bottle of Chandon
+
+        * Amuse Bouche
+
+        * 3 course dinner (of your selection from our menu) cooked and served on board the vessel
+
+        * Beautiful memento photos taken by our crew 
 
 
 
 
-        **4 hour cruise option**
+        **Seawind 1000XL - $1430**
 
 
-        Seawind 1000XL - $1650
-
-
-        Oceans (deluxe vessel) - $2000
+        **Oceans (deluxe vessel) - $1780**
 ---
