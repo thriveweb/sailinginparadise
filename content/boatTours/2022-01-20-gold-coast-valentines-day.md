@@ -84,9 +84,7 @@ accordionSection:
         * Beautiful memento photos taken by our crew 
 
 
-
-
-        **Seawind 1000XL - $1250**
+        **Seawind 1000XL - $1245**
 
 
         **Oceans (deluxe vessel) - $1600**
@@ -98,8 +96,6 @@ accordionSection:
 
 
         Please discuss any dietary requirements with our helpful booking team.   
-
-
 
 
         ###### **Private chef 2 hour sunset sail**
@@ -114,8 +110,6 @@ accordionSection:
         * 2 course dinner (of your selection from our menu) cooked and served on board the vessel
 
         * Beautiful memento photos taken by our crew 
-
-
 
 
         **Seawind 1000XL - $1050**
@@ -138,9 +132,7 @@ accordionSection:
         * Beautiful memento photos taken by our crew 
 
 
-
-
-        **Seawind 1000XL - $1430**
+        **Seawind 1000XL - $1475**
 
 
         **Oceans (deluxe vessel) - $1780**
@@ -148,11 +140,10 @@ accordionSection:
       dropdownContent: >-
         If you would like a unique customised experience perhaps consider our
         hourly charter option.   Our vessels are available to use as you
-        wish.   You may wish a short 2 hour charter or a full day 6 hour
-        sail.   You may wish to bring along your own food and drinks to enjoy or
-        select from the range of options we have available for you.  You are
-        invited to make this time your own and it can be as unique as your
-        relationship.
+        wish.   You may prefer a short 2 hour charter or a full day 6 hour
+        sail.   You may wish to bring along your own food and drinks or select
+        from the range of options we have available for you.  You are invited to
+        make this time your own, and it can be as unique as your relationship.
 
 
         Upon boarding the boat you will be greeted by our friendly crew who will adapt to your preference of their involvement on board. We invite you to take a walk around the boat and find a place to chill out with a drink and enjoy the beautiful views and the sounds of the water. 
