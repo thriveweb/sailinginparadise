@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Gold Coast Valentines Day Cruise
+title: Gold Coast Valentine's Day Cruise
 icon: ""
 featuredImage: https://ucarecdn.com/d9905a1b-0cbf-4a69-9472-3215e9de392f/
 intro: >-
