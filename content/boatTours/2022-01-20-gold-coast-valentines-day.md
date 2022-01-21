@@ -257,9 +257,6 @@ accordionSection:
         \*(We are currently unable to provide snorkel gear due to Covid restrictions. Please BYO gear if you wish to snorkel on your charter)
     - title: FAQ's
       dropdownContent: >-
-        <!--StartFragment-->
-
-
         **Where do your boats depart from?**
 
 
@@ -330,9 +327,6 @@ accordionSection:
 
 
         [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
-
-
-        <!--EndFragment-->
 columnBanner:
   - title: "Book Now for Valentines day "
     content: >-
