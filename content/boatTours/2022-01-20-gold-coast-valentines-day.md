@@ -44,10 +44,9 @@ contentColumn: >-
   Choose from our daytime or evening sailing options to experience the Gold
   Coast in a different light. During the day, our boats are equipped for beach
   landings so you may wish to stop at an Island for swimming, SUP'ing and
-  snorkelling. As dusk falls, the sunset over the Gold Coast hinterland
-  mountains is a delight to view from the water, and after dark the Surfers
-  Paradise Skyline puts on a stunning light show for our return to Marina
-  Mirage.
+  relaxing. As dusk falls, the sunset over the Gold Coast hinterland mountains
+  is a delight to view from the water, and after dark the Surfers Paradise
+  Skyline puts on a stunning light show for our return to Marina Mirage.
 
 
   Our beautiful Seawind 1000XL is the ideal vessel for couples due to its intimate design, and offers the relaxation of sailing in complete comfort. The trampoline-style foredeck is a favourite spot for snuggling and gives an immersive sailing experience with 360 degree views of the Gold Coast’s stunning waterways. It is also the ideal spot for spying the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans, so close you can almost touch...  If you are after a little added luxury our deluxe vessel Oceans offer all of the above but with a little added luxe and a lot of extra space.   
