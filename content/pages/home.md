@@ -8,9 +8,6 @@ posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
-  - title: "Valentines Day "
-    description: Treat your loved one to an unforgettable day or evening on the water.
-    buttonUrl: boat-charter/gold-coast-valentines-day-cruise/
   - title: Last Minute Charters
     description: See our last minute availability at sensational rates!
     buttonUrl: boat-charter/last-minute-charters/
@@ -36,9 +33,9 @@ featuredSlider:
     title: Gift the gift of experience
 featuredBanner:
   buttonTitle: Romance your loved one with a private yacht charter
-  buttonUrl: boat-charter/gold-coast-valentines-day-cruise/
+  buttonUrl: boat-charter/gold-coast-romantic-sails/
   image: https://ucarecdn.com/3b52cdf8-af4e-454a-ab1f-e814cfed7ed2/
-  title: A valentines to remember
+  title: Date night to remember
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
