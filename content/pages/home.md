@@ -8,20 +8,24 @@ posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
-  - title: Last Minute Charters
-    description: See our last minute availability at sensational rates!
-    buttonUrl: boat-charter/last-minute-charters/
-  - buttonUrl: boat-charter/gold-coast-hens-parties/
-    description: We are the hens party specialists. Let us create a truly special
-      event for you and your friends.
-    title: Gold Coast Hens Party
-  - buttonUrl: boat-charter/
-    description: For any occasion. From 3 hours to a full day. BYO or fully catered.
-    title: Private Skippered Boat Hire
+  - title: Unforgettable Birthday Parties
+    description: "Celebrate another lap around the sun with a private yacht charter
+      with your friends and fam.  "
+    buttonUrl: boat-charter/gold-coast-birthday-parties/
   - buttonUrl: boat-charter/gold-coast-family-charters/
     description: Hire a private yacht for your small family group to enjoy our
       beautiful waterways and the Queensland sunshine!
     title: Small family day charters
+  - buttonUrl: boat-charter/gold-coast-hens-parties/
+    description: We are the hens party specialists. Let us create a truly special
+      event for you and your friends.
+    title: Hen's Party Boat Charters
+  - title: Last Minute Charters
+    description: See our last minute availability at sensational rates!
+    buttonUrl: boat-charter/last-minute-charters/
+  - buttonUrl: boat-charter/
+    description: For any occasion. From 3 hours to a full day. BYO or fully catered.
+    title: Private Skippered Boat Hire
   - buttonUrl: cruise/gold-coast-sunset-city-lights-cruise/
     description: 2 hour of bliss on the Gold Coast Broadwater at dusk...
     title: Sunset & City Lights
@@ -32,10 +36,10 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: Romance your loved one with a private yacht charter
-  buttonUrl: boat-charter/gold-coast-romantic-sails/
-  image: https://ucarecdn.com/3b52cdf8-af4e-454a-ab1f-e814cfed7ed2/
-  title: Date night to remember
+  buttonTitle: "Sailing in the next couple of weeks?   Check out our last minute rates.  "
+  buttonUrl: boat-charter/last-minute-charters/
+  image: https://ucarecdn.com/fa8483a6-301c-430f-9b96-7c433a0cf8aa/
+  title: LAST MINUTE SPECIALS
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
