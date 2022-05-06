@@ -8,16 +8,21 @@ intro: >-
   ##### Looking to sail last minute?
 
 
-  We occasionally offer special last minute rates on our Seawind 1000XL for groups of up to 10 guests.*  Larger Groups and alternative vessels may be available on request...please contact us for more info!
+  Our stunning vessels are available at reduced rates for last minute bookings which fit within our existing charter commitments.  You will be sailing on board one of Sailing in Paradise's beautiful sailing catamarans selected by us to suit your group size.     Bookings are available for groups of 1-14 guests or 15 - 30 guests.
 
 
-  ![](https://ucarecdn.com/71ea2e47-98ab-4951-b7d4-f056671620e0/)
+
+
+  To explore our last minute rates and available please click to ['check availability and book now'.](https://sailinginparadise.rezdy.com/catalog/412461/last-minute-charter-bookings)
+
+
+  ![](https://ucarecdn.com/9c8c3201-0cf3-4f13-9828-afd4f86b04b9/)
 
 
   ### What's included?
 
 
-  * Exclusive charter of the Seawind 1000XL for up to 10 guests (contact us for larger groups), 
+  * Exclusive charter of a Sailing in Paradise Catamaran to suit your group size.  
 
   * Skipper plus 1 crew, (we are fun and friendly, laid-back yet professional) we promise you'll love us,
 
