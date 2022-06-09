@@ -7,11 +7,5 @@ content: >-
   on your behalf for a stress-free cruise. BYO is also possible if you prefer.
 
 
-  Please click to download our Catering Menus below;
-
-
-  [Standard Catering Menu](https://drive.google.com/file/d/1T9_HOn8Q_2NN7F8ldeZEOsjDRD7vPZyn/view?usp=sharing)
-
-
-  [Small Group Catering Menu](https://drive.google.com/file/d/1x_uRuW5TVB_oK6C_8-Sy4mNST95t0mbX/view?usp=sharing)
+  If you would like to send us an [enquiry](https://sailinginparadise.com.au/booking-enquiry/) and we would be happy to email you our catering menu.
 ---
