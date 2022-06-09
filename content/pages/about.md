@@ -116,16 +116,17 @@ crewSection:
         As a self-professed ocean nerd, Jemma will happily talk to you all about
         the local marine life… and she’s always ready to bust a move with our
         guests if the music is right!
-    - image: https://ucarecdn.com/54aaf577-8bb8-4aa0-91c4-0fae994fec1e/-/preview/-/enhance/10/
-      name: Peggy
+    - image: https://ucarecdn.com/2050c092-b612-4bf1-a854-cd448b51088d/-/crop/427x355/0,129/-/preview/
+      name: Jamie
       title: Cruise Hostess
       content: >-
-        Peggy first fell in love with the ocean when she sailed around the Greek
-        Islands. Always up for some fun, her warm smile and sociable nature will
-        ensure you and your guests feel welcome on board. 
+        Jamie is a professional cheerleader at heart and on the water! Full of
+        big smiles and endless dance moves. She has also pursued a career as a
+        nurse and has a passion for helping to create a positive experience for
+        guests. 
 
 
-        With a background in marketing and a love of social media trends, she likes to capture both those candid and ‘plandid’ moments with our on board camera.
+        Her love of being on the water started with teaching as a canoe and kayak instructor for summer camps in Canada & sailing the Whitsundays and Greece.
     - image: https://ucarecdn.com/45612d4c-023c-4409-ab6a-6cbeecabc6a6/-/crop/2052x1420/158,0/-/preview/
       name: Deon
       title: Skipper
@@ -135,12 +136,6 @@ crewSection:
         usually be found hanging out with his dolphin friends and caring for our
         marine environment by rescuing trapped whales and injured marine
         life...  Go Deon!!
-    - content: Ella has a PhD in Chemical Engineering and is also a keen surfer,
-        wakeboarder and snowboarder.      Great fun to be around and with a love
-        of photography, you are sure to enjoy having Ella on board your charter.
-      image: https://ucarecdn.com/cb0d6732-f1ae-47af-a901-97856b14a11c/-/crop/4000x3087/0,1233/-/preview/
-      name: "Ella "
-      title: Cruise Hostess
   crewIntro: "## Our Crew
 
 
