@@ -35,17 +35,18 @@ gallery:
   - image: https://ucarecdn.com/4f14fbcc-388d-40dd-85d2-26a13ee39e9a/
 captainSection:
   captain:
-    - description: Sailing in Paradise was the brainchild of Steve.  Any of you who
+    - description: Sailing in Paradise was the brainchild of Steve. Any of you who
         have sailed with Steve will probably recall his laid-back, likeable
         nature. Taking a hands-on and active involvement in the business, if you
         are a regular at the Marina you will often find him working hard during
         the week to ensure the boats are in tip-top condition for our next
-        charter guests.   He also skippers the boats regularly so rest assured
-        you will be well looked after with Steve as part of your crew.  A
+        charter guests. He also skippers the boats regularly so rest assured you
+        will be well looked after with Steve as part of your crew. A
         self-confessed gadget geek and wannabe film-maker, Steve can often be
-        found carting around a plethora of gadgets including drones, 360 cameras
-        and go-pros but has yet to learn how to keep them out of the water…we
-        have lost a few he he…
+        found with a plethora of gadgets such as drones, go pros and 360 cameras
+        on charters.   Steve is driven by a passion for food with a keen
+        interest in native Australian produce that he is hoping to align with
+        the future vision for Sailing in Paradise.
       image: https://ucarecdn.com/4f4c708f-0dc2-4ef8-8ff6-3f0a427d3692/
       name: Steve Buckley - Owner / Operator
       socialMedia:
@@ -136,6 +137,17 @@ crewSection:
         usually be found hanging out with his dolphin friends and caring for our
         marine environment by rescuing trapped whales and injured marine
         life...  Go Deon!!
+    - image: https://ucarecdn.com/9e331ee0-4784-4747-8687-351f1a673ffe/
+      name: "Jiah "
+      title: Skipper
+      content: >-
+        When asked to write a bio Jiah said his favourite colour is electric
+        beige, he enjoys birdwatching and is a wizz in the kitchen (he once
+        cooked 2 minute noodles in under 1 minute ha ha). As you can tell, he is
+        a bit of a joker and is always great for a laugh. 
+
+
+        Hailing from the Whitsundays with over 11 years in the Marine industry, Jiah has a passion for sea life, the ocean and showing our guests around his new backyard here on the GC Broadwater.
   crewIntro: "## Our Crew
 
 
