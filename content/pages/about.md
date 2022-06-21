@@ -131,12 +131,11 @@ crewSection:
     - image: https://ucarecdn.com/45612d4c-023c-4409-ab6a-6cbeecabc6a6/-/crop/2052x1420/158,0/-/preview/
       name: Deon
       title: Skipper
-      content: Deon is the newest member of the Sailing in Paradise team. He has a
-        love for the outdoors and has 15 years in the marine and tourism
-        industry.    When not skippering for Sailing in Paradise Deon can
-        usually be found hanging out with his dolphin friends and caring for our
-        marine environment by rescuing trapped whales and injured marine
-        life...  Go Deon!!
+      content: Deon has a love for the outdoors and 15 years experience in the marine
+        and tourism industry.    When not skippering for Sailing in Paradise
+        Deon can usually be found hanging out with his dolphin friends and
+        caring for our marine environment by rescuing trapped whales and injured
+        marine life...  Go Deon!!
     - image: https://ucarecdn.com/9e331ee0-4784-4747-8687-351f1a673ffe/
       name: "Jiah "
       title: Skipper
