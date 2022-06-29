@@ -1,8 +1,14 @@
 ---
 template: DefaultPage
-title: "pre-arrival info "
+title: "Pre-Arrival Info "
 featuredImage: https://ucarecdn.com/13a84dfa-cab1-48db-b79a-c7dbde7eba0f/
 content: >-
+  ### WELCOME TO SAILING IN PARADISE!
+
+
+  Your charter is just around the corner and we look forward to welcoming you and your guests onboard :) We have put together some essential pre-charter info to help get you ready for a totally stress-free and seamless experience! 
+
+
   ### GETTING TO THE MARINA
 
 
@@ -19,4 +25,19 @@ content: >-
 
 
   ![](https://ucarecdn.com/62d267f7-a616-4bda-8616-469a718f5b74/)
+
+
+  ### ???????
+
+
+  Boarding is 10 mins prior to your scheduled departure time. You will need to bring any food, drinks, decorations etc with you at this time. If you arrive early, please meet your group at the top, main boardwalk and wait there until your boarding time as we may still be cleaning/preparing for you. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. 
+
+
+  Shoes will need to be slipped off prior to boarding :) 
+
+
+  If you are planning to BYO, please don't forget to bring any plates, cutlery, napkins etc if required. Please make sure any cups are non-breakable. 
+
+
+  Bottled drinks such as champagne, cruisers, beers are fine. Red wine and straight bottles of spirits are not permitted, but you are welcome to bring along pre-mix spirits in bottles/cans.
 ---
