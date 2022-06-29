@@ -36,9 +36,6 @@ content: >-
   \- You will need to bring any food, drinks, decorations etc with you on arrival. Unfortunately we are not able to accept early deliveries. 
 
 
-  \- We welcome any attire on board the vessels so please dress however you feel comfortable, winter evenings a jacket is advisable. Shoes will need to be slipped off prior to boarding :) 
-
-
   \- If you are planning to BYO, please don't forget to bring any plates, cutlery, napkins etc if required. Please make sure any cups are **non-breakable**. We will provide esky's with ice 
 
 
@@ -48,11 +45,20 @@ content: >-
   \- Please let us know if you wish to use the BBQ. We will provide tongs and oil. 
 
 
+  \- We welcome any attire on board the vessels so please dress however you feel comfortable, winter evenings a jacket is advisable. Shoes will need to be slipped off prior to boarding :) 
+
+
   \- If you are sailing during the day and are planning to go for a swim or enjoy our complimentary beach activities, don't forget your beach towel, swimmers and sunscreen (slip, slop, slap!) 
 
 
   \- A friendly reminder that there is **no smokin**g permitted onboard our vessels. Our crew can organise a smoking stop for any guests on request, please let them know at the start of your charter. 
 
 
-  \- You are welcome to bring along some decorations, but please nothing that will stain or burn the boat. Party poppers, sparklers, paper streamers, table and foil confetti are not permitted.
+  \- You are welcome to bring along some decorations, but please nothing that will stain or burn the boat. Party poppers, sparklers, paper streamers, table and foil confetti are not permitted. 
+
+
+  If you still have any unanswered questions or are unsure of something, please feel free to give us a call. 
+
+
+  See you soon!  :-)
 ---
