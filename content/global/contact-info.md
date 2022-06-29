@@ -12,7 +12,7 @@ hours: |-
   **OFFICE HOURS** (via phone) 9AM - 5PM
 
   **SAILING HOURS** (pre-booking required) 6AM - Midnight
-map: ""
+map: https://ucarecdn.com/39d6897d-0180-4bd1-8b98-e403a8c1fe50/
 socialMedia:
   facebook: https://www.facebook.com/sailinginparadise
   googlePlus: ""
