@@ -30,14 +30,14 @@ content: >-
   ### ???????
 
 
-  Boarding is 10 mins prior to your scheduled departure time. You will need to bring any food, drinks, decorations etc with you at this time. If you arrive early, please meet your group at the top, main boardwalk and wait there until your boarding time as we may still be cleaning/preparing for you. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. 
+  \- Boarding is 10 mins prior to your scheduled departure time. You will need to bring any food, drinks, decorations etc with you at this time. If you arrive early, please meet your group at the top, main boardwalk and wait there until your boarding time as we may still be cleaning/preparing for you. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. 
 
 
-  Shoes will need to be slipped off prior to boarding :) 
+  \- We welcome any attire on board the vessels so please dress however you feel comfortable, winter evenings a jacket is advisable. Shoes will need to be slipped off prior to boarding :) 
 
 
-  If you are planning to BYO, please don't forget to bring any plates, cutlery, napkins etc if required. Please make sure any cups are non-breakable. 
+  \- If you are planning to BYO, please don't forget to bring any plates, cutlery, napkins etc if required. Please make sure any cups are non-breakable. 
 
 
-  Bottled drinks such as champagne, cruisers, beers are fine. Red wine and straight bottles of spirits are not permitted, but you are welcome to bring along pre-mix spirits in bottles/cans.
+  \- Bottled drinks such as champagne, cruisers, beers are fine. Red wine and straight bottles of spirits are not permitted, but you are welcome to bring along pre-mix spirits in bottles/cans.
 ---
