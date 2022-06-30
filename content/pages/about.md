@@ -53,19 +53,16 @@ captainSection:
         linkedin: ""
         twitter: ""
       title: Head Skipper Steve
-    - description: >-
-        Jess joined the business full-time in 2017 bringing her background in
-        Marketing and Event Management and with it an injection of fresh ideas
-        and concepts, plus an unparalleled level of customer engagement.
-
-
-        With attention to detail bordering on OCD Jess is the one who will make sure your crew are there, your catering is ready at precisely the right time and your... to be honest anything else you can throw at her…
-
-
-        Go on, she likes a challenge ha ha…
-
-
-        Originally from Leicester, England, Jess is now proud to be an Aussie and feels very lucky to be living in this beautiful part of the world.
+    - description: Originally from Leicester, England, Jess is now proud to be an
+        Aussie and feels very lucky to be living in this beautiful part of the
+        world.  Jess joined the business full-time in 2017 bringing her
+        background in Marketing and Event Management and with it an injection of
+        fresh ideas and concepts, plus an unparalleled level of customer
+        engagement.   These days Jess works more behind the scenes to ensure
+        that the business runs seamlessly, but still loves to be involved with
+        our guests where she can . As well as the day-to-day, she is planning
+        some exciting things to come for the future of Sailing in Paradise.
+        Watch this space!
       image: https://ucarecdn.com/60e7b3c2-123c-4b4a-9c2e-c3c3bfc99d94/
       name: Jessica Buckley - Owner / operator
       socialMedia:
