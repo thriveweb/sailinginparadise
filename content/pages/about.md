@@ -144,6 +144,17 @@ crewSection:
 
 
         Hailing from the Whitsundays with over 11 years in the Marine industry, Jiah has a passion for sea life, the ocean and showing our guests around his new backyard here on the GC Broadwater.
+    - image: https://ucarecdn.com/002819f5-2b26-41ac-94b6-e5be7698a290/-/crop/1815x2295/0,729/-/preview/
+      name: Chelsey
+      title: Cruise Hostess
+      content: >-
+        Chelsey is originally from Canada where her hobbies included
+        snowboarding and beating boys at arm wrestles.  She was drawn to the
+        sunny shores of Australia and with a love of the outdoors and the ocean
+        started a career in the marine world.
+
+
+        Chelsey is a super fun addition to our crew, bringing a great energy to her charters and is always super happy to help guests get “the shot”!
   crewIntro: "## Our Crew
 
 
