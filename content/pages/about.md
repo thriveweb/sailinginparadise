@@ -133,7 +133,7 @@ crewSection:
         Deon can usually be found hanging out with his dolphin friends and
         caring for our marine environment by rescuing trapped whales and injured
         marine life...  Go Deon!!
-    - image: https://ucarecdn.com/9e331ee0-4784-4747-8687-351f1a673ffe/
+    - image: https://ucarecdn.com/93dfcbe5-a05d-4c83-943d-8cfcb702bfef/-/crop/1151x1632/1032,0/-/preview/
       name: "Jiah "
       title: Skipper
       content: >-
