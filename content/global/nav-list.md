@@ -47,6 +47,5 @@ navItems:
       - title: Latest News
       - title: Contact Us
       - title: FAQs
-      - title: Pre-Arrival Info
     title: More
 ---
