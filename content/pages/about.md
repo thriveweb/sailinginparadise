@@ -155,6 +155,17 @@ crewSection:
 
 
         Chelsey is a super fun addition to our crew, bringing a great energy to her charters and is always super happy to help guests get “the shot”!
+    - name: "Mady "
+      title: Bookings Manager
+      content: An approachable country girl with a well travelled background and years
+        of experience in the international travel industry.    Mady will likely
+        be the person who helps book and organise your charter and you are in
+        great hands!   As a keen boatie herself, Mady brings a wealth of
+        knowledge and along with her amazing organisational and communication
+        skills will ensure you have a seamless booking and charter experience. 
+         Feel free to reach out to Mady if you have any questions about booking
+        a charter with Sailing in Paradise!
+      image: https://ucarecdn.com/564f4f0d-032b-449b-9436-b176e6a87897/-/crop/2287x1732/22,0/-/preview/
   crewIntro: "## Our Crew
 
 
