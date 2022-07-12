@@ -46,5 +46,6 @@ navItems:
       - title: Happy Sailors
       - title: Latest News
       - title: Contact Us
+      - title: FAQs
     title: More
 ---
