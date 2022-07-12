@@ -6,7 +6,7 @@ content: >-
   ### WELCOME TO SAILING IN PARADISE!
 
 
-  Your charter is just around the corner and we look forward to welcoming you and your guests onboard :) We have put together some essential pre-charter info to help get you ready for a totally stress-free and seamless experience! 
+  Your charter is just around the corner and we look forward to welcoming you onboard :) We have put together some essential pre-charter info to help get you ready for a totally stress-free and seamless experience! 
 
 
   ###### GETTING TO THE MARINA
@@ -30,7 +30,7 @@ content: >-
   ###### BOARDING INFO
 
 
-  \- **Boarding is 10 mins prior** to your scheduled departure time. If you arrive early we ask that you please meet your group at the top, main boardwalk and wait there until our crew are ready for you as we may still be cleaning/preparing for your group. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. 
+  \- **Boarding is 10 mins prior** to your scheduled departure time. If you arrive earlier than this we ask that you please meet your group at the top, main boardwalk and wait there until the vessel is ready for boarding. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. 
 
 
   \- Please bring any food, drinks, decorations etc with you on arrival.   On most occasions we are unfortunately unable to accept early deliveries due to the vessel's schedule and lack of storage space.
