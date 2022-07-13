@@ -8,7 +8,6 @@ content: >-
   We require a 50% deposit to secure your booking. The balance is due at least thirty (30) days prior to the event. By paying the deposit you agree to the terms and conditions set out below. 
 
 
-
   Guests must be 18+ to book and reserve a charter. A legal guardian/parent is required to confirm and pay for a charter booked on behalf of any underage guests. 
 
 
@@ -58,7 +57,6 @@ content: >-
   Guests booking rescheduled charters will be charged relevant charter fee on the new booking date (which may be more or less than the original charter).  Rates vary seasonally and by day of the week and this may result in an additional charge or balance credit which can be used towards an extended charter, vessel upgrade or additional charter. Refunds will not be provided for restricted credits.
 
 
-
   Guests should bear in mind possible government restrictions on group numbers, social distancing and vaccine requirements when selecting and booking a vessel as these will need to be adhered to and are the responsibility of the guest.    
 
 
@@ -85,7 +83,6 @@ content: >-
 
 
   •	Customers are to arrive to and leave the vessel in an orderly fashion with respect to neighbouring businesses, communities and the general public. 
-
 
 
   •	All persons must obey any instructions given by the Master of the vessel or any staff member. 
@@ -168,6 +165,9 @@ content: >-
   The vessel is maintained carefully and provided for your enjoyment!  We do ask that you take care to look after our vessels for the safety and enjoyment of yourself and future guests.  The following rules are in place either due to safety or vessel deterioration concerns;
 
 
+  •	Animals are not permitted on board, with the exception of accredited assistance  animals (such as guide/hearing dogs).  If you are travelling with a guest who requires an assistance animal please contact us to advise in advance, we will also require a copy of the animal's accreditation to be provided.
+
+
   •	No Sparklers are permitted on board
 
 
@@ -222,7 +222,6 @@ content: >-
   **The serious stuff:**
 
 
-
   **Indemnity**
 
 
@@ -250,7 +249,6 @@ content: >-
   **Availability** 
 
 
-
   a) Should your chosen yacht become unavailable for any reason including inoperability, damage, safety or crew availability, Adventures in Paradise Pty Ltd reserves the right to substitute a suitable alternative vessel or where a suitable alternative vessel is unavailable a refund will be offered.
 
 
@@ -260,19 +258,16 @@ content: >-
   **Maximum Number of Guests** 
 
 
-
   Vessel’s Capacity – The Charterer shall not, at any time during the Charter Period, exceed the maximum number of persons permitted onboard the vessel. 
 
 
   **Children**
 
 
-
   Children are welcome on board the vessel.   Any minor should be under the care of a sober, responsible parent or guardian at all times.  Unfortunately our crew are unable to take responsibility for care of children.  
 
 
   **Swimming** 
-
 
 
   If the Charterer wishes to partake in swimming or water activities during the charter, all guests entering the water do so at their own risk.
