@@ -1326,6 +1326,65 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
+  - name: faqPages
+    label: FAQ Pages
+    editor:
+      preview: true
+    folder: content/faqPages
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: SingleFaqPage,
+        }
+      - { label: Title, name: title, widget: string }
+      - { label: Featured Image, name: featuredImage, widget: image }
+      - label: Accordion Section
+        name: accordionSection
+        required: false
+        widget: 'object'
+        fields:
+          - {
+              label: Section Title,
+              name: sectionTitle,
+              widget: string,
+              required: false,
+            }
+          - label: Accordion
+            required: false
+            name: accordion
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Dropdown Content,
+                  name: dropdownContent,
+                  widget: markdown,
+                  required: false,
+                }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
   - name: defaultPages
     label: Default Pages
     editor:
