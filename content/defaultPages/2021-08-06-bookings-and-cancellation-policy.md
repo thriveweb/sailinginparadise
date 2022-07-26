@@ -11,6 +11,9 @@ content: >-
   Guests must be 18+ to book and reserve a charter. A legal guardian/parent is required to confirm and pay for a charter booked on behalf of any underage guests. 
 
 
+  Please be prepared to show your ID and credit card used to make your booking upon boarding if requested by the crew. 
+
+
   **Cancellations**
 
   Refund Policy: Your booking is accepted in good faith.  As soon as we receive your deposit this date and time will be reserved exclusively for you and we will start to decline any other booking requests.
