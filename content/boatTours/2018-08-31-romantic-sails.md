@@ -218,7 +218,7 @@ accordionSection:
         **$750***
 
 
-        \*Subject to availability.  Peak periods and public holidays may be excluded.  Weekends may be available last-minute on request, please enquire.
+        \*Subject to availability. Available Monday to Thursday (January to November, excl public holidays). Weekends may be available last-minute on request, please enquire.
       title: Do you offer special packages?
     - title: "Private Charter Pricing "
       dropdownContent: >-
