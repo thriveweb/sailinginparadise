@@ -129,7 +129,7 @@ accordionSection:
         **$900***
 
 
-        \*Subject to availability.  Peak periods and public holidays may be excluded.  Weekends may be available on request, please enquire.  
+        \*Subject to availability. Available Monday to Thursday (January to November, excl public holidays).  Weekends may be available on request, please enquire.  
 
 
         You can also consider a surprise proposal with your closest family and friends on board.  Please contact us for a quote for a customised private charter for larger groups.
