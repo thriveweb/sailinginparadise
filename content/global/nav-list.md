@@ -2,13 +2,13 @@
 slug: nav-items
 navItems:
   - subNavItems:
+      - title: Talk Like A Pirate Day Cruise
       - optionalTitle: Island Cruise
         title: Gold Coast Island Cruise
       - optionalTitle: Sunset & City Lights Cruise
         title: Gold Coast Sunset & City Lights Cruise
       - optionalTitle: Gift Vouchers
         title: Gift Vouchers
-      - title: Talk Like A Pirate Day Cruise
     title: Cruise Tickets
   - optionalTitle: ""
     subNavItems:
