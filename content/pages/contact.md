@@ -26,7 +26,7 @@ We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.  
 
 ### HOW TO FIND THE BOATS AT THE MARINAS
 
-Please take the jetty with the big yellow archway at Mariner's Cove. For 'Oceans' please take the first arm (to your left) after going under the yellow archway. For 'Spirit of Gwonda' and 'Seawind 1000XL' please take the second arm (to your left). You should be able to see our boats from the start of the main jetty. (Logo & white arrow on map)
+Please take the jetty with the big yellow archway at Mariner's Cove. For 'Oceans' please take the first arm (to your left) after going under the yellow archway the boat is visible straight away. For 'Spirit of Gwonda' and 'Seawind 1000XL' please take the second arm (to your left), the boats are located about half way down the arm. (Logo & white arrows on map)
 
 ![]()
 
