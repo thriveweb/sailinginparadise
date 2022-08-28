@@ -8,6 +8,7 @@ navItems:
         title: Gold Coast Sunset & City Lights Cruise
       - optionalTitle: Gift Vouchers
         title: Gift Vouchers
+      - title: Talk Like a Pirate Day Cruise
     title: Cruise Tickets
   - optionalTitle: ""
     subNavItems:
