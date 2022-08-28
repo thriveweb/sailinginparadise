@@ -4,13 +4,16 @@ tourType: Cruise
 title: Talk Like A Pirate Day Cruise
 featuredImage: https://ucarecdn.com/90385426-9887-4332-9389-1a4211b34104/-/preview/-/enhance/50/
 intro: >-
-  ### Ahoy there me' hearties!  
+  ### Ahoy there me' hearties! 
 
 
   Sailing in Paradise is proud to be supporting Childhood Cancer Support this 'Talk like a Pirate Day' on 22 September 2022.  We will be donating 100% of ticket sales from a special 3 hour Island Cruise departing Main Beach, Gold Coast.    So gather your family and friends and jump aboard as we set sail for 3 hours of fun.   Feel free to dress up in pirate theme (our crew will be getting into the spirit) or come along and enjoy the fun on the day however you feel comfortable.   This experience is suitable for all ages.  
 
 
   Cruise includes light snack.  Drinks are available for purchase on board.
+
+
+  If no availability is showing please click to join the waitlist as we will look at adding extra charity cruises this day to meet demand.
 contentBox:
   buttonTitle: BOOK NOW
   buttonUrl: booking-enquiry/
