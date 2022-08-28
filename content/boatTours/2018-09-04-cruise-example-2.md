@@ -7,7 +7,7 @@ intro: >-
   ## Gold Coast island cruise
 
 
-  **THIS TICKETED CRUISE IS NOT CURRENTLY OPERATIONAL DUE TO COVID-19 RESTRICTIONS.   OUR PRIVATE CHARTERS CONTINUE TO SAIL WITH GREAT RATES AVAILABLE FOR SMALL GROUPS/MID-WEEK.  PLEASE CONTACT US VIA THE BOOKING/ENQUIRY FORM TO ENQUIRE ABOUT A PRIVATE CHARTER.**  
+  **THIS TICKETED CRUISE IS NOT CURRENTLY OPERATIONAL.   Please check out our private charters.   We have great last-minute rates available [here](https://sailinginparadise.com.au/boat-charter/last-minute-charters/).** 
 
 
   Discover a new side to the Gold Coast aboard our Island Cruise.  Sit back and enjoy 3 hours of bliss on the water aboard a beautiful Sailing Catamaran!
