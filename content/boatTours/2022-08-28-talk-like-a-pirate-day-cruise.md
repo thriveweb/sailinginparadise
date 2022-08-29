@@ -2,12 +2,15 @@
 template: SingleBoatTour
 tourType: Cruise
 title: Talk Like A Pirate Day Cruise
-featuredImage: https://ucarecdn.com/90385426-9887-4332-9389-1a4211b34104/-/preview/-/enhance/50/
+featuredImage: https://ucarecdn.com/c4a5c8dd-9a07-43d3-bcd7-d2812ea9ee2d/
 intro: >-
   ### Ahoy there me' hearties! 
 
 
-  Sailing in Paradise is proud to be supporting Childhood Cancer Support this 'Talk like a Pirate Day' on 22 September 2022.  We will be donating 100% of ticket sales from a special 3 hour Island Cruise departing Main Beach, Gold Coast.    So gather your family and friends and jump aboard as we set sail for 3 hours of fun.   Feel free to dress up in pirate theme (our crew will be getting into the spirit) or come along and enjoy the fun on the day however you feel comfortable.   This experience is suitable for all ages.  
+  ![](https://ucarecdn.com/b4ee5250-3f55-4510-8ad3-a73dbf70852b/)
+
+
+  Sailing in Paradise is proud to be supporting Childhood Cancer Support this 'Talk like a Pirate Day' on Monday 19th September 2022.  We will be donating 100% of ticket sales from a special 3 hour Island Cruise departing Main Beach, Gold Coast.    So gather your family and friends and jump aboard as we set sail for 3 hours of fun.   Feel free to dress up in pirate theme (our crew will be getting into the spirit) or come along and enjoy the fun on the day however you feel comfortable.   This experience is suitable for all ages.  What a great way to kick off the school holidays and support a worth cause.  
 
 
   Cruise includes light snack.  Drinks are available for purchase on board.
@@ -27,6 +30,8 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
+  - image: https://ucarecdn.com/4cd2a0e8-063e-43c3-8431-140431086032/
+  - image: https://ucarecdn.com/1c3f8e2d-d38e-4aed-8b4d-5d051acd37d5/
   - image: https://ucarecdn.com/279fc1b4-8074-4e4c-b836-3632ff3d6597/-/preview/-/enhance/64/
   - image: https://ucarecdn.com/04d833ad-6334-43e4-af83-658592b32b09/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/83c2a001-9e25-4d5c-ac16-01c312586349/-/preview/-/enhance/50/
