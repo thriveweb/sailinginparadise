@@ -16,7 +16,7 @@ intro: >-
   Cruise includes light snack.  Drinks are available for purchase on board.
 
 
-  If no availability is showing please click to join the waitlist as we will look at adding extra charity cruises this day to meet demand.
+  Should you prefer a private charter for your group on talk like a pirate day please contact us directly and we will be able to help with a private charity cruise.
 contentBox:
   buttonTitle: BOOK NOW
   buttonUrl: booking-enquiry/
