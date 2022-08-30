@@ -18,7 +18,7 @@ content: >-
   ###### HOW TO FIND THE BOATS AT THE MARINAS
 
 
-  The access to the main marina jetty is at the very end (north western corner) of the carpark behind the 'Ridong Plaza' building.   Please take the jetty with the big yellow archway at Mariner's Cove. For the 'Seawind 1000XL' please take the first arm (to your left) after going under the yellow archway. For 'Spirit of Gwonda' and 'Oceans' please take the second arm (to your left). You should be able to see our boats from the main jetty.    Please find a map below.  
+  The access to the main marina jetty is at the very end (north western corner) of the carpark behind the 'Ridong Plaza' building.   Please take the jetty with the big yellow archway at Mariner's Cove. For the 'Oceans' please take the first arm (to your left) after going under the yellow archway. For 'Spirit of Gwonda' and 'Seawind 1000XL' please take the second arm (to your left). You should be able to see our boats from the main jetty.    Please find a map below.  
 
 
   If you can’t find us you can always call us and we will be happy to guide you.
