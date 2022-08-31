@@ -36,10 +36,11 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: "Sailing in the next couple of weeks?   Check out our last minute rates.  "
-  buttonUrl: boat-charter/last-minute-charters/
-  image: https://ucarecdn.com/fa8483a6-301c-430f-9b96-7c433a0cf8aa/
-  title: LAST MINUTE SPECIALS
+  buttonTitle: Join us for this charity fundraising cruise on 19th September with
+    all proceeds donated to Childhood Cancer Support!
+  buttonUrl: cruise/talk-like-a-pirate-day-cruise/
+  image: https://ucarecdn.com/935dcafb-8727-4533-8b78-cd52b9c21287/
+  title: TALK LIKE A PIRATE DAY CRUISE
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
