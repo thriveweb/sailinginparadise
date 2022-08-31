@@ -10,7 +10,7 @@ intro: >-
   ![](https://ucarecdn.com/b4ee5250-3f55-4510-8ad3-a73dbf70852b/)
 
 
-  Sailing in Paradise is proud to be supporting Childhood Cancer Support this 'Talk like a Pirate Day' on Monday 19th September 2022.  We will be donating 100% of ticket sales from a special 3 hour Island Cruise departing Main Beach, Gold Coast.    So gather your family and friends and jump aboard as we set sail for 3 hours of fun.   Feel free to dress up in pirate theme (our crew will be getting into the spirit) or come along and enjoy the fun on the day however you feel comfortable.   This experience is suitable for all ages.  What a great way to kick off the school holidays and support a worth cause.  
+  Sailing in Paradise is proud to be supporting Childhood Cancer Support this 'Talk like a Pirate Day' on Monday 19th September 2022.  We will be donating 100% of ticket sales from a special 3 hour Island Cruise departing Main Beach, Gold Coast.    So gather your family and friends and jump aboard as we set sail for 3 hours of fun.   Feel free to dress up in pirate theme (our crew will be getting into the spirit) or come along and enjoy the fun on the day however you feel comfortable.   This experience is suitable for all ages.  What a great way to kick off the school holidays and support a worthy cause.  
 
 
   Cruise includes light snack.  Drinks are available for purchase on board.
