@@ -30,7 +30,7 @@ content: >-
   ###### BOARDING INFO
 
 
-  \- **Boarding is 10 mins prior** to your scheduled departure time. If you arrive earlier than this we ask that you please meet your group at the top, main boardwalk and wait there until the vessel is ready for boarding. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. 
+  \- **Boarding is 10 mins prior** to your scheduled departure time. If you arrive earlier than this we ask that you please meet your group at the top, main boardwalk and wait there until your scheduled boarding time. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. At your scheduled boarding time 10 mins prior to departure, please make your way to the vessel where our crew will be waiting for you. 
 
 
   \- Please bring any food, drinks, decorations etc with you on arrival.   On most occasions we are unfortunately unable to accept early deliveries due to the vessel's schedule and lack of storage space.
