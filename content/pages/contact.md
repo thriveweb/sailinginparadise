@@ -26,7 +26,7 @@ We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.  
 
 ### HOW TO FIND THE BOATS AT THE MARINAS
 
-Please take the jetty with the big yellow archway at Mariner's Cove. Our vessels are located on the first arm (to your left) after going under the first yellow archway the boats are visible straight away. (Logo & white arrows on map)
+The access to the main marina jetty is at the very end (north western corner) of the carpark. Please take the jetty with the big yellow archway at Mariner's Cove. Our vessels are located on the first arm (to your left) after going under the first yellow archway, the boats are visible straight away. (Logo & white arrows on map)
 
 ![]()
 
