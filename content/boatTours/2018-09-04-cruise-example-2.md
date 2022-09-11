@@ -16,7 +16,7 @@ intro: >-
   This is a laid-back cruise experience on a spacious sailing catamaran that you are sure to love.   With no more than 30 guests on board we curate a social atmosphere and we can't wait to welcome you on board our beautiful boat!
 
 
-  Cruise includes light lunch and one complimentary bubbly, beer or soft drink.
+  Cruise includes light lunch.
 contentBox:
   buttonTitle: BOOK NOW
   buttonUrl: booking-enquiry/
@@ -55,42 +55,38 @@ contentColumn: Visit an isolated island beach only accessible by boat where you
   the friendly bottlenose dolphins who regularly cruise past.
 accordionSection:
   accordion:
-    - dropdownContent: "•\t3 hours on the beautiful, calm Gold Coast Broadwater\r
+    - dropdownContent: >-
+        •	3 hours on the beautiful, calm Gold Coast Broadwater
 
 
-        •\tRelax onboard a spacious Sailing Catamaran\r
+        •	Relax onboard a spacious Sailing Catamaran
 
 
-        •\tA maximum of 30 guests on board\r
+        •	A maximum of 30 guests on board
 
 
-        •\tSee impressive superyachts, Seaworld, Palazzo Versace, Gold
-        Coast Seaway, Wavebreak Island, South Stradbroke Island and local
-        wildlife.\r
+        •	See impressive superyachts, Seaworld, Palazzo Versace, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.
 
 
-        •\tPull up at an island beach only accessible by boat\r
+        •	Pull up at an island beach only accessible by boat
 
 
-        •\tEnjoy free beach activities, take a dip or just relax and
-        enjoy the view\r
+        •	Enjoy free beach activities, take a dip or just relax and enjoy the view
 
 
-        •\tCool tunes set the soundtrack for your experience\r
+        •	Cool tunes set the soundtrack for your experience
 
 
-        •\tFriendly relaxed ambience with crew sharing some local
-        knowledge\r
+        •	Friendly relaxed ambience with crew sharing some local knowledge
 
 
-        •\tKeep your eyes peeled for dolphins!\r
+        •	Keep your eyes peeled for dolphins!
 
 
-        •\tIncludes one complimentary drink and light lunch
+        •	Includes light lunch
 
 
-        •\tDeparts and returns @ Marina Mirage - an ideal spot for a
-        beautiful waterfront meal or drinks before or after your cruise"
+        •	Departs and returns @ Marina Mirage - an ideal spot for a beautiful waterfront meal or drinks before or after your cruise
       title: What to expect
     - dropdownContent: |-
         •	Hat
