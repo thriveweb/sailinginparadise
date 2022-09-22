@@ -8,11 +8,11 @@ module.exports = {
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: 'UA-77246883-1',
-        head: true,
-        anonymize: true
-      }
+      // options: {
+      //   trackingId: 'UA-77246883-1',
+      //   head: true,
+      //   anonymize: true
+      // }
     },
     {
       resolve: 'gatsby-plugin-google-tagmanager',
