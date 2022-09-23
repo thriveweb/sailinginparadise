@@ -9,6 +9,8 @@
 // console.log("************** GA Defined : ", (typeof window.ga === 'function'));
 // console.log("************** window.dataLayer : ", window.dataLayer);
 
+/*
+
 // Adjust the GA snippet on site
 window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
@@ -51,3 +53,5 @@ function check_ga() {
     }
   }
   check_ga();
+
+  */
