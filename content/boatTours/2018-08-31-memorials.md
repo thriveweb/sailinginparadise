@@ -170,9 +170,11 @@ featuredTestimonials:
   testimonial: Elyce, Aus
   title: Elyce
 meta:
-  description: A scattering of ashes at sea is often chosen by families whose
-    dearly departed had a love of the water or boating. As we too share this
-    love, we will do everything within our power to make the experience
-    memorable for all guests who attend a memorial service on board our vessels
+  description: "Based on the Gold Coast we offer scattering of ashes at sea on
+    board one of three spacious sailing catamarans.   Our boats can accommodate
+    groups of up to 30 guests for private charters, but are also comfortable for
+    smaller family gatherings.   The Gold Coast Seaway and the Broadwater is an
+    ideal protected location for a scattering of ashes and a celebration of life
+    for your loved one.  "
   title: Gold Coast Memorial Charters | Sailing in Paradise
 ---
