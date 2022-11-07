@@ -69,7 +69,10 @@ content: >-
   \-  For the health and safety of all guests as well as our crew, we politely request that all guests attending the event are made aware that they will be unable to sail if they are showing symptoms of COVID-19 (high temp, cough, respiratory symptoms etc).  
 
 
-  \-  There is no overnight parking permitted and parking inspections are sporadically enforced (particularly at Mariner's Cove) so we recommend street parking on Seaworld Drive (or catching a cab) if you intend to leave your car overnight. If you still have any unanswered questions or are unsure of something, please feel free to give us a call on 0438 915 222 or drop us an email at info@sailinginparadise.com.au.   
+  \-  There is no overnight parking permitted at Mariner's Cove and parking inspections are sporadically enforced so we recommend street parking on Seaworld Drive (or catching a cab) if you intend to leave your car overnight. 
+
+
+  If you still have any unanswered questions or are unsure of something, please feel free to give us a call on 0438 915 222 or drop us an email at info@sailinginparadise.com.au.  
 
 
   We can't wait to welcome you on board.   
