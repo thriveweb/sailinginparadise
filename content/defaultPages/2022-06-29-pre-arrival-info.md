@@ -17,11 +17,7 @@ content: >-
 
   >
 
-  > M﻿ariner's Cove marina does not permit the drinking of alcohol or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat.  
-
-
-
-
+  > M﻿ariner's Cove marina does not permit the drinking of alcohol, or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat. In the event that any guests become overly intoxicated on the charter it may be necessary to drop at a different wharf at the end of the charter.    
 
 
   ###### GETTING TO THE MARINA
@@ -48,7 +44,7 @@ content: >-
   \- **Boarding is 10 mins prior** to your scheduled departure time. If you arrive earlier than this we ask that you please meet your group at the top, main boardwalk and wait there until your scheduled boarding time. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. At your scheduled boarding time 10 mins prior to departure, please make your way  to the vessel where our crew will be waiting for you. 
 
 
-  \- Please bring any food, drinks, decorations etc with you on arrival.   On most occasions we are unfortunately unable to accept early deliveries due to the vessel's schedule and lack of storage space.
+  \- Please bring any food, drinks, any marine-safe, non staining decorations etc with you on arrival.   On most occasions we are unfortunately unable to accept early deliveries due to the vessel's schedule and lack of storage space
 
 
   ###### WHAT TO BRING
@@ -72,7 +68,10 @@ content: >-
   \- A friendly reminder that there is **no smoking** permitted onboard our vessels. Our crew can organise a smoking stop for any guests on request, please let them know at the start of your charter. 
 
 
-  If you still have any unanswered questions or are unsure of something, please feel free to give us a call on 0438 915 222 or drop us an email at info@sailinginparadise.com.au.   
+  \-  For the health and safety of all guests as well as our crew, we politely request that all guests attending the event are made aware that they will be unable to sail if they are showing symptoms of COVID-19 (high temp, cough, respiratory symptoms etc).  
+
+
+  \-  There is no overnight parking permitted and parking inspections are sporadically enforced (particularly at Mariner's Cove) so we recommend street parking on Seaworld Drive (or catching a cab) if you intend to leave your car overnight. If you still have any unanswered questions or are unsure of something, please feel free to give us a call on 0438 915 222 or drop us an email at info@sailinginparadise.com.au.   
 
 
   We can't wait to welcome you on board.   
