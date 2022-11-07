@@ -2,7 +2,6 @@
 slug: nav-items
 navItems:
   - subNavItems:
-      - title: Talk Like A Pirate Day Cruise
       - optionalTitle: Island Cruise
         title: Gold Coast Island Cruise
       - optionalTitle: Sunset & City Lights Cruise
