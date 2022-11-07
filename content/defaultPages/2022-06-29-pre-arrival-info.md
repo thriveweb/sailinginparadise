@@ -9,6 +9,21 @@ content: >-
   Your charter is just around the corner and we look forward to welcoming you onboard :) We have put together some essential pre-charter info to help get you ready for a totally stress-free and seamless experience! 
 
 
+  > I﻿mportant requirements for party guests.
+
+  >
+
+  > N﻿o straight spirits are permitted on board the vessel (commercial premix spirits cans or bottles only).   Any spirits bottles will need to be surrendered to crew and will be returned at the end of the charter - sorry!!
+
+  >
+
+  > M﻿ariner's Cove marina does not permit the drinking of alcohol or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat.  
+
+
+
+
+
+
   ###### GETTING TO THE MARINA
 
 
@@ -30,7 +45,7 @@ content: >-
   ###### BOARDING INFO
 
 
-  \- **Boarding is 10 mins prior** to your scheduled departure time. If you arrive earlier than this we ask that you please meet your group at the top, main boardwalk and wait there until your scheduled boarding time. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. At your scheduled boarding time 10 mins prior to departure, please make your way to the vessel where our crew will be waiting for you. 
+  \- **Boarding is 10 mins prior** to your scheduled departure time. If you arrive earlier than this we ask that you please meet your group at the top, main boardwalk and wait there until your scheduled boarding time. The Marinas are very narrow, so it can be unsafe for large groups to congregate near the boats. At your scheduled boarding time 10 mins prior to departure, please make your way  to the vessel where our crew will be waiting for you. 
 
 
   \- Please bring any food, drinks, decorations etc with you on arrival.   On most occasions we are unfortunately unable to accept early deliveries due to the vessel's schedule and lack of storage space.
