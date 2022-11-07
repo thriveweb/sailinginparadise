@@ -9,15 +9,13 @@ content: >-
   Your charter is just around the corner and we look forward to welcoming you onboard :) We have put together some essential pre-charter info to help get you ready for a totally stress-free and seamless experience! 
 
 
-  > I﻿mportant requirements for party guests.
+  ###### I﻿mportant requirements for party guests.
 
-  >
 
-  > N﻿o straight spirits are permitted on board the vessel (commercial premix spirits cans or bottles only).   Any spirits bottles will need to be surrendered to crew and will be returned at the end of the charter - sorry!!
+  N﻿o straight spirits are permitted on board the vessel (commercial premix spirits cans or bottles only).   Any spirits bottles will need to be surrendered to crew and will be returned at the end of the charter - sorry!!
 
-  >
 
-  > M﻿ariner's Cove marina does not permit the drinking of alcohol, or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat. In the event that any guests become overly intoxicated on the charter it may be necessary to drop at a different wharf at the end of the charter.    
+  M﻿ariner's Cove marina does not permit the drinking of alcohol, or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat. In the event that any guests become overly intoxicated on the charter it may be necessary to drop at a different wharf at the end of the charter.    
 
 
   ###### GETTING TO THE MARINA
