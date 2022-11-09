@@ -56,9 +56,9 @@ gallery:
   - image: https://ucarecdn.com/4e070061-2d0a-49a5-9280-2d940dc3af74/-/crop/1333x1564/0,52/-/preview/-/enhance/38/
   - image: https://ucarecdn.com/91191a4e-d17b-4341-a053-84104f0507dd/-/preview/-/enhance/43/
 videoSection:
-  imageOverlay: https://ucarecdn.com/fed3e65a-d510-462a-9f5c-d7faa5dda8f4/
-  title: How your birthday cruise could look...
-  video: "349382726"
+  imageOverlay: ""
+  title: ""
+  video: ""
 contentColumnTitle: Fun for all ages.
 contentColumn: >-
   From 21st birthdays all the way through to 80th's and beyond, we can create a
