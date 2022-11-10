@@ -14,10 +14,10 @@ intro: >-
   Sounds awesome right?   
 
 
-  ## Work Christmas Party Ideas
+  ###### Got your own Christmas Party ideas?  
 
 
-  Got your own ideas?   Tell us what floats your boat and we'll do our best to make it happen.  Some options include;
+  Tell us what floats your boat and we'll do our best to make it happen.  Some options include;
 
 
   * A relaxed sunset cruise with canapes and champagne,
