@@ -148,5 +148,6 @@ meta:
   description: Charter a boat for the perfect Work Christmas Party venue.   Your
     team will love this Christmas Party idea!  Best water views, BYO, Sound
     System and more...
-  title: Work Christmas Parties | Sailing in Paradise
+  title: Work Christmas Party ideas | Sailing in Paradise
+  noindex: true
 ---
