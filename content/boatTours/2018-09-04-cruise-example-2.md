@@ -7,28 +7,18 @@ intro: >-
   ## Gold Coast island cruise
 
 
-  Discover a new side to the Gold Coast aboard our Island Cruise.  Sit back and enjoy 3 hours of bliss on the water aboard a beautiful Sailing Catamaran!
+  Discover a new side to the Gold Coast aboard our Island Cruise.  Sit back and enjoy 3 to 6 hours of bliss on the water aboard your own private catamaran charter!
 
 
   Take in the sights of the picturesque and calm Gold Coast Broadwater, including impressive super yachts, Sea World, Palazzo Versace, South Stradbroke Island, Wavebreak Island and the Gold Coast Seaway.  
 
 
-  This is a laid-back cruise experience on a spacious sailing catamaran that you are sure to love.   With no more than 30 guests on board we curate a social atmosphere and we can't wait to welcome you on board our beautiful boat!
-
-
-  Cruise includes light lunch.
+  We offer a laid-back cruise experience on a spacious sailing catamaran that you are sure to love whether you are seeking quality time with a special someone, entertaining clients or organising a birthday or hens party.
 contentBox:
-  buttonTitle: BOOK NOW
+  buttonTitle: BOOK NOW OR ENQUIRE NOW
   buttonUrl: booking-enquiry/
   title: Experience the true beauty of the Gold Coast's island beaches.
-bookingIframe: >-
-  <!--StartFragment-->
-
-
-  <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="300px" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/calendarWidget/516621?iframe=true"></iframe>
-
-
-  <!--EndFragment-->
+bookingIframe: ""
 gallery:
   - image: https://ucarecdn.com/279fc1b4-8074-4e4c-b836-3632ff3d6597/-/preview/-/enhance/64/
   - image: https://ucarecdn.com/04d833ad-6334-43e4-af83-658592b32b09/-/preview/-/enhance/50/
@@ -49,10 +39,10 @@ contentColumn: Visit an isolated island beach only accessible by boat where you
   are invited to jump in for a swim and try our beach games (including Beach
   Volleyball, Stand Up Paddle-boarding, Beach Cricket, Snorkelling and Fun
   Novelty Inflatables).   Or if you just want to laze on the beach (or our
-  trampoline-style foredeck) that's totally fine, we'll play some cool tunes and
-  serve up an icy cold drink from our on-board bar so you can relax and watch
-  the world sail by in style.     But don't forget to keep your eyes peeled for
-  the friendly bottlenose dolphins who regularly cruise past.
+  trampoline-style foredeck) that's totally fine, we'll play some cool tunes
+  while you sip on an icy cold drink so you can relax and watch the world sail
+  by in style.     But don't forget to keep your eyes peeled for the friendly
+  bottlenose dolphins who regularly cruise past.
 accordionSection:
   accordion:
     - dropdownContent: >-
@@ -60,9 +50,6 @@ accordionSection:
 
 
         •	Relax onboard a spacious Sailing Catamaran
-
-
-        •	A maximum of 30 guests on board
 
 
         •	See impressive superyachts, Seaworld, Palazzo Versace, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.
@@ -81,9 +68,6 @@ accordionSection:
 
 
         •	Keep your eyes peeled for dolphins!
-
-
-        •	Includes light lunch
 
 
         •	Departs and returns @ Marina Mirage - an ideal spot for a beautiful waterfront meal or drinks before or after your cruise
@@ -105,32 +89,6 @@ accordionSection:
 
         •	Camera
       title: What to Bring
-    - dropdownContent: Please arrive 15 minutes prior to your departure time.   We
-        depart from Marina Mirage, Main Beach.   When arriving at the Marina
-        please follow the map and instructions on our [Contact
-        Us](https://sailinginparadise.com.au/contact-us/) page.
-      title: When and Where to find us
-    - dropdownContent: >-
-        •	In the event of adverse weather requiring a cancellation of the cruise
-        an SMS will be sent to your registered mobile (please ensure you provide
-        one and check this before departing for the marina).   
-
-
-        •	Please provide notice of at least 72 hours should you wish to cancel to avoid forfeiture of ticket price.  
-
-
-        •	There is no BYO on our ticketed cruises however you will receive one complimentary bubbly, beer or soft drink and extra drinks may be purchased on board at very reasonable prices (cash preferred, cards accepted).  
-
-
-        •	Sailing in Paradise reserves the right to substitute the vessel if necessary without prior notice.
-
-
-        •	Cruises are subject to weather suitability, the cruise can proceed in many weather conditions but if it is deemed unsafe or overly unpleasant we will not sail as we do want our guests to have a safe and enjoyable experience on board.   Guests are able to reschedule or request a refund in this circumstance.
-
-
-        •	Cruises require minimum numbers to depart.\
-          In the event of minimum numbers not being met guests will be offered a full refund or the opportunity to reschedule to an alternative date.
-      title: Terms and Conditions
   sectionTitle: need to know
 columnBanner:
   - bookingWidget: '<a id="button-booking" class="button-booking rezdy rezdy-modal"
@@ -145,7 +103,7 @@ columnBanner:
     content: Online bookings available or please feel free to call or [email
       ](mailto:info@sailinginparadise.com.au)with any questions or to request a
       new date (if you cannot see your preferred date as available).
-    title: Book your Gold Coast Island Cruise Today
+    title: Book your Private Gold Coast Island Cruise Today
     featuredImage: ""
   - featuredImage: https://ucarecdn.com/eb0dbf13-8b4a-4386-b9e2-ae289024029d/-/preview/-/enhance/85/
 featuredTestimonials:
