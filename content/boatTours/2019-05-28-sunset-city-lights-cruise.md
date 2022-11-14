@@ -8,16 +8,16 @@ intro: >-
   ## Gold Coast Sunset Cruise
 
 
-  **Our ticketed sunset cruises are currently not running.  However our private charters are operating and offer an ideal way to get out on the water with your family/friends.  Please click the 'boat charter' tab in the main menu to view the most appropriate private charter option or send through an enquiry via the tab below.**  
-
-
   Looking for the Gold Coast's best sunset views?   There is no better place to watch the sunset on the Gold Coast than relaxing on a yacht on the Broadwater!   No seriously...
 
 
   There is something so magical about a sunset over the water.  But surrounded by it?  Well that's something else...    
 
 
-  So come and join us on our sunset cruise as the sun sinks behind the mountains of the Gold Coast Hinterland and casts a glow across the calm waters of the Gold Coast Broadwater.
+  We offer private sunset sails for couples, small family groups, as well as larger groups of up to 30 guests.  
+
+
+  So come and join us for a sail as the sun sinks behind the mountains of the Gold Coast Hinterland and casts a glow across the calm waters of the Gold Coast Broadwater.
 contentBox:
   buttonTitle: ENQUIRE ABOUT A PRIVATE SUNSET CHARTER
   buttonUrl: booking-enquiry
@@ -43,18 +43,15 @@ gallery:
   - image: https://ucarecdn.com/b3b551a1-34a1-440c-a8e1-fe62fc790aed/-/preview/-/enhance/34/
   - image: https://ucarecdn.com/7ba15080-d97b-4046-b1fd-7ec0a700c195/-/preview/-/enhance/33/
 contentColumnTitle: Sundowners on the water...
-contentColumn: Join us for a cruise of the Gold Coast Broadwater aboard our
-  beautiful Seawind 1050 Sailing Catamaran. With no more than 30 guests on
-  board, this sunset cruise is laid back, relaxed and fun. The skipper will drop
-  in some local knowledge for those who are interested. Guests can relax on the
-  foredeck, inside the main cabin, or on a comfy bean bag to the sounds of some
-  very cool tunes and enjoy a few drinks. We curate an intimate cruise
-  experience with a social atmosphere. Our vessel ‘Spirit of Gwonda’ is often
-  joined by wild bottle-nose dolphins as they come in search of their evening
-  meal and being nice and close to the water gets you nice and close to the
-  dolphins if they decide to join your cruise. You will enjoy one complimentary
-  glass of sparkling wine, beer or soft drink and nibbles and further drinks can
-  be purchased on board at only $5 per drink.
+contentColumn: >-
+  Join us for a cruise of the Gold Coast Broadwater aboard a beautiful sailing
+  catamaran
+
+
+  Twilight is a beautiful time on the water, and our sunset charters are the perfect way to create the ultimate romantic date night, entertain clients or celebrate a special birthday or life event.  
+
+
+  You’ll enjoy the sunset, lazing on the front deck and then be treated to the stunning Gold Coast city skyline lit up after dark on your return voyage to the marina.
 accordionSection:
   accordion:
     - dropdownContent: >-
@@ -64,16 +61,13 @@ accordionSection:
         •	Relax onboard a spacious Sailing Catamaran
 
 
-        •	A maximum of 30 guests on board
-
-
         •	See impressive superyachts, Seaworld, Palazzo Versace, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.
 
 
-        •	Watch the Sunset over the Gold Coast Hinterland
+        •	Watch the Sunset over the Gold Coast Hinterland then check out the Sparkling City lights as you see the Gold Coast in a new light. 
 
 
-        •	Then check out the Sparkling City lights as you see the Gold Coast in a new light
+        •	You are welcome to BYO food and drinks or we can organise this for you on request.  
 
 
         •	Cool tunes set the soundtrack as you relax and take in the views
@@ -85,47 +79,14 @@ accordionSection:
         •	Keep your eyes peeled for dolphins!
 
 
-        •	Includes one complimentary drink and nibbles cup
-
-
-        •	Departs and returns @ Marina Mirage - an ideal spot for a beautiful waterfront meal or drinks before or after your cruise
+        •	Departs and returns @ Marina Mirage - an ideal spot for a beautiful waterfront meal or drinks before or after your cruise.
       title: What to Expect
-    - dropdownContent: |-
-        •	Jacket on cooler days
-
-        •	Easily removable shoes
-
-        •	Camera
-      title: What to Bring
-    - dropdownContent: Please arrive 15 minutes prior to your departure time. We
-        depart from Berth D11 Marina Mirage, Main Beach. When arriving at the
-        Marina please follow the map and instructions on our
-        [contact-us](https://sailinginparadise.com.au/contact-us/) page.
-      title: When and Where to find us
-    - dropdownContent: >-
-        In the event of adverse weather requiring a cancellation of the cruise
-        an SMS will be sent to your registered mobile (please ensure you provide
-        one and check this before departing for the marina).
-
-
-        * Whilst we welcome small groups on board our sunset cruise, group sizes are limited to maximum 10 guests.   We ask that groups respect the fact that this is a shared cruise with a relaxed laid-back vibe.   Groups over 10 in size, celebrating a special occasion, or those who prefer to curate a more party vibe would benefit from enquiring about a private charter which can often be just as affordable for larger groups.  
-
-        * Please provide notice of at least 72 hours should you wish to cancel to avoid forfeiture of ticket price.
-
-        * There is no BYO on our ticketed cruises however you will receive one complimentary bubbly, beer or soft drink and extra drinks may be purchased on board at very reasonable prices (cash preferred, cards accepted).
-
-        * Sailing in Paradise reserves the right to substitute the vessel if necessary without prior notice.
-
-        * Cruises are subject to weather suitability, the cruise can proceed in many weather conditions but if it is deemed unsafe or overly unpleasant we will not sail as we do want our guests to have a safe and enjoyable experience on board. Guests are able to reschedule or request a refund in this circumstance.
-
-        * Cruises require minimum numbers to depart. In the event of minimum numbers not being met guests will be offered a full refund or the opportunity to reschedule to an alternative date.
-      title: Terms & Conditions
   sectionTitle: need to know
 columnBanner:
   - buttonTitle: BUY NOW
     buttonUrl: cruise/gift-vouchers
     content: Now available with 12 months validity to use at your leisure.
-    title: "SUNSET CRUISE GIFT VOUCHERS "
+    title: "PRIVATE SUNSET CRUISE GIFT VOUCHERS "
     featuredImage: https://ucarecdn.com/03aaaef0-bc70-4e9d-8533-3309e9a7d59f/
   - featuredImage: https://ucarecdn.com/c6767657-504f-42da-9e05-e9388170030d/
 featuredTestimonials:
