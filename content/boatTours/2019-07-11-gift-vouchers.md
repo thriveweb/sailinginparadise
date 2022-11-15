@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Cruise
-title: PRIVATE CHARTER Gift Vouchers
+title: Private Charter Gift Vouchers
 featuredImage: https://ucarecdn.com/819e674e-12b8-4723-ba3a-8af615941a24/
 intro: >-
   Give the gift of a beautiful memory to that special someone or couple.   A
