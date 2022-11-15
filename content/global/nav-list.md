@@ -6,9 +6,9 @@ navItems:
         title: Gold Coast Island Cruise
       - optionalTitle: Sunset & City Lights Cruise
         title: Gold Coast Sunset & City Lights Cruise
-      - optionalTitle: Gift Vouchers
-        title: Gift Vouchers
-    title: Cruise Tickets
+      - optionalTitle: Private Charter Gift Vouchers
+        title: Private Charter Gift Vouchers
+    title: "Cruises "
   - optionalTitle: ""
     subNavItems:
       - optionalTitle: Birthday Parties
