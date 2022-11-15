@@ -14,7 +14,7 @@ intro: >-
   There is something very special about watching the sunset from the water and especially on the occasion we are joined by our friends the dolphins (who we are always looking out for by the way)!  The sparkling city lights of the Gold Coast look equally beautiful by night and are the perfect conclusion to your sail before returning to Marina Mirage.
 
 
-  I﻿f your lucky gift recipients prefer to sail during the day or with a larger group we also offer a gift voucher by value for a customised sailing experience.  Please contact us to discuss further.
+  I﻿f your lucky gift recipients prefer to sail during the day or with a larger group we also offer gift vouchers for a customised sailing experience.  Please contact us to discuss further.
 bookingIframe: '<script type="text/javascript"
   src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a
   id="button-booking" class="button-booking rezdy rezdy-modal"
