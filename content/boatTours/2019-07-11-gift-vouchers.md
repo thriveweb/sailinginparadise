@@ -12,14 +12,18 @@ intro: >-
 
 
   There is something very special about watching the sunset from the water and especially on the occasion we are joined by our friends the dolphins (who we are always looking out for by the way)!  The sparkling city lights of the Gold Coast look equally beautiful by night and are the perfect conclusion to your sail before returning to Marina Mirage.
-bookingIframe: >-
-  <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/279724/private-champagne-sunset-charter-for-2-mid-week-gift-voucher" style="background: rgb(9, 30, 71); border: 1px solid rgb(9, 30, 71); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
-
-
-  <!--EndFragment-->
+  I﻿f your lucky gift recipients prefer to sail during the day or with a larger group we also offer a gift voucher by value for a customised sailing experience.  Please contact us to discuss further.
+bookingIframe: '<script type="text/javascript"
+  src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a
+  id="button-booking" class="button-booking rezdy rezdy-modal"
+  href="https://sailinginparadise.rezdy.com/productsCalendar/299964?iframe=true"
+  style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133);
+  color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;,
+  Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width:
+  160px; display: block; text-decoration: none; cursor: pointer;">Purchase Gift
+  Voucher</a>'
 gallery:
   - image: https://ucarecdn.com/35f18be0-a3d1-4f5f-9786-2f3dc587525b/
   - image: https://ucarecdn.com/351241fc-1d70-4b01-884e-47c49f83129c/
