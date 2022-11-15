@@ -84,7 +84,7 @@ accordionSection:
   sectionTitle: need to know
 columnBanner:
   - buttonTitle: BUY NOW
-    buttonUrl: cruise/gift-vouchers
+    buttonUrl: cruise/private-charter-gift-vouchers
     content: Now available with 12 months validity to use at your leisure.
     title: "PRIVATE SUNSET CRUISE GIFT VOUCHERS "
     featuredImage: https://ucarecdn.com/03aaaef0-bc70-4e9d-8533-3309e9a7d59f/
