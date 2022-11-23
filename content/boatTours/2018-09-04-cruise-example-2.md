@@ -16,7 +16,7 @@ intro: >-
   We offer a laid-back cruise experience on a spacious sailing catamaran that you are sure to love whether you are seeking quality time with a special someone, entertaining clients or organising a birthday or hens party.
 contentBox:
   buttonTitle: BOOK NOW OR ENQUIRE NOW
-  buttonUrl: /booking-enquiry
+  buttonUrl: booking-enquiry
   title: Experience the true beauty of the Gold Coast's island beaches.
 bookingIframe: ""
 gallery:
@@ -107,10 +107,10 @@ columnBanner:
     featuredImage: ""
   - featuredImage: https://ucarecdn.com/eb0dbf13-8b4a-4386-b9e2-ae289024029d/-/preview/-/enhance/85/
 featuredTestimonials:
-  description: We took Mariella and her friend out to our favourite swimming spot,
-    check out what she said about her day out with us...
+  description: Check out Sandy's lovely review about her and her husband's
+    experience on our Sunset and City Lights Cruise...
   testimonial: Mariella, Aus
-  title: Mariella
+  title: Sandy
 meta:
   description: Discover a new side to the Gold Coast aboard our Island Cruise. Sit
     back and enjoy 3 hours of bliss on the water aboard a beautiful Sailing
