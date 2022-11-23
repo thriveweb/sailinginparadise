@@ -16,7 +16,7 @@ intro: >-
   We offer a laid-back cruise experience on a spacious sailing catamaran that you are sure to love whether you are seeking quality time with a special someone, entertaining clients or organising a birthday or hens party.
 contentBox:
   buttonTitle: BOOK NOW OR ENQUIRE NOW
-  buttonUrl: booking-enquiry/
+  buttonUrl: /booking-enquiry
   title: Experience the true beauty of the Gold Coast's island beaches.
 bookingIframe: ""
 gallery:
