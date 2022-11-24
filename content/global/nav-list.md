@@ -8,6 +8,7 @@ navItems:
         title: Gold Coast Sunset & City Lights Cruise
       - optionalTitle: Private Charter Gift Vouchers
         title: Private Charter Gift Vouchers
+      - title: Christmas Special Gift Vouchers
     title: "Cruises "
   - optionalTitle: ""
     subNavItems:
