@@ -23,7 +23,6 @@ gallery:
   - image: https://ucarecdn.com/ef74481c-8b40-468b-a29b-3dc5b46ca480/
   - image: https://ucarecdn.com/6f6731de-3783-41e4-ab0c-36471c17886d/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/0b4cda60-3763-410c-9bea-8bb8537413ee/-/preview/-/enhance/23/
-  - image: https://ucarecdn.com/cea089bd-d50c-48f1-b2e2-d53e95135a97/-/preview/-/enhance/29/
   - image: https://ucarecdn.com/de397de1-e8e2-4b66-9fbb-8a82f7912efe/-/preview/-/enhance/20/
   - image: https://ucarecdn.com/fa11b9aa-1834-4478-9184-7993fa141b96/-/preview/-/enhance/17/
   - image: https://ucarecdn.com/624b3a2f-eb0f-4356-8f64-1547651c8b58/-/preview/-/enhance/50/
