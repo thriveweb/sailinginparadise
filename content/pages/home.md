@@ -38,8 +38,8 @@ featuredSlider:
 featuredBanner:
   buttonTitle: Charter your own private yacht and celebrate in style!
   buttonUrl: boat-charter/gold-coast-christmas-parties/
-  image: https://ucarecdn.com/afd8e7d2-354c-4040-b927-55d52c1948ee/
-  title: CHRISTMAS PARTIES
+  image: https://ucarecdn.com/bb39f860-6a36-47f9-83bb-bc8d55d70f38/
+  title: NEW YEAR'S EVE CHARTERS
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
