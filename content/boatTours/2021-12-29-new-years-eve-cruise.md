@@ -8,13 +8,13 @@ intro: >-
   ## Welcome in the new year on the water
 
 
-  Charter one of the 3 beautiful catamarans and gather your friends and family to farewell 2021 in style aboard your own private yacht.   
+  Charter one of the 3 beautiful catamarans and gather your friends and family to farewell 2022 in style aboard your own private yacht.   
 
 
   During the day you will enjoy spectacular views and access to pristine beaches as the boat arrives at isolated islands surrounded by crystal clear turquoise waters. There are plentiful activities available on board to keep you entertained including Beach Volleyball, Stand Up Paddleboards, Inflatables and Beach Cricket.
 
 
-  Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast Mountains followed by the twinkling Gold Coast City Skyline by night, simply breathtaking!
+  Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast mountains followed by the twinkling Gold Coast City Skyline by night, simply breath-taking!
 
 
   Our midnight charters take in the fireworks on display at the nearby resorts and parks.  
