@@ -37,7 +37,7 @@ featuredSlider:
     title: Gift the gift of experience
 featuredBanner:
   buttonTitle: Charter your own private yacht and celebrate in style!
-  buttonUrl: boat-charter/gold-coast-christmas-parties/
+  buttonUrl: boat-charter/gold-coast-new-years-eve-cruise
   image: https://ucarecdn.com/bb39f860-6a36-47f9-83bb-bc8d55d70f38/
   title: NEW YEAR'S EVE CHARTERS
 services:
