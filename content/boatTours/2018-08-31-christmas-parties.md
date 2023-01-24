@@ -14,7 +14,7 @@ intro: >-
   Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
 
 
-  Sailing in Paradise would love to create a 2022 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
+  Sailing in Paradise would love to create a 2023 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
 contentBox:
   buttonTitle: ""
   buttonUrl: ""
