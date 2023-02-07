@@ -111,7 +111,8 @@ accordionSection:
 
         Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).
     - dropdownContent: >-
-        Yes we do!!   Our ‘**Sail Away with me…’ Proposal package** includes;
+        Yes we do!!   Our ‘**Sail Away with me…’ Proposal package on the Seawind
+        1000XL** includes;
 
 
         * A 2 hour private sunset sail for 2 guests (mid-week)
@@ -128,7 +129,26 @@ accordionSection:
         **$900***
 
 
-        \*Subject to availability. Available Monday to Thursday (January to November, excl public holidays).  Weekends may be available on request, please enquire.  
+
+
+        Take your proposal to the next level with an **upgrade to our deluxe vessel Oceans** including:
+
+
+        * A 2 hour private sunset sail for 2 guests (mid-week)
+
+        * A romantic boat picnic set up on the front deck
+          (weather permitting)
+        * Use of our beautiful ‘Will you Marry me’ Sail (you give the nod)
+
+        * Chilled bottle of Moet and gourmet cheese board
+
+        * Beautiful photos captured of your proposal and voyage
+
+
+        **$1,100***
+
+
+        \*Subject to availability. Available Monday to Thursday (mid-January to mid-November, excl public holidays).  Weekends may be available on request, please enquire. 
 
 
         You can also consider a surprise proposal with your closest family and friends on board.  Please contact us for a quote for a customised private charter for larger groups.
@@ -142,6 +162,14 @@ accordionSection:
 
 
         Perfect for small groups, families, couples, romantic sails and proposals... If you're looking for an intimate setting, XL is for you!
+
+
+
+
+        **Oceans (deluxe, 30 capacity)**  
+
+
+        Our most luxurious vessel in our fleet, Oceans oozes comfort and style but is still perfect for couples, romantic sails and proposals due to her intimate design. 
 
 
         **[Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
