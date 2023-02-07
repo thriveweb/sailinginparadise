@@ -52,7 +52,7 @@ boats:
       title: " 360° VR TOUR - Oceans"
       videoURL: https://roundme.com/embed/758450/2391283
       imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
-    title: NEW - Oceans
+    title: Oceans - Deluxe
     featuredImage: https://ucarecdn.com/48001cda-6d18-410d-a0bf-f78f9f16c900/-/crop/1637x1125/0,0/-/preview/
     description: >-
       Our largest and most luxurious vessel, Oceans joined the fleet in April
@@ -61,10 +61,7 @@ boats:
       of the creature comforts.  
 
 
-      Oceans offers a comfortable lounging/dining area with flexible table configuration.   The undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.    This vessel is ideal for more relaxed celebrations, families with older kids and corporate events.  
-
-
-      Promotional photos and 360 degree tours are yet to come as the vessel is so new to Sailing in Paradise.  She is a beauty and we are thrilled to welcome her to our fleet!
+      Oceans offers a comfortable lounging/dining area with flexible table configuration.   The undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.    This vessel is ideal for more relaxed celebrations, families with older kids and corporate events.
     boatFeatures:
       - content: 11.6m long, 6.5m wide
       - content: 30 passengers + 2 crew
@@ -77,11 +74,10 @@ boats:
       - content: Hot & Cold Deck Shower
       - content: Cushioned overwater bench seating
       - content: Main Sail & Headsail
-      - content: Read Boarding Ladder with wide transoms
+      - content: Front and rear boarding ladders for easy beach and water access
       - content: BBQ
       - content: Eskies
       - content: Sound System
-      - content: Access to beach via tender
     gallery:
       - image: https://ucarecdn.com/771916aa-1471-4f2a-b6fd-d6f0207cdcf4/
       - image: https://ucarecdn.com/987ab6b6-b626-4996-8df6-0fd15ffdd0a3/-/preview/-/enhance/28/
@@ -110,9 +106,9 @@ boats:
       - content: Eskies
       - content: Sound System
     description: >-
-      The latest addition to our fleet is a Seawind 1000XL. These catamarans are
-      extremely popular in bareboat charter fleets as they have a great layout
-      and all the extras you would expect from an overnight equipped vessel.
+      The Seawind 1000XL is perfect for small groups, families, couples,
+      romantic sails and proposals... If you're looking for an intimate setting,
+      XL is for you! 
 
 
       The interior is set out with upholstered booth style seating around a dining table with windows allowing for 360 degree viewing from all areas. There is extra seating in the targa area at the back, and, as with our other vessel, there is ample area to laze around in the sun on the front trampoline area.
@@ -121,7 +117,7 @@ boats:
       The 1000XL is also equipped with large esky, a marine bbq, and a modern bathroom.
 
 
-      The 1000XL is perfect for groups of up to 20 people (plus 2 crew) but is recommended for group sizes under 15 where possible.
+      The 1000XL is perfect for groups of 14 or less due to size, but can take up to 20 people (plus 2 crew).
     gallery:
       - image: https://ucarecdn.com/71e0b977-2d7b-4d0e-9ec5-627dc75cb1cc/
       - image: https://ucarecdn.com/e1ff071b-d30c-4a90-abae-5dbc77a4369e/
