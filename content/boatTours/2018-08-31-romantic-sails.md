@@ -215,10 +215,10 @@ accordionSection:
         * Photo memories of your experience
 
 
-        **$750***
+        **$850***
 
 
-        \*Subject to availability. Available Monday to Thursday (January to November, excl public holidays). Weekends may be available last-minute on request, please enquire.
+        \*Subject to availability. Available Monday to Thursday (mid-January to mid-November, excl public holidays). Weekends may be available last-minute on request, please enquire-
       title: Do you offer special packages?
     - title: "Private Charter Pricing "
       dropdownContent: >-
