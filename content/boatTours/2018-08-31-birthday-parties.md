@@ -21,6 +21,9 @@ intro: >-
 
 
   And those 'little extras' we offer are endless.  Please keep reading for the complete rundown...
+
+
+  \*Unfortunately we are unable to offer kids birthday parties under 16 years of age.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
