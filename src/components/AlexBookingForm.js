@@ -244,7 +244,7 @@ class AlexBookingForm extends React.Component {
             <label className="Form--Label TextArea">
               <textarea
                 className="Form--Input Form--Textarea"
-                placeholder="Let us know anything else we can help with."
+                placeholder="Please tell us a little bit about your group and what you wish to organise (for birthdays please include the age)."
                 name="message"
                 rows="3"
               />
