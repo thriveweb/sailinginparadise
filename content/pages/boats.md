@@ -45,22 +45,7 @@ boats:
     videoSection:
       imageOverlay: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
       title: 360° VR tour - Spirit Of Gwonda
-      videoURL: '<iframe id="panoee-tour-embeded" name="Spirit Of Gwonda"
-        src="https://tour.panoee.com/iframe/spirit-of-gwonda" frameBorder="0"
-        width="100%" height="400px" scrolling="no" allowvr="yes" allow="vr; xr;
-        accelerometer; gyroscope; autoplay;" allowFullScreen="false"
-        webkitallowfullscreen="false" mozallowfullscreen="false"
-        loading="eager"></iframe>       <script>         var pano_iframe_name =
-        "panoee-tour-embeded";         window.addEventListener("devicemotion",
-        function(e){ var iframe = document.getElementById(pano_iframe_name); if
-        (iframe) iframe.contentWindow.postMessage({ type:"devicemotion",
-        deviceMotionEvent:{ acceleration:{ x:e.acceleration.x,
-        y:e.acceleration.y, z:e.acceleration.z }, accelerationIncludingGravity:{
-        x:e.accelerationIncludingGravity.x, y:e.accelerationIncludingGravity.y,
-        z:e.accelerationIncludingGravity.z }, rotationRate:{
-        alpha:e.rotationRate.alpha, beta:e.rotationRate.beta,
-        gamma:e.rotationRate.gamma }, interval:e.interval, timeStamp:e.timeStamp
-        } }, "*"); });       </script>       '
+      videoURL: https://tour.panoee.com/spirit-of-gwonda
   - virtualTourPopup:
       title: ""
     videoSection:
