@@ -128,7 +128,7 @@ boats:
     videoSection:
       imageOverlay: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
       title: 360° VR tour - Seawind 1000XL
-      videoURL: https://roundme.com/embed/muQI7AJ8syNd5aD7HNS4
+      videoURL: https://tour.panoee.com/1000-xl
 secondaryBanner:
   buttonTitle: Meet our Crew...
   buttonUrl: about-us
