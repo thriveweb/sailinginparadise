@@ -50,7 +50,7 @@ boats:
       title: ""
     videoSection:
       title: " 360° VR TOUR - Oceans"
-      videoURL: https://roundme.com/embed/758450/2391283
+      videoURL: https://tour.panoee.com/oceans
       imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
     title: Oceans - Deluxe
     featuredImage: https://ucarecdn.com/48001cda-6d18-410d-a0bf-f78f9f16c900/-/crop/1637x1125/0,0/-/preview/
