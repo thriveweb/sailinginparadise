@@ -31,7 +31,7 @@ featuredSlider:
     title: Gift the gift of experience
 featuredBanner:
   buttonTitle: Explore the Gold Coast's hidden gem, accessible only by boat
-  buttonUrl: boat-charter/last-minute-charters/
+  buttonUrl: posts/wavebreak-island-our-slice-of-paradise/
   image: https://ucarecdn.com/917df4b1-982b-4ef2-a3d8-f6b20e00df01/
   title: wavebreak island
 services:
