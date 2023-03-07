@@ -30,10 +30,10 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: Welcome 2023 in style!  Check out our last minute rates
+  buttonTitle: Explore the Gold Coast's hidden gem, accessible only by boat
   buttonUrl: boat-charter/last-minute-charters/
   image: https://ucarecdn.com/d1900048-6a4a-449c-8f72-97a33a25ba49/
-  title: THIS WEEK'S AVAILABILITY
+  title: wavebreak island
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
