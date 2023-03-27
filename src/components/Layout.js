@@ -141,6 +141,15 @@ class Layout extends Component {
                   content="B0112812CA622A13C327AF572E2BA5B5"
                 />
 
+                <meta 
+                  property='og:image'
+                  content='https://ucarecdn.com/279fc1b4-8074-4e4c-b836-3632ff3d6597/-/preview/-/enhance/64/-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000x/-/format/auto/-/quality/lighter/'
+                />
+                <meta 
+                  property='twitter:image'
+                  content='https://ucarecdn.com/279fc1b4-8074-4e4c-b836-3632ff3d6597/-/preview/-/enhance/64/-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000x/-/format/auto/-/quality/lighter/'
+                />
+
                 <script
                   type="text/javascript"
                   src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"
