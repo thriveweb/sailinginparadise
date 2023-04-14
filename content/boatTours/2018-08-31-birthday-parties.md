@@ -75,7 +75,7 @@ contentColumn: >-
   The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.   [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/).
 
 
-  No matter what style of birthday party you wish to create, we can help. Whether you are looking for a relaxing day on the water with a BBQ and a few beers, a kids birthday party with a beach stopover, sand castles, cakes and clowns, or a boat party with cocktails, inflatable flamingos and awesome tunes... bring it on!   
+  No matter what style of birthday party you wish to create, we can help. Whether you are looking for a relaxing day on the water with a BBQ and a few beers or a boat party with cocktails and awesome tunes... bring it on!   
 
 
   Our guests tell us that spending a day (or evening) on the water was one of their best ever birthday party ideas!
@@ -162,7 +162,7 @@ accordionSection:
 
         * Drunken idiots (tipsy fun peeps totally fine)
 
-        * Budgie Smugglers and mankinis :-)    Well if you are the birthday boy and desperately want to wear one we might bend the rules for you just once...
+        * Mankinis :-)    Well if you are the birthday boy and desperately want to wear one we might bend the rules for you just once...
       title: Considerations
     - dropdownContent: Add some exciting watersports to your charter. Jetboating and
         Parasailing can be arranged and they can pick you up off the boat for a
