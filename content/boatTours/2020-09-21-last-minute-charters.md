@@ -27,7 +27,7 @@ intro: >-
 
   * Skipper plus 1 crew, (we are fun and friendly, laid-back yet professional) we promise you'll love us,
 
-  * Use of Stand up Paddle Boards, beach games, cute inflatables, beach volleyball,
+  * Use of Stand up Paddle Boards, beach games, beach volleyball, splash mat 
 
   * Use of small marine BBQ,
 
@@ -79,7 +79,6 @@ columnBanner:
       <!--EndFragment-->
     title: ""
 meta:
-  description: "We occasionally offer special last minute rates on our Seawind
-    1000XL for groups of up to 10 guests.*  "
+  description: We occasionally offer special last minute rates on our vessels
   title: Last Minute Yacht Charters | Sailing in Paradise
 ---
