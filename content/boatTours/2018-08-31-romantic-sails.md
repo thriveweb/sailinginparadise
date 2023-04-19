@@ -48,14 +48,13 @@ contentColumnTitle: ""
 contentColumn: >-
   Choose from our daytime or evening sailing options to experience the Gold
   Coast in a different light.  During the day, our boats are equipped for beach
-  landings so you may wish to stop at an Island for swimming, SUP'ing and
-  snorkelling.  As dusk falls, the sunset over the Gold Coast hinterland
-  mountains is a delight to view from the water, and after dark the Surfers
-  Paradise Skyline puts on a stunning light show for our return to Marina
-  Mirage.  
+  landings so you may wish to stop at an Island for swimming or SUP'ing.  As
+  dusk falls, the sunset over the Gold Coast hinterland mountains is a delight
+  to view from the water, and after dark the Surfers Paradise Skyline puts on a
+  stunning light show for our return to Marina Mirage.
 
 
-  Our beautiful Seawind 1000XL is the ideal vessel for couples due to its intimate design, and offers the relaxation of sailing in complete comfort.   The trampoline-style foredeck is a favourite spot for snuggling and gives an immersive sailing experience with 360 degree views of the Gold Coast’s stunning waterways.  It is also the ideal spot for spying the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans, so close you can almost touch...
+  Our beautiful Seawind catamarans offer the relaxation of sailing in complete comfort.   The trampoline-style foredeck is a favourite spot for snuggling and gives an immersive sailing experience with 360 degree views of the Gold Coast’s stunning waterways.  It is also the ideal spot for spying the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans, so close you can almost touch.. 
 
 
   [Read more about our boats here](https://sailinginparadise.com.au/our-boats/)
@@ -84,7 +83,7 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach games and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach games and splash mat
 
         * Use of tablet with premium Spotify and sound system on board
 
@@ -96,7 +95,7 @@ accordionSection:
 
         * Lots of FUN!!
     - dropdownContent: >-
-        * Swimmers and towel (if you plan to swim)
+        * Swimmers and towel (day charters only if you plan to swim)
 
         * Food, drinks and non-breakable cups etc (unless you want us to organise the catering for you).
 
@@ -121,13 +120,7 @@ accordionSection:
         millionaires mansions at Sovereign Islands.
 
 
-        With a longer charter you may also have time for a snorkel stop* or spend a little longer chilling at Wavebreak and enjoy a relaxing lunch.  
-
-
         In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
-
-
-        \*(We are currently unable to provide snorkel gear due to Covid restrictions. Please BYO gear if you wish to snorkel on your charter)
       title: Where can we go?
     - dropdownContent: >-
         **Where do your boats depart from?**
@@ -154,16 +147,10 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
-
-
         **I am short on time can you please help me out with catering/drinks?**
 
 
         Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
-
-
-        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
 
         **Do you have Eskies on board?**
@@ -210,15 +197,13 @@ accordionSection:
 
         * A 2 hour private sunset sail for 2 (mid-week)
 
-        * Chilled bottle of Chandon
-
-        * Photo memories of your experience
+        * Digital photo memories of your experience
 
 
-        **$850***
+        **$990***
 
 
-        \*Subject to availability. Available Monday to Thursday (mid-January to mid-November, excl public holidays). Weekends may be available last-minute on request, please enquire-
+        \*Subject to availability. Available Monday to Thursday (mid-January to mid-November, excl public holidays).  Based on BYO food and drinks. Weekends may be available last-minute on request, please enquire.
       title: Do you offer special packages?
     - title: "Private Charter Pricing "
       dropdownContent: >-
