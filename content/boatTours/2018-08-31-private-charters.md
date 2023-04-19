@@ -54,7 +54,7 @@ contentColumn: >-
   spectacular views and access to pristine beaches as the boat arrives at
   isolated islands surrounded by crystal clear turquoise waters.   There are
   plentiful activities available on board to keep you entertained including
-  Beach Volleyball, Stand Up Paddleboards, Inflatables and Beach Cricket.
+  Beach Volleyball, Stand Up Paddleboards, Beach Cricket and splash mats.
 
 
   Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast Mountains followed by the twinkling Gold Coast City Skyline by night, simply breathtaking!
@@ -66,21 +66,17 @@ contentColumn: >-
   Whatever the occasion, cruising the Gold Coast Broadwater with a Private Boat Charter aboard your own luxury catamaran is a great way to spend a day or evening and Sailing in Paradise is the ultimate venue for your next event.
 accordionSection:
   accordion:
-    - dropdownContent: "When you book a private charter with Sailing in Paradise you
-        can expect a quality of service from years of experience in the industry
-        but most of all your can expect a fun day (or evening) on the water that
-        your group will love.\r
+    - dropdownContent: >-
+        When you book a private charter with Sailing in Paradise you can expect
+        a quality of service from years of experience in the industry but most
+        of all your can expect a fun day (or evening) on the water that your
+        group will love.
 
 
-        From your initial enquiry, we aim to make the booking process as
-        simple as possible for you, offering a variety of optional extras
-        including catering, beverages, motorised watersports should you wish to
-        book them. But none of this is obligatory, we also welcome BYO.\r
+        From your initial enquiry, we aim to make the booking process as simple as possible for you, offering a variety of optional extras including catering, beverages, should you wish to book them. But none of this is obligatory, we also welcome BYO.
 
 
-        We offer a personalised and customised service so if you have
-        any questions or special requirements please feel free to reach out to
-        our team and we will do our best to accommodate you."
+        We offer a personalised and customised service so if you have any questions or special requirements please feel free to reach out to our team and we will do our best to accommodate you.
       title: What to expect
     - dropdownContent: >-
         * Swimmers and towel (if you plan to swim)
@@ -100,7 +96,7 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach games, beach volleyball and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach games, beach volleyball and splash mat 
 
         * Use of tablet with premium Spotify and sound system on board
 
