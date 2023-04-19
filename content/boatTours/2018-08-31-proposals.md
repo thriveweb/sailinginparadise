@@ -50,7 +50,7 @@ contentColumn: >-
   There are many ways to pop the question on board.  Some to consider include;
 
 
-  *  a traditional bended knee approach,
+  * a traditional bended knee approach,
 
   * arriving at a romantic beach picnic by boat,
 
@@ -82,7 +82,7 @@ accordionSection:
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at Marina Mirage. Please see the 'contact us' page on our website[](https://www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the ['contact us'](https://sailinginparadise.com.au/contact-us/) page on our website[](https://www.sailinginparadise.com.au/contact-us/) for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
@@ -103,16 +103,12 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)
-
-
         **Will I get seasick?**
 
 
         Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).
     - dropdownContent: >-
-        Yes we do!!   Our ‘**Sail Away with me…’ Proposal package on the Seawind
-        1000XL** includes;
+        Yes we do!!   Our ‘**Sail Away with me…’ Proposal package** includes;
 
 
         * A 2 hour private sunset sail for 2 guests (mid-week)
@@ -123,26 +119,7 @@ accordionSection:
 
         * Chilled bottle of Moet and gourmet cheese board
 
-        * Beautiful photos captured of your proposal and voyage
-
-
-        **$900***
-
-
-
-
-        Take your proposal to the next level with an **upgrade to our deluxe vessel Oceans** including:
-
-
-        * A 2 hour private sunset sail for 2 guests (mid-week)
-
-        * A romantic boat picnic set up on the front deck
-          (weather permitting)
-        * Use of our beautiful ‘Will you Marry me’ Sail (you give the nod)
-
-        * Chilled bottle of Moet and gourmet cheese board
-
-        * Beautiful photos captured of your proposal and voyage
+        * Beautiful digital photos captured of your proposal and voyage 
 
 
         **$1,100***
@@ -156,23 +133,6 @@ accordionSection:
 
         Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a proposal charter info pack via email.
       title: Do you offer special packages?
-    - title: The perfect vessel for your special day
-      dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're looking for an intimate setting, XL is for you!
-
-
-
-
-        **Oceans (deluxe, 30 capacity)**  
-
-
-        Our most luxurious vessel in our fleet, Oceans oozes comfort and style but is still perfect for couples, romantic sails and proposals due to her intimate design. 
-
-
-        **[Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
   sectionTitle: Planning your proposal cruise
 columnBanner:
   - buttonTitle: Make Enquiry
