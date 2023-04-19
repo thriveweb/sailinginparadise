@@ -46,7 +46,7 @@ contentColumn: >-
   For the ultimate in stress-free corporate event planning we offer a range of catering and drinks packages.  Partnering with some of the Gold Coast's best caterers our guests can enjoy a plethora of dining options from gourmet grazing boards to private chefs.    We also offer a range of beverage packages or welcome BYO.  
 
 
-  In addition to our beautiful boats and professional crew we also carry a range of other activities on board for your guests to enjoy (should you wish) including Stand Up Paddleboards, Inflatables, Beach Volleyball, Beach Cricket and more.  
+  In addition to our beautiful boats and professional crew we also carry a range of other activities on board for your guests to enjoy (should you wish) including Stand Up Paddleboards, splash mat, Beach Volleyball, Beach Cricket and more.  
 
 
   Want to know more[ about us](https://sailinginparadise.com.au/about-us/) or [our boats](https://sailinginparadise.com.au/our-boats/)?
@@ -69,7 +69,7 @@ accordionSection:
 
         * Skipper plus one crew, (we are fun and friendly, laid-back yet
            professional) we promise your guests will love us. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the crew.
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach games, novelty inflatables and beach volleyball
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach games, splash mat and beach volleyball
 
         * Use of tablet with premium Spotify and sound system on board
 
