@@ -50,37 +50,33 @@ contentColumn: >-
   participate in hoisting the sails and manning the helm (if they are keen)!
 
 
-  Keep your eyes peeled throughout the cruise as you very well may spot some of the local wildlife on the picturesque Broadwater. Friendly and playful dolphins, soaring sea-eagles and wallabies on the shoreline are often to be seen while underway.   We can arrange rods and bait for you and the kids to have a go at catching a fish if you wish, simply let us know when booking.  
+  Keep your eyes peeled throughout the cruise as you very well may spot some of the local wildlife on the picturesque Broadwater. Friendly and playful dolphins and soaring sea-eagles are often to be seen while underway.   We can arrange rods and bait for you and the kids to have a go at catching a fish if you wish, simply let us know when booking.  
 
 
-  For daytime cruises, the whole family will enjoy a stop at Wave Break Island, where our vessel's unique beach landing capabilities come into their own!     With a secret ladder on the foredeck it's easy to hop on and off for a swim or some serious sandcastle building!    There’s buckets and spades for the little ones to play and plenty of calm water for everyone to jump in for a swim or wade about in the shallows.   We also have SUPing and inflatable toys for the family to enjoy.   If you’re feeling energetic and want to bring the family together you can have a game of beach volleyball or cricket right there on the island, we have all the gear on board!
+  For daytime cruises, the whole family will enjoy a stop at Wave Break Island, where our vessel's unique beach landing capabilities come into their own!     With a secret ladder on the foredeck it's easy to hop on and off for a swim or some serious sandcastle building!    There’s buckets and spades for the little ones to play and plenty of calm water for everyone to jump in for a swim or wade about in the shallows.   We also have SUPing and splash mats for the family to enjoy.   If you’re feeling energetic and want to bring the family together you can have a game of beach volleyball or cricket right there on the island, we have all the gear on board! 
 
 
   We make chartering a boat easy and tailored to your family’s needs, so we give you the option of choosing where you would like to go and what you would like to do within your chartered time. We can offer adventure and family friendly activities or rest and relaxation, the choice is yours! You can choose to BYO food and drinks or a fully catered charter for easy planning. We supply the eskies, ice, BBQ and BBQ tools free of charge.
 accordionSection:
   accordion:
-    - dropdownContent: "When you book a family charter with Sailing in Paradise you
-        can expect a quality of service from years of experience in the industry
-        but most of all your can expect a fun day (or evening) on the water that
-        the whole family will love.  \r
+    - dropdownContent: >-
+        When you book a family charter with Sailing in Paradise you can expect a
+        quality of service from years of experience in the industry but most of
+        all your can expect a fun day (or evening) on the water that the whole
+        family will love.  
 
 
-        From your initial enquiry, we aim to make the booking process as
-        simple as possible for you, offering a variety of optional extras
-        including catering, beverages, motorised watersports should you wish to
-        book them. But none of this is obligatory, we also welcome BYO.\r
+        From your initial enquiry, we aim to make the booking process as simple as possible for you, offering a variety of optional extras including catering or beverages should you wish to book them. But none of this is obligatory, we also welcome BYO.
 
 
-        We offer a personalised and customised service so if you have
-        any questions or special requirements please feel free to reach out to
-        our team and we will do our best to accommodate you."
+        We offer a personalised and customised service so if you have any questions or special requirements please feel free to reach out to our team and we will do our best to accommodate you.
       title: What to expect
     - dropdownContent: >-
         * Private use of your own beautiful sailing catamaran for 3 to 6 hours
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach activities, beach volleyball and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach activities, beach volleyball and splash mat 
 
         * Use of tablet with premium spotify and sound system on board
 
