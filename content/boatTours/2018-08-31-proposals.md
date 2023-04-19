@@ -133,6 +133,17 @@ accordionSection:
 
         Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a proposal charter info pack via email.
       title: Do you offer special packages?
+    - dropdownContent: >-
+        Our beautiful Seawind catamarans offer the relaxation of sailing in
+        complete comfort.   The trampoline-style foredeck is a favourite spot
+        for snuggling and gives an immersive sailing experience with 360 degree
+        views of the Gold Coast’s stunning waterways.  It is also the ideal spot
+        for spying the friendly bottle-nose dolphins who frequently ride the bow
+        waves of our catamarans, so close you can almost touch.. 
+
+
+        [Read more about our boats here](https://sailinginparadise.com.au/our-boats/)
+      title: THE PERFECT VESSELS FOR YOUR SPECIAL DAY
   sectionTitle: Planning your proposal cruise
 columnBanner:
   - buttonTitle: Make Enquiry
