@@ -121,12 +121,12 @@ accordionSection:
       title: Our boats are ideal for parties
     - dropdownContent: >-
         The shallow draft make the vessel perfect for pulling up onto a beach at
-        Wavebreak Island, South Stradbroke Island or one of the many golden
-        sandy shores in the Gold Coast broadwater. Your skipper will pick the
-        best spot for you on the day!
+        Wavebreak Island or one of the many golden sandy shores in the Gold
+        Coast broadwater. Your skipper will pick the best spot for you on the
+        day!
 
 
-        Fancy floating around on an inflatable flamingo, or maybe giving Stand Up Paddle Boarding a go?   Perhaps you are feeling energetic and want to bring the team together with a hit of beach cricket or volleyball.   We carry all of these activities on-board for your use free of charge.
+        Fancy floating around on our splash mat or maybe giving Stand Up Paddle Boarding a go?   Perhaps you are feeling energetic and want to bring the team together with a hit of beach cricket or volleyball.   We carry all of these activities on-board for your use free of charge.
       title: Island landings and Beach Activities included
     - dropdownContent: >-
         If your boss got sick once on a Caribbean Cruise, or Karen from accounts
@@ -149,7 +149,7 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and novelty inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach activities and splash mat 
 
         * Use of tablet with premium Spotify and sound system on board
 
@@ -157,7 +157,7 @@ accordionSection:
 
         * Use of large eskies (ice supplied)
 
-        * Instaworthy Memento Photos taken by our crew
+        *  Memento photos taken by our crew
 
         * Lots of FUN!!
     - dropdownContent: >-
@@ -185,16 +185,10 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        *(BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)*
-
-
         **I am short on time can you please help me out with catering/drinks?**
 
 
         Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to canapes and private chefs.
-
-
-        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)
 
 
         **Do you have Eskies on board?**
