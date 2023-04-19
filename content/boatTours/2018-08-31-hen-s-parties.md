@@ -85,10 +85,7 @@ contentColumn: >-
   ## All the hens party extras
 
 
-  We have a great range of cute inflatables available. Kick back on one of our supersized flamingos or swans, laze on a giant slice of watermelon or pull up a pineapple.
-
-
-  We also offer a range of free activities including stand up paddleboards, beach cricket, beach volleyball or frisbees.
+  We offer a range of free activities including stand up paddleboards, beach cricket, beach volleyball, beach games or lay back and relax on our floating splash mat. 
 
 
   Be sure to dress for the occasion, as we always take photos on the day to capture all those precious moments so you can take lots of great memories home.  Practically all of the photos you will see on our Instagam page are taken by our crew on board actual charters.  
@@ -109,7 +106,7 @@ accordionSection:
         Don't expect a cookie-cutter hens party!   We realise that every hen is different and therefore every hen's party is different.  We celebrate that, and will adapt our service on the day to suit your vibe, whatever that may be.
 
 
-        From your initial enquiry, we aim to make the booking process as simple as possible for you, offering a variety of optional extras including catering, beverages, motorised watersports and butlers should you wish to book them.   But none of this is obligatory, we also welcome BYO food and drinks.
+        From your initial enquiry, we aim to make the booking process as simple as possible for you, offering a variety of optional extras including catering, beverages, and butlers should you wish to book them.   But none of this is obligatory, we also welcome BYO food and drinks.
 
 
         We offer a personalised and customised service so if you have any questions or special requirements please feel free to reach out to our team and we will do our best to accommodate you.
@@ -119,7 +116,7 @@ accordionSection:
 
         * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and splash mats
 
         * Use of tablet with premium spotify and sound system on board
 
@@ -231,16 +228,10 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.  
 
 
-        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
-
-
         **I am short on time can you please help me out with catering/drinks?**
 
 
         Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
-
-
-        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
 
         **Do you have Eskies on board?**
