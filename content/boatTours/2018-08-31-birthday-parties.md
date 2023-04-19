@@ -100,7 +100,7 @@ accordionSection:
         Some things we love include:
 
 
-        Sailing, beach stopovers, beach volleyball, inflatables, stand up paddleboards, sunbathing, sunsets and dolphins.   All included free of charge*.
+        Sailing, beach stopovers, beach volleyball, splash, stand up paddleboards, sunbathing, sunsets and dolphins.   All included free of charge*. 
 
 
         Some things are almost mandatory:
@@ -117,7 +117,7 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach games and splash mat
 
         * Use of tablet with premium Spotify and sound system on board
 
@@ -143,11 +143,6 @@ accordionSection:
         * Jacket for cooler days
 
         * Shoes that you can slip off
-
-        * A few decorations or special photos to pop on the table if you wish.
-
-
-        We'll provide the rest.
       title: What to Bring
     - dropdownContent: >-
         We love a good birthday but to keep our boats safe and nicely presented
@@ -158,16 +153,12 @@ accordionSection:
 
         * Sparklers
 
-        * Decorations that stain/leak ink when wet
+        * Decorations that stain/leak ink when wet 
 
         * Drunken idiots (tipsy fun peeps totally fine)
 
         * Mankinis :-)    Well if you are the birthday boy and desperately want to wear one we might bend the rules for you just once...
       title: Considerations
-    - dropdownContent: Add some exciting watersports to your charter. Jetboating and
-        Parasailing can be arranged and they can pick you up off the boat for a
-        true VIP Experience.
-      title: More Birthday Ideas
     - dropdownContent: >-
         **Where do your boats depart from?**
 
@@ -193,16 +184,10 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)
-
-
         **I am short on time can you please help me out with catering/drinks?**
 
 
         Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to canapes and private chefs.
-
-
-        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are)
 
 
         **Do you have Eskies on board?**
