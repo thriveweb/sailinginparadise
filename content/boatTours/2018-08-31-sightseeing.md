@@ -65,14 +65,13 @@ accordionSection:
         north.     Wave Break Island is a little slice of paradise here on the
         Gold Coast and a must see, especially if you’re in holiday mode!    Our
         boats are equipped to pull up right on the beach, so you can hop on and
-        off as you please. Take advantage of our range of beach activities and
-        use the SUP’s or snorkel at the dive site and see a variety of small
-        colourful fish. If you’re feeling energetic and want to bring your group
-        together you can have a game of volleyball or cricket right there on the
-        sand! 
+        off as you please. Take advantage of our range of beach activities, use
+        the SUP’s or relax on our floating splash mat.. If you’re feeling
+        energetic and want to bring your group together you can have a game of
+        volleyball or cricket right there on the sand! 
 
 
-        You’re going to see lots of interesting things while out on the Broadwater with us, so be sure to keep an eye out for friendly bottle-nose dolphins, stingrays, turtles, wallabies and soaring sea-eagles!   You can touch up your tan while lounging out on the foredeck as we sail up to Sovereign Islands to see the mansions of the rich and famous (free sunscreen is available and recommended).
+        You’re going to see lots of interesting things while out on the Broadwater with us, so be sure to keep an eye out for friendly bottle-nose dolphins, stingrays, turtles and soaring sea-eagles!   You can touch up your tan while lounging out on the foredeck as we sail up to Sovereign Islands to see the mansions of the rich and famous (free sunscreen is available and recommended).
 
 
         Fancy trying your hand at sailing?   No problem, let our friendly crew know and they will have you hoisting the sails and manning the helm in no time.   Just want to chill and enjoy a few drinks and  maybe take a quick swim, this is totally fine too.  We also carry a range of fun activities on board the boat for your use.  
@@ -90,11 +89,6 @@ accordionSection:
         * Couran Cove, South Stradbroke Island
 
         * Pelican Feeding and Seafood Lunch at Charis Seafoods
-
-        * Snorkelling at the GC Seaway Dive Spot* 
-
-
-        (Due to Covid we are unable to provide snorkel gear. Guests will need to bring their own if wanting to snorkel during their charter)
       title: More Sightseeing Ideas
     - title: What's Included
       dropdownContent: >-
@@ -102,7 +96,7 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and splash mat 
 
         * Use of tablet with premium Spotify and sound system on board
 
