@@ -7,7 +7,7 @@ intro: "## Choose from three beautiful catamarans"
 boats:
   - boatFeatures:
       - content: 10.5m long x 6.5m wide
-      - content: 30 passengers + 2 crew
+      - content: Max. 30 passengers + 2 crew
       - content: Large central table
       - content: Bench style seating for up to 30 guests
       - content: Main sail and jib
@@ -53,7 +53,7 @@ boats:
       videoURL: https://tour.panoee.com/oceans
       imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
     title: Oceans - Deluxe
-    featuredImage: https://ucarecdn.com/48001cda-6d18-410d-a0bf-f78f9f16c900/-/crop/1637x1125/0,0/-/preview/
+    featuredImage: https://ucarecdn.com/033861dd-c518-48e0-a767-176f44073284/
     description: >-
       Our largest and most luxurious vessel, Oceans joined the fleet in April
       2021 and is guaranteed to impress.    With a maximum guest capacity of 30,
@@ -64,7 +64,7 @@ boats:
       Oceans offers a comfortable lounging/dining area with flexible table configuration.   The undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.    This vessel is ideal for more relaxed celebrations, families with older kids and corporate events.
     boatFeatures:
       - content: 11.6m long, 6.5m wide
-      - content: 30 passengers + 2 crew
+      - content: M﻿ax. 30 passengers + 2 crew
       - content: Seawind 1160 Deluxe 2008
       - content: Spacious cushioned dining/lounge area
       - content: Side access to foredeck
@@ -122,7 +122,7 @@ boats:
       <iframe src="https://player.vimeo.com/video/826825730?h=0a983ef783" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     boatFeatures:
       - content: 11.6m long, 6.5m wide
-      - content: 4﻿3 passengers + 2 crew
+      - content: M﻿ax. 4﻿3 passengers + 2 crew
       - content: S﻿eawind 1160 Resort - new 2023 model
       - content: L﻿arge Undercover Area
       - content: Central Interior Table
