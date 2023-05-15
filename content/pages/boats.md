@@ -88,47 +88,6 @@ boats:
       - image: https://ucarecdn.com/c92a9b14-1df3-4135-9c14-e313b734264b/
       - image: https://ucarecdn.com/dfeee078-1196-4eb9-8ad7-be4f3e9f805a/-/crop/1120x1126/0,284/-/preview/
       - image: https://ucarecdn.com/12879a49-dd42-49fa-85cb-a9db8521d7a3/
-  - boatFeatures:
-      - content: 10.85m long, 5.9m wide
-      - content: 20 passengers + 2 crew
-      - content: The modern, luxury version of the popular Seawind 1000 (2011 model)
-      - content: Comfortable dining saloon
-      - content: Side access to foredeck
-      - content: Ample undercover area
-      - content: Trampoline style foredeck
-      - content: Modern bathroom
-      - content: Hot and Cold Deck Shower
-      - content: Rear over-water bench seating
-      - content: Main sail and jib
-      - content: Front and rear boarding ladders with extended transom for easy beach
-          and water access
-      - content: BBQ
-      - content: Eskies
-      - content: Sound System
-    description: >-
-      The Seawind 1000XL is perfect for small groups, families, couples,
-      romantic sails and proposals... If you're looking for an intimate setting,
-      XL is for you! 
-
-
-      The interior is set out with upholstered booth style seating around a dining table with windows allowing for 360 degree viewing from all areas. There is extra seating in the targa area at the back, and, as with our other vessel, there is ample area to laze around in the sun on the front trampoline area.
-
-
-      The 1000XL is also equipped with large esky, a marine bbq, and a modern bathroom.
-
-
-      The 1000XL is perfect for groups of 14 or less due to size, but can take up to 20 people (plus 2 crew).
-    gallery:
-      - image: https://ucarecdn.com/71e0b977-2d7b-4d0e-9ec5-627dc75cb1cc/
-      - image: https://ucarecdn.com/e1ff071b-d30c-4a90-abae-5dbc77a4369e/
-      - image: https://ucarecdn.com/713ff32f-ec16-46cd-8e1d-7657393309df/
-      - image: https://ucarecdn.com/ff402d60-c7ad-4f4d-aaff-1d7c12fad780/
-    title: Seawind 1000XL
-    featuredImage: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
-    videoSection:
-      imageOverlay: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
-      title: 360° VR tour - Seawind 1000XL
-      videoURL: https://tour.panoee.com/1000-xl
   - videoSection:
       title: ""
     title: Island Time - ARRIVING OCTOBER 2023
@@ -179,6 +138,47 @@ boats:
       - image: https://ucarecdn.com/65b7156a-fcc7-4293-b57e-6a3d68a50ecc/
       - image: https://ucarecdn.com/6af09a34-cf1a-4046-bdf8-50d158e344a3/
       - image: https://ucarecdn.com/84d9925f-cff7-4949-b131-62ced9c6c001/
+  - boatFeatures:
+      - content: 10.85m long, 5.9m wide
+      - content: 20 passengers + 2 crew
+      - content: The modern, luxury version of the popular Seawind 1000 (2011 model)
+      - content: Comfortable dining saloon
+      - content: Side access to foredeck
+      - content: Ample undercover area
+      - content: Trampoline style foredeck
+      - content: Modern bathroom
+      - content: Hot and Cold Deck Shower
+      - content: Rear over-water bench seating
+      - content: Main sail and jib
+      - content: Front and rear boarding ladders with extended transom for easy beach
+          and water access
+      - content: BBQ
+      - content: Eskies
+      - content: Sound System
+    description: >-
+      The Seawind 1000XL is perfect for small groups, families, couples,
+      romantic sails and proposals... If you're looking for an intimate setting,
+      XL is for you! 
+
+
+      The interior is set out with upholstered booth style seating around a dining table with windows allowing for 360 degree viewing from all areas. There is extra seating in the targa area at the back, and, as with our other vessel, there is ample area to laze around in the sun on the front trampoline area.
+
+
+      The 1000XL is also equipped with large esky, a marine bbq, and a modern bathroom.
+
+
+      The 1000XL is perfect for groups of 14 or less due to size, but can take up to 20 people (plus 2 crew).
+    gallery:
+      - image: https://ucarecdn.com/71e0b977-2d7b-4d0e-9ec5-627dc75cb1cc/
+      - image: https://ucarecdn.com/e1ff071b-d30c-4a90-abae-5dbc77a4369e/
+      - image: https://ucarecdn.com/713ff32f-ec16-46cd-8e1d-7657393309df/
+      - image: https://ucarecdn.com/ff402d60-c7ad-4f4d-aaff-1d7c12fad780/
+    title: Seawind 1000XL
+    featuredImage: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
+    videoSection:
+      imageOverlay: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
+      title: 360° VR tour - Seawind 1000XL
+      videoURL: https://tour.panoee.com/1000-xl
 secondaryBanner:
   buttonTitle: Meet our Crew...
   buttonUrl: about-us
