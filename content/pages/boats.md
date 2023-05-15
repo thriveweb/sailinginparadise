@@ -89,11 +89,9 @@ boats:
       - image: https://ucarecdn.com/dfeee078-1196-4eb9-8ad7-be4f3e9f805a/-/crop/1120x1126/0,284/-/preview/
       - image: https://ucarecdn.com/12879a49-dd42-49fa-85cb-a9db8521d7a3/
   - videoSection:
-      title: "'Island Time' taster video"
-      videoURL: <iframe src="https://player.vimeo.com/video/826825730?h=0a983ef783"
-        width="640" height="564" frameborder="0" allow="autoplay; fullscreen"
-        allowfullscreen></iframe>
-      imageOverlay: https://ucarecdn.com/d6ccdd4a-784a-4346-ab0a-78f9b12c9b8a/
+      title: ""
+      videoURL: ""
+      imageOverlay: ""
     title: Island Time - ARRIVING OCTOBER 2023
     featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
     description: >-
@@ -115,10 +113,13 @@ boats:
       T﻿his vessel is currently available to pre-book from 7 November 2023.
 
 
-      Please note that the below photos are indicative only (supplied by manufacturer).
+      Please note that the below photos and video are indicative only (supplied by manufacturer).  
 
 
       This vessel is a popular charter boat design in other areas and we are delighted to be welcoming the Seawind 1160 Resort to the Gold Coast Broadwater this year!
+
+
+      <iframe src="https://player.vimeo.com/video/826825730?h=0a983ef783" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     boatFeatures:
       - content: 11.6m long, 6.5m wide
       - content: 4﻿3 passengers + 2 crew
