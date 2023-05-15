@@ -89,7 +89,9 @@ boats:
       - image: https://ucarecdn.com/dfeee078-1196-4eb9-8ad7-be4f3e9f805a/-/crop/1120x1126/0,284/-/preview/
       - image: https://ucarecdn.com/12879a49-dd42-49fa-85cb-a9db8521d7a3/
   - videoSection:
-      title: ""
+      title: "'Island Time' taster video"
+      videoURL: https://www.youtube.com/watch?v=OfT7TUCT8cs
+      imageOverlay: https://ucarecdn.com/d6ccdd4a-784a-4346-ab0a-78f9b12c9b8a/
     title: Island Time - ARRIVING OCTOBER 2023
     featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
     description: >-
@@ -108,7 +110,7 @@ boats:
       Comfortably hosting up to 43 guests, this vessel features a large, shaded, indoor space with central island table and wrap around interior bench seating.   On the front deck, guests will enjoy a spacious area with trampolines and unique forward seating/table zones.    
 
 
-      T﻿his vessel is currently available to book from 7 November 2023.
+      T﻿his vessel is currently available to pre-book from 7 November 2023.
 
 
       Please note that the below photos are indicative only (supplied by manufacturer).
@@ -124,7 +126,7 @@ boats:
       - content: Generous B﻿ench Style Seating
       - content: F﻿orward Trampolines
       - content: 2﻿ bathrooms
-      - content: Forward Deck Seating/Dining Zones
+      - content: Spacious Front Deck Seating/Dining Zones
       - content: D﻿eck Shower
       - content: M﻿ain Sail and Jib
       - content: Front and Rear Boarding Ladders For Easy Beach and Water Access
@@ -134,10 +136,11 @@ boats:
       - content: B﻿BQ
     gallery:
       - image: https://ucarecdn.com/81c4b0e8-bdfe-47a3-a54d-b40272f6e72b/
+      - image: https://ucarecdn.com/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0/
+      - image: https://ucarecdn.com/74913924-d7e8-452d-9de6-e528ea3fdedb/
       - image: https://ucarecdn.com/ddd82143-4b4f-4b09-9471-e4c9cb2fbe1c/
-      - image: https://ucarecdn.com/65b7156a-fcc7-4293-b57e-6a3d68a50ecc/
       - image: https://ucarecdn.com/6af09a34-cf1a-4046-bdf8-50d158e344a3/
-      - image: https://ucarecdn.com/84d9925f-cff7-4949-b131-62ced9c6c001/
+      - image: https://ucarecdn.com/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9/
   - boatFeatures:
       - content: 10.85m long, 5.9m wide
       - content: 20 passengers + 2 crew
