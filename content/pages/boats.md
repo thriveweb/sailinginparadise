@@ -90,7 +90,7 @@ boats:
       - image: https://ucarecdn.com/12879a49-dd42-49fa-85cb-a9db8521d7a3/
   - videoSection:
       title: "'Island Time' taster video"
-      videoURL: "826825730"
+      videoURL: https://vimeo.com/826825730
       imageOverlay: https://ucarecdn.com/d6ccdd4a-784a-4346-ab0a-78f9b12c9b8a/
     title: Island Time - ARRIVING OCTOBER 2023
     featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
