@@ -129,6 +129,56 @@ boats:
       imageOverlay: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
       title: 360° VR tour - Seawind 1000XL
       videoURL: https://tour.panoee.com/1000-xl
+  - videoSection:
+      title: ""
+    title: Island Time - ARRIVING OCTOBER 2023
+    featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
+    description: >-
+      #### B﻿RAND NEW VESSEL INCOMING!
+
+
+      'Island Time' is a brand-new vessel commissioned by Sailing in Paradise.  
+
+
+      We are thrilled to be welcoming this purpose-built day charter vessel to our fleet in October 2023.   
+
+
+      This Seawind 1160 resort offers an excellent flow from the interior to exterior spaces making her perfect for events, parties and larger family groups.    
+
+
+      Comfortably hosting up to 43 guests, this vessel features a large, shaded, indoor space with central island table and wrap around interior bench seating.   On the front deck, guests will enjoy a spacious area with trampolines and unique forward seating/table zones.    
+
+
+      T﻿his vessel is currently available to book from 7 November 2023.
+
+
+      Please note that the below photos are indicative only (supplied by manufacturer).
+
+
+      This vessel is a popular charter boat design in other areas and we are delighted to be welcoming the Seawind 1160 Resort to the Gold Coast Broadwater this year!
+    boatFeatures:
+      - content: 11.6m long, 6.5m wide
+      - content: 4﻿3 passengers + 2 crew
+      - content: S﻿eawind 1160 Resort - new 2023 model
+      - content: L﻿arge Undercover Area
+      - content: Central Interior Table
+      - content: Generous B﻿ench Style Seating
+      - content: F﻿orward Trampolines
+      - content: 2﻿ bathrooms
+      - content: Forward Deck Seating/Dining Zones
+      - content: D﻿eck Shower
+      - content: M﻿ain Sail and Jib
+      - content: Front and Rear Boarding Ladders For Easy Beach and Water Access
+      - content: R﻿ear Diving Platform
+      - content: E﻿skies
+      - content: S﻿ound System
+      - content: B﻿BQ
+    gallery:
+      - image: https://ucarecdn.com/81c4b0e8-bdfe-47a3-a54d-b40272f6e72b/
+      - image: https://ucarecdn.com/ddd82143-4b4f-4b09-9471-e4c9cb2fbe1c/
+      - image: https://ucarecdn.com/65b7156a-fcc7-4293-b57e-6a3d68a50ecc/
+      - image: https://ucarecdn.com/6af09a34-cf1a-4046-bdf8-50d158e344a3/
+      - image: https://ucarecdn.com/84d9925f-cff7-4949-b131-62ced9c6c001/
 secondaryBanner:
   buttonTitle: Meet our Crew...
   buttonUrl: about-us
