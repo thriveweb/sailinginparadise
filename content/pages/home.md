@@ -33,7 +33,7 @@ featuredBanner:
   buttonTitle: "Sailing in the next 2 weeks?   Check out these last-minute boat
     charter rates.  "
   buttonUrl: boat-charter/last-minute-charters/
-  image: https://ucarecdn.com/917df4b1-982b-4ef2-a3d8-f6b20e00df01/
+  image: https://ucarecdn.com/eefd49a4-acca-4298-b5ac-11f4b3d46c76/
   title: Last Minute winter charters
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
