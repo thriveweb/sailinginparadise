@@ -15,7 +15,7 @@ content: >-
   N﻿o straight spirits are permitted on board the vessel (commercial premix spirits cans or bottles only).   Any spirits bottles will need to be surrendered to crew and will be returned at the end of the charter - sorry!!
 
 
-  M﻿ariner's Cove marina does not permit the drinking of alcohol, or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat. In the event that any guests become overly intoxicated on the charter it may be necessary to drop at a different wharf at the end of the charter.    
+  M﻿ariner's Cove marina does not permit the drinking of alcohol, or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat. In the event that any guests become overly intoxicated on the charter it may be necessary to  end the charter early and drop guests at the nearest wharf.  
 
 
   ###### GETTING TO THE MARINA
