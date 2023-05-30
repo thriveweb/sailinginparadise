@@ -20,7 +20,7 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="300px" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/calendarWidget/279694?iframe=true"></iframe>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/510589/romance" style="background: rgb(19, 49, 110); border: 1px solid rgb(19, 49, 110); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability and Book Now</a>
 
 
   <!--EndFragment-->
