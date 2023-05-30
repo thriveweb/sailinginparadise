@@ -36,7 +36,7 @@ navItems:
         title: Gold Coast Sightseeing
       - title: Last Minute Charters
         optionalTitle: "Last Minute "
-      - title: Gold Coast New Year's Eve Cruise
+      - title: Gold Coast New Year's Eve 2023 Cruise
         optionalTitle: New Year's Eve
       - title: Gold Coast Valentine's Day Cruise
         optionalTitle: Valentine's Day
