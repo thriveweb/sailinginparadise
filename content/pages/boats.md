@@ -162,9 +162,12 @@ boats:
       - content: Eskies
       - content: Sound System
     description: >-
-      The Seawind 1000XL is perfect for small groups, families, couples,
-      romantic sails and proposals... If you're looking for an intimate setting,
-      XL is for you! 
+      This vessel is currently for sale and therefore unavailable to
+      charter.  Please contact us if you may be interested in purchasing our
+      Seawind 1000XL.  
+
+
+      The Seawind 1000XL is perfect for small groups, families, couples, romantic sails and proposals... If you're looking for an intimate setting, XL is for you! 
 
 
       The interior is set out with upholstered booth style seating around a dining table with windows allowing for 360 degree viewing from all areas. There is extra seating in the targa area at the back, and, as with our other vessel, there is ample area to laze around in the sun on the front trampoline area.
@@ -179,7 +182,7 @@ boats:
       - image: https://ucarecdn.com/e1ff071b-d30c-4a90-abae-5dbc77a4369e/
       - image: https://ucarecdn.com/713ff32f-ec16-46cd-8e1d-7657393309df/
       - image: https://ucarecdn.com/ff402d60-c7ad-4f4d-aaff-1d7c12fad780/
-    title: Seawind 1000XL
+    title: FOR SALE - SEAWIND 1000XL
     featuredImage: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
     videoSection:
       imageOverlay: https://ucarecdn.com/af3f2648-a2a8-42e2-930e-06451f1b0e3b/
