@@ -92,7 +92,7 @@ boats:
       title: ""
       videoURL: ""
       imageOverlay: ""
-    title: Island Time - ARRIVING OCTOBER 2023
+    title: Island Time - ARRIVING NOVEMBER 2023
     featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
     description: >-
       #### B﻿RAND NEW VESSEL INCOMING!
@@ -101,7 +101,7 @@ boats:
       'Island Time' is a brand-new vessel commissioned by Sailing in Paradise.  
 
 
-      We are thrilled to be welcoming this purpose-built day charter vessel to our fleet in October 2023.   
+      We are thrilled to be welcoming this purpose-built day charter vessel to our fleet in November 2023. 
 
 
       This Seawind 1160 resort offers an excellent flow from the interior to exterior spaces making her perfect for events, parties and larger family groups.    
@@ -110,7 +110,7 @@ boats:
       Comfortably hosting up to 43 guests, this vessel features a large, shaded, indoor space with central island table and wrap around interior bench seating.   On the front deck, guests will enjoy a spacious area with trampolines and unique forward seating/table zones.    
 
 
-      T﻿his vessel is currently available to pre-book from 7 November 2023.
+      T﻿his vessel is currently available to pre-book from 18 November 2023.
 
 
       Please note that the below photos and video are indicative only (supplied by manufacturer).  
