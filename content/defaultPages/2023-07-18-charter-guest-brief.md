@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-title: Charter Guest Brief
+title: Private Charter Guest Info
 featuredImage: https://ucarecdn.com/13a84dfa-cab1-48db-b79a-c7dbde7eba0f/
 content: >-
   ### WELCOME TO SAILING IN PARADISE!
