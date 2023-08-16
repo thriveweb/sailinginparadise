@@ -69,7 +69,7 @@ contentColumn: >-
   years to come.
 
 
-  We can cater for groups of up to 30 people on our signature sailing catamaran the 'Spirit of Gwonda', or up to 30 on our newest vessel Oceans, or up to 20 on our Seawind 1000XL.  If you have a larger group be sure to check out our amazing [Raft-Up Party](https://sailinginparadise.com.au/boat-charter/raft-up-parties/) options.  
+  We can cater for groups of up to 30 people on our signature sailing catamaran the 'Spirit of Gwonda', or up to 30 on our deluxe vessel Oceans, or up to 43 on our brand new vessel Island Time.  If you have a larger group be sure to check out our amazing [Raft-Up Party](https://sailinginparadise.com.au/boat-charter/raft-up-parties/) options.  
 
 
   The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.   [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/).
@@ -100,7 +100,7 @@ accordionSection:
         Some things we love include:
 
 
-        Sailing, beach stopovers, beach volleyball, splash, stand up paddleboards, sunbathing, sunsets and dolphins.   All included free of charge*. 
+        Sailing, beach stopovers, beach volleyball, splash mat, stand up paddleboards, sunbathing, sunsets and dolphins.   All included free of charge*. 
 
 
         Some things are almost mandatory:
@@ -242,12 +242,6 @@ accordionSection:
       title: Birthday Party FAQ's
     - title: Choosing the Perfect Vessel for you
       dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
-
-
         **Spirit of Gwonda (30 capacity)** 
 
 
