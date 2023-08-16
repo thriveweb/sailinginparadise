@@ -280,12 +280,6 @@ accordionSection:
       title: Hens Party FAQ's
     - title: "choosing the perfect vessel for you "
       dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
-
-
         **Spirit of Gwonda (30 capacity)** 
 
 
