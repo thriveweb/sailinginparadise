@@ -16,10 +16,7 @@ intro: >-
   with the family.  
 
 
-  If you wish to scatter the ashes of your loved one in the pristine waters of the Gold Coast Broadwater we are able to offer a memorial charter aboard one of our comfortable sailing catamarans for groups from 1 – 30 guests. 
-
-
-  ##
+  If you wish to scatter the ashes of your loved one in the pristine waters of the Gold Coast Broadwater we are able to offer a memorial charter aboard one of our comfortable sailing catamarans for groups from 1 – 43 guests.
 contentBox:
   buttonTitle: Make an enquiry
   buttonUrl: booking-enquiry/
@@ -110,7 +107,7 @@ accordionSection:
         **Where do your boats depart from?**
 
 
-        Our boats are berthed at Marina Mirage. Please see the '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our website\[] for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
+        Our boats are berthed at Marina Mirage. Please see the '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
 
 
         **Where can I park?**
@@ -120,22 +117,32 @@ accordionSection:
       title: FAQ's
     - title: Choosing the perfect vessel for you
       dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
-
-
         **Spirit of Gwonda (30 capacity)** 
 
 
-        Built specifically with entertaining in mind, her open plan layout is designed for larger groups. The easy foredeck access via the centre of the boat ensures your guests can always see one another no matter where they are on the boat, which is also great for families with small children!
+        The ultimate party boat! Built specifically with entertaining in mind, her open plan layout is designed for you to soak up the sun or dance the day/night away! The easy foredeck access via the centre of the boat ensures your guests can always see one another no matter where they are on the boat, which is also great for families with small children!
 
 
         **Oceans (30 capacity)** 
 
 
-        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+        Our most luxurious vessel, Oceans is guaranteed to impress. With a
+
+        maximum guest capacity of 30, but intimate enough to host couples
+
+        and small groups, Oceans delivers the space required for your
+
+        group without sacrificing any of the creature comforts.
+
+
+        **Island Time (43 capacity)** 
+
+
+        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+
+        Purpose built for day charters and events this vessel offers unrivalled
+
+        connectivity from interior to exterior spaces. 
 
 
         **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
