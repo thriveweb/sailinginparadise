@@ -49,7 +49,7 @@ contentColumn: >-
   Skyline puts on a stunning light show for our return to Marina Mirage.
 
 
-  Our beautiful Seawind 1000XL is the ideal vessel for couples due to its intimate design, and offers the relaxation of sailing in complete comfort. The trampoline-style foredeck is a favourite spot for snuggling and gives an immersive sailing experience with 360 degree views of the Gold Coast’s stunning waterways. It is also the ideal spot for spying the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans, so close you can almost touch...  If you are after a little added luxury our deluxe vessel Oceans offer all of the above but with a little added luxe and a lot of extra space.   
+  Our beautiful catamaran's are ideal for couples and offers the relaxation of sailing in complete comfort. The trampoline-style foredeck is a favourite spot for snuggling and gives an immersive sailing experience with 360 degree views of the Gold Coast’s stunning waterways. It is also the ideal spot for spying the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans, so close you can almost touch...  If you are after a little added luxury our deluxe vessel Oceans offer all of the above but with a little added luxe and a lot of extra space.   
 
 
   [Read more about our boats here](https://sailinginparadise.com.au/our-boats/)
@@ -90,12 +90,7 @@ accordionSection:
         * Beautiful memento photos taken by our crew 
 
 
-        **Seawind 1000XL - $920**
-
-
         **Oceans (deluxe vessel) - $1220**
-
-
 
 
         ###### **Private champagne 3 hour brunch sail**
@@ -112,9 +107,6 @@ accordionSection:
         * Brunch picnic including a selection of sweet and savoury baked items, fresh fruit, house-made dips, local and international cheeses, cured meats and locally baked artisan breads.
 
         * Beautiful memento photos taken by our crew 
-
-
-        **Seawind 1000XL - $1220**
 
 
         **Oceans (deluxe vessel) - $1620**
@@ -142,9 +134,6 @@ accordionSection:
         * Beautiful memento photos taken by our crew 
 
 
-        **Seawind 1000XL - $1100**
-
-
         **Oceans (deluxe vessel) - $1400**
 
 
@@ -162,9 +151,6 @@ accordionSection:
         * Beautiful memento photos taken by our crew 
 
 
-        **Seawind 1000XL - $1450**
-
-
         **Oceans (deluxe vessel) - $1850**
     - title: Customisable Hourly Charter Rates
       dropdownContent: >-
@@ -179,16 +165,7 @@ accordionSection:
         Upon boarding the boat you will be greeted by our friendly crew who will adapt to your preference of their involvement on board. We invite you to take a walk around the boat and find a place to chill out with a drink and enjoy the beautiful views and the sounds of the water. 
 
 
-        Valentine's Day Charters are available from 2 hours to 6 hours.   
-
-
-        Charter rates start from;
-
-
-        $800 for 2 hours on our Seawind 1000XL
-
-
-        $1100 for 2 hours on our deluxe vessel Oceans
+        Valentine's Day Charters are available from 2 hours to 6 hours.   Please enquire with our bookings team for more details.
     - title: What to expect
       dropdownContent: >-
         When you book a romantic sail with Sailing in Paradise you can expect a
@@ -247,13 +224,7 @@ accordionSection:
         millionaires mansions at Sovereign Islands.
 
 
-        With a longer charter you may also have time for a snorkel stop* or spend a little longer chilling at Wavebreak and enjoy a relaxing lunch.
-
-
         In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
-
-
-        \*(We are currently unable to provide snorkel gear due to Covid restrictions. Please BYO gear if you wish to snorkel on your charter)
     - title: FAQ's
       dropdownContent: >-
         **Where do your boats depart from?**
@@ -280,16 +251,10 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
-
-
         **I am short on time can you please help me out with catering/drinks?**
 
 
         Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
-
-
-        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
 
         **Do you have Eskies on board?**
