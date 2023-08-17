@@ -102,10 +102,10 @@ contentColumn: >-
 accordionSection:
   accordion:
     - dropdownContent: Our 3 luxurious and spacious sailing catamarans mean we can now
-        cater for larger groups of up to 80 people – The Spirit Of Gwonda and
-        Oceans can accommodate up to 30 guests (plus 2 crew) and 1000XL has a
-        capacity of 20 (plus 2 crew).
-      title: 1-80 Guest Capacity
+        cater for larger groups of up to 103 people – The Spirit Of Gwonda and
+        Oceans can accommodate up to 30 guests (plus 2 crew) and Island Time has
+        a capacity of up to 43 guests (plus 2 crew).
+      title: 1-103 Guest Capacity
     - dropdownContent: >-
         The layout of our boats are ideal for a Christmas party venue and make
         entertaining large groups a delight.   The spacious interior of the boat
@@ -117,7 +117,7 @@ accordionSection:
         On-board you will find a small marine BBQ, large eskys (ice supplied), Fusion Marine sound system with speakers inside and out, bluetooth connectivity and premium Spotify provided and marine toilet.
 
 
-        The front of the boat is extremely popular with guests, offering a trampoline-style area perfect for lazing in the sun whilst listening to the sounds of your favourite Christmas songs streaming through our Fusion sound system.
+        The front of the boat is extremely popular with guests, offering a trampoline-style area perfect for lazing in the sun whilst listening to the sounds of your favourite Christmas songs streaming through our sound system.
       title: Our boats are ideal for parties
     - dropdownContent: >-
         The shallow draft make the vessel perfect for pulling up onto a beach at
@@ -225,12 +225,6 @@ accordionSection:
       title: Christmas Party FAQ's
     - title: Choosing the perfect vessel for you
       dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
-
-
         **Spirit of Gwonda (30 capacity)** 
 
 
@@ -241,6 +235,16 @@ accordionSection:
 
 
         Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+
+
+        **Island Time (43 capacity)** 
+
+
+        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+
+        Purpose built for day charters and events this vessel offers unrivalled
+
+        connectivity from interior to exterior spaces. 
 
 
         **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
