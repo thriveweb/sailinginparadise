@@ -60,7 +60,7 @@ accordionSection:
         **When can this voucher be redeemed?**
 
 
-        Generally Monday to Friday.  The ideal sunset viewing time is departing 1 hour prior to sunset.
+        Generally Monday to Thursday.  The ideal sunset viewing time is departing 1 hour prior to sunset.
       title: Gift Voucher FAQ's
 meta:
   description: Give the gift of a beautiful memory! Your guests will be invited to
