@@ -73,7 +73,7 @@ contentColumn: >-
   ## the perfect hen's party boats
 
 
-  With 3 beautiful sailing catamarans available for charter we can accommodate groups of up to 20 or 30 guests.    [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
+  With 3 beautiful sailing catamarans available for charter we can accommodate groups of up to 30 or 43 guests.    [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
 
 
   The large trampoline-style fore-decks are perfect for lazing in the sunshine or dancing, while we sail the calm, clear waters of the Gold Coast. The ample undercover space makes the vessels perfect for those seeking shade. Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
@@ -142,8 +142,6 @@ accordionSection:
 
         * Shoes that you can slip off 
 
-        * Perhaps some decorations or mementos for the bride
-
         * Food, drinks and non-breakable cups etc (unless you want us to organise the catering for you).
       title: What to Bring
     - dropdownContent: >-
@@ -194,11 +192,11 @@ accordionSection:
     - dropdownContent: >-
         If you are looking for the perfect ice breaker, guaranteed to make the
         bride smile and her nan giggle we can't recommend these guys
-        enough.   Wearing just an apron, bow tie and a smile, our butlers are
-        the best in the business.  With a personality guaranteed to get the
-        party started your personal butler will serve drinks, play games and
-        keep your guests entertained all while making the perfect hen's party
-        eye candy.
+        enough.   Choose from a a topless waiter or opt to go cheeky with  just
+        an apron, bow tie and a smile, our butlers are the best in the
+        business.  With a personality guaranteed to get the party started your
+        personal butler will serve drinks, play games and keep your guests
+        entertained all while making the perfect hen's party eye candy.
 
 
         Enquire with our team [here](https://sailinginparadise.com.au/booking-enquiry) about adding a cheeky butler for your Hens event!
@@ -289,7 +287,23 @@ accordionSection:
         **Oceans (30 capacity)** 
 
 
-        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+        Our most luxurious vessel, Oceans is guaranteed to impress. With a
+
+        maximum guest capacity of 30, but intimate enough to host couples
+
+        and small groups, Oceans delivers the space required for your
+
+        group without sacrificing any of the creature comforts.
+
+
+        **Island Time (43 capacity)** 
+
+
+        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+
+        Purpose built for day charters and events this vessel offers unrivalled
+
+        connectivity from interior to exterior spaces. 
 
 
         **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
