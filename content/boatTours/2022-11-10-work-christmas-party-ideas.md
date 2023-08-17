@@ -5,16 +5,16 @@ title: Work Christmas Party Ideas
 icon: ""
 featuredImage: https://ucarecdn.com/642056c5-b20b-4382-9ec4-94858fc555ca/
 intro: >-
-  ## The ultimate work Christmas Party Idea for 2022
+  ## The ultimate work Christmas Party Idea for 2023
 
 
-  Looking for ideas to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?    We challenge you to find another office Christmas Party venue with views to match where you can BYO, play your own tunes and float around on an inflatable flamingo, cocktail in hand...
+  Looking for ideas to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?    We challenge you to find another office Christmas Party venue with views to match where you can BYO, play your own tunes and float around, cocktail in hand..
 
 
   Sounds awesome right?   
 
 
-  ###### Got your own Christmas Party ideas?  
+  ###### Got your own Christmas Party ideas?
 
 
   Tell us what floats your boat and we'll do our best to make it happen.  Some options include;
