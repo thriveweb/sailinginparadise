@@ -10,7 +10,7 @@ intro: >-
   Discover a new side to the Gold Coast aboard our Island Cruise.  Sit back and enjoy 3 to 6 hours of bliss on the water aboard your own private catamaran charter!
 
 
-  Take in the sights of the picturesque and calm Gold Coast Broadwater, including impressive super yachts, Sea World, Palazzo Versace, South Stradbroke Island, Wavebreak Island and the Gold Coast Seaway.  
+  Take in the sights of the picturesque and calm Gold Coast Broadwater, including impressive super yachts, Sea World, South Stradbroke Island, Wavebreak Island and the Gold Coast Seaway.  
 
 
   We offer a laid-back cruise experience on a spacious sailing catamaran that you are sure to love whether you are seeking quality time with a special someone, entertaining clients or organising a birthday or hens party.
@@ -37,12 +37,12 @@ videoSection:
 contentColumnTitle: We love our Paradise, let us share it with you!
 contentColumn: Visit an isolated island beach only accessible by boat where you
   are invited to jump in for a swim and try our beach games (including Beach
-  Volleyball, Stand Up Paddle-boarding, Beach Cricket, Snorkelling and Fun
-  Novelty Inflatables).   Or if you just want to laze on the beach (or our
-  trampoline-style foredeck) that's totally fine, we'll play some cool tunes
-  while you sip on an icy cold drink so you can relax and watch the world sail
-  by in style.     But don't forget to keep your eyes peeled for the friendly
-  bottlenose dolphins who regularly cruise past.
+  Volleyball, Stand Up Paddle-boarding, Beach Cricket, and splash mat).   Or if
+  you just want to laze on the beach (or our trampoline-style foredeck) that's
+  totally fine, we'll play some cool tunes while you sip on an icy cold drink so
+  you can relax and watch the world sail by in style.     But don't forget to
+  keep your eyes peeled for the friendly bottlenose dolphins who regularly
+  cruise past.
 accordionSection:
   accordion:
     - dropdownContent: >-
