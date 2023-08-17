@@ -11,7 +11,7 @@ intro: >-
   If you’re looking for things to do on the Gold Coast, we invite you on a unique Gold Coast experience... sailing the calm, clear waters of the Gold Coast Broadwater aboard a beautiful sailing catamaran. 
 
 
-  With 3 boats available for private charter, and catering for groups of 1-80 guests, our private sightseeing charters are ideal for families, colleagues and friends looking to explore the area and see the Gold Coast from a different perspective.   
+  With 3 boats available for private charter, and catering for groups of 1-103 guests, our private sightseeing charters are ideal for families, colleagues and friends looking to explore the area and see the Gold Coast from a different perspective.   
 
 
   Whether you are a Gold Coast local or on vacation as an international visitor, experiencing the many attractions on the Gold Coast Broadwater from a luxury catamaran is the perfect way to create a memorable experience for your group!
@@ -21,7 +21,7 @@ contentBox:
     src="https://sailinginparadise.rezdy.com/pluginJs"></script>                 <iframe
     seamless="" width="100%" height="1000px" frameborder="0" class="rezdy"
     src="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true"></iframe>
-  title: Let us tailor your VIP Gold Coast Sightseeing Party Experience
+  title: Let us tailor your VIP Gold Coast Sightseeing Experience
 bookingIframe: ""
 gallery:
   - image: https://ucarecdn.com/5a75a58f-60be-4724-b30f-df677622d5a5/-/preview/-/enhance/66/
@@ -59,16 +59,16 @@ contentColumn: >-
 accordionSection:
   accordion:
     - dropdownContent: >-
-        We can take you and your guests for a sail past the iconic 6 star
-        Palazzo Versace, you will marvel at the luxurious super yachts and watch
-        the Gold Coast city skyline drift into the distance as you sail
-        north.     Wave Break Island is a little slice of paradise here on the
-        Gold Coast and a must see, especially if you’re in holiday mode!    Our
-        boats are equipped to pull up right on the beach, so you can hop on and
-        off as you please. Take advantage of our range of beach activities, use
-        the SUP’s or relax on our floating splash mat.. If you’re feeling
-        energetic and want to bring your group together you can have a game of
-        volleyball or cricket right there on the sand! 
+        We can take you and your guests for a sail past the Marinas where you
+        will marvel at the luxurious super yachts and watch the Gold Coast city
+        skyline drift into the distance as you sail north.     Wave Break Island
+        is a little slice of paradise here on the Gold Coast and a must see,
+        especially if you’re in holiday mode!    Our boats are equipped to pull
+        up right on the beach, so you can hop on and off as you please. Take
+        advantage of our range of beach activities, use the SUP’s or relax on
+        our floating splash mat.. If you’re feeling energetic and want to bring
+        your group together you can have a game of volleyball or cricket right
+        there on the sand! 
 
 
         You’re going to see lots of interesting things while out on the Broadwater with us, so be sure to keep an eye out for friendly bottle-nose dolphins, stingrays, turtles and soaring sea-eagles!   You can touch up your tan while lounging out on the foredeck as we sail up to Sovereign Islands to see the mansions of the rich and famous (free sunscreen is available and recommended).
@@ -79,17 +79,6 @@ accordionSection:
 
         Our cruises are fun and suitable for all ages.
       title: Things to see and do on your charter
-    - dropdownContent: >-
-        Dependent on the length of your charter there are other optional
-        destinations including;
-
-
-        * Sanctuary Cove
-
-        * Couran Cove, South Stradbroke Island
-
-        * Pelican Feeding and Seafood Lunch at Charis Seafoods
-      title: More Sightseeing Ideas
     - title: What's Included
       dropdownContent: >-
         * Private use of your own beautiful sailing catamaran for 3 to 6 hours
@@ -145,16 +134,10 @@ accordionSection:
         Yes, on a private charter if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
-
-
         **I am short on time can you please help me out with catering/drinks?**
 
 
         Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to canapes and private chefs.
-
-
-        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
 
         **Do you have Eskies on board?**
@@ -200,12 +183,6 @@ accordionSection:
       title: "Sightseeing Charter FAQ's "
     - title: "Choosing the perfect vessel for you "
       dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
-
-
         **Spirit of Gwonda (30 capacity)** 
 
 
@@ -215,7 +192,23 @@ accordionSection:
         **Oceans (30 capacity)** 
 
 
-        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+        Our most luxurious vessel, Oceans is guaranteed to impress. With a
+
+        maximum guest capacity of 30, but intimate enough to host couples
+
+        and small groups, Oceans delivers the space required for your
+
+        group without sacrificing any of the creature comforts.
+
+
+        **Island Time (43 capacity)** 
+
+
+        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+
+        Purpose built for day charters and events this vessel offers unrivalled
+
+        connectivity from interior to exterior spaces. 
 
 
         **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
