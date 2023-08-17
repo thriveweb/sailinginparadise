@@ -38,7 +38,7 @@ gallery:
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ""
-contentColumnTitle: For groups from 31 - 80 guests
+contentColumnTitle: For groups from 31 - 103 guests
 contentColumn: >-
   Set sail in convoy to a secret beach location for a couple of hours of fun in
   the sun, sea and sand.
@@ -53,7 +53,7 @@ contentColumn: >-
   Private chefs and wait staff, DJ's, watersports activities (parasailing, jetboats etc), drones and professional photographers, the list goes on.
 
 
-  Raft Up yacht parties can cater from 31 to 80 people on 3 sailing catamarans.
+  Raft Up yacht parties can cater from 31 to 103 people on 3 sailing catamarans.
 
 
   You are welcome to BYO everything or take advantage of our extensive catering options from some of the Gold Coast's best caterers and private chefs.
@@ -62,19 +62,16 @@ contentColumn: >-
   A raft up party can be anything you want it to be.   We would love to hep make your boat party dreams a reality!
 accordionSection:
   accordion:
-    - dropdownContent: "When you book a private charter with Sailing in Paradise you
-        can expect a quality of service from years of experience in the industry
-        but most of all your can expect a fun day (or evening) on the water that
-        your group will love. Every day is different when you have your event on
+    - dropdownContent: >-
+        When you book a private charter with Sailing in Paradise you can expect
+        a quality of service from years of experience in the industry but most
+        of all your can expect a fun day (or evening) on the water that your
+        group will love. Every day is different when you have your event on
         board Sailing In Paradise but one thing is for sure... you and your
-        guests are in for one hell of a good time.\r
+        guests are in for one hell of a good time.
 
 
-        Your guests will be invited to board their separate vessels at
-        the marina before setting sail in convoy to an island location.   On the
-        island your guests will be able to enjoy a range of activities including
-        Beach Volleyball, Stand Up Paddleboards, Inflatables, Beach Cricket and
-        more.   Raft Ups on anchor are also available on request."
+        Your guests will be invited to board their separate vessels at the marina before setting sail in convoy to an island location.   On the island your guests will be able to enjoy a range of activities including Beach Volleyball, Stand Up Paddleboards, Beach Cricket and more.   Raft Ups on anchor are also available on request.
       title: What to expect
     - title: What's Included
       dropdownContent: >-
@@ -82,7 +79,7 @@ accordionSection:
 
         * Skipper plus one crew per boat, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and cute inflatables
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and splash
 
         * Use of tablet with premium Spotify and sound system on board
 
@@ -110,7 +107,7 @@ accordionSection:
         **How many people can you accommodate?**
 
 
-        We have 3 sailing catamarans available which can carry a total of 80 guests.
+        We have 3 sailing catamarans available which can carry a total of 103 guests.
 
 
         **Where do your boats depart from?**
@@ -137,16 +134,10 @@ accordionSection:
         Yes if you would like to bring your own food and drinks on board that is completely fine.
 
 
-        (BYO food and drinks may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
-
-
         **I am short on time can you please help me out with catering/drinks?**
 
 
         Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to canapes and private chefs.
-
-
-        (Catering and drinks service options may be affected by Government restrictions due to Covid, please check at the time of your charter what the current restrictions are.)
 
 
         **Do you have Eskies on board?**
@@ -204,12 +195,6 @@ accordionSection:
         a Raft-up event info pack including current catering options via email.
     - title: "Choosing the perfect vessels for you "
       dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
-
-
         **Spirit of Gwonda (30 capacity)** 
 
 
@@ -219,7 +204,23 @@ accordionSection:
         **Oceans (30 capacity)** 
 
 
-        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+        Our most luxurious vessel, Oceans is guaranteed to impress. With a
+
+        maximum guest capacity of 30, but intimate enough to host couples
+
+        and small groups, Oceans delivers the space required for your
+
+        group without sacrificing any of the creature comforts.
+
+
+        **Island Time (43 capacity)** 
+
+
+        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+
+        Purpose built for day charters and events this vessel offers unrivalled
+
+        connectivity from interior to exterior spaces. 
 
 
         **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
