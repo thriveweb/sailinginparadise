@@ -254,6 +254,16 @@ accordionSection:
         Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
 
 
+        **Island Time (43 capacity)** 
+
+
+        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+
+        Purpose built for day charters and events this vessel offers unrivalled
+
+        connectivity from interior to exterior spaces. 
+
+
         **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
     - title: Birthday Party Pricing
       dropdownContent: >-
