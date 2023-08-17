@@ -191,12 +191,6 @@ accordionSection:
       title: Private Charter FAQ's
     - title: Choosing the perfect vessel for you
       dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
-
-
         **Spirit of Gwonda (30 capacity)** 
 
 
@@ -206,7 +200,23 @@ accordionSection:
         **Oceans (30 capacity)** 
 
 
-        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+        Our most luxurious vessel, Oceans is guaranteed to impress. With a
+
+        maximum guest capacity of 30, but intimate enough to host couples
+
+        and small groups, Oceans delivers the space required for your
+
+        group without sacrificing any of the creature comforts.
+
+
+        **Island Time (43 capacity)** 
+
+
+        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+
+        Purpose built for day charters and events this vessel offers unrivalled
+
+        connectivity from interior to exterior spaces. 
 
 
         **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
