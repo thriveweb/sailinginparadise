@@ -36,9 +36,9 @@ videoSection:
 contentColumnTitle: A corporate event venue with a difference...
 contentColumn: >-
   Our catamarans offer comfort, space and style and are guaranteed to create a
-  social atmosphere for your cruise.    With 30 and 20 capacity boats in the
+  social atmosphere for your cruise.    With 30 and 43 capacity boats in the
   fleet, Sailing in Paradise can accommodate small intimate groups or larger
-  gatherings.   We can also arrange for a 'yacht raft up' for up to 80
+  gatherings.   We can also arrange for a 'yacht raft up' for up to 103
   people.  Imagine your own private fleet of yachts setting sail for a secret
   rendezvous location for an afternoon of fun in the sunshine.
 
@@ -83,8 +83,6 @@ accordionSection:
         We are able to offer the following additional services to take your
         event to the next level;
 
-
-        * Bus transfers for larger groups
 
         * Jet Boat or Parasail Charters (VIP over-water pick-up available from the catamaran)
 
@@ -159,12 +157,6 @@ accordionSection:
       title: Corporate Event FAQ's
     - title: Choosing the perfect vessel for your event
       dropdownContent: >-
-        **Seawind 1000XL (20 capacity)** 
-
-
-        Perfect for small groups, families, couples, romantic sails and proposals... If you're a bit more budget conscious or looking for an intimate setting, XL is for you!
-
-
         **Spirit of Gwonda (30 capacity)** 
 
 
@@ -175,6 +167,16 @@ accordionSection:
 
 
         Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+
+
+        **Island Time (43 capacity)** 
+
+
+        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+
+        Purpose built for day charters and events this vessel offers unrivalled
+
+        connectivity from interior to exterior spaces. 
 
 
         **Still can't decide on the perfect vessel? [Click here](https://sailinginparadise.com.au/our-boats/) to take a tour of our boats!**
