@@ -115,7 +115,7 @@ highlights:
   - icon: /images/uploads/boat.svg
     title: Spacious Catamarans + Calm Water Sailing
   - icon: /images/uploads/beachball.svg
-    title: Easy island & beach stops with FREE SUPs, inflatables and beach games
+    title: Easy island & beach stops with FREE SUPs, splash mat and beach games
   - icon: /images/uploads/champagne.svg
     title: Fully licensed & catered or BYO
   - icon: /images/uploads/speakers.svg
