@@ -11,7 +11,7 @@ intro: >-
   Charter one of the 3 beautiful catamarans and gather your friends and family to celebrate New Year's Eve 2023 on the Gold Coast in style aboard your own private yacht.   
 
 
-  During the day you will enjoy spectacular views and access to pristine beaches as the boat arrives at isolated islands surrounded by crystal clear turquoise waters. There are plentiful activities available on board to keep you entertained including Beach Volleyball, Stand Up Paddleboards, Inflatables and Beach Cricket.
+  During the day you will enjoy spectacular views and access to pristine beaches as the boat arrives at isolated islands surrounded by crystal clear turquoise waters. There are plentiful activities available on board to keep you entertained including Beach Volleyball, Stand Up Paddleboards, Beach Cricket and splash mat. 
 
 
   Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast mountains followed by the twinkling Gold Coast City Skyline by night, simply breath-taking!
