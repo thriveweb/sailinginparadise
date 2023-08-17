@@ -23,10 +23,10 @@ intro: >-
   After falling in love with our beautiful signature vessel ‘Spirit of Gwonda’ (which remains one of the best catamarans on the water for social occasions) the dream became a reality and Sailing in Paradise was born.  
 
 
-  In response to guest demand, Gwonda's sister vessel the Seawind 1000XL joined our fleet in 2018, followed by Oceans, our deluxe vessel, in 2021!
+  In response to guest demand, our beautiful, deluxe vessel Oceans joined the fleet in 2021 and we are excited to welcome our brand new vessel Island Time (being commissioned for Sailing in Paradise) in October 2023!
 
 
-  All three boats were carefully selected to offer the same spacious deck area, stable sailing and beach landing capabilities.
+  All three boats have been carefully selected to offer the same spacious deck area, stable sailing and beach landing capabilities.
 gallery:
   - image: https://ucarecdn.com/d3fce9ea-25bc-4f10-b643-e67e330427c4/
   - image: https://ucarecdn.com/1a97171f-a25e-46d9-a987-2940d52f9607/
