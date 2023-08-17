@@ -114,17 +114,6 @@ crewSection:
         As a self-professed ocean nerd, Jemma will happily talk to you all about
         the local marine life… and she’s always ready to bust a move with our
         guests if the music is right!
-    - image: https://ucarecdn.com/2050c092-b612-4bf1-a854-cd448b51088d/-/crop/427x355/0,129/-/preview/
-      name: Jamie
-      title: Cruise Hostess
-      content: >-
-        Jamie is a professional cheerleader at heart and on the water! Full of
-        big smiles and endless dance moves. She has also pursued a career as a
-        nurse and has a passion for helping to create a positive experience for
-        guests. 
-
-
-        Her love of being on the water started with teaching as a canoe and kayak instructor for summer camps in Canada & sailing the Whitsundays and Greece.
     - image: https://ucarecdn.com/45612d4c-023c-4409-ab6a-6cbeecabc6a6/-/crop/2052x1420/158,0/-/preview/
       name: Deon
       title: Skipper
@@ -133,17 +122,6 @@ crewSection:
         Deon can usually be found hanging out with his dolphin friends and
         caring for our marine environment by rescuing trapped whales and injured
         marine life...  Go Deon!!
-    - image: https://ucarecdn.com/93dfcbe5-a05d-4c83-943d-8cfcb702bfef/-/crop/1193x1414/1032,0/-/preview/
-      name: "Jiah "
-      title: Skipper
-      content: >-
-        When asked to write a bio Jiah said his favourite colour is electric
-        beige, he enjoys birdwatching and is a wizz in the kitchen (he once
-        cooked 2 minute noodles in under 1 minute ha ha). As you can tell, he is
-        a bit of a joker and is always great for a laugh. 
-
-
-        Hailing from the Whitsundays with over 11 years in the Marine industry, Jiah has a passion for sea life, the ocean and showing our guests around his new backyard here on the GC Broadwater.
     - image: https://ucarecdn.com/002819f5-2b26-41ac-94b6-e5be7698a290/-/crop/1815x2295/0,729/-/preview/
       name: Chelsey
       title: Cruise Hostess
