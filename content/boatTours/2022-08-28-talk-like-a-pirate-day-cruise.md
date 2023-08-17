@@ -10,7 +10,7 @@ intro: >-
   ![](https://ucarecdn.com/b4ee5250-3f55-4510-8ad3-a73dbf70852b/)
 
 
-  Sailing in Paradise is proud to be supporting Childhood Cancer Support this 'Talk like a Pirate Day' on Monday 19th September 2022.  We will be donating 100% of ticket sales from a special 3 hour Island Cruise departing Main Beach, Gold Coast.    So gather your family and friends and jump aboard as we set sail for 3 hours of fun.   Feel free to dress up in pirate theme (our crew will be getting into the spirit) or come along and enjoy the fun on the day however you feel comfortable.   This experience is suitable for all ages.  What a great way to kick off the school holidays and support a worthy cause.  
+  Sailing in Paradise is proud to be supporting Childhood Cancer Support this 'Talk like a Pirate Day' on Tuesday 19th September 2023.  We will be donating 100% of ticket sales from a special 3 hour Island Cruise departing Main Beach, Gold Coast.    So gather your family and friends and jump aboard as we set sail for 3 hours of fun.   Feel free to dress up in pirate theme (our crew will be getting into the spirit) or come along and enjoy the fun on the day however you feel comfortable.   This experience is suitable for all ages.  What a great way to kick off the school holidays and support a worthy cause.  
 
 
   Cruise includes light snack.  Drinks are available for purchase on board.
@@ -50,56 +50,52 @@ contentColumnTitle: We love our Paradise, let us share it with you!
 contentColumn: >-
   Visit an isolated island beach only accessible by boat where you are invited
   to jump in for a swim and try our beach games (including Beach Volleyball,
-  Stand Up Paddle-boarding, Beach Cricket and Inflatables).   Or if you just
-  want to laze on the beach (or our trampoline-style foredeck) that's totally
-  fine, we'll play some cool tunes and serve up an icy cold drink from our
-  on-board bar so you can relax and watch the world sail by in style.     But
-  don't forget to keep your eyes peeled for the friendly bottlenose dolphins who
+  Stand Up Paddle-boarding, Beach Cricket and splash mat).   Or if you just want
+  to laze on the beach (or our trampoline-style foredeck) that's totally fine,
+  we'll play some cool tunes and serve up an icy cold drink from our on-board
+  bar so you can relax and watch the world sail by in style.     But don't
+  forget to keep your eyes peeled for the friendly bottlenose dolphins who
   regularly cruise past.
 
 
-  Take in the sights including impressive superyachts, Sea World, Palazzo Versace, South Stradbroke Island, Wavebreak Island and the Gold Coast Seaway. 
+  Take in the sights including impressive superyachts, Sea World, South Stradbroke Island, Wavebreak Island and the Gold Coast Seaway. 
 
 
   This is a laid-back cruise experience on a spacious sailing catamaran that you are sure to love.   With no more than 30 guests on board we curate a social atmosphere and we can't wait to welcome you on board our beautiful boat!
 accordionSection:
   accordion:
-    - dropdownContent: "•\t3 hours on the beautiful, calm Gold Coast Broadwater\r
+    - dropdownContent: >-
+        •	3 hours on the beautiful, calm Gold Coast Broadwater
 
 
-        •\tRelax onboard a spacious Sailing Catamaran\r
+        •	Relax onboard a spacious Sailing Catamaran
 
 
-        •\tA maximum of 30 guests on board\r
+        •	A maximum of 30 guests on board
 
 
-        •\tSee impressive superyachts, Seaworld, Palazzo Versace, Gold
-        Coast Seaway, Wavebreak Island, South Stradbroke Island and local
-        wildlife.\r
+        •	See impressive superyachts, Seaworld, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.
 
 
-        •\tPull up at an island beach only accessible by boat\r
+        •	Pull up at an island beach only accessible by boat
 
 
-        •\tEnjoy free beach activities, take a dip or just relax and
-        enjoy the view\r
+        •	Enjoy free beach activities, take a dip or just relax and enjoy the view
 
 
-        •\tCool tunes set the soundtrack for your experience\r
+        •	Cool tunes set the soundtrack for your experience
 
 
-        •\tFriendly relaxed ambience with crew sharing some local
-        knowledge\r
+        •	Friendly relaxed ambience with crew sharing some local knowledge
 
 
-        •\tKeep your eyes peeled for dolphins!\r
+        •	Keep your eyes peeled for dolphins!
 
 
-        •\tIncludes one complimentary drink and light lunch
+        •	Includes one complimentary drink and light lunch
 
 
-        •\tDeparts and returns @ Marina Mirage - an ideal spot for a
-        beautiful waterfront meal or drinks before or after your cruise"
+        •	Departs and returns @ Marina Mirage - an ideal spot for a beautiful waterfront meal or drinks before or after your cruise
       title: What to expect
     - dropdownContent: |-
         •	Hat
