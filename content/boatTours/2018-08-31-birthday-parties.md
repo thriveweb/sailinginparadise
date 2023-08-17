@@ -251,7 +251,13 @@ accordionSection:
         **Oceans (30 capacity)** 
 
 
-        Our largest and most luxurious vessel, guaranteed to impress! This vessel is ideal for more relaxed celebrations, families with older kids and corporate events. 
+        Our most luxurious vessel, Oceans is guaranteed to impress. With a
+
+        maximum guest capacity of 30, but intimate enough to host couples
+
+        and small groups, Oceans delivers the space required for your
+
+        group without sacrificing any of the creature comforts.
 
 
         **Island Time (43 capacity)** 
