@@ -42,7 +42,10 @@ content: >-
   \- Filtered water is available on board the vessels.  We suggest bringing a reusable water bottle.  
 
 
-  \- For BYO guests, bottled drinks such as champagne, cruisers, beers etc are welcome. **Red wine and straight bottles of spirits are not permitted**, but you are welcome to bring along commercial pre-mixed spirits/RTDs.  Please BYO non-breakable cup if required.  We will provide eskies with ice for your use.
+  \- For BYO guests, bottled drinks such as champagne, cruisers, beers etc are welcome. **Red wine and straight bottles of spirits are not permitted**, but you are welcome to bring along commercial pre-mixed spirits/RTDs.  
+
+
+  **\- Please remember to bring any non-breakable cups, plates and cutlery etc as required for BYO food and drinks as we don't carry these on board.**  We will provide eskies with ice for your use.  
 
 
   \- We welcome any attire on board the vessels so please dress however you feel comfortable to suit the theme of your charter, whether than be a T-Shirt and shorts or cocktail attire.  On winter evenings a jacket is advisable. 
