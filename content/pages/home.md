@@ -29,6 +29,9 @@ featuredSlider:
   - buttonUrl: cruise/gift-vouchers/
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
+  - title: Brand New Vessel Joins the fleet!
+    description: We welcome 'Island Time' our new 43 capacity boat for charter
+    buttonUrl: /our-boats/
 featuredBanner:
   buttonTitle: December Christmas Boat Party Availability!
   buttonUrl: boat-charter/gold-coast-christmas-parties/
