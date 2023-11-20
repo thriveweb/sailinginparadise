@@ -5,47 +5,64 @@ title: Our Charter Boats
 featuredImage: https://ucarecdn.com/7eb05bf9-806d-415f-8ceb-d7b21fa685ce/
 intro: "## Choose from three beautiful catamarans"
 boats:
-  - boatFeatures:
-      - content: 10.5m long x 6.5m wide
-      - content: Max. 30 passengers + 2 crew
-      - content: Large central table
-      - content: Bench style seating for up to 30 guests
-      - content: Main sail and jib
-      - content: Trampoline style foredeck
-      - content: Central access to foredeck (easy to walk around)
-      - content: Beautiful recently renovated bathroom
-      - content: Front and rear boarding ladders for easy beach and water access
-      - content: BBQ
-      - content: Eskies
-      - content: Sound System
+  - videoSection:
+      title: ""
+      videoURL: ""
+      imageOverlay: ""
+    title: "Island Time "
+    featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
     description: >-
-      Our original and signature vessel, the ‘Spirit Of Gwonda’ is a Seawind
-      1050 Resort sailing catamaran which has been purpose built for
-      entertaining and day cruises.    With no need for bedrooms this allows for
-      extra deck space to accommodate up to 30 guests.
+      #### BRAND NEW 43 PAX 
 
 
-      The clever and unique design of this vessel offers a completely open plan layout so your guests can interact with each other at all times whether inside or outside the vessel.  
+      #### AVAILABLE TO CHARTER NOW
 
 
-      Of course we still offer all the luxuries you would expect including the ever-popular front trampoline sections for soaking up the sun, generous inside bench seating with our largest undercover area and a central table, barbecue and renovated bathroom facilities.
 
 
-      This is the ideal boat for larger groups and it's our ultimate 'party boat'.  Spirit of Gwonda is also wonderful for families with small children.  
+      'Island Time' is a brand-new vessel commissioned by Sailing in Paradise  who has joined the fleet in summer 2023.  
 
 
-      Measuring 10.5m long by 6.5m wide, there is ample space for up to 30 people (plus 2 crew), approx 60 square metres of deck space in fact.  You will be amazed at the room available inside this smooth and stable boat, making it ideal for social occasions of all kinds.   Spirit Of Gwonda is truly unique and the only one of it’s kind on the Gold Coast.
+      I﻿f you are looking for an extremely spacious vessel that is shiny, new  and guaranteed to impress your guests then 'Island Time' is the perfect choice.  
+
+
+      This Seawind 1160 resort offers an excellent flow from the interior to exterior spaces making her perfect for events, parties and larger family groups.    
+
+
+      Comfortably hosting up to 43 guests, this vessel features a large, shaded, indoor space with central island table and wrap around interior bench seating.   On the front deck, guests will enjoy a spacious area with trampolines and unique forward seating/table zones.    
+
+
+      Please note that the below photos and video are indicative only until local imagery can be sourced.  Please see our instagram page highlights for footage of Island Time.  
+
+
+      This style of vessel is popular for charters in other areas and we are delighted to be welcoming the Seawind 1160 Resort to the Gold Coast Broadwater!  She is unrivalled on the Gold Coast if you are looking for a sailing catamaran with style and space.  
+
+
+      <iframe src="https://player.vimeo.com/video/826825730?h=0a983ef783" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    boatFeatures:
+      - content: 11.6m long, 6.5m wide
+      - content: M﻿ax. 4﻿3 passengers + 2 crew
+      - content: S﻿eawind 1160 Resort - new 2023 model
+      - content: L﻿arge Undercover Area
+      - content: Central Interior Table
+      - content: Generous B﻿ench Style Seating
+      - content: F﻿orward Trampolines
+      - content: 2﻿ bathrooms
+      - content: Spacious Front Deck Seating/Dining Zones
+      - content: D﻿eck Shower
+      - content: M﻿ain Sail and Jib
+      - content: Front and Rear Boarding Ladders For Easy Beach and Water Access
+      - content: R﻿ear Diving Platform
+      - content: E﻿skies
+      - content: S﻿ound System
+      - content: B﻿BQ
     gallery:
-      - image: https://ucarecdn.com/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e/
-      - image: https://ucarecdn.com/9a68ca1c-1414-4282-990c-1656ba923df9/
-      - image: https://ucarecdn.com/b4693d47-05c4-4b1c-a1ff-877201630d9d/
-      - image: https://ucarecdn.com/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273/
-    title: spirit Of Gwonda
-    featuredImage: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
-    videoSection:
-      imageOverlay: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
-      title: 360° VR tour - Spirit Of Gwonda
-      videoURL: https://tour.panoee.com/spirit-of-gwonda
+      - image: https://ucarecdn.com/81c4b0e8-bdfe-47a3-a54d-b40272f6e72b/
+      - image: https://ucarecdn.com/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0/
+      - image: https://ucarecdn.com/74913924-d7e8-452d-9de6-e528ea3fdedb/
+      - image: https://ucarecdn.com/ddd82143-4b4f-4b09-9471-e4c9cb2fbe1c/
+      - image: https://ucarecdn.com/6af09a34-cf1a-4046-bdf8-50d158e344a3/
+      - image: https://ucarecdn.com/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9/
   - virtualTourPopup:
       title: ""
     videoSection:
@@ -88,62 +105,47 @@ boats:
       - image: https://ucarecdn.com/c92a9b14-1df3-4135-9c14-e313b734264b/
       - image: https://ucarecdn.com/dfeee078-1196-4eb9-8ad7-be4f3e9f805a/-/crop/1120x1126/0,284/-/preview/
       - image: https://ucarecdn.com/12879a49-dd42-49fa-85cb-a9db8521d7a3/
-  - videoSection:
-      title: ""
-      videoURL: ""
-      imageOverlay: ""
-    title: Island Time - ARRIVING NOVEMBER 2023
-    featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
+  - boatFeatures:
+      - content: 10.5m long x 6.5m wide
+      - content: Max. 30 passengers + 2 crew
+      - content: Large central table
+      - content: Bench style seating for up to 30 guests
+      - content: Main sail and jib
+      - content: Trampoline style foredeck
+      - content: Central access to foredeck (easy to walk around)
+      - content: Beautiful recently renovated bathroom
+      - content: Front and rear boarding ladders for easy beach and water access
+      - content: BBQ
+      - content: Eskies
+      - content: Sound System
     description: >-
-      #### B﻿RAND NEW VESSEL INCOMING!
+      Our original and signature vessel, the ‘Spirit Of Gwonda’ is a Seawind
+      1050 Resort sailing catamaran which has been purpose built for
+      entertaining and day cruises.    With no need for bedrooms this allows for
+      extra deck space to accommodate up to 30 guests.
 
 
-      'Island Time' is a brand-new vessel commissioned by Sailing in Paradise.  
+      The clever and unique design of this vessel offers a completely open plan layout so your guests can interact with each other at all times whether inside or outside the vessel.  
 
 
-      We are thrilled to be welcoming this purpose-built day charter vessel to our fleet in November 2023. 
+      Of course we still offer all the luxuries you would expect including the ever-popular front trampoline sections for soaking up the sun, generous inside bench seating with our largest undercover area and a central table, barbecue and renovated bathroom facilities.
 
 
-      This Seawind 1160 resort offers an excellent flow from the interior to exterior spaces making her perfect for events, parties and larger family groups.    
+      This is the ideal boat for larger groups and it's our ultimate 'party boat'.  Spirit of Gwonda is also wonderful for families with small children.  
 
 
-      Comfortably hosting up to 43 guests, this vessel features a large, shaded, indoor space with central island table and wrap around interior bench seating.   On the front deck, guests will enjoy a spacious area with trampolines and unique forward seating/table zones.    
-
-
-      T﻿his vessel is currently available to pre-book from 18 November 2023.
-
-
-      Please note that the below photos and video are indicative only (supplied by manufacturer).  
-
-
-      This vessel is a popular charter boat design in other areas and we are delighted to be welcoming the Seawind 1160 Resort to the Gold Coast Broadwater this year!
-
-
-      <iframe src="https://player.vimeo.com/video/826825730?h=0a983ef783" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-    boatFeatures:
-      - content: 11.6m long, 6.5m wide
-      - content: M﻿ax. 4﻿3 passengers + 2 crew
-      - content: S﻿eawind 1160 Resort - new 2023 model
-      - content: L﻿arge Undercover Area
-      - content: Central Interior Table
-      - content: Generous B﻿ench Style Seating
-      - content: F﻿orward Trampolines
-      - content: 2﻿ bathrooms
-      - content: Spacious Front Deck Seating/Dining Zones
-      - content: D﻿eck Shower
-      - content: M﻿ain Sail and Jib
-      - content: Front and Rear Boarding Ladders For Easy Beach and Water Access
-      - content: R﻿ear Diving Platform
-      - content: E﻿skies
-      - content: S﻿ound System
-      - content: B﻿BQ
+      Measuring 10.5m long by 6.5m wide, there is ample space for up to 30 people (plus 2 crew), approx 60 square metres of deck space in fact.  You will be amazed at the room available inside this smooth and stable boat, making it ideal for social occasions of all kinds.   Spirit Of Gwonda is truly unique and the only one of it’s kind on the Gold Coast.
     gallery:
-      - image: https://ucarecdn.com/81c4b0e8-bdfe-47a3-a54d-b40272f6e72b/
-      - image: https://ucarecdn.com/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0/
-      - image: https://ucarecdn.com/74913924-d7e8-452d-9de6-e528ea3fdedb/
-      - image: https://ucarecdn.com/ddd82143-4b4f-4b09-9471-e4c9cb2fbe1c/
-      - image: https://ucarecdn.com/6af09a34-cf1a-4046-bdf8-50d158e344a3/
-      - image: https://ucarecdn.com/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9/
+      - image: https://ucarecdn.com/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e/
+      - image: https://ucarecdn.com/9a68ca1c-1414-4282-990c-1656ba923df9/
+      - image: https://ucarecdn.com/b4693d47-05c4-4b1c-a1ff-877201630d9d/
+      - image: https://ucarecdn.com/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273/
+    title: spirit Of Gwonda
+    featuredImage: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
+    videoSection:
+      imageOverlay: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
+      title: 360° VR tour - Spirit Of Gwonda
+      videoURL: https://tour.panoee.com/spirit-of-gwonda
 secondaryBanner:
   buttonTitle: Meet our Crew...
   buttonUrl: about-us
