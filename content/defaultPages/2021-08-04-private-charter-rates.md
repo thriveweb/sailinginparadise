@@ -40,7 +40,7 @@ content: >-
   ![Oceans Seawind 1160 Deluxe with Surfers Paradise Skyline](https://ucarecdn.com/452dcace-5773-4a8f-b3b0-06ddc5bd273d/ "Oceans Seawind 1160 Deluxe ")
 
 
-  ##### 2023 Rates for our luxury 30 pax catamaran 'Oceans'
+  ##### 2022 Rates for our luxury 30 pax catamaran 'Oceans'
 
 
   ![Private Charter Rates Sail Gold Coast ](https://ucarecdn.com/c33caf23-c6a7-4da9-96f5-eac4c4d945ab/ "Oceans Private Charter Rates Gold Coast ")
