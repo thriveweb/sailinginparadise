@@ -16,7 +16,7 @@ import './AlexBookingForm.css'
 // CSS Modules, react-datepicker-cssmodules.css
 // import 'react-datepicker/dist/react-datepicker-cssmodules.css';
 
-class AlexBookingForm extends React.Component {
+class AlexBookingFormV2 extends React.Component {
   static defaultProps = {
     name: 'The Booking Form',
     action: '/thank-you-booking-enquiry/',
@@ -35,6 +35,8 @@ class AlexBookingForm extends React.Component {
       disabled: false,
       clickDate: false,
       charterType: '',
+      isBirthdayCharter: false,
+      age:'',
       firstName: '',
       lastName: ''
     }
@@ -43,7 +45,8 @@ class AlexBookingForm extends React.Component {
 
   handleChange(date) {
     this.setState({
-      startDate: date
+      startDate: date,
+      isBirthdayCharter: this.state.charterType == 'birthday parties',
     })
   }
 
@@ -57,7 +60,8 @@ class AlexBookingForm extends React.Component {
 
   handleValueChange = e => {
     this.setState({
-      [e.target.name]: e.target.value
+      [e.target.name]: e.target.value,
+      isBirthdayCharter: (e.target.name == 'charterType' && e.target.value == 'birthday parties')
     })
   }
 
@@ -225,6 +229,15 @@ class AlexBookingForm extends React.Component {
                 'Bucks Parties'
               ]}
             />
+            {this.state.isBirthdayCharter && <label className="Form--Label TextArea">
+              <input
+                className="Form--Input"
+                type="number"
+                placeholder="Age of Birthday Celebrator*"
+                name="age"
+                required
+              />
+            </label>}
 
             <Select
               className="TextArea"
@@ -264,4 +277,4 @@ class AlexBookingForm extends React.Component {
     )
   }
 }
-export default AlexBookingForm
+export default AlexBookingFormV2
