@@ -58,6 +58,7 @@ class Select extends Component {
               {option}
             </option>
           ))}
+          <optgroup disabled></optgroup>
         </select>
         <div className={`select-dropdown ${activeDropdown ? 'active' : ''}`}>
           <span

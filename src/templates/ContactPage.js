@@ -47,7 +47,7 @@ export const ContactPageTemplate = ({
         <div className="container Contact--Section1--Container">
           <IntroText content={intro} center />
           <div className="Contact--Details">
-            <div class="Content Contact--Details--Item">
+            <div className="Content Contact--Details--Item">
               {phoneTitle && (
                 <p>
                   <strong>CALL US ON</strong>
