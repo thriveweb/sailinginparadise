@@ -27,13 +27,19 @@ content: >-
   ###### HOW TO FIND THE BOATS AT THE MARINAS
 
 
-  The access to the main marina jetty is at the very end (north western corner) of the Mariner's Cove carpark.   Please take the jetty with the big yellow archway at Mariner's Cove. Our vessels are located on the first arm (to your left) after going under the first yellow archway, the boats are visible straight away. Please find a map below of the current vessel locations.  
+  The access to the main marina jetty is at the very end (north western corner) of the Mariner's Cove carpark. For **Oceans & Spirit of Gwonda,** please take the jetty with the big yellow archway at Mariner's Cove. Our vessels are located on B arm, the first arm (to your left) after going under the first yellow archway, the boats are visible straight away. 
+
+
+  For **Island Time**, our crew will meet you at the Marina Mirage C Arm gate 10 minutes prior to your scheduled departure time (located to the right of the main boardwalk, on the corner of Omeros Brothers Seafood restaurant). 
+
+
+  Please find a map below of the current vessel locations.
 
 
   If you can’t find us you can always call us and we will be happy to guide you.
 
 
-  ![](https://ucarecdn.com/b231eb16-4d81-4680-881d-b562d0918972/)
+  ![](https://ucarecdn.com/bb3cfc09-aa1d-4abf-860e-a8825f4d6df3/)
 
 
   ###### BOARDING INFO
