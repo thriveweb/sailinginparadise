@@ -47,7 +47,7 @@ class Select extends Component {
 
     return (
       <label className={`Form--Label ${className}`} ref={this.mySelect}>
-        <select name={name} data-native-menu="false" onChange={this.props.handleValueChange} required>
+        <select name={name} onChange={this.props.handleValueChange} required disabled>
           <option value="">Please select an option</option>
           {options.map((option, index) => (
             <option
