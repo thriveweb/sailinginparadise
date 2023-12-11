@@ -12,12 +12,10 @@ boats:
     title: "Island Time "
     featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
     description: >-
-      #### BRAND NEW 43 PAX 
+      #### BRAND NEW 42 PAX
 
 
       #### AVAILABLE TO CHARTER NOW
-
-
 
 
       'Island Time' is a brand-new vessel commissioned by Sailing in Paradise  who has joined the fleet in summer 2023.  
@@ -29,7 +27,7 @@ boats:
       This Seawind 1160 resort offers an excellent flow from the interior to exterior spaces making her perfect for events, parties and larger family groups.    
 
 
-      Comfortably hosting up to 43 guests, this vessel features a large, shaded, indoor space with central island table and wrap around interior bench seating.   On the front deck, guests will enjoy a spacious area with trampolines and unique forward seating/table zones.    
+      Comfortably hosting up to 42 guests, this vessel features a large, shaded, indoor space with central island table and wrap around interior bench seating.   On the front deck, guests will enjoy a spacious area with trampolines and unique forward seating/table zones.    
 
 
       Please note that the below photos and video are indicative only until local imagery can be sourced.  Please see our instagram page highlights for footage of Island Time.  
@@ -41,7 +39,7 @@ boats:
       <iframe src="https://player.vimeo.com/video/826825730?h=0a983ef783" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     boatFeatures:
       - content: 11.6m long, 6.5m wide
-      - content: M﻿ax. 4﻿3 passengers + 2 crew
+      - content: M﻿ax. 4﻿2 passengers + 2-3 crew
       - content: S﻿eawind 1160 Resort - new 2023 model
       - content: L﻿arge Undercover Area
       - content: Central Interior Table
