@@ -87,7 +87,7 @@ accordionSection:
         **Where can I park?**
 
 
-        There is plentiful free parking underneath the Marina Mirage Shopping Centre which you are permitted to use.
+        There is parking available at Mariners Cove (paid) and Marina Mirage plus limited street parking on Seaworld Drive.  Please check signage at time of parking and consider ride share for a stress free arrival at your charter (especially during busy times of year).  
 
 
         **What about other transport options?**
