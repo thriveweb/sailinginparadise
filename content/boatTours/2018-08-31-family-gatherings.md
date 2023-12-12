@@ -126,7 +126,7 @@ accordionSection:
         **Where can I park?**
 
 
-        There is plentiful free parking at Marina Mirage/Mariners Cove which you are permitted to use.  Please check signage at time of parking and if parking overnight consider street parking to avoid towing.
+        There is parking available at Mariners Cove (paid) and Marina Mirage plus limited street parking on Seaworld Drive.  Please check signage at time of parking and consider ride share for a stress free arrival at your charter (especially during busy times of year).  
 
 
         **What about other transport options?**
