@@ -12,7 +12,29 @@ content: >-
   ###### GETTING TO THE MARINA
 
 
-  We are conveniently located at Marina Mirage and Mariners Cove at 74 Seaworld Drive, Main Beach. The marinas are directly adjacent to one another and there is plentiful free parking which you are invited to use.
+  We are conveniently located at Marina Mirage and Mariners Cove at 74 Seaworld Drive, Main Beach. The marinas are directly adjacent to one another.
+
+
+
+
+  **P﻿ARKING AT THE MARINAS**
+
+
+  The car parks are managed privately and conditions may change at any time so please check the signage at time of parking. 
+
+
+  M﻿ariner's Cove has recently introduced paid parking please download the app via <https://easypark.com.au/en_au>
+
+
+  M﻿arina Mirage currently offers free parking to staff and customers who may be shopping or dining within Marina Mirage.
+
+
+  L﻿imited free street parking is available on Seaworld Drive
+
+
+  W﻿e recommend considering rideshare for a stress-free arrival to your charter.
+
+
 
 
   ###### HOW TO FIND THE BOATS AT THE MARINAS
