@@ -14,7 +14,7 @@ intro: >-
   There is something so magical about a sunset over the water.  But surrounded by it?  Well that's something else...    
 
 
-  We offer private sunset sails for couples, small family groups, as well as larger groups of up to 30 guests.  
+  We offer private sunset sails for couples, small family groups, as well as larger groups of up to 42 guests.  
 
 
   So come and join us for a sail as the sun sinks behind the mountains of the Gold Coast Hinterland and casts a glow across the calm waters of the Gold Coast Broadwater.
