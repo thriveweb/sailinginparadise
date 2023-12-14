@@ -38,7 +38,7 @@ gallery:
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ""
-contentColumnTitle: For groups from 31 - 103 guests
+contentColumnTitle: For groups from 31 - 102 guests
 contentColumn: >-
   Set sail in convoy to a secret beach location for a couple of hours of fun in
   the sun, sea and sand.
@@ -53,7 +53,7 @@ contentColumn: >-
   Private chefs and wait staff, DJ's, watersports activities (parasailing, jetboats etc), drones and professional photographers, the list goes on.
 
 
-  Raft Up yacht parties can cater from 31 to 103 people on 3 sailing catamarans.
+  Raft Up yacht parties can cater from 31 to 102 people on 3 sailing catamarans.
 
 
   You are welcome to BYO everything or take advantage of our extensive catering options from some of the Gold Coast's best caterers and private chefs.
@@ -107,7 +107,7 @@ accordionSection:
         **How many people can you accommodate?**
 
 
-        We have 3 sailing catamarans available which can carry a total of 103 guests.
+        We have 3 sailing catamarans available which can carry a total of 102 guests.
 
 
         **Where do your boats depart from?**
@@ -213,10 +213,10 @@ accordionSection:
         group without sacrificing any of the creature comforts.
 
 
-        **Island Time (43 capacity)** 
+        **Island Time (42 capacity)** 
 
 
-        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+        Our brand-NEW Seawind 1160 Resort! Island Time joined the fleet in November 2023 and brings a new charter experience to the Gold Coast.
 
         Purpose built for day charters and events this vessel offers unrivalled
 
