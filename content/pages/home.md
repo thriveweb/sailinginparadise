@@ -9,8 +9,8 @@ hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
   - title: Brand New Vessel Joins the fleet!
-    description: We welcome 'Island Time' our new 43 capacity boat for charter
-    buttonUrl: /our-boats/
+    description: We welcome 'Island Time' our new 42 capacity boat for charter
+    buttonUrl: https://sailinginparadise.com.au/our-boats/
   - buttonUrl: boat-charter/gold-coast-hens-parties/
     description: We are the hens party specialists. Let us create a truly special
       event for you and your friends.
