@@ -73,7 +73,7 @@ contentColumn: >-
   ## the perfect hen's party boats
 
 
-  With 3 beautiful sailing catamarans available for charter we can accommodate groups of up to 30 or 43 guests.    [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
+  With 3 beautiful sailing catamarans available for charter we can accommodate groups of up to 30 or 42 guests.    [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
 
 
   The large trampoline-style fore-decks are perfect for lazing in the sunshine or dancing, while we sail the calm, clear waters of the Gold Coast. The ample undercover space makes the vessels perfect for those seeking shade. Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
@@ -296,10 +296,10 @@ accordionSection:
         group without sacrificing any of the creature comforts.
 
 
-        **Island Time (43 capacity)** 
+        **Island Time (42 capacity)** 
 
 
-        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+        Our brand-NEW Seawind 1160 Resort! Island Time joined the fleet in November 2023 and brings a new charter experience to the Gold Coast.
 
         Purpose built for day charters and events this vessel offers unrivalled
 
