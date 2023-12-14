@@ -208,10 +208,10 @@ accordionSection:
         group without sacrificing any of the creature comforts.
 
 
-        **Island Time (43 capacity)** 
+        **Island Time (42 capacity)** 
 
 
-        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+        Our brand-NEW Seawind 1160 Resort! Island Time joined the fleet in November 2023 and brings a new charter experience to the Gold Coast.
 
         Purpose built for day charters and events this vessel offers unrivalled
 
