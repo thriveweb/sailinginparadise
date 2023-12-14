@@ -11,7 +11,7 @@ intro: >-
   If you’re looking for things to do on the Gold Coast, we invite you on a unique Gold Coast experience... sailing the calm, clear waters of the Gold Coast Broadwater aboard a beautiful sailing catamaran. 
 
 
-  With 3 boats available for private charter, and catering for groups of 1-103 guests, our private sightseeing charters are ideal for families, colleagues and friends looking to explore the area and see the Gold Coast from a different perspective.   
+  With 3 boats available for private charter, and catering for groups of 1-102 guests, our private sightseeing charters are ideal for families, colleagues and friends looking to explore the area and see the Gold Coast from a different perspective.   
 
 
   Whether you are a Gold Coast local or on vacation as an international visitor, experiencing the many attractions on the Gold Coast Broadwater from a luxury catamaran is the perfect way to create a memorable experience for your group!
@@ -201,10 +201,10 @@ accordionSection:
         group without sacrificing any of the creature comforts.
 
 
-        **Island Time (43 capacity)** 
+        **Island Time (42 capacity)** 
 
 
-        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+        Our brand-NEW Seawind 1160 Resort! Island Time joined the fleet in November 2023 and brings a new charter experience to the Gold Coast.
 
         Purpose built for day charters and events this vessel offers unrivalled
 
