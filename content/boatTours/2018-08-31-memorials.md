@@ -16,7 +16,7 @@ intro: >-
   with the family.  
 
 
-  If you wish to scatter the ashes of your loved one in the pristine waters of the Gold Coast Broadwater we are able to offer a memorial charter aboard one of our comfortable sailing catamarans for groups from 1 – 43 guests.
+  If you wish to scatter the ashes of your loved one in the pristine waters of the Gold Coast Broadwater we are able to offer a memorial charter aboard one of our comfortable sailing catamarans for groups from 1 – 42 guests.
 contentBox:
   buttonTitle: Make an enquiry
   buttonUrl: booking-enquiry/
@@ -135,10 +135,10 @@ accordionSection:
         group without sacrificing any of the creature comforts.
 
 
-        **Island Time (43 capacity)** 
+        **Island Time (42 capacity)** 
 
 
-        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+        Our brand-NEW Seawind 1160 Resort! Island Time joined the fleet in November 2023 and brings a new charter experience to the Gold Coast.
 
         Purpose built for day charters and events this vessel offers unrivalled
 
