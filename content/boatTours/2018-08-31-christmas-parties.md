@@ -102,10 +102,10 @@ contentColumn: >-
 accordionSection:
   accordion:
     - dropdownContent: Our 3 luxurious and spacious sailing catamarans mean we can now
-        cater for larger groups of up to 103 people – The Spirit Of Gwonda and
+        cater for larger groups of up to 102 people – The Spirit Of Gwonda and
         Oceans can accommodate up to 30 guests (plus 2 crew) and Island Time has
-        a capacity of up to 43 guests (plus 2 crew).
-      title: 1-103 Guest Capacity
+        a capacity of up to 42 guests (plus 2-3 crew).
+      title: 1-102 Guest Capacity
     - dropdownContent: >-
         The layout of our boats are ideal for a Christmas party venue and make
         entertaining large groups a delight.   The spacious interior of the boat
@@ -243,10 +243,10 @@ accordionSection:
         group without sacrificing any of the creature comforts.
 
 
-        **Island Time (43 capacity)** 
+        **Island Time (42 capacity)** 
 
 
-        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+        Our brand-NEW Seawind 1160 Resort! Island Time joined the fleet in November 2023 and brings a new charter experience to the Gold Coast.
 
         Purpose built for day charters and events this vessel offers unrivalled
 
@@ -286,7 +286,7 @@ featuredTestimonials:
     Christmas Party with us...
   testimonial: "RACEVIEW STATE SCHOOL, Aus "
 meta:
-  description: "Celebrate this 2021 Christmas party sailing the beautiful Gold
-    Coast with Sailing in Paradise. Packages for up to 1 to 80 people. "
+  description: "Celebrate this 2023 Christmas party sailing the beautiful Gold
+    Coast with Sailing in Paradise. Packages for up to 1 to 102 people. "
   title: Gold Coast Christmas Party Boat | Christmas Party Cruise Gold Coast
 ---
