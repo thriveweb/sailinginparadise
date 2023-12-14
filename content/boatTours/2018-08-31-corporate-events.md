@@ -36,9 +36,9 @@ videoSection:
 contentColumnTitle: A corporate event venue with a difference...
 contentColumn: >-
   Our catamarans offer comfort, space and style and are guaranteed to create a
-  social atmosphere for your cruise.    With 30 and 43 capacity boats in the
+  social atmosphere for your cruise.    With 30 and 42 capacity boats in the
   fleet, Sailing in Paradise can accommodate small intimate groups or larger
-  gatherings.   We can also arrange for a 'yacht raft up' for up to 103
+  gatherings.   We can also arrange for a 'yacht raft up' for up to 102
   people.  Imagine your own private fleet of yachts setting sail for a secret
   rendezvous location for an afternoon of fun in the sunshine.
 
@@ -175,10 +175,10 @@ accordionSection:
         group without sacrificing any of the creature comforts.
 
 
-        **Island Time (43 capacity)** 
+        **Island Time (42 capacity)** 
 
 
-        Our brand-NEW Seawind 1160 Resort! Island Time joins the fleet in October 2023 and brings a new charter experience to the Gold Coast.
+        Our brand-NEW Seawind 1160 Resort! Island Time joined the fleet in November 2023 and brings a new charter experience to the Gold Coast.
 
         Purpose built for day charters and events this vessel offers unrivalled
 
@@ -217,6 +217,6 @@ featuredTestimonials:
   title: KOJO
 meta:
   description: For the ultimate in stress-free corporate event planning, we offer
-    a range of catering and drinks packages for up to 30 guests.
+    a range of catering and drinks packages for up to 102 guests.
   title: Gold Coast Corporate Events | Sailing in Paradise
 ---
