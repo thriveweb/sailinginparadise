@@ -78,6 +78,10 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       slug = `/${_.kebabCase(
         node.frontmatter.title
       )}/`
+    } else if(parsedFilePath.dir === 'faqPages') {
+      slug = `/faq/${_.kebabCase(
+        node.frontmatter.title
+      )}/`
     } else if (_.get(node, 'frontmatter.slug')) {
       slug = `/${node.frontmatter.slug.toLowerCase()}/`
     } else if (

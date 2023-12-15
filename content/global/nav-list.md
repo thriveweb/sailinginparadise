@@ -42,7 +42,9 @@ navItems:
         optionalTitle: Valentine's Day
     title: Boat Charter
   - title: Our Charter Boats
-  - title: About Us
+  - subNavItems:
+      - title: Charter FAQs
+    title: "About Us"
   - subNavItems:
       - title: Happy Sailors
       - title: Latest News

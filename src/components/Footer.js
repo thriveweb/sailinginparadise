@@ -92,6 +92,9 @@ export default props => {
             <Link className="NavLink" to="/contact-us/">
               Contact us
             </Link>
+            <Link className="NavLink" to="/faq/charter-fa-qs/">
+              Charter FAQs
+            </Link>
           </div>
           <div className="footer-col col3">
             {charters.map(({ title, subNavItems }, index) => {
