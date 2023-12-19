@@ -33,10 +33,10 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: December Christmas Boat Party Availability!
-  buttonUrl: boat-charter/gold-coast-christmas-parties/
+  buttonTitle: Click for this week's availability!
+  buttonUrl: boat-charter/last-minute-charters/
   image: https://ucarecdn.com/29d44dd2-1be0-416a-9d67-220690d18c42/
-  title: Christmas Party Charters
+  title: last minute bookings
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
