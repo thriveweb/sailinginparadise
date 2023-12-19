@@ -70,7 +70,9 @@ class AlexBookingFormV2 extends React.Component {
     if (this.state.disabled) return
     const form = e.target
     const data = serialize(form)
-    this.setState({ disabled: true })
+    console.log("*********** form, data",form,data)
+    // this.setState({ disabled: true })
+    console.log("***** action",(form.action + '?' + stringify(data)))
     fetch(form.action + '?' + stringify(data), {
       method: 'POST'
     })
@@ -229,15 +231,15 @@ class AlexBookingFormV2 extends React.Component {
                 'Bucks Parties'
               ]}
             />
-            {this.state.isBirthdayCharter && <label className="Form--Label TextArea">
+            <label className="Form--Label TextArea">
               <input
                 className="Form--Input"
                 type="number"
-                placeholder="Age of Birthday Celebrator*"
+                placeholder={`Age of Birthday Celebrator${this.state.isBirthdayCharter?"*":""}`}
                 name="age"
-                required
-              />
-            </label>}
+                required={this.state.isBirthdayCharter}
+              />              
+            </label>
 
             <Select
               className="TextArea"
