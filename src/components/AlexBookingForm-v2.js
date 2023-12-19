@@ -70,9 +70,7 @@ class AlexBookingFormV2 extends React.Component {
     if (this.state.disabled) return
     const form = e.target
     const data = serialize(form)
-    console.log("*********** form, data",form,data)
-    // this.setState({ disabled: true })
-    console.log("***** action",(form.action + '?' + stringify(data)))
+    this.setState({ disabled: true })
     fetch(form.action + '?' + stringify(data), {
       method: 'POST'
     })
