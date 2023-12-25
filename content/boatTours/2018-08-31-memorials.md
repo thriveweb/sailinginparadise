@@ -19,7 +19,7 @@ intro: >-
   If you wish to scatter the ashes of your loved one in the pristine waters of the Gold Coast Broadwater we are able to offer a memorial charter aboard one of our comfortable sailing catamarans for groups from 1 – 42 guests.
 contentBox:
   buttonTitle: Make an enquiry
-  buttonUrl: booking-enquiry/
+  buttonUrl: booking-enquiry
   title: ""
 gallery:
   - image: https://ucarecdn.com/3ff58452-e97c-4bba-b535-3852fcb3e57e/-/preview/-/enhance/66/
