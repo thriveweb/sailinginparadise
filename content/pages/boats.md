@@ -70,10 +70,11 @@ boats:
     title: Oceans - Deluxe
     featuredImage: https://ucarecdn.com/033861dd-c518-48e0-a767-176f44073284/
     description: >-
-      Our largest and most luxurious vessel, Oceans joined the fleet in April
-      2021 and is guaranteed to impress.    With a maximum guest capacity of 30,
-      Oceans delivers the space required for your group without sacrificing any
-      of the creature comforts.  
+      Oceans is a Seawind 1160 Deluxe, boasting an amazing layout equally
+      suitable for couples as it is for groups. 
+
+
+      Oceans joined the fleet in April 2021 and is guaranteed to impress.    With a maximum guest capacity of 30, Oceans delivers the space required for your group without sacrificing any of the creature comforts.  
 
 
       Oceans offers a comfortable lounging/dining area with flexible table configuration.   The undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.    This vessel is ideal for more relaxed celebrations, families with older kids and corporate events.
