@@ -55,11 +55,11 @@ boats:
       - content: S﻿ound System
       - content: B﻿BQ
     gallery:
-      - image: https://ucarecdn.com/81c4b0e8-bdfe-47a3-a54d-b40272f6e72b/
+      - image: https://ucarecdn.com/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad/
       - image: https://ucarecdn.com/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0/
-      - image: https://ucarecdn.com/74913924-d7e8-452d-9de6-e528ea3fdedb/
-      - image: https://ucarecdn.com/ddd82143-4b4f-4b09-9471-e4c9cb2fbe1c/
-      - image: https://ucarecdn.com/6af09a34-cf1a-4046-bdf8-50d158e344a3/
+      - image: https://ucarecdn.com/c83f6f16-25c4-42f7-a968-3684267485cf/
+      - image: https://ucarecdn.com/975d5213-c405-48eb-9bc6-d653304a9d5b/
+      - image: https://ucarecdn.com/38fa5db5-2e7e-4042-95cc-fcb840b4b744/
       - image: https://ucarecdn.com/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9/
   - virtualTourPopup:
       title: ""
