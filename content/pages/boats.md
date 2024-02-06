@@ -60,8 +60,8 @@ boats:
       - image: https://ucarecdn.com/c83f6f16-25c4-42f7-a968-3684267485cf/
       - image: https://ucarecdn.com/3325d55c-dcd9-4754-9049-dd0025911992/
       - image: https://ucarecdn.com/975d5213-c405-48eb-9bc6-d653304a9d5b/
-      - image: https://ucarecdn.com/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9/
       - image: https://ucarecdn.com/05568c86-c0de-4fe7-8230-33f0db7327dd/
+      - image: https://ucarecdn.com/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9/
       - image: https://ucarecdn.com/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad/
       - image: https://ucarecdn.com/cbb8f5cc-402f-48e2-ac76-87e947dbd041/
   - virtualTourPopup:
