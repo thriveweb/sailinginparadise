@@ -10,7 +10,7 @@ boats:
       videoURL: ""
       imageOverlay: ""
     title: "Island Time "
-    featuredImage: https://ucarecdn.com/8dac1dd6-d1a3-4b8a-92fa-33fb30e0ba1d/
+    featuredImage: https://ucarecdn.com/365bb24a-aa48-49e6-9d30-a212636f793c/
     description: >-
       #### BRAND NEW 42 PAX
 
@@ -55,12 +55,14 @@ boats:
       - content: S﻿ound System
       - content: B﻿BQ
     gallery:
-      - image: https://ucarecdn.com/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad/
+      - image: https://ucarecdn.com/38fa5db5-2e7e-4042-95cc-fcb840b4b744/
       - image: https://ucarecdn.com/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0/
       - image: https://ucarecdn.com/c83f6f16-25c4-42f7-a968-3684267485cf/
       - image: https://ucarecdn.com/975d5213-c405-48eb-9bc6-d653304a9d5b/
-      - image: https://ucarecdn.com/38fa5db5-2e7e-4042-95cc-fcb840b4b744/
       - image: https://ucarecdn.com/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9/
+      - image: https://ucarecdn.com/05568c86-c0de-4fe7-8230-33f0db7327dd/
+      - image: https://ucarecdn.com/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad/
+      - image: https://ucarecdn.com/cbb8f5cc-402f-48e2-ac76-87e947dbd041/
   - virtualTourPopup:
       title: ""
     videoSection:
