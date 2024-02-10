@@ -42,8 +42,6 @@ content: >-
   W﻿e recommend considering rideshare for a stress-free arrival to your charter.
 
 
-
-
   ###### HOW TO FIND THE BOATS AT THE MARINAS
 
 
@@ -56,7 +54,7 @@ content: >-
   Please find a map below of the current vessel locations.
 
 
-  If you can’t find us you can always call us and we will be happy to guide you.
+  If you can’t find us you can always call us on 0438 915 222  and we will be happy to guide you.
 
 
   ![](https://ucarecdn.com/bb3cfc09-aa1d-4abf-860e-a8825f4d6df3/)
