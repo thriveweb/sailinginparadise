@@ -6,9 +6,9 @@ featuredImage: https://ucarecdn.com/7eb05bf9-806d-415f-8ceb-d7b21fa685ce/
 intro: "## Choose from three beautiful catamarans"
 boats:
   - videoSection:
-      title: ""
-      videoURL: ""
-      imageOverlay: ""
+      title: " 360° VR TOUR - Island Time"
+      videoURL: https://tour.panoee.com/IslandTime
+      imageOverlay: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
     title: "Island Time "
     featuredImage: https://ucarecdn.com/365bb24a-aa48-49e6-9d30-a212636f793c/
     description: >-
