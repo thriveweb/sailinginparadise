@@ -18,7 +18,7 @@ boats:
       #### AVAILABLE TO CHARTER NOW
 
 
-      'Island Time' is a brand-new vessel commissioned by Sailing in Paradise  who has joined the fleet in summer 2023.  
+      'Island Time' is a brand-new vessel commissioned by Sailing in Paradise and the ultimate day charter/event boat for larger groups.   
 
 
       I﻿f you are looking for an extremely spacious vessel that is shiny, new  and guaranteed to impress your guests then 'Island Time' is the perfect choice.  
@@ -30,13 +30,10 @@ boats:
       Comfortably hosting up to 42 guests, this vessel features a large, shaded, indoor space with central island table and wrap around interior bench seating.   On the front deck, guests will enjoy a spacious area with trampolines and unique forward seating/table zones.    
 
 
-      Please note that the below photos and video are indicative only until local imagery can be sourced.  Please see our instagram page highlights for footage of Island Time.  
-
-
       This style of vessel is popular for charters in other areas and we are delighted to be welcoming the Seawind 1160 Resort to the Gold Coast Broadwater!  She is unrivalled on the Gold Coast if you are looking for a sailing catamaran with style and space.  
 
 
-      <iframe src="https://player.vimeo.com/video/826825730?h=0a983ef783" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      [S﻿ee our Instagram for videos of Island Time in action](https://www.instagram.com/stories/highlights/18039461704595777/)
     boatFeatures:
       - content: 11.6m long, 6.5m wide
       - content: M﻿ax. 4﻿2 passengers + 2-3 crew
