@@ -10,7 +10,7 @@ boats:
       videoURL: https://tour.panoee.com/IslandTime
       imageOverlay: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
     title: "Island Time "
-    featuredImage: https://ucarecdn.com/365bb24a-aa48-49e6-9d30-a212636f793c/
+    featuredImage: https://ucarecdn.com/529bc68b-b906-4620-a7b2-fb0db99b471d/-/crop/2093x1501/129,353/-/preview/
     description: >-
       #### BRAND NEW 42 PAX
 
