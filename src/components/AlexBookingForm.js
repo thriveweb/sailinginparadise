@@ -36,7 +36,8 @@ class AlexBookingForm extends React.Component {
       clickDate: false,
       charterType: '',
       isBirthdayCharter: false,
-      age:'',
+      selectError: false,
+      age: '',
       firstName: '',
       lastName: ''
     }
@@ -61,6 +62,7 @@ class AlexBookingForm extends React.Component {
   handleValueChange = e => {
     this.setState({
       [e.target.name]: e.target.value,
+      selectError: false,
       isBirthdayCharter: (e.target.name == 'charterType' && e.target.value == 'birthday parties')
     })
   }
@@ -70,6 +72,11 @@ class AlexBookingForm extends React.Component {
     if (this.state.disabled) return
     const form = e.target
     const data = serialize(form)
+    console.log("******* formdata", data)
+    if (!data.charterType) {
+      this.setState({ selectError: true });
+      return;
+    }
     this.setState({ disabled: true })
     fetch(form.action + '?' + stringify(data), {
       method: 'POST'
@@ -209,11 +216,12 @@ class AlexBookingForm extends React.Component {
             </label>
 
             <Select
-              className="TextArea"
+              className={`TextArea ${this.state.selectError && `SelectError`}`}
               placeholder="Charter Type*"
               selected={formCharter}
               handleValueChange={this.handleValueChange}
               name="charterType"
+              required
               options={[
                 'Birthday Parties',
                 'Hens Parties',
@@ -229,14 +237,14 @@ class AlexBookingForm extends React.Component {
                 'Bucks Parties'
               ]}
             />
-            <label className="Form--Label TextArea" style={{display: this.state.isBirthdayCharter?"block":"none"}}>
+            <label className="Form--Label TextArea" style={{ display: this.state.isBirthdayCharter ? "block" : "inline" }}>
               <input
                 className="Form--Input"
                 type="number"
-                placeholder={`Age of Birthday Celebrator${this.state.isBirthdayCharter?"*":""}`}
+                placeholder={`Age of Birthday Celebrator${this.state.isBirthdayCharter ? "*" : ""}`}
                 name="age"
                 required={this.state.isBirthdayCharter}
-              />              
+              />
             </label>
 
             <Select

@@ -29,6 +29,10 @@
   width: 100%;
 }
 
+.AlexBookingForm .SelectError {
+  border: 1px solid red;
+}
+
 .dateMessage {
   position: relative;
   display: block;
