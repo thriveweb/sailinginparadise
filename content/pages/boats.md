@@ -10,7 +10,7 @@ boats:
       videoURL: https://tour.panoee.com/IslandTime
       imageOverlay: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
     title: "Island Time "
-    featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/4619x3303/355,355/-/preview/
+    featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/3158x3108/1212,795/-/preview/
     description: >-
       #### BRAND NEW 42 PAX
 
@@ -141,7 +141,7 @@ boats:
       - image: https://ucarecdn.com/b4693d47-05c4-4b1c-a1ff-877201630d9d/
       - image: https://ucarecdn.com/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273/
     title: spirit Of Gwonda
-    featuredImage: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
+    featuredImage: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/-/crop/2566x2704/1039,0/-/preview/
     videoSection:
       imageOverlay: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
       title: 360° VR tour - Spirit Of Gwonda
