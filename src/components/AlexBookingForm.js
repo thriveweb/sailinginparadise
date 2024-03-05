@@ -237,7 +237,7 @@ class AlexBookingForm extends React.Component {
                 'Bucks Parties'
               ]}
             />
-            <label className="Form--Label TextArea" style={{ display: this.state.isBirthdayCharter ? "block" : "inline" }}>
+            <label className="Form--Label TextArea" style={{ display: this.state.isBirthdayCharter ? "block" : "none" }}>
               <input
                 className="Form--Input"
                 type="number"
