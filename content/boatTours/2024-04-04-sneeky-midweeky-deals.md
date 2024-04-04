@@ -58,24 +58,14 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: ""
-  - image: ""
-  - image: ""
+  - image: https://ucarecdn.com/e5116b04-14b4-4cb9-baa5-d248add19077/
+  - image: https://ucarecdn.com/d9d1f4ff-8c65-42c9-ad5f-d110c979ecd9/
+  - image: https://ucarecdn.com/89d28904-487e-45b9-8d37-c80e4b2b3b04/
   - image: https://ucarecdn.com/edac77ce-7a56-442f-a631-21e7b32f73f2/-/preview/-/enhance/74/
   - image: https://ucarecdn.com/0320f8b4-f407-41e2-9da9-50c5bc6a3af6/-/preview/-/enhance/39/
-  - image: ""
-  - image: ""
-  - image: ""
-  - image: ""
-  - image: ""
-  - image: ""
-  - image: ""
-  - image: ""
+  - image: https://ucarecdn.com/d2fd7d98-9d51-47d3-bbeb-9bf0a7248874/
   - image: ""
   - image: https://ucarecdn.com/423937f1-fc1c-4e9c-a803-349848e7752e/-/preview/-/enhance/26/
-  - image: ""
-  - image: ""
-  - image: ""
 videoSection:
   imageOverlay: ""
   title: ""
