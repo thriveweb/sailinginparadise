@@ -202,21 +202,16 @@ accordionSection:
       title: Private Charter FAQ's
   sectionTitle: About our charters
 columnBanner:
-  - buttonTitle: Make Enquiry
-    buttonUrl: booking-enquiry
+  - buttonTitle: Check Availability and Book Now
+    buttonUrl: ""
     content: Send me some info...
     title: Secure my Sneeky Midweeky Private Charter
     featuredImage: https://ucarecdn.com/60cf28b4-7151-4fea-ae4c-0a8601e88000/
-  - buttonTitle: ""
-    buttonUrl: ""
-    content: ""
-    title: ""
-    featuredImage: https://ucarecdn.com/17b4668a-b462-4c3f-b247-ed3ef1eaad5e/-/preview/-/enhance/36/
     bookingWidget: >-
       <!--StartFragment-->
 
 
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/569512/sneeky-midweeky?iframe=true"></iframe>
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/569512?iframe=true"></iframe>
 
 
       <!--EndFragment-->
