@@ -1,14 +1,14 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Sneeky Midweeky Deals
+title: Sneeky Mid-Weeky Deals
 icon: ""
 featuredImage: https://ucarecdn.com/ce10553d-ee62-4a2c-8548-d2e4b0ea6b4d/
 intro: >-
   ## Why should weekends have all the fun?
 
 
-  In partnership with Experience Gold Coast we are delighted to bring you two specially curated 'Sneeky Midweeky' deals offering incredible mid-week all inclusive packages on private yacht charters!
+  In partnership with Experience Gold Coast we are delighted to bring you two specially curated 'Sneeky Mid-Weeky' deals offering incredible mid-week all inclusive packages on private yacht charters!
 
 
   A﻿vailable 'til end of June 2024 only.
@@ -201,8 +201,8 @@ accordionSection:
 columnBanner:
   - buttonTitle: FIND OUT MORE OR MAKE A BOOKING
     buttonUrl: https://sailinginparadise.rezdy.com/catalog/569512/sneeky-midweeky
-    content: O﻿ur Sneeky Midweeky Deals are available for a very limited time.
-    title: Secure my Sneeky Midweeky Private Charter
+    content: O﻿ur Sneeky Mid-Weeky Deals are available for a very limited time.
+    title: Secure my Sneeky Mid-Weeky Private Charter
     featuredImage: https://ucarecdn.com/60cf28b4-7151-4fea-ae4c-0a8601e88000/
     bookingWidget: ""
 featuredTestimonials:
