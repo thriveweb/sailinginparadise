@@ -11,7 +11,7 @@ intro: >-
   In partnership with Experience Gold Coast we are delighted to bring you two specially curated 'Sneeky Mid-Weeky' deals offering incredible mid-week all inclusive packages on private yacht charters!
 
 
-  A﻿vailable 'til end of June 2024 only.
+  A﻿vailable 'til June 2024 only.
 
 
   C﻿hoose from our laid-back *'Sail, Sip and Graze'* or the luxe *'Twilight Sail and Dine'* package options.  
