@@ -11,7 +11,10 @@ intro: >-
   In partnership with Experience Gold Coast we are delighted to bring you two specially curated 'Sneeky Midweeky' offers to enhance your midweek fun factor on a private yacht charter at a fraction of the usual cost!
 
 
-  C﻿hoose between our *'Sail, Sip and Graze'* for good times on the water with family and friends or the luxe *'Twilight Sail and Dine'* for an intimate gourmet experience for 2.  
+  A﻿vailable 'til end of June 2024 only.
+
+
+  C﻿hoose from our  laid-back *'Sail, Sip and Graze'* or the luxe *'Twilight Sail and Dine'.*
 
 
 
@@ -19,32 +22,31 @@ intro: >-
   ###### **T﻿wilight Sail and Dine**
 
 
-  An indulgent evening for two, sailing at twilight aboard your own private catamaran.   Includes private chef, gourmet dining and wine.     
+  An indulgent evening for two, sailing at twilight aboard your own private catamaran.   Includes private chef, gourmet dining and wine aboard your 2 hour private charter.  
 
 
-  $1100 (for 2 guests)
+  $1100 (for 2 guests)*
 
 
   S﻿ave $260
 
 
-
-
   O﻿R
 
 
-
-
-  ###### **Sail, Sip and Graze**  
+  ###### **Sail, Sip and Graze**
 
 
   3 unforgettable hours sailing aboard your own private catamaran with gourmet grazing and bottomless bubbly and beers.
 
 
-  $1500 (for 2 - 8 guests)
+  $1500 (for 2 - 8 guests)*
 
 
   SAVE up to $660
+
+
+  \*﻿Additional guests or charter hours available on request.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
@@ -82,12 +84,6 @@ contentColumn: >-
 
 
   Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast Mountains followed by the twinkling Gold Coast City Skyline by night, simply breath-taking!
-
-
-  O﻿ur Sneeky Midweeky Deals are available for a very limited time.  
-
-
-  Book now to secure these never-before seen packages.
 accordionSection:
   accordion:
     - dropdownContent: >-
@@ -203,19 +199,12 @@ accordionSection:
       title: Private Charter FAQ's
   sectionTitle: About our charters
 columnBanner:
-  - buttonTitle: Check Availability and Book Now
-    buttonUrl: ""
-    content: Send me some info...
+  - buttonTitle: FIND OUT MORE OR MAKE A BOOKING
+    buttonUrl: https://sailinginparadise.rezdy.com/catalog/569512/sneeky-midweeky
+    content: O﻿ur Sneeky Midweeky Deals are available for a very limited time.
     title: Secure my Sneeky Midweeky Private Charter
     featuredImage: https://ucarecdn.com/60cf28b4-7151-4fea-ae4c-0a8601e88000/
-    bookingWidget: >-
-      <!--StartFragment-->
-
-
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/569512?iframe=true"></iframe>
-
-
-      <!--EndFragment-->
+    bookingWidget: ""
 featuredTestimonials:
   description: ""
   testimonial: ""
