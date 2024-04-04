@@ -8,9 +8,6 @@ intro: >-
   ## Why should weekends have all the fun?
 
 
-  ![]()
-
-
   In partnership with Experience Gold Coast we are delighted to bring you two specially curated 'Sneeky Mid-Weeky' deals offering incredible mid-week all inclusive packages on private yacht charters!
 
 
