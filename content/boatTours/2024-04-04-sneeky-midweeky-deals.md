@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Sneeky Midweeky Deals
 icon: ""
-featuredImage: https://ucarecdn.com/5fb2ff23-e85f-4e32-939b-9d48808c3a31/-/preview/-/enhance/33/
+featuredImage: https://ucarecdn.com/ce10553d-ee62-4a2c-8548-d2e4b0ea6b4d/
 intro: >-
   ## Why should weekends have all the fun?
 
@@ -63,6 +63,7 @@ gallery:
   - image: https://ucarecdn.com/89d28904-487e-45b9-8d37-c80e4b2b3b04/
   - image: https://ucarecdn.com/edac77ce-7a56-442f-a631-21e7b32f73f2/-/preview/-/enhance/74/
   - image: https://ucarecdn.com/0320f8b4-f407-41e2-9da9-50c5bc6a3af6/-/preview/-/enhance/39/
+  - image: https://ucarecdn.com/1cb97989-d642-49ab-9455-891c41be4f4b/
   - image: https://ucarecdn.com/d2fd7d98-9d51-47d3-bbeb-9bf0a7248874/
   - image: ""
   - image: https://ucarecdn.com/423937f1-fc1c-4e9c-a803-349848e7752e/-/preview/-/enhance/26/
