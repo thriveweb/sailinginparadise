@@ -212,9 +212,17 @@ columnBanner:
     content: ""
     title: ""
     featuredImage: https://ucarecdn.com/17b4668a-b462-4c3f-b247-ed3ef1eaad5e/-/preview/-/enhance/36/
+    bookingWidget: >-
+      <!--StartFragment-->
+
+
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/569512/sneeky-midweeky?iframe=true"></iframe>
+
+
+      <!--EndFragment-->
 featuredTestimonials:
   description: ""
-  testimonial: Bree, Aus
+  testimonial: ""
 meta:
   description: Sailing In Paradise - Surfers Paradise Gold Coast | From 10 to 30
     People | Boat Charter | Party Boat Hire | Private Charters - Book now 0438
