@@ -35,7 +35,7 @@ featuredSlider:
 featuredBanner:
   buttonTitle: Incredible offers for Monday to Thursday!   Limited time only.   BOOK NOW
   buttonUrl: boat-charter/sneeky-mid-weeky-deals/
-  image: https://ucarecdn.com/29d44dd2-1be0-416a-9d67-220690d18c42/
+  image: https://ucarecdn.com/52837e09-5071-404c-8460-4131cccf63df/
   title: sneeky mid-weeky deals
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
