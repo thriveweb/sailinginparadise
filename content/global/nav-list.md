@@ -40,8 +40,8 @@ navItems:
         optionalTitle: New Year's Eve
       - title: Gold Coast Valentine's Day Cruise
         optionalTitle: Valentine's Day
-      - title: Sneeky Midweeky Deals
-        optionalTitle: Sneeky Midweeky Deals
+      - title: Sneeky Mid-weeky Deals
+        optionalTitle: Sneeky Mid-weeky Deals
     title: Boat Charter
   - title: Our Charter Boats
   - subNavItems:
