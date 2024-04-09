@@ -200,7 +200,7 @@ accordionSection:
   sectionTitle: About our charters
 columnBanner:
   - buttonTitle: FIND OUT MORE OR MAKE A BOOKING
-    buttonUrl: sailinginparadise.rezdy.com/catalog/569512/sneeky-mid-weeky
+    buttonUrl: booking-enquiry
     content: O﻿ur Sneeky Mid-Weeky Deals are available for a very limited time.
     title: Secure my Sneeky Mid-Weeky Private Charter
     featuredImage: https://ucarecdn.com/60cf28b4-7151-4fea-ae4c-0a8601e88000/
