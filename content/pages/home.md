@@ -15,12 +15,12 @@ featuredSlider:
     description: We are the hens party specialists. Let us create a truly special
       event for you and your friends.
     title: Hen's Party Boat Charters
-  - buttonUrl: boat-charter/
-    description: For any occasion. From 3 hours to a full day. BYO or fully catered.
-    title: Private Skippered Boat Hire
   - title: Last Minute Charters
     description: See our last minute availability at sensational rates!
     buttonUrl: boat-charter/last-minute-charters/
+  - buttonUrl: boat-charter/
+    description: For any occasion. From 3 hours to a full day. BYO or fully catered.
+    title: Private Skippered Boat Hire
   - buttonUrl: boat-charter/gold-coast-family-charters/
     description: Hire a private yacht for your small family group to enjoy our
       beautiful waterways and the Queensland sunshine!
@@ -33,10 +33,10 @@ featuredSlider:
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: Click for this week's availability!
-  buttonUrl: boat-charter/last-minute-charters/
+  buttonTitle: Incredible offers for Monday to Thursday!   Limited time only.   BOOK NOW
+  buttonUrl: boat-charter/sneeky-mid-weeky-deals/
   image: https://ucarecdn.com/29d44dd2-1be0-416a-9d67-220690d18c42/
-  title: last minute bookings
+  title: sneeky mid-weeky deals
 services:
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
