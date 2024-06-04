@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Unique Proposal Ideas
+title: Unique Proposal Ideas on the Gold Coast
 status: Published
 date: 2021-09-21T04:42:58.936Z
 featuredImage: https://ucarecdn.com/c133e4ce-f8df-4275-991e-831cb3449b59/
@@ -28,7 +28,7 @@ meta:
     the big question? Why not propose on a boat. Click here to read more!
   canonicalLink: "unique-proposal-ideas "
 ---
-Whatever way you choose will go down in history and will be told countless times to your friends and family. If you’d like to make it a memorable and special occasion keep reading for some unique[ boat proposal ideas!](https://sailinginparadise.com.au/boat-charter/gold-coast-romantic-sails/) 
+The way you choose to propose will go down in history and will be told countless times to your friends and family. If you’d like to make it a memorable and special occasion keep reading for some unique[ boat proposal ideas!](https://sailinginparadise.com.au/boat-charter/gold-coast-romantic-sails/) 
 
 First, you need a location! The Gold Coast Broadwater is an absolutely stunning location with its calm waters, marine life and beautiful city skyline and hinterland backdrop. How does an intimate private charter on the Gold Coast Broadwater for just the two of you sound? Here are a couple of options on how this could go…
 
