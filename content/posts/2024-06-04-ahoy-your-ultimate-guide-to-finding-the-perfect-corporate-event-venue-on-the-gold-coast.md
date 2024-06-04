@@ -5,6 +5,8 @@ title: Ahoy! Your Ultimate Guide to Finding the Perfect Corporate Event Venue on
 status: Published
 date: 2024-06-04T10:24:00.983Z
 featuredImage: https://ucarecdn.com/88f83fbb-1060-4817-95e8-97beab2808c1/
+excerpt: Looking for the perfect event venue on the Gold Coast?  We have one
+  that will float your boat.
 videoSection:
   title: ""
   imageOverlay: ""
@@ -26,11 +28,9 @@ meta:
   description: "Looking for a Corporate Event Venue on the Gold Coast?  We have
     got one that will float your boat.  "
 ---
-
-
-
-
 When it comes to hosting a memorable corporate event, choosing the right venue is key. And what better way to impress your team than by setting sail on the stunning waters of the Gold Coast? 
+
+
 In this short blog, we'll explore everything you need to know about finding the perfect corporate event venue for your next gathering aboard a charter boat. From breathtaking views to customizable packages, get ready to discover why a boat charter on the Gold Coast is the ultimate choice for your next corporate event.
 
 1. Show off the destination! The Gold Coast is the perfect destination for a corporate event but it's also renowned for its natural beauty, azure waters, and year-round sunshine. What better backdrop for your corporate event than aboard your private yacht charter on the Gold Coast Broadwater? This wide body of calm, protected water offers ideal sailing conditions year-round ensuring a lasting impression on your guests.
