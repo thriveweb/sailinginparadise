@@ -44,14 +44,13 @@ navItems:
         optionalTitle: Sneeky Mid-weeky Deals
     title: Boat Charter
   - title: Our Charter Boats
-  - subNavItems:
-      - title: Charter FAQs
+  - subNavItems: []
     title: About Us
   - subNavItems:
       - title: Happy Sailors
       - title: Latest News
-      - title: Contact Us
-      - title: FAQs
       - title: Employment
+      - title: Charter FAQs
+      - title: Contact Us
     title: More
 ---
