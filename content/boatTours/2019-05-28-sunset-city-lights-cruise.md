@@ -55,13 +55,13 @@ contentColumn: >-
 accordionSection:
   accordion:
     - dropdownContent: >-
-        •	2 hours on the beautiful, calm Gold Coast Broadwater
+        •	3 hours on the beautiful, calm Gold Coast Broadwater
 
 
         •	Relax onboard a spacious Sailing Catamaran
 
 
-        •	See impressive superyachts, Seaworld, Palazzo Versace, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.
+        •	See impressive superyachts, Seaworld, Gold Coast Seaway, Wavebreak Island, South Stradbroke Island and local wildlife.
 
 
         •	Watch the Sunset over the Gold Coast Hinterland then check out the Sparkling City lights as you see the Gold Coast in a new light. 
