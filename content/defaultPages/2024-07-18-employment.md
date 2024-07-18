@@ -15,12 +15,14 @@ content: >-
   I﻿f you think you fit the bill and would like to explore employment opportunities with Sailing in Paradise please email us with your resume and covering letter.
 
 
-
-
   ###### C﻿urrent Available Positions
 
 
-  S﻿KIPPERS AND CRUISE HOST (Further details below)
+  1. S﻿KIPPER
+
+   2. CRUISE HOST 
+
+  (Further details below) 
 
 
   ![](https://ucarecdn.com/c2d54d27-cfc2-454f-ab05-56d40dc2331b/)
@@ -86,9 +88,6 @@ content: >-
 
     ![](https://ucarecdn.com/f08d70bc-f8e8-4a65-9469-41f98d6ca3be/-/crop/1333x1082/0,265/-/preview/)
 
-   
-
-
   **Deckhand/Hostess**
 
 
@@ -142,13 +141,7 @@ content: >-
   * First Aid certificate (or willing to obtain one)
 
 
-   
-
-
   Both roles are casual role and set hours/days cannot be guaranteed.   Availability on weekends and some weekdays is required.   During December/January, maximum availability is required to cope with increased demand at this time.   
-
-
-   
 
 
   **To apply for this role please apply via email with the following info;**
