@@ -46,6 +46,7 @@ navItems:
   - title: Our Charter Boats
   - subNavItems:
       - title: Charter FAQs
+      - title: Employment
     title: About Us
   - subNavItems:
       - title: Happy Sailors
