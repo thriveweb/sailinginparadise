@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-title: Join our crew
+title: Employment
 featuredImage: https://ucarecdn.com/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb/
 content: >-
   S﻿ailing in Paradise offers a fun and varied work environment on board our
