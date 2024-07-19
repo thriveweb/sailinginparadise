@@ -20,7 +20,7 @@ content: >-
 
   1. S﻿KIPPER
 
-  2. CRUISE HOST 
+  2. DECKHAND/HOSTESS
 
 
   (Further details below) 
