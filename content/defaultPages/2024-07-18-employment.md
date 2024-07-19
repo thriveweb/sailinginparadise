@@ -12,7 +12,7 @@ content: >-
   We seek crew who are professional and energetic with a fun yet laid-back vibe.
 
 
-  I﻿f you think you fit the bill and would like to explore employment opportunities with Sailing in Paradise please email us with your resume and covering letter.
+  I﻿f you think you fit the bill and would like to explore employment opportunities with Sailing in Paradise please [email us](mailto:crew@sailinginparadise.com.au) with your resume and covering letter.
 
 
   ###### C﻿urrent Available Positions
@@ -20,7 +20,8 @@ content: >-
 
   1. S﻿KIPPER
 
-   2. CRUISE HOST 
+  2. CRUISE HOST 
+
 
   (Further details below) 
 
@@ -163,4 +164,8 @@ content: >-
   * Your current commitments and any notice period
 
   * Your ongoing availability including any holidays planned
+
+    T﻿o apply please contact us at;
+
+    ![](https://ucarecdn.com/dd070988-43ac-4492-bb08-226892425bd8/)
 ---
