@@ -87,7 +87,7 @@ content: >-
 
   * As we are a licensed venue we would require the applicant to hold a current RSA ticket (or happy to obtain one).
 
-    ![](https://ucarecdn.com/f08d70bc-f8e8-4a65-9469-41f98d6ca3be/-/crop/1333x1082/0,265/-/preview/)
+    ![](https://ucarecdn.com/a29f7d25-32fb-4ee9-baf7-678c8b354077/-/crop/5753x3526/247,0/-/preview/)
 
   **Deckhand/Hostess**
 
