@@ -145,7 +145,7 @@ content: >-
   Both roles are casual role and set hours/days cannot be guaranteed.   Availability on weekends and some weekdays is required.   During December/January, maximum availability is required to cope with increased demand at this time.   
 
 
-  **To apply for this role please apply via email with the following info;**
+  **To apply for this role please [apply via email ](mailto:crew@sailinginparadise.com.au)with the following info;**
 
 
   1. Resume including full work history
