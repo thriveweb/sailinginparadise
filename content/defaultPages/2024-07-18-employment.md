@@ -131,7 +131,7 @@ content: >-
 
   * Reliable and consistent availability on weekends and some weekdays (occasionally last-minute).   The role is primarily weekend focused, please consider prior to applying if this fits with your lifestyle.
 
-  * Reliable and consistent availability this Summer.  Plus an ongoing desire and ability to stay in the role for a minimum of 6-12 months.   
+  * Reliable and consistent availability
 
   * The ability to understand and focus on important safety requirements
 
@@ -166,8 +166,6 @@ content: >-
   * Preferred number of hours, ongoing availability including any holidays planned
 
   * Social Media Handle (to demonstrate your photography and content style).  
-
-
 
     T﻿o apply please contact us at;
 
