@@ -163,7 +163,11 @@ content: >-
 
   * Your current commitments and any notice period
 
-  * Your ongoing availability including any holidays planned
+  * Preferred number of hours, ongoing availability including any holidays planned
+
+  * Social Media Handle (to demonstrate your photography and content style).  
+
+
 
     T﻿o apply please contact us at;
 
