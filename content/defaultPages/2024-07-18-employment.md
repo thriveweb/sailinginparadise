@@ -165,7 +165,7 @@ content: >-
 
   * Preferred number of hours, ongoing availability including any holidays planned
 
-  * Social Media Handle (to demonstrate your photography and content style).  
+  * Social Media Handle (for deckhand/host position to demonstrate your photography and content style).  
 
     T﻿o apply please contact us at;
 
