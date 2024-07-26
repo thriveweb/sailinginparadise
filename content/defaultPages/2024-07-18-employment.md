@@ -163,7 +163,7 @@ content: >-
 
   * Your current commitments and any notice period
 
-  * Preferred number of hours, ongoing availability including any holidays planned
+  * Preferred number of hours, ongoing availability including any holidays planned (please include details of your visa and any work limitations if not an Australian citizen)
 
   * Social Media Handle (for deckhand/host position to demonstrate your photography and content style).  
 
