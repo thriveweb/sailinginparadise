@@ -34,7 +34,7 @@ featuredSlider:
     title: Gift the gift of experience
 featuredBanner:
   buttonTitle: Incredible offers for Last Minute Bookings.   See Availability
-  buttonUrl: boat-charter/last-minute/
+  buttonUrl: boat-charter/last-minute-charters/
   image: https://ucarecdn.com/52837e09-5071-404c-8460-4131cccf63df/
   title: LAST MINUTE CHARTERS
 services:
