@@ -8,7 +8,7 @@ intro: >-
   ##### Looking to sail last minute?
 
 
-  Our stunning vessels are available at reduced rates for last minute bookings which fit within our existing charter commitments.  You will be sailing on board one of Sailing in Paradise's beautiful sailing catamarans selected by us to suit your group.     Bookings are available for groups of up to 20 guests or up to 30 guests.
+  Our stunning vessels are available at reduced rates for last minute bookings which fit within our existing charter commitments.  You will be sailing on board one of Sailing in Paradise's beautiful sailing catamarans selected by us to suit your group.     Bookings are available for groups of up to 20, 30 or 40 guests.  
 
 
   P﻿rices vary dependant on vessel availability, time and day so please check a few options on the calendar or reach out directly if you require assistance organising a custom charter to suit your requirements.  
