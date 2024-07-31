@@ -1,14 +1,14 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Gold Coast New Year's Eve 2023 Cruise
+title: Gold Coast New Year's Eve 2024 Boat Charter
 icon: /images/uploads/DSC_0357-1703.jpg
 featuredImage: https://ucarecdn.com/dba0149b-583f-4865-a988-8ec0b6959aac/
 intro: >-
-  ## New Year's Eve 2023 Boat Charters
+  ## New Year's Eve 2024 Boat Charters
 
 
-  Charter one of the 3 beautiful catamarans and gather your friends and family to celebrate New Year's Eve 2023 on the Gold Coast in style aboard your own private yacht.   
+  Charter one of the 3 beautiful catamarans and gather your friends and family to celebrate New Year's Eve 2024 on the Gold Coast in style aboard your own private yacht.   
 
 
   During the day you will enjoy spectacular views and access to pristine beaches as the boat arrives at isolated islands surrounded by crystal clear turquoise waters. There are plentiful activities available on board to keep you entertained including Beach Volleyball, Stand Up Paddleboards, Beach Cricket and splash mat. 
