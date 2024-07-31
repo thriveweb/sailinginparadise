@@ -14,7 +14,7 @@ intro: >-
   Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
 
 
-  Sailing in Paradise would love to create a 2023 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
+  Sailing in Paradise would love to create a 2024 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
 contentBox:
   buttonTitle: ""
   buttonUrl: ""
@@ -286,7 +286,7 @@ featuredTestimonials:
     Christmas Party with us...
   testimonial: "RACEVIEW STATE SCHOOL, Aus "
 meta:
-  description: "Celebrate this 2023 Christmas party sailing the beautiful Gold
+  description: "Celebrate this 2024 Christmas party sailing the beautiful Gold
     Coast with Sailing in Paradise. Packages for up to 1 to 102 people. "
   title: Gold Coast Christmas Party Boat | Christmas Party Cruise Gold Coast
 ---
