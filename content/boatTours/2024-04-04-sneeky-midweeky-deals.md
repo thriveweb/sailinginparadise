@@ -11,12 +11,7 @@ intro: >-
   In partnership with Experience Gold Coast we are delighted to bring you two specially curated 'Sneeky Mid-Weeky' deals offering incredible mid-week all inclusive packages on private yacht charters!
 
 
-  A﻿vailable 'til June 2024 only.
-
-
   C﻿hoose from our laid-back *'Sail, Sip and Graze'* or the luxe *'Twilight Sail and Dine'* package options.  
-
-
 
 
   ###### **T﻿wilight Sail and Dine**
@@ -25,10 +20,13 @@ intro: >-
   An indulgent evening for two, sailing at twilight aboard your own private catamaran.   Includes private chef, gourmet dining and wine aboard your 2 hour private charter.  
 
 
-  $1100 (for 2 guests)*
+  W﻿inter May to Aug - $1100 (for 2 guests)*
 
 
-  S﻿ave $260
+  Summer Sep-Apr - $1300 (for 2 guests)*
+
+
+  S﻿ave up to $300
 
 
   O﻿R
@@ -40,13 +38,14 @@ intro: >-
   3 unforgettable hours sailing aboard your own private catamaran with gourmet grazing and bottomless bubbly and beers.
 
 
-  $1500 (for 2 - 8 guests)*
+  W﻿inter M﻿ay - Aug $1500 (for 2 - 8 guests)*
 
 
-  SAVE up to $660
+  Summer Sep-Apr  $1700 (for 2 - 8 guests)*
 
+   Save up to $660
 
-  \*﻿Additional guests or charter hours available on request.
+  \*﻿Additional guests or charter hours available on request.   Subject to availability.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
