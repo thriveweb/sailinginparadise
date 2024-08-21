@@ -37,9 +37,6 @@ intro: >-
 
 
   **[R﻿equest a rate card/Info Pack](https://sailinginparadise.com.au/booking-enquiry?charter=gold-coast-hens-parties)**
-
-
-  ![]()
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
