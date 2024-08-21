@@ -349,7 +349,13 @@ accordionSection:
         for the quality of vessels and service that we provide.
 
 
-        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a hen's party info pack including rate card via email.
+        **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)**
+
+
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here ](booking-enquiry?charter=gold-coast-hens-parties)to request a hen's party info pack including rate card via email.
+
+
+        O﻿r you can visit our [live availability calendar ](https://sailinginparadise.rezdy.com/catalog/279607/hen-s-parties)here.
     - title: Catering Options
       dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
         professional catering delivered to the boat for a stress-free option. 
