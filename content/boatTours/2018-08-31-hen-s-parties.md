@@ -33,20 +33,13 @@ intro: >-
 
     \*C﻿atering, beverages and hen's party butlers are available as optional extras
 
-
-
-
-
   **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)**
 
 
-  ###### **[R﻿equest a rate card/Info Pack](booking-enquiry?charter=gold-coast-hens-parties)**
+  **[R﻿equest a rate card/Info Pack](booking-enquiry?charter=gold-coast-hens-parties)**
 
 
   ![]()
-
-
-  >
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
@@ -60,43 +53,30 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: https://ucarecdn.com/b48b8729-7e35-4049-b3d8-f707224f64ae/-/preview/-/enhance/22/
-  - image: https://ucarecdn.com/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1/-/preview/-/enhance/20/
-  - image: https://ucarecdn.com/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5/-/crop/1334x1507/0,109/-/preview/
-  - image: https://ucarecdn.com/ad4cba93-24b4-4da5-ba3a-4477b55fd02f/
+  - image: https://ucarecdn.com/df0249f9-b0af-4628-b173-4f7fcf6d334e/-/crop/1333x1654/0,137/-/preview/
   - image: https://ucarecdn.com/9e1af779-767b-4de5-b0f2-e6d80836bd18/-/preview/-/enhance/30/
-  - image: https://ucarecdn.com/8f486ec3-739d-42cd-a1bb-1542175aeadb/
-  - image: https://ucarecdn.com/1b4fe18b-3ac4-481c-a1a7-665771d8e819/
-  - image: https://ucarecdn.com/f1899ee6-b8c6-467a-b7eb-1f6940be9f1d/-/crop/1125x1250/0,401/-/preview/
-  - image: https://ucarecdn.com/103a523a-4f7a-4ca6-85f9-99b804e06a0b/
-  - image: https://ucarecdn.com/53d6d510-2a29-43c8-915f-6ca97e2e4d3f/-/crop/1041x1188/0,137/-/preview/
-  - image: https://ucarecdn.com/b89fbd1c-13f9-480f-bd4c-65ed787390d4/-/crop/1333x1569/0,256/-/preview/
-  - image: https://ucarecdn.com/256fe6d0-07cf-45f2-b598-0f89e7b295a9/-/preview/-/enhance/25/
   - image: https://ucarecdn.com/9d2866d7-f659-43e2-b6c0-66e29f9d8a66/-/crop/1177x1250/0,74/-/preview/
+  - image: https://ucarecdn.com/53d6d510-2a29-43c8-915f-6ca97e2e4d3f/-/crop/1041x1188/0,137/-/preview/
+  - image: https://ucarecdn.com/f8a8546b-bffb-4f3c-9c64-d9e136af475a/-/crop/1333x1689/0,188/-/preview/
+  - image: https://ucarecdn.com/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5/-/crop/1334x1507/0,109/-/preview/
+  - image: https://ucarecdn.com/8f486ec3-739d-42cd-a1bb-1542175aeadb/
+  - image: https://ucarecdn.com/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1/-/preview/-/enhance/20/
+  - image: https://ucarecdn.com/b89fbd1c-13f9-480f-bd4c-65ed787390d4/-/crop/1333x1569/0,256/-/preview/
   - image: https://ucarecdn.com/4d311d5c-48ce-49af-ba59-52279b0f1d86/-/preview/-/enhance/6/
   - image: https://ucarecdn.com/ab1e4055-0368-4b75-b01e-5ca80cdb4e7e/
   - image: https://ucarecdn.com/f0c92d44-2169-4da2-96ed-e749a806092b/
   - image: https://ucarecdn.com/cf31a2d2-534a-4238-bdc8-030a3c3ec420/
-  - image: https://ucarecdn.com/df0249f9-b0af-4628-b173-4f7fcf6d334e/-/crop/1333x1654/0,137/-/preview/
-  - image: https://ucarecdn.com/7f622bb5-ca9a-47fc-85f2-c0ca95c26a74/-/crop/1333x1612/0,227/-/preview/
-  - image: https://ucarecdn.com/1f074d84-5e91-41c2-b11a-2a1bd08a261a/-/crop/1333x1612/0,194/-/preview/
-  - image: https://ucarecdn.com/eb89e356-84c2-42e6-8d7c-696b74565537/
   - image: https://ucarecdn.com/a8ae5472-af71-4979-b08d-053423dd479e/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/a6d74733-b27b-4901-ba91-7877c3c9c581/-/crop/1335x1598/0,402/-/preview/
-  - image: https://ucarecdn.com/f8a8546b-bffb-4f3c-9c64-d9e136af475a/-/crop/1333x1689/0,188/-/preview/
-  - image: https://ucarecdn.com/d2ced6f0-114e-4b9d-af39-c5c1b3da5b57/
-  - image: https://ucarecdn.com/cb8e81e6-5001-4117-b8c3-20400b5afe72/
-  - image: https://ucarecdn.com/e497a006-7430-4c30-8206-3ccefb3701df/-/preview/-/enhance/25/
-  - image: https://ucarecdn.com/6a25d58d-804d-4113-b446-69283c90a88a/-/preview/-/enhance/11/
 videoSection:
   imageOverlay: https://ucarecdn.com/013dd280-261c-4b1a-857a-4a582aaa8f3b/
   video: ""
 contentColumnTitle: Plan your perfect hens party cruise
 contentColumn: >-
-  How does your perfect hen's party look?  A relaxed afternoon on the water wit
-
-
-  h swimming and sunbathing, an elegant morning tea with mimosas or a wild hen's night party with all the hen's party trimmings?  The choice is totally yours and we are here to help with whatever you wish.    
+  How does your perfect hen's party look?  A relaxed afternoon on the water with
+  swimming and sunbathing, an elegant morning tea with mimosas or a wild hen's
+  night party with all the hen's party trimmings?  The choice is totally yours
+  and we are here to help with whatever you wish.    
 
 
   We are continually striving to create the best experience possible for our guests.  We understand that you want your special day to be memorable, fun, relaxing and stress free and that is exactly where we come in.
@@ -123,7 +103,7 @@ contentColumn: >-
   We offer a range of free activities including stand up paddleboards, beach cricket, beach volleyball, beach games or lay back and relax on our floating splash mat. 
 
 
-  Be sure to dress for the occasion, as we always take photos on the day to capture all those precious moments so you can take lots of great memories home.  Practically all of the photos you will see on our Instagam page are taken by our crew on board actual charters.  
+  Be sure to dress for the occasion, as we always take photos on the day to capture all those precious moments so you can take lots of great memories home.  Practically all of the photos and videos you will see on our Instagam page are taken by our crew on board actual charters.  
 
 
   We are confident that a Gold Coast hen’s party with Sailing In Paradise, is an experience your group will be talking about for years to come!
@@ -132,6 +112,45 @@ contentColumn: >-
   So drop us an enquiry today (we are friendly :-), and we'll send you some info and rates for your perfect hen's party cruise.
 accordionSection:
   accordion:
+    - title: Why choose sailing in paradise?
+      dropdownContent: >-
+        G﻿uest happiness is at the root of everything we do at Sailing in
+        Paradise so you can feel confident we will do our very best to make your
+        experience (from booking through to the charter itself) memorable for
+        all the right reasons.  
+
+
+        **So﻿ why book with us?**
+
+
+        **Rated 5* by guests** -  Over 500 authentic guest reviews online
+
+
+        **B﻿espoke Service** - Our team will deliver a customised booking and charter experience
+
+
+        **Marina Berthing** - Easy access at our commercial marina berth 
+
+
+        **BYO  Welcome** - We provide you with eskies and ice 
+
+
+        **C﻿atering/Drinks Available** - We can arrange everything for you if preferred
+
+
+        **Incredible sound systems -** Upgraded speakers and amps so your party doesn't fall flat
+
+
+        **S﻿pace and Style** - Extremely spacious deck areas and infinitely stylish vessels
+
+
+        **E﻿asy Beach Access** - Equipped for beach landings
+
+
+        **T﻿ransparent Pricing** - No hidden extra costs, what you see is what you pay
+
+
+        **F﻿riendly, engaging crew -** Our crew love people just as much as they love boats :-)
     - dropdownContent: >-
         When you book a hen's party cruise with Sailing in Paradise you can
         expect a quality of service from years of experience in the industry
@@ -195,13 +214,13 @@ accordionSection:
         **Pick a theme**
 
 
-        We love a themed hen's party!   Some of our faves have included nautical (think sailors hats, stripes), mermaids (Tails 'n all), white parties (a total classic and always looks so chic) and tropical (just perfect for a boat/island party).
+        We love a themed hen's party!   Some popular options are white parties (a total classic and always looks so chic) and tropical (just perfect for a boat/island party).
 
 
         If you are looking at our BYO option why not carry the theme into your food and drink.  We also welcome themed decorations (there are a few guidelines around this so please do check in with us first).    Generally we recommend the table is a great place to start with theming since these are centrally located on all our boats and provide a nice focal point.  
 
 
-        **Plan some hen's party games**
+        **Plan some hen's party games (if your hen is into this)**
 
 
         We have seen it all...trust us and what happens on the boat stays on the boat he he...  Here are a few of the hen's party games our guests have enjoyed in the past;
@@ -222,7 +241,7 @@ accordionSection:
         * Plus some very cheeky games the girls have dreamed up involving our cheeky butlers ha ha 
 
 
-        For even more great ideas and inspiration be sure to follow our instagram page @sailinginparadisegoldcoast or our facebook page @sailinginparadise via the links at the base of the site.
+        For even more great ideas and inspiration be sure to follow our insta @sailinginparadisegoldcoast
       title: Hen's Party Ideas
     - dropdownContent: >-
         If you are looking for the perfect ice breaker, guaranteed to make the
@@ -234,7 +253,7 @@ accordionSection:
         entertained all while making the perfect hen's party eye candy.
 
 
-        Enquire with our team [here](https://sailinginparadise.com.au/booking-enquiry) about adding a cheeky butler for your Hens event!
+        Enquire with our team [here](booking-enquiry?charter=gold-coast-hens-parties) about adding a cheeky butler for your Hens event!
       title: Cheeky butlers...
     - dropdownContent: >-
         **Where do your boats depart from?**
@@ -276,7 +295,10 @@ accordionSection:
         **Where can we go on our charter?**
 
 
-        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper is knowledgeable in the local area and will make recommendations based on the conditions on the day.  If you don't wish to swim in a 3 hour charter you instead opt to sail further north along the inside of South Stradbroke Island and see the millionaires mansions at Sovereign Islands.
+        We operate in the calm, protected waters of the Gold Coast Broadwater, our departure point of Marina Mirage allows us to go further on your charter and enjoy the islands etc.
+
+
+        Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper is knowledgeable in the local area and will make recommendations based on the conditions on the day.  If you don't wish to swim in a 3 hour charter you instead opt to sail further north along the inside of South Stradbroke Island and see the millionaires mansions at Sovereign Islands.
 
 
         In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
@@ -291,19 +313,16 @@ accordionSection:
         **What happens if it rains?**
 
 
-        First of all remember...a little rain doesn't stop a great party on our boats ha ha...   But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise.  Please see the full booking policy provided with your invoice for full details or contact our team.
+        A little rain doesn't stop a great party on our boats.    All vessels have a large undercover area and we will continue to sail in most conditions.  
+
+
+        But do rest assured that we have a very generous wet weather policy, so if there is torrential rain/strong winds etc you will be able to cancel or reschedule your cruise.  Please see the full booking policy provided with your invoice for full details or contact our team. 
 
 
         **Are your charters suitable for guests with limited mobility?**
 
 
         We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the '[Our Boats](https://sailinginparadise.com.au/our-boats/)' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
-
-
-        **Why should we choose you over another operator?**
-
-
-        This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again. We can blow our own trumpet from time to time right? :-)
 
 
         **How do I book?**
