@@ -36,7 +36,7 @@ intro: >-
   **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)**
 
 
-  **[R﻿equest a rate card/Info Pack](booking-enquiry?charter=gold-coast-hens-parties)**
+  **[R﻿equest a rate card/Info Pack](https://sailinginparadise.com.au/booking-enquiry?charter=gold-coast-hens-parties)**
 
 
   ![]()
