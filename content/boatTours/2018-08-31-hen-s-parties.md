@@ -50,12 +50,13 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: https://ucarecdn.com/df0249f9-b0af-4628-b173-4f7fcf6d334e/-/crop/1333x1654/0,137/-/preview/
-  - image: https://ucarecdn.com/9e1af779-767b-4de5-b0f2-e6d80836bd18/-/preview/-/enhance/30/
-  - image: https://ucarecdn.com/9d2866d7-f659-43e2-b6c0-66e29f9d8a66/-/crop/1177x1250/0,74/-/preview/
-  - image: https://ucarecdn.com/53d6d510-2a29-43c8-915f-6ca97e2e4d3f/-/crop/1041x1188/0,137/-/preview/
+  - image: https://ucarecdn.com/63a56c79-609a-41f2-95c5-5a523aea6dee/
   - image: https://ucarecdn.com/f8a8546b-bffb-4f3c-9c64-d9e136af475a/-/crop/1333x1689/0,188/-/preview/
+  - image: https://ucarecdn.com/9e1af779-767b-4de5-b0f2-e6d80836bd18/-/preview/-/enhance/30/
+  - image: https://ucarecdn.com/53d6d510-2a29-43c8-915f-6ca97e2e4d3f/-/crop/1041x1188/0,137/-/preview/
+  - image: https://ucarecdn.com/9d2866d7-f659-43e2-b6c0-66e29f9d8a66/-/crop/1177x1250/0,74/-/preview/
   - image: https://ucarecdn.com/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5/-/crop/1334x1507/0,109/-/preview/
+  - image: https://ucarecdn.com/df0249f9-b0af-4628-b173-4f7fcf6d334e/-/crop/1333x1654/0,137/-/preview/
   - image: https://ucarecdn.com/8f486ec3-739d-42cd-a1bb-1542175aeadb/
   - image: https://ucarecdn.com/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1/-/preview/-/enhance/20/
   - image: https://ucarecdn.com/b89fbd1c-13f9-480f-bd4c-65ed787390d4/-/crop/1333x1569/0,256/-/preview/
@@ -66,7 +67,7 @@ gallery:
   - image: https://ucarecdn.com/a8ae5472-af71-4979-b08d-053423dd479e/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/a6d74733-b27b-4901-ba91-7877c3c9c581/-/crop/1335x1598/0,402/-/preview/
 videoSection:
-  imageOverlay: https://ucarecdn.com/013dd280-261c-4b1a-857a-4a582aaa8f3b/
+  imageOverlay: ""
   video: ""
 contentColumnTitle: Plan your perfect hens party cruise
 contentColumn: >-
@@ -381,14 +382,18 @@ accordionSection:
         a hen's party info pack including current catering options via email.
   sectionTitle: Hen's party - need to knows
 columnBanner:
-  - buttonTitle: Make Enquiry
-    buttonUrl: booking-enquiry?charter=gold-coast-hens-parties
-    content: Let our friendly and experienced team tailor a VIP Gold Coast Hens
-      Party Experience that they won’t forget.
-    title: Give your friend the party they deserve!
-    featuredImage: ""
-  - title: ""
-    featuredImage: https://ucarecdn.com/33f657ae-7a01-4c5c-b067-8474baef4bed/-/crop/1343x1335/657,0/-/preview/
+  - bookingWidget: >-
+      <!--StartFragment-->
+
+
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/279607?iframe=true"></iframe>
+
+
+      <!--EndFragment-->
+    title: book or enquire now
+    content: W﻿e would love to hear from you.
+    buttonTitle: ENQUIRE NOW
+    buttonUrl: booking-enquiry/
 featuredTestimonials:
   description: Ruby booked a hen's party charter for her interstate hen to
     experience the Gold Coast
