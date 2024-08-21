@@ -368,8 +368,8 @@ columnBanner:
   - title: ""
     featuredImage: https://ucarecdn.com/33f657ae-7a01-4c5c-b067-8474baef4bed/-/crop/1343x1335/657,0/-/preview/
 featuredTestimonials:
-  description: Lucy booked a charter with us for her husband's 30th birthday, read
-    what she had to say about the experience...
+  description: Ruby booked a hen's party charter for her interstate hen to
+    experience the Gold Coast
   testimonial: Ruby, Aus
   title: Happy Sailors
 meta:
