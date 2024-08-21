@@ -36,7 +36,7 @@ intro: >-
   **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)**
 
 
-  **[R﻿equest a rate card/Info Pack](https://sailinginparadise.com.au/booking-enquiry?charter=gold-coast-hens-parties)**
+  **R﻿equest a rate card/Info Pack**
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
@@ -386,14 +386,22 @@ columnBanner:
       <!--StartFragment-->
 
 
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/279607?iframe=true"></iframe>
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/279607/hen-s-parties?iframe=true"></iframe>
 
 
       <!--EndFragment-->
-    title: book or enquire now
-    content: W﻿e would love to hear from you.
+    title: book now
+    content: C﻿heck our live availability calendars or book now
+    buttonTitle: ""
+    buttonUrl: ""
+    featuredImage: ""
+  - bookingWidget: ""
+    title: send enquiry
+    featuredImage: https://ucarecdn.com/f7f73c4d-3046-433a-a4a7-ff2c7d0f56fa/
+    buttonUrl: /booking-enquiry?charter=gold-coast-hens-parties
+    content: P﻿lease fill in our enquiry form to receive an info pack, rate card and
+      catering menus
     buttonTitle: ENQUIRE NOW
-    buttonUrl: booking-enquiry/
 featuredTestimonials:
   description: Ruby booked a hen's party charter for her interstate hen to
     experience the Gold Coast
