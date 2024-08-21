@@ -3,15 +3,50 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Hen's Parties
 icon: ""
-featuredImage: https://ucarecdn.com/a41798d7-2445-4c3a-b837-8d3942f9e631/-/crop/2640x1513/0,385/-/preview/
+featuredImage: https://ucarecdn.com/13fd56d8-1c11-48c8-9edc-178a3637e78a/
 intro: >-
   ## gold coast Hens party boat
 
 
-  Hen's Parties are totally our thing!  We love them and, well,...they love us... (blush).   Its a mutual admiration kind of situation and we love nothing more than making our lovely hens happy on their special day!       
+  What could be better than hosting your hen's party on a boat?  
 
 
   Any style, any vibe the choice is yours, we don't bring pre-prescribed ideas of what a hens party should be.  We simply bring beautiful, spacious (and totally photogenic) boats with a super-fun, professional crew to help you host the hen's party of your dreams.
+
+
+  ###### W﻿hat's Included with your hen's party boat?
+
+
+  * Bespoke planning service 
+
+  * E﻿xclusive Charter of boat [(see our boats here)](/our-boats/)
+
+  * B﻿YO Welcome (eskies/ice included)
+
+  * Skipper and crew 
+
+  * I﻿sland Activities including SUPs, splash mats, beach volleyball for day charters
+
+  * A﻿mazing Sound System (with Ipad/Spotify)
+
+  * P﻿hoto memories of your charter
+
+    \*C﻿atering, beverages and hen's party butlers are available as optional extras
+
+
+
+
+
+  **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)**
+
+
+  ###### **[R﻿equest a rate card/Info Pack](booking-enquiry?charter=gold-coast-hens-parties)**
+
+
+  ![]()
+
+
+  >
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
@@ -20,7 +55,7 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279607?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability and BOOK NOW</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/279607/hen-s-parties" style="background: rgb(12, 7, 94); border: 1px solid rgb(12, 7, 94); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability or Book Now</a>
 
 
   <!--EndFragment-->
@@ -58,10 +93,10 @@ videoSection:
   video: ""
 contentColumnTitle: Plan your perfect hens party cruise
 contentColumn: >-
-  How does your perfect hen's party look?  A relaxed afternoon on the water with
-  swimming and sunbathing, an elegant morning tea with mimosas or a wild hen's
-  night party with all the hen's party trimmings?  The choice is totally yours
-  and we are here to help with whatever you wish.    
+  How does your perfect hen's party look?  A relaxed afternoon on the water wit
+
+
+  h swimming and sunbathing, an elegant morning tea with mimosas or a wild hen's night party with all the hen's party trimmings?  The choice is totally yours and we are here to help with whatever you wish.    
 
 
   We are continually striving to create the best experience possible for our guests.  We understand that you want your special day to be memorable, fun, relaxing and stress free and that is exactly where we come in.
