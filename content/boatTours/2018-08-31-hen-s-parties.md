@@ -327,7 +327,7 @@ columnBanner:
     featuredImage: ""
   - bookingWidget: ""
     title: send enquiry
-    featuredImage: https://ucarecdn.com/f7f73c4d-3046-433a-a4a7-ff2c7d0f56fa/
+    featuredImage: ""
     buttonUrl: /booking-enquiry?charter=gold-coast-hens-parties
     content: P﻿lease fill in our enquiry form to receive an info pack, rate card and
       catering menus
