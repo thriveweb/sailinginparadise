@@ -89,7 +89,7 @@ accordionSection:
   accordion:
     - title: Why choose sailing in paradise?
       dropdownContent: >-
-        G﻿uest happiness is at the root of everything we do at Sailing in
+        G﻿uest happiness is the essence of everything we do at Sailing in
         Paradise so you can feel confident we will do our very best to make your
         experience (from booking through to the charter itself) memorable for
         all the right reasons.  
