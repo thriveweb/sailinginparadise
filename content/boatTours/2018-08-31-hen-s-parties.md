@@ -70,40 +70,21 @@ contentColumn: >-
   How does your perfect hen's party look?  A relaxed afternoon on the water with
   swimming and sunbathing, an elegant morning tea with mimosas or a wild hen's
   night party with all the hen's party trimmings?  The choice is totally yours
-  and we are here to help with whatever you wish.    
-
-
-  We are continually striving to create the best experience possible for our guests.  We understand that you want your special day to be memorable, fun, relaxing and stress free and that is exactly where we come in.
-
-
-  From the moment you send through an enquiry all the way through to the follow up email with your free souvenir photos after your cruise, we pride ourselves on our professional yet friendly and laid back attitude.
+  and our team are on hand to assist with the planning of your event from your
+  initial enquiry, through to the charter itself and sending your memento photos
+  after the cruise.  
 
 
   ## the perfect hen's party boats
 
 
-  With 3 beautiful sailing catamarans available for charter we can accommodate groups of up to 30 or 42 guests.    [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
+  With 3 beautiful sailing catamarans available for charter.    [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
 
 
-  The large trampoline-style fore-decks are perfect for lazing in the sunshine or dancing, while we sail the calm, clear waters of the Gold Coast. The ample undercover space makes the vessels perfect for those seeking shade. Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
+  The large trampoline style fore-decks are perfect for lazing in the sunshine or dancing, while we sail the calm, clear waters of the Gold Coast. The ample undercover space makes the vessels perfect for those seeking shade. Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
 
 
   ![hen's party boat gold coast](https://ucarecdn.com/b3b8a3c7-5a4f-4ea1-b7c9-9a129713c208/ "hen's party boat gold coast")
-
-
-  ## All the hens party extras
-
-
-  We offer a range of free activities including stand up paddleboards, beach cricket, beach volleyball, beach games or lay back and relax on our floating splash mat. 
-
-
-  Be sure to dress for the occasion, as we always take photos on the day to capture all those precious moments so you can take lots of great memories home.  Practically all of the photos and videos you will see on our Instagam page are taken by our crew on board actual charters.  
-
-
-  We are confident that a Gold Coast hen’s party with Sailing In Paradise, is an experience your group will be talking about for years to come!
-
-
-  So drop us an enquiry today (we are friendly :-), and we'll send you some info and rates for your perfect hen's party cruise.
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?
