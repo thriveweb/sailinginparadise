@@ -59,13 +59,9 @@ gallery:
   - image: https://ucarecdn.com/df0249f9-b0af-4628-b173-4f7fcf6d334e/-/crop/1333x1654/0,137/-/preview/
   - image: https://ucarecdn.com/8f486ec3-739d-42cd-a1bb-1542175aeadb/
   - image: https://ucarecdn.com/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1/-/preview/-/enhance/20/
-  - image: https://ucarecdn.com/b89fbd1c-13f9-480f-bd4c-65ed787390d4/-/crop/1333x1569/0,256/-/preview/
   - image: https://ucarecdn.com/4d311d5c-48ce-49af-ba59-52279b0f1d86/-/preview/-/enhance/6/
-  - image: https://ucarecdn.com/ab1e4055-0368-4b75-b01e-5ca80cdb4e7e/
-  - image: https://ucarecdn.com/f0c92d44-2169-4da2-96ed-e749a806092b/
   - image: https://ucarecdn.com/cf31a2d2-534a-4238-bdc8-030a3c3ec420/
   - image: https://ucarecdn.com/a8ae5472-af71-4979-b08d-053423dd479e/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/a6d74733-b27b-4901-ba91-7877c3c9c581/-/crop/1335x1598/0,402/-/preview/
 videoSection:
   imageOverlay: ""
   video: ""
