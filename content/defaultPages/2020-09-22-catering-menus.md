@@ -4,13 +4,16 @@ title: "Catering "
 featuredImage: https://ucarecdn.com/8cd84a2b-8d90-4027-9cb9-9ad408a68413/
 content: >-
   Partnering with professional quality caterers, we can arrange delicious food
-  on your behalf for a stress-free cruise. BYO is also possible if you
-  prefer.  Please eB﻿oat Charter Menu Sampler
+  on your behalf for a stress-free cruise. BYO is also possible if you prefer. 
 
 
+  ###### B﻿oat Charter Menu Sampler
 
 
-  H﻿ere are just a few of the catering options available on your cruise.  
+  H﻿ere are just a few of the catering options available on your cruise.    
+
+
+  [Please enquire directly with our team for our current menu.  ](https://sailinginparadise.com.au/booking-enquiry/)
 
 
   **G﻿ourmet G﻿razing Board**
@@ -22,8 +25,6 @@ content: >-
   From $18pp  
 
 
-
-
   **C﻿anape Platter Selections**
 
 
@@ -31,8 +32,6 @@ content: >-
 
 
   From $28pp
-
-
 
 
   **H﻿ot Food Portions**
@@ -44,8 +43,6 @@ content: >-
   F﻿rom $12 pp
 
 
-
-
   **Island BBQ with chef**
 
 
@@ -55,8 +52,6 @@ content: >-
   From $32pp*
 
 
-
-
   **P﻿rivate Chef Dining**
 
 
@@ -64,8 +59,6 @@ content: >-
 
 
   From $40pp*
-
-
 
 
   If you would like to send us an [enquiry](https://sailinginparadise.com.au/booking-enquiry/) and we would be happy to email you our catering menu.
