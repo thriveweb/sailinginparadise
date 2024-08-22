@@ -299,17 +299,26 @@ accordionSection:
         **Hen's Party Boat C﻿harters range from $430 to $860 per hour (min 3 hours)**
 
 
-        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here ](booking-enquiry?charter=gold-coast-hens-parties)to request a hen's party info pack including rate card via email.
+        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties) to request a hen's party info pack including rate card via email.
 
 
         O﻿r you can visit our [live availability calendar ](https://sailinginparadise.rezdy.com/catalog/279607/hen-s-parties)here.
     - title: Catering Options
-      dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
-        professional catering delivered to the boat for a stress-free option. 
-         We partner with quality caterers and can offer a range of delicious
-        options to suit every budget and occasion.   Please [click
-        here](https://sailinginparadise.com.au/booking-enquiry) to request
-        a hen's party info pack including current catering options via email.
+      dropdownContent: >-
+        Whilst BYO is most welcome, many of our guests opt to have professional
+        catering delivered to the boat for a stress-free option.   We partner
+        with quality caterers and can offer a range of delicious options to suit
+        every budget and occasion.   
+
+
+        **[Request a hen's party info pack](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)** including current catering options via email.
+    - title: MAKE AN ENQUIRY
+      dropdownContent: >-
+        [Enquire about our hens
+        part](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)
+
+
+        W﻿e will send you all info, rate cards and menus to share with your hens party group.
   sectionTitle: Hen's party - need to knows
 columnBanner:
   - bookingWidget: >-
@@ -325,13 +334,6 @@ columnBanner:
     buttonTitle: ""
     buttonUrl: ""
     featuredImage: ""
-  - bookingWidget: ""
-    title: send enquiry
-    featuredImage: ""
-    buttonUrl: /booking-enquiry?charter=gold-coast-hens-parties
-    content: P﻿lease fill in our enquiry form to receive an info pack, rate card and
-      catering menus
-    buttonTitle: ENQUIRE NOW
 featuredTestimonials:
   description: Ruby booked a hen's party charter for her interstate hen to
     experience the Gold Coast
