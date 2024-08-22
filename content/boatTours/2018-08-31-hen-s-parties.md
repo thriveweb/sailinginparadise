@@ -314,8 +314,8 @@ accordionSection:
         **[Request a hen's party info pack](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)** including current catering options via email.
     - title: MAKE AN ENQUIRY
       dropdownContent: >-
-        [Enquire about our hens
-        part](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)
+        **[R﻿equest more
+        information](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)**
 
 
         W﻿e will send you all info, rate cards and menus to share with your hens party group.
