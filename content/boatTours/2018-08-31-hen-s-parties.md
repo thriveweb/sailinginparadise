@@ -90,7 +90,7 @@ contentColumn: >-
   ![hen's party boat gold coast](https://ucarecdn.com/b3b8a3c7-5a4f-4ea1-b7c9-9a129713c208/ "hen's party boat gold coast")
 
 
-  [C﻿LICK TO E﻿NQUIRE NOW ](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)
+  **[C﻿LICK TO E﻿NQUIRE NOW ](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)**
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?
