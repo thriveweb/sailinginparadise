@@ -8,13 +8,13 @@ intro: >-
   ## gold coast Hens party boat
 
 
-  Welcome to Sailing in Paradise.  We’re excited to help you plan a hen’s party experience that’s both chic and unforgettable.
+  Hi hen's party planners!   We’re excited to help you plan a hen’s party boat charter that’s both chic and unforgettable.    
 
 
-  When you book a hen's party cruise with Sailing in Paradise you can expect a quality of service from years of experience in the industry coupled with the essential hen's party ingredient - LOTS OF FUN!
+  When you book a hen's party cruise with Sailing in Paradise you can expect a quality of service from years of experience in the industry coupled with the essential hen's party ingredients - high vibes and good times!
 
 
-  Any style, any vibe the choice is yours, we don't bring pre-prescribed ideas of what a hens party should be.  We simply bring beautiful, spacious (and photogenic) boats with a super-fun, professional crew to help you host the hen's party of your dreams.
+  A﻿ny style of hens event is welcome, we don't bring pre-prescribed ideas of what a hens party should be.  We simply bring beautiful, spacious (and photogenic) boats with a super-fun, professional crew to help you host the hen's party of your dreams.
 
 
   ###### W﻿hat's Included with your hen's party boat?
