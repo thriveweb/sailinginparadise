@@ -19,15 +19,15 @@ intro: >-
 
   * Bespoke planning service 
 
-  * E﻿xclusive Charter of boat [(see our boats here)](/our-boats/)
+  * E﻿xclusive Charter of vessel [(see our boats here)](/our-boats/)
 
-  * B﻿YO Welcome (eskies/ice included)
+  * F﻿riendly, professional skipper and crew
 
-  * Skipper and crew 
+  * Use of 2 large eskies with ice (BYO drinks welcome)
 
-  * I﻿sland Activities including SUPs, splash mats, beach volleyball for day charters
+  * I﻿sland Activities including SUPs, splash mats, beach volleyball 
 
-  * A﻿mazing Sound System (with Ipad/Spotify)
+  * A﻿mazing Sound System (with Ipad/Spotify control
 
   * P﻿hoto memories of your charter
 
