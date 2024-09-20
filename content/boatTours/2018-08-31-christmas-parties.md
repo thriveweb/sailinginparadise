@@ -15,6 +15,32 @@ intro: >-
 
 
   Sailing in Paradise would love to create a 2024 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
+
+
+
+
+  ##### W﻿hat's Included with your Christmas Party Boat?
+
+
+  * Bespoke planning service
+
+  * E﻿xclusive Charter of vessel [(see our boats here)](https://sailinginparadise.com.au/our-boats/)
+
+  * F﻿riendly, professional skipper and crew
+
+  * Use of 2 large eskies with ice (BYO drinks welcome)
+
+  * I﻿sland Activities including SUPs, splash mats, beach volleyball
+
+  * Amazing Sound System (with Ipad/Spotify control
+
+  * Photo memories of your charter
+
+    \*C﻿atering and beverages are available as optional extras and
+
+
+
+  **Christmas Party Boat C﻿harters available from $500 to $860 per hour (min 3 hours)**
 contentBox:
   buttonTitle: ""
   buttonUrl: ""
