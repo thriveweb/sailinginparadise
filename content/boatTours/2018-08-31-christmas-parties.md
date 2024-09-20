@@ -154,21 +154,6 @@ accordionSection:
 
         Fancy floating around on our splash mat or maybe giving Stand Up Paddle Boarding a go?   Perhaps you are feeling energetic and want to bring the team together with a hit of beach cricket or volleyball.   We carry all of these activities on-board for your use free of charge.
       title: Island landings and Beach Activities included
-    - dropdownContent: >-
-        If your boss got sick once on a Caribbean Cruise, or Karen from accounts
-        feels a bit queasy whenever she gets in the bath, please tell them not
-        to worry.    Why?  A few reasons;
-
-
-        1. We sail in calm protected waters (we do not go offshore)
-
-        2. We operate a wide, stable catamaran (not the same side to side rocking of single hull vessels) meaning you won’t spill a drop of your Christmas cocktail and you won’t be feeling queasy.
-
-        3. You will be having too much fun!
-
-
-        PS...  Karen should probably see a doctor, this is not normal :-)
-      title: Smooth and Stable Catamarans = No sea-sickness guaranteed
     - title: What's Included
       dropdownContent: >-
         * Private use of your own beautiful sailing catamaran for 3 to 6 hours
