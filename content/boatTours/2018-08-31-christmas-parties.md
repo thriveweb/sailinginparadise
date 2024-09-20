@@ -127,6 +127,62 @@ contentColumn: >-
   What do our customers love about our catamarans?   Well, time and time again they tell us they are the ideal venue for parties!    And work Christmas Parties are no exception.
 accordionSection:
   accordion:
+    - title: Why choose sailing in paradise?
+      dropdownContent: >-
+        G﻿uest happiness is the essence of everything we do at Sailing in
+        Paradise so you can feel confident we will do our very best to make your
+        experience (from booking through to the charter itself) memorable for
+        all the right reasons.
+
+
+        **So﻿ why book with us?**
+
+
+        **Rated 5* by guests** - Over 500 authentic guest reviews online
+
+
+        **B﻿espoke Service** - Our in-house team will deliver a customised experience
+
+
+        **Marina Berthing** - Easy access at our commercial marina berth
+
+
+        **BYO Welcome** - We provide you with eskies and ice
+
+
+        **C﻿atering/Drinks Available** - We can arrange everything for you if preferred
+
+
+        **Incredible sound systems -** Upgraded speakers and amps so your party doesn't fall flat
+
+
+        **S﻿pace and Style** - Extremely spacious deck areas and infinitely stylish vessels
+
+
+        **E﻿asy Beach Access** - Equipped for beach landings
+
+
+        **T﻿ransparent Pricing** - No hidden extra costs, what you see is what you pay
+
+
+        **F﻿riendly, engaging crew -** Our crew love people just as much as they love boats :-)
+    - title: What's Included
+      dropdownContent: >-
+        * Private use of your own beautiful sailing catamaran for 3 to 6 hours
+
+        * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
+
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach activities and splash mat 
+
+        * Use of tablet with premium Spotify and sound system on board
+
+        * Use of small marine BBQ if required
+
+        * Use of large eskies (ice supplied)
+
+        *  Memento photos taken by our crew
+
+        * Lots of FUN!!
     - dropdownContent: Our 3 luxurious and spacious sailing catamarans mean we can now
         cater for larger groups of up to 102 people – The Spirit Of Gwonda and
         Oceans can accommodate up to 30 guests (plus 2 crew) and Island Time has
@@ -154,23 +210,6 @@ accordionSection:
 
         Fancy floating around on our splash mat or maybe giving Stand Up Paddle Boarding a go?   Perhaps you are feeling energetic and want to bring the team together with a hit of beach cricket or volleyball.   We carry all of these activities on-board for your use free of charge.
       title: Island landings and Beach Activities included
-    - title: What's Included
-      dropdownContent: >-
-        * Private use of your own beautiful sailing catamaran for 3 to 6 hours
-
-        * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
-
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach activities and splash mat 
-
-        * Use of tablet with premium Spotify and sound system on board
-
-        * Use of small marine BBQ if required
-
-        * Use of large eskies (ice supplied)
-
-        *  Memento photos taken by our crew
-
-        * Lots of FUN!!
     - dropdownContent: >-
         **Where do your boats depart from?**
 
@@ -220,7 +259,10 @@ accordionSection:
         **What happens if it rains?**
 
 
-        First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
+        A little rain doesn't stop a great party on our boats especially in the warm Gold Coast endless summer... All vessels have a large undercover area and we will continue to sail in most conditions.
+
+
+        But do rest assured that we have a very generous wet weather policy, so if there is torrential rain/strong winds etc you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
 
 
         **Are your charters suitable for guests with limited mobility?**
@@ -270,6 +312,9 @@ accordionSection:
         Sailing in Paradise offers an affordable luxury option for your boat
         charter, we pride ourselves on offering the best value on the Gold Coast
         for the quality of vessels and service that we provide.
+
+
+        **Christmas Party Boat C﻿harters range from $500 to $860 per hour (min 3 hours)**
 
 
         Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a Christmas party info pack including rate card via email.
