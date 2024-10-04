@@ -8,10 +8,10 @@ intro: >-
   ## gold coast Hens party boat
 
 
-  Hi hen's party planners!   When you book a hen's party cruise with Sailing in Paradise you can expect a quality of service from years of experience in the industry coupled with the essential hen's party ingredients - high vibes and good times!
+  Hi hen's party planners!   When you book a hen's party boat charter with Sailing in Paradise you can expect a quality of service from years of experience in the industry coupled with the essential hen's party ingredient - good times!
 
 
-  We don't bring pre-prescribed ideas of what a hens party should be.  We simply bring beautiful, spacious (and photogenic) boats with a super-fun, professional crew to help you host the hen's party of your dreams.
+  We don't bring pre-prescribed ideas of what a hens party should be.  We simply bring beautiful, spacious (and photogenic) boats with a fun, professional crew to help you host the hen's party of your dreams.
 
 
   ###### W﻿hat's Included with your hen's party boat?
@@ -19,7 +19,7 @@ intro: >-
 
   * Bespoke planning service 
 
-  * E﻿xclusive Charter of vessel [(see our boats here)](/our-boats/)
+  * E﻿xclusive charter of vessel [(see our boats here)](/our-boats/)
 
   * F﻿riendly, professional skipper and crew
 
@@ -33,7 +33,7 @@ intro: >-
 
     \*C﻿atering, beverages and hen's party butlers are available as optional extras
 
-  **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)**
+  **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)***
 
 
   **[C﻿LICK TO REQUEST RATE CARD/INFO PACK](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)**
@@ -323,7 +323,8 @@ accordionSection:
 columnBanner:
   - title: enquire now
     content: W﻿e'll send you an info pack with details on our boats, optional
-      catering menus and extras available for the hens of your dreams
+      catering menus and extra services on offer to create the the hens party of
+      your dreams
     buttonTitle: Send me the info
     buttonUrl: booking-enquiry/
   - featuredImage: https://ucarecdn.com/6ac5219c-f16a-4c03-8106-4c86e53f41a7/-/crop/1333x1445/0,555/-/preview/
