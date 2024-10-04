@@ -45,7 +45,7 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/279607/hen-s-parties" style="background: rgb(12, 7, 94); border: 1px solid rgb(12, 7, 94); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability or Book Now</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279607" style="background: rgb(12, 7, 94); border: 1px solid rgb(12, 7, 94); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability or Book Now</a>
 
 
   <!--EndFragment-->
@@ -321,19 +321,12 @@ accordionSection:
         W﻿e will send you all info, rate cards and menus to share with your hens party group.
   sectionTitle: Hen's party - need to knows
 columnBanner:
-  - bookingWidget: >-
-      <!--StartFragment-->
-
-
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/279607/hen-s-parties?iframe=true"></iframe>
-
-
-      <!--EndFragment-->
-    title: book now
-    content: C﻿heck our live availability calendars or book now
-    buttonTitle: ""
-    buttonUrl: ""
-    featuredImage: ""
+  - title: enquire now
+    content: W﻿e'll send you an info pack with details on our boats, optional
+      catering menus and extras available for the hens of your dreams
+    buttonTitle: Send me the info
+    buttonUrl: booking-enquiry/
+  - featuredImage: https://ucarecdn.com/6ac5219c-f16a-4c03-8106-4c86e53f41a7/-/crop/1333x1445/0,555/-/preview/
 featuredTestimonials:
   description: Ruby booked a hen's party charter for her interstate hen to
     experience the Gold Coast
