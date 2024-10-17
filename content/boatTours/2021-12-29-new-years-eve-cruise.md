@@ -5,7 +5,7 @@ title: Gold Coast New Year's Eve 2024 Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
 featuredImage: https://ucarecdn.com/dba0149b-583f-4865-a988-8ec0b6959aac/
 intro: >-
-  ## New Year's Eve 2024 Boat Charters
+  ## New Year's Eve 2024 Party Boat
 
 
   Charter one of the 3 beautiful catamarans and gather your friends and family to celebrate New Year's Eve 2024 on the Gold Coast in style aboard your own private yacht.   
