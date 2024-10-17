@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Gold Coast New Year's Eve 2024 Boat Charter
+title: Gold Coast New Year's Eve 2024 Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
 featuredImage: https://ucarecdn.com/dba0149b-583f-4865-a988-8ec0b6959aac/
 intro: >-
