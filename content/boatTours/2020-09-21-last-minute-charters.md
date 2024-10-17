@@ -66,6 +66,7 @@ bookingIframe: >-
   <!--EndFragment-->
 videoSection:
   title: ""
+contentColumn: ""
 accordionSection:
   accordion: []
 columnBanner:
@@ -78,6 +79,14 @@ columnBanner:
 
       <!--EndFragment-->
     title: ""
+    content: >-
+      <!--StartFragment-->
+
+
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/412461/last-minute-charter-bookings?iframe=true"></iframe>
+
+
+      <!--EndFragment-->
 meta:
   description: We occasionally offer special last minute rates on our vessels
   title: Last Minute Yacht Charters | Sailing in Paradise
