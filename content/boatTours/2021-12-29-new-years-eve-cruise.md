@@ -8,31 +8,18 @@ intro: >-
   ## New Year's Eve 2024 Party Boat
 
 
-  Charter one of the 3 beautiful catamarans and gather your friends and family to celebrate New Year's Eve 2024 on the Gold Coast in style aboard your own private yacht.   
+  This New Year’s Eve, elevate your celebration aboard a private yacht charter.    Why pay premium prices for crowded venues, long drinks lines and tacky tunes when you can sail the night away with your faves and customise the food, drinks and music to suit your vibe.  
 
 
-  During the day you will enjoy spectacular views and access to pristine beaches as the boat arrives at isolated islands surrounded by crystal clear turquoise waters. There are plentiful activities available on board to keep you entertained including Beach Volleyball, Stand Up Paddleboards, Beach Cricket and splash mat. 
+  S﻿o what are you waiting for?  Gather your crew and set sail into 2025 with an incredible private charter experience on the stunning Gold Coast Broadwater.    
 
 
-  Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast mountains followed by the twinkling Gold Coast City Skyline by night, simply breath-taking!
-
-
-  Our midnight charters take in the fireworks on display at the nearby resorts and parks.  
-
-
-  We offer a range of catering and beverage options and also welcome BYO.
+  **Enquire or book now to secure your yacht.**
 contentBox:
-  buttonTitle: ""
+  buttonTitle: NEW YEAR'S EVE CHARTER INFO
   buttonUrl: ""
-  title: ""
-bookingIframe: >-
-  <!--StartFragment-->
-
-
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/529475?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
-
-
-  <!--EndFragment-->
+  title: "ENQUIRE NOW "
+bookingIframe: ""
 gallery:
   - image: https://ucarecdn.com/76f824f6-642a-46d6-b717-7a0815985f30/
   - image: https://ucarecdn.com/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4/-/preview/-/enhance/39/
@@ -43,18 +30,39 @@ gallery:
   - image: https://ucarecdn.com/42f631aa-ddd7-41a1-b4eb-762b4546d9ec/-/preview/-/enhance/42/
   - image: https://ucarecdn.com/b24fbc76-268a-4751-a300-4d648a3cd9c7/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/7ba15080-d97b-4046-b1fd-7ec0a700c195/-/preview/-/enhance/33/
-contentColumnTitle: Sundowners on the water...
-contentColumn: ""
+contentColumnTitle: NEW YEARS EVE NEVER LOOKED BETTER
+contentColumn: >-
+  Picture this: a day filled with breathtaking views, island beaches, and
+  crystal-clear waters. Dive into fun with beach volleyball, stand-up
+  paddleboarding, and beach cricket—all at your fingertips on our daytime
+  sails. 
+
+
+  As the sun sets, soak in the vibrant colours painting the horizon and the stunning Gold Coast skyline coming alive. When midnight strikes, experience an epic fireworks show lighting up the night sky from the best vantage point on the water.
+
+
+  Indulge in catering and beverage packages designed to make your night a breeze or feel free to bring your own favorites along, BYO is welcome!
+
+
+  Don’t just ring in the New Year—make a splash! Book your private catamaran now and start 2025 with an unforgettable adventure.
 accordionSection:
   accordion: []
   sectionTitle: ""
 columnBanner:
   - featuredImage: ""
+    content: >-
+      <!--StartFragment-->
+
+
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/529475/new-years-eve?iframe=true"></iframe>
+
+
+      <!--EndFragment-->
+    title: reserve your new years charter today
 featuredTestimonials:
-  description: Check out Sandy's lovely review about her and her husband's
-    experience on our Sunset and City Lights Cruise...
-  testimonial: Sandy, UK
-  title: Sandy
+  description: ""
+  testimonial: ""
+  title: ""
 meta:
   description: Charter a private yacht on the Gold Coast this New Year's Eve
   title: Gold Coast New Year's Eve Boat Cruise, Boat Hire & Charters | Sailing in
