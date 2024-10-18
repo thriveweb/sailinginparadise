@@ -17,7 +17,7 @@ intro: >-
   **Enquire or book now to secure your yacht.**
 contentBox:
   buttonTitle: NEW YEAR'S EVE CHARTER INFO
-  buttonUrl: ""
+  buttonUrl: booking-enquiry
   title: "ENQUIRE NOW "
 bookingIframe: ""
 gallery:
