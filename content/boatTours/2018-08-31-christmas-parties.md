@@ -8,15 +8,10 @@ intro: >-
   ## gold coast Christmas boat party
 
 
-  Looking for somewhere unique to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?  You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
+  Looking for somewhere unique to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?  
 
 
-  Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
-
-
-  Sailing in Paradise would love to create a 2024 Christmas Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
-
-
+  Sailing in Paradise would love to create a 2024 Christmas Boat  Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  
 
 
   ##### W﻿hat's Included with your Christmas Party Boat?
@@ -26,21 +21,19 @@ intro: >-
 
   * E﻿xclusive Charter of vessel [(see our boats here)](https://sailinginparadise.com.au/our-boats/)
 
-  * F﻿riendly, professional skipper and crew
+  * F﻿riendly, professional crew
 
-  * Use of 2 large eskies with ice (BYO drinks welcome)
+  * 2 large eskies pre-filled with ice (BYO drinks welcome)
 
-  * I﻿sland Activities including SUPs, splash mats, beach volleyball
+  * I﻿sland Activities (SUPs, splash mats, beach volleyball etc)
 
-  * Amazing Sound System (with Ipad/Spotify control
+  * Amazing Sound System (Ipad/Spotify)
 
-  * Photo memories of your charter
+  * Photo memories via Dropbox
 
-    \*C﻿atering and beverages are available as optional extras and
+    \*C﻿atering and beverages service available
 
-
-
-  **Christmas Party Boat C﻿harters available from $500 to $860 per hour (min 3 hours)**
+  **Christmas Party Boat C﻿harters from $500 to $860 per hour (min 3 hours)**
 contentBox:
   buttonTitle: ""
   buttonUrl: ""
@@ -56,21 +49,12 @@ bookingIframe: >-
 gallery:
   - image: https://ucarecdn.com/3ac9fb35-c360-45b7-8073-f8fc4276aa3c/
   - image: https://ucarecdn.com/8039e778-fc75-4c1d-b801-7857a4ef3559/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/13c4367f-0750-4104-80fa-a9f4bae1b966/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/da692a43-a7a5-4a35-8fcb-3c6663be40a1/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/4f3fd348-7e7c-4f69-811f-140e3557fb21/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/145e93bb-d643-42b9-a3f8-90b6d29b837d/
-  - image: https://ucarecdn.com/e053756f-8c7a-48ae-8c6e-0d1814fc78c9/
   - image: https://ucarecdn.com/c041dbaa-ab58-4736-b90e-89e50ab31ff8/-/preview/-/enhance/50/
+  - image: https://ucarecdn.com/145e93bb-d643-42b9-a3f8-90b6d29b837d/
   - image: https://ucarecdn.com/ce75f74e-ee06-4b0b-b50b-1e65058423b0/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/6907a577-c18a-48d9-95fe-69551a8b7b94/-/preview/-/enhance/50/
   - image: https://ucarecdn.com/b98bd5bc-c0a1-4483-b2d9-ce7e620bf1f4/-/preview/-/enhance/28/
   - image: https://ucarecdn.com/3fd391e4-3880-4fa8-982e-b080d96fd92b/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/124b00b3-dd52-42ae-94f9-9f924f16f992/-/preview/-/enhance/33/
-  - image: https://ucarecdn.com/30f073cb-9c84-4485-b593-432839a45ae8/-/preview/-/enhance/27/
-  - image: https://ucarecdn.com/27e9516b-4513-4c9e-8416-fe685b1086d8/
-  - image: https://ucarecdn.com/4688abc4-af09-4aaa-abe8-6f3b4712fdea/-/preview/-/enhance/3/
-  - image: https://ucarecdn.com/c7badd83-8677-4299-854c-c405897d55ce/-/preview/-/enhance/28/
 videoSection:
   imageOverlay: ""
   video: ""
@@ -81,10 +65,13 @@ contentColumn: >-
   that!   
 
 
-  Aboard your own private catamaran our crew are on hand to help make your Christmas Party perfect for your group.  
+  Aboard your own private catamaran our crew are on hand to help make your Christmas Party perfect for your group.    You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
 
 
-  ![](https://ucarecdn.com/5dfe4b3a-36e7-4af6-ba39-79d339e820a3/-/preview/-/enhance/20/)
+  Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
+
+
+  ![](https://ucarecdn.com/3b53ec4e-ffcd-4637-893d-b31407d57334/)
 
 
   ## Christmas Party Ideas
@@ -118,7 +105,7 @@ contentColumn: >-
   If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
 
 
-  ![](https://ucarecdn.com/5fc05902-4b88-40e3-aafc-bdf8001d2c22/-/preview/-/enhance/50/)
+  ![](https://ucarecdn.com/859fceaa-b392-4340-95d5-95e488448428/)
 
 
   ## The Christmas Party Boats
