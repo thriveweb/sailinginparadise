@@ -71,7 +71,7 @@ contentColumn: >-
   Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
 
 
-  ![](https://ucarecdn.com/3b53ec4e-ffcd-4637-893d-b31407d57334/)
+  ![](https://ucarecdn.com/36492aa7-7dfd-4bf5-95a7-c770c6316850/ "Boat charter gold coast sailing in paradise")
 
 
   ## Christmas Party Ideas
@@ -105,7 +105,7 @@ contentColumn: >-
   If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
 
 
-  ![](https://ucarecdn.com/859fceaa-b392-4340-95d5-95e488448428/)
+  ![](https://ucarecdn.com/1f757de8-82fc-4311-9ac9-ac47cf6ab973/-/crop/4328x3034/176,609/-/preview/ "Sailing boat charter gold coast")
 
 
   ## The Christmas Party Boats
