@@ -41,11 +41,11 @@ intro: >-
   W﻿inter M﻿ay - Aug $1500 (for 2 - 8 guests)*
 
 
-  Summer Sep-Apr  $1700 (for 2 - 8 guests)*
+  Summer Sep - Apr $1700 (for 2 - 8 guests)*
 
    Save up to $660
 
-  \*﻿Additional guests or charter hours available on request.   Subject to availability.
+  \*﻿Additional guests or charter hours available on request.   Subject to availability shown on online calendars.   Unavailable during peak season (mid Nov - mid Jan).
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
