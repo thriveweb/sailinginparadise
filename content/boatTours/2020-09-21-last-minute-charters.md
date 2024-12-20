@@ -5,13 +5,21 @@ title: Last Minute Charters
 icon: https://ucarecdn.com/746a0750-45be-4c63-9d8e-2279d30e0442/
 featuredImage: https://ucarecdn.com/25fc3e45-1762-4c98-81a1-89866e3535b3/
 intro: >-
-  ##### Looking to sail last minute?
+  ##### Last Minute rates - Christmas & new year
+
+
+  What a way to farewell 2024 and welcome 2025!  
 
 
   Our stunning vessels are available at reduced rates for last minute bookings which fit within our existing charter commitments.  You will be sailing on board one of Sailing in Paradise's beautiful sailing catamarans selected by us to suit your group.     Bookings are available for groups of up to 20, 30 or 40 guests.  
 
 
   P﻿rices vary dependant on vessel availability, time and day so please check a few options on the calendar or reach out directly if you require assistance organising a custom charter to suit your requirements.  
+
+
+  E﻿xtended charters are available on request.  
+
+
 
 
   To explore our last minute rates and available please click to ['check availability and book now'.](https://sailinginparadise.rezdy.com/catalog/412461/last-minute-charter-bookings)
@@ -56,14 +64,7 @@ intro: >-
   * If you encounter any difficulties making a booking online or have any special requests please contact us at info@sailinginparadise.com.au or call 0438 915 222 and we will be happy to help.
 
     \*Last minute rates are not available with any other offer.
-bookingIframe: >-
-  <!--StartFragment-->
-
-
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/412461?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
-
-
-  <!--EndFragment-->
+bookingIframe: ""
 videoSection:
   title: ""
 contentColumn: ""
