@@ -10,7 +10,8 @@ excerpt: If you’re looking to make your hens boat party extra special, a theme
   event is the perfect way to add some personality and fun!
 videoSection:
   title: ""
-contentSecondary: ""
+contentSecondary: "[F﻿ind out more about hosting a hen's party on a
+  yacht.](boat-charter/gold-coast-hens-parties/)"
 meta:
   title: Trending hen's Party Themes for 2025
   description: If you’re looking to make your hens boat party extra special, a
@@ -32,6 +33,6 @@ If your bride-to-be loves a theme party, this can be the perfect way to add some
 
 Please touch base with our team if you are considering a theme party and we will be happy to talk you through anything you may need to bear in mind when planning your event on board.   
 
-[F﻿ind out more about hosting a hen's party on a yacht.](boat-charter/gold-coast-hens-parties/)
+
 
 ![](https://ucarecdn.com/d8065e17-d2c7-46ac-a99d-b78ae4e428cf/)
