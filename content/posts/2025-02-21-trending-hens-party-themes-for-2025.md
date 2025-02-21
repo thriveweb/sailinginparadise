@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Trending hen's Party Themes for 2025
+title: Trending Hen's Party Themes for 2025
 status: Published
 date: 2025-02-21T03:09:47.769Z
 categories:
