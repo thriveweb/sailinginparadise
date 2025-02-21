@@ -39,7 +39,7 @@ services:
         trimmings...
       icon: /images/uploads/wine.svg
       title: Hens Party Specialists
-  - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
+  - image: https://ucarecdn.com/476fc357-c021-49a9-8464-5bf46fb30c51/
     serviceContent:
       buttonUrl: gold-coast-birthday-parties/
       description: "Celebrate another lap around the sun on the water.  "
