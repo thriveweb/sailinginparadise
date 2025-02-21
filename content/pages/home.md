@@ -8,7 +8,7 @@ posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
-  - title: Explore the fleet
+  - title: explore the fleet
     description: 3 beautiful sailing catamarans to choose from
     buttonUrl: https://sailinginparadise.com.au/our-boats/
   - title: boat charter experts
@@ -16,7 +16,7 @@ featuredSlider:
     buttonUrl: about-us/
   - buttonUrl: cruise/gift-vouchers/
     description: A beautiful evening on the water at sunset
-    title: Gift the gift of experience
+    title: sunset cruise gift voucher
 featuredBanner:
   buttonTitle: Best value rates for the week ahead
   buttonUrl: boat-charter/last-minute-charters/
@@ -30,7 +30,7 @@ services:
         Parties are always better on the water...
       icon: /images/uploads/boat2.svg
       title: Corporate Events
-  - image: https://ucarecdn.com/ecabb807-6406-4b08-a605-e26a7d1d9293/-/preview/-/enhance/20/
+  - image: https://ucarecdn.com/4e25c39a-2365-4db8-a9c9-1dbeb0280f79/
     serviceContent:
       buttonUrl: boat-charter/gold-coast-hens-parties/
       description: A unique hen’s party idea on the Gold Coast. Whether you are
