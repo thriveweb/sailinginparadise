@@ -20,8 +20,6 @@ meta:
 ---
 If your bride-to-be loves a theme party, this can be the perfect way to add some personality and fun to the celebrations!   On board a private charter, the options are endless as the boat is all yours to enjoy as you wish.   Here are the latest trending hens party themes for 2025 that will elevate your celebrations on the water.  
 
-
-
 * Barbie Core- Go all out with glamorous pink outfits, bold accessories, and playful, feminine styles. Add soft waves, pink makeup, and sparkles for a fun, Barbie-inspired vibe! 
 * Denim & Diamonds – A mix of casual and glam, this theme lets you rock your favourite denim paired with sparkly accessories. Think double denim and dazzling jewelry.
 * Cowboy Chic – Yeehaw! Get ready to channel your inner cowgirl with cowboy hats,  and plaid. This Western-inspired look brings a fun and relaxed vibe to your hens party.
@@ -33,5 +31,7 @@ If your bride-to-be loves a theme party, this can be the perfect way to add some
 * The Last Splash – A beach theme with relaxed, surf-inspired looks. Think tropical florals, beachy accessories, and a laid-back atmosphere that’s perfect for a swim and a few beach games.
 
 Please touch base with our team if you are considering a theme party and we will be happy to talk you through anything you may need to bear in mind when planning your event on board.   
+
+[F﻿ind out more about hosting a hen's party on a yacht.](boat-charter/gold-coast-hens-parties/)
 
 ![](https://ucarecdn.com/d8065e17-d2c7-46ac-a99d-b78ae4e428cf/)
