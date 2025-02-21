@@ -3,44 +3,29 @@ template: HomePage
 slug: ""
 title: Gold Coast Boat Charters
 buttonTitle: Enquire or Book Now
-buttonUrl: ""
+buttonUrl: booking-enquiry/
 posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview/-/enhance/29/
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
-  - title: Brand New Vessel Joins the fleet!
-    description: We welcome 'Island Time' our new 42 capacity boat for charter
+  - title: Explore the fleet
+    description: 3 beautiful sailing catamarans to choose from
     buttonUrl: https://sailinginparadise.com.au/our-boats/
-  - title: Unforgettable Birthday Parties
-    description: "Celebrate another lap around the sun with a private yacht charter
-      with your friends and fam.  "
-    buttonUrl: boat-charter/gold-coast-birthday-parties/
-  - buttonUrl: boat-charter/gold-coast-hens-parties/
-    description: We are the hens party specialists. Let us create a truly special
-      event for you and your friends.
-    title: Hen's Party Boat Charters
-  - buttonUrl: boat-charter/gold-coast-family-charters/
-    description: Hire a private yacht for your small family group to enjoy our
-      beautiful waterways and the Queensland sunshine!
-    title: Small family day charters
-  - title: Last Minute Charters
-    description: See our last minute availability at sensational rates!
-    buttonUrl: boat-charter/last-minute-charters/
-  - buttonUrl: boat-charter/
-    description: For any occasion. From 3 hours to a full day. BYO or fully catered.
-    title: Private Skippered Boat Hire
+  - title: boat charter experts
+    description: Sail the Broadwater with our experienced team.
+    buttonUrl: about-us/
   - buttonUrl: cruise/gift-vouchers/
     description: A beautiful evening on the water at sunset
     title: Gift the gift of experience
 featuredBanner:
-  buttonTitle: Incredible offers for Last Minute Bookings.   See Availability
+  buttonTitle: Best value rates for the week ahead
   buttonUrl: boat-charter/last-minute-charters/
   image: https://ucarecdn.com/52837e09-5071-404c-8460-4131cccf63df/
   title: LAST MINUTE CHARTERS
 services:
   - image: https://ucarecdn.com/7904ec34-41d8-4a6f-9cd3-3aa9d1860afd/
     serviceContent:
-      buttonUrl: boat-charter/last-minute-charters/
+      buttonUrl: boat-charter/gold-coast-corporate-events/
       description: Team Building, Delegate Programs, Incentives, Meetings and Staff
         Parties are always better on the water...
       icon: /images/uploads/boat2.svg
@@ -56,11 +41,10 @@ services:
       title: Hens Party Specialists
   - image: https://ucarecdn.com/25e2cd4a-f613-4ed6-9dff-23da132b3cde/
     serviceContent:
-      buttonUrl: boat-charter/
-      description: Sailing in Paradise invites you to step aboard one of our luxurious
-        sailing catamarans for an event to be remembered.
+      buttonUrl: gold-coast-birthday-parties/
+      description: "Celebrate another lap around the sun on the water.  "
       icon: /images/uploads/wheel.svg
-      title: Private Boat Hire
+      title: Birthday Party Charters
 serviceBanner:
   buttonTitle: Find your Perfect Charter
   buttonUrl: boat-charter/
