@@ -8,15 +8,15 @@ posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
-  - title: explore the fleet
-    description: 3 beautiful sailing catamarans to choose from
+  - title: explore our boats
+    description: ""
     buttonUrl: https://sailinginparadise.com.au/our-boats/
-  - title: boat charter experts
-    description: Sail the Broadwater with our experienced team.
+  - title: Charter Options
+    description: ""
     buttonUrl: about-us/
   - buttonUrl: cruise/gift-vouchers/
-    description: A beautiful evening on the water at sunset
-    title: sunset cruise gift voucher
+    description: ""
+    title: Enquire Now
 featuredBanner:
   buttonTitle: Best value rates for the week ahead
   buttonUrl: boat-charter/last-minute-charters/
@@ -92,7 +92,7 @@ aboutSection:
   featuredImage: https://ucarecdn.com/2c1d7fda-d75d-4133-b44e-efe1fcb5c755/-/preview/-/enhance/19/
   subtitle: Our Boats & Crew
   title: Meet Us
-highlightsIntro: "## PRIVATE CHARTER HIGHLIGHTS"
+highlightsIntro: ""
 highlights:
   - icon: /images/uploads/crew.svg
     title: Fun, friendly and professional crew
