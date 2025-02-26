@@ -6,17 +6,17 @@ module.exports = {
     siteUrl: 'https://sailinginparadise.com.au'
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: null
-      }
-      // options: {
-      //   trackingId: 'UA-77246883-1',
-      //   head: true,
-      //   anonymize: true
-      // }
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: null
+    //   }
+    //   // options: {
+    //   //   trackingId: 'UA-77246883-1',
+    //   //   head: true,
+    //   //   anonymize: true
+    //   // }
+    // },
     {
       resolve: 'gatsby-plugin-google-tagmanager',
       options: {
@@ -59,7 +59,7 @@ module.exports = {
         plugins: [
           // gatsby-remark-relative-images must
           // go before gatsby-remark-images
-          'gatsby-remark-relative-images',
+          'gatsby-remark-relative-images-v2',
           {
             resolve: 'gatsby-remark-images',
             options: {
