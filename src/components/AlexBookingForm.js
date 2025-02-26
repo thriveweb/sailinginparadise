@@ -136,7 +136,7 @@ class AlexBookingForm extends React.Component {
           name="subject"
           value={`Boat Charter  - ${_startCase(
             this.state.charterType
-          )} | ${fullName}, ${_format(this.state.startDate, 'DD MMM YYYY')}`}
+          )} | ${fullName}, ${_format(this.state.startDate, 'dd MMM yyyy')}`}
         />
         <input type="hidden" name="form-name" value={name} />
         {this.state.alert && (

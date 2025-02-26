@@ -57,7 +57,7 @@ export const SinglePostTemplate = ({
               itemProp="dateCreated datePublished"
               date={date}
             >
-              {_format(date, 'D.MM.YYYY')}
+              {_format(date, 'd.MM.yyyy')}
             </time>
           )}
           {categories && categories.length > 0 && (

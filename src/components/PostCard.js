@@ -45,7 +45,7 @@ const PostCard = ({
               itemProp="dateCreated pubdate datePublished"
               date={date}
             >
-              {_format(date, 'MMM YYYY')}
+              {_format(date, 'MMM yyyy')}
             </time>
           ) : contentType !== 'happySailors' && date ? (
             <time
@@ -53,7 +53,7 @@ const PostCard = ({
               itemProp="dateCreated pubdate datePublished"
               date={date}
             >
-              {_format(date, 'D.MM.YYYY')}
+              {_format(date, 'd.MM.yyyy')}
             </time>
           ) : (
             ''
