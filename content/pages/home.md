@@ -1,22 +1,37 @@
 ---
 template: HomePage
 slug: ""
-title: Gold Coast Boat Charters
+title: ""
 buttonTitle: Enquire or Book Now
 buttonUrl: booking-enquiry/
 posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview/-/enhance/29/
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
-  - title: explore our boats
-    description: ""
+  - title: Brand New Vessel Joins the fleet!
+    description: We welcome 'Island Time' our new 42 capacity boat for charter
     buttonUrl: https://sailinginparadise.com.au/our-boats/
-  - title: Charter Options
-    description: ""
-    buttonUrl: about-us/
+  - title: Unforgettable Birthday Parties
+    description: "Celebrate another lap around the sun with a private yacht charter
+      with your friends and fam.  "
+    buttonUrl: boat-charter/gold-coast-birthday-parties/
+  - buttonUrl: boat-charter/gold-coast-hens-parties/
+    description: We are the hens party specialists. Let us create a truly special
+      event for you and your friends.
+    title: Hen's Party Boat Charters
+  - buttonUrl: boat-charter/gold-coast-family-charters/
+    description: Hire a private yacht for your small family group to enjoy our
+      beautiful waterways and the Queensland sunshine!
+    title: Small family day charters
+  - title: Last Minute Charters
+    description: See our last minute availability at sensational rates!
+    buttonUrl: boat-charter/last-minute-charters/
+  - buttonUrl: boat-charter/
+    description: For any occasion. From 3 hours to a full day. BYO or fully catered.
+    title: Private Skippered Boat Hire
   - buttonUrl: cruise/gift-vouchers/
-    description: ""
-    title: Enquire Now
+    description: A beautiful evening on the water at sunset
+    title: Gift the gift of experience
 featuredBanner:
   buttonTitle: Best value rates for the week ahead
   buttonUrl: boat-charter/last-minute-charters/
@@ -92,7 +107,7 @@ aboutSection:
   featuredImage: https://ucarecdn.com/2c1d7fda-d75d-4133-b44e-efe1fcb5c755/-/preview/-/enhance/19/
   subtitle: Our Boats & Crew
   title: Meet Us
-highlightsIntro: ""
+highlightsIntro: "## PRIVATE CHARTER HIGHLIGHTS"
 highlights:
   - icon: /images/uploads/crew.svg
     title: Fun, friendly and professional crew
