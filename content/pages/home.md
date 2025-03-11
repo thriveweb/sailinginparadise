@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Gold Coast Boat Charters
-buttonTitle: Enquire or Book Now
+buttonTitle: "Enquire or Book Now "
 buttonUrl: booking-enquiry/
 posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview/-/enhance/29/
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
