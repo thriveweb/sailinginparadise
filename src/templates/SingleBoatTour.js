@@ -50,6 +50,8 @@ export const SingleBoatTourTemplate = ({
       <div className="BoatTourIntro">
         <div className="container">
           {intro && <IntroText content={intro} />}
+        </div>
+        <div className="container">
           {bookingIframe ? (
             <BookingIframe bookingIframe={bookingIframe} />
           ) : (

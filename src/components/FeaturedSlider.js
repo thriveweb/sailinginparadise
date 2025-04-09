@@ -11,57 +11,59 @@ import './FeaturedSlider.css'
 
 class FeaturedSlider extends Component {
 
-  	render() {
+	render() {
 		const settings = {
-		  infinite: true,
-		  slidesToShow: 3,
-		  swipeToSlide: true,
-		  slidesToScroll: 1,
-		  arrows: true,
-      responsive: [
-        {
-          breakpoint: 1250,
-          settings: {
-            slidesToShow: 2,
-            slidesToScroll: 2,
-          }
-        },
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-          }
-        }
-      ]
+			infinite: true,
+			slidesToShow: 3,
+			swipeToSlide: true,
+			slidesToScroll: 1,
+			arrows: true,
+			responsive: [
+				{
+					breakpoint: 1250,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 2,
+					}
+				},
+				{
+					breakpoint: 1024,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1,
+					}
+				}
+			]
 		};
 
-	    const { featuredSlider, featuredBanner } = this.props
-	    const { title, buttonTitle, buttonUrl, image } = featuredBanner
+		const { featuredSlider, featuredBanner } = this.props
+		const { title, buttonTitle, buttonUrl, image } = featuredBanner
 
-		if(!featuredSlider) return null
+		if (!featuredSlider) return null
 
 		return <div className='FeaturedHomeSection'>
 			<div className='featuredSlider'>
-				<h2 className='fancy-title'>Featured</h2>
+				<h2 className='fancy-title'>Plan your charter</h2>
 				<Slider {...settings}>
-		    		{featuredSlider.map(({ title, description, buttonUrl }, index) => {
-		    			const descriptionLimited = description.slice(0, 60)
-		    			const excerpt = description.length > descriptionLimited.length ? descriptionLimited + '...' : descriptionLimited
+					{featuredSlider.map(({ title, description, buttonUrl }, index) => {
+						const descriptionLimited = description.slice(0, 60)
+						const excerpt = description.length > descriptionLimited.length ? descriptionLimited + '...' : descriptionLimited
 
-		    			return <div
-		    				className='sliderItem'
-		    				key={`featured-${index}`}
-		    			>
-			    			{title && <h4>{title}</h4>}
-			    			{description && <p>{excerpt}</p>}
-			    			{buttonUrl && <Button title='Know More' url={buttonUrl} />}
-			    		</div>
-		    		})}
-		    	</Slider>
+						return <div
+							className='sliderItem'
+							key={`featured-${index}`}
+						>
+							<a href={buttonUrl || "#"}>
+								{title && <h4>{title}</h4>}
+								{description && <p>{excerpt}</p>}
+							</a>
+							{/* {buttonUrl && <Button title='Know More' url={buttonUrl} />} */}
+						</div>
+					})}
+				</Slider>
 			</div>
 			<div className='featuredBanner relative'>
-        {image && <Image background src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`} />}
+				{image && <Image background src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/600/`} />}
 				<div className='bannerContent'>
 					{title && <h3>{title}</h3>}
 					{buttonTitle && buttonUrl && <Button title={buttonTitle} url={buttonUrl} white />}

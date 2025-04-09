@@ -9,13 +9,13 @@ hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
   - title: explore our boats
-    description: ""
+    description: We welcome 'Island Time' our new 42 capacity boat for charter
     buttonUrl: https://sailinginparadise.com.au/our-boats/
   - title: Charter Options
-    description: ""
+    description: Sail the Broadwater with our experienced team.
     buttonUrl: about-us/
   - buttonUrl: cruise/gift-vouchers/
-    description: ""
+    description: A beautiful evening on the water at sunset
     title: Enquire Now
 featuredBanner:
   buttonTitle: Best value rates for the week ahead
