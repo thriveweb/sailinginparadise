@@ -54,13 +54,13 @@ export const HomePageTemplate = ({
         featuredBanner={featuredBanner}
         socialMedia={socialMedia}
       />
-      <ServiceColumns services={services} serviceBanner={serviceBanner} />
-      <SecondaryBanner {...secondaryBanner} contentBox />
-      <HomeAboutBanner {...aboutSection} />
       <HighlightChart
         highlights={highlights}
         highlightsIntro={highlightsIntro}
       />
+      <ServiceColumns services={services} serviceBanner={serviceBanner} />
+      <SecondaryBanner {...secondaryBanner} contentBox />
+      <HomeAboutBanner {...aboutSection} />      
       <TestimonialSlider {...featuredTestimonials} caseStudies={caseStudies} />
       <FeaturedPosts latestNews={latestNews} posts={posts} />
       <InstagramFeed />

@@ -92,7 +92,7 @@ aboutSection:
   featuredImage: https://ucarecdn.com/2c1d7fda-d75d-4133-b44e-efe1fcb5c755/-/preview/-/enhance/19/
   subtitle: Our Boats & Crew
   title: Meet Us
-highlightsIntro: ""
+highlightsIntro: "<h2>Private Charter Highlights</h2>"
 highlights:
   - icon: /images/uploads/crew.svg
     title: Fun, friendly and professional crew
