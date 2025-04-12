@@ -1,0 +1,143 @@
+.boat-selection {
+  padding: 0 0 8rem 0;
+  background-color: #F5F5F5;  /* Light gray background for the section */
+}
+
+.boat-selection-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 60px;
+  font-weight: 600;
+}
+
+.boat-selection-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.boat-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid #E0E0E0;  /* Light border around the card */
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.boat-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.boat-image-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 75%; /* 4:3 aspect ratio */
+  overflow: hidden;
+  border-bottom: 1px solid #E0E0E0;
+}
+
+.boat-image-container::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom,
+    rgba(0,0,0,0.3) 0%,
+    rgba(0,0,0,0.2) 50%,
+    rgba(0,0,0,0.3) 100%
+  );
+}
+
+.boat-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.boat-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  color: white;
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-align: center;
+  width: 100%;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  z-index: 1;
+}
+
+.boat-features {
+  padding: 24px;
+  flex-grow: 1;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E0E0E0;
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  color: #4A4A4A;
+}
+
+.feature-item:last-child {
+  margin-bottom: 0;
+}
+
+.feature-dot {
+  margin-right: 10px;
+  font-size: 1.2em;
+}
+
+.more-info-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 50%;  
+}
+
+.more-info {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  font-weight: 500;
+  background-color: #FFFFFF;
+  border-top: none;
+  width: 100%;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: left;
+  justify-content: flex-start;
+}
+
+@media (max-width: 1024px) {
+  .boat-selection-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .boat-selection-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .boat-selection-title {
+    font-size: 2rem;
+    padding: 0 20px;
+  }
+} 

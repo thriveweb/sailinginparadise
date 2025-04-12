@@ -6,6 +6,7 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import IntroText from '../components/IntroText'
 import Boats from '../components/Boats'
+import BoatSelection from '../components/BoatSelection'
 import SecondaryBanner from '../components/SecondaryBanner'
 import ColumnBanner from '../components/ColumnBanner'
 import './AboutPage.css'
@@ -29,9 +30,10 @@ export const BoatsPageTemplate = ({
       </Helmet>
       <PageHeader title={title} backgroundImage={featuredImage} />
       <IntroText content={intro} center />
-      <Boats boats={boats} />
+      <BoatSelection boats={boats} />
+      {/* <Boats boats={boats} />
       <SecondaryBanner {...secondaryBanner} large />
-      <ColumnBanner columnBanner={columnBanner} />
+      <ColumnBanner columnBanner={columnBanner} /> */}
     </main>
   )
 }
