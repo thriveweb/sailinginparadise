@@ -843,6 +843,17 @@ collections: # A list of collections the CMS should be able to edit
                   widget: markdown,
                   required: false,
                 }
+              - label: 'Boat Listing Features'
+                required: false
+                name: 'boatListingFeatures'
+                widget: 'list'
+                fields:
+                  - {
+                      label: Content,
+                      name: content,
+                      widget: markdown,
+                      required: false,
+                    }
               - label: 'Boat Features'
                 required: false
                 name: 'boatFeatures'

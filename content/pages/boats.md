@@ -11,6 +11,11 @@ boats:
       imageOverlay: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
     title: "Island Time "
     featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/3158x3108/1212,795/-/preview/
+    boatListingFeatures:
+      - content: New Vessel
+      - content: Suitable for up to 42 guests
+      - content: Largest deck space
+      - content: 2 bathrooms
     description: >-
       #### BRAND NEW 42 PAX
 
@@ -33,7 +38,7 @@ boats:
       This style of vessel is popular for charters in other areas and we are delighted to be welcoming the Seawind 1160 Resort to the Gold Coast Broadwater!  She is unrivalled on the Gold Coast if you are looking for a sailing catamaran with style and space.  
 
 
-      [S﻿ee our Instagram for videos of Island Time in action](https://www.instagram.com/stories/highlights/18039461704595777/)
+      [S﻿ee our Instagram for videos of Island Time in action](https://www.instagram.com/stories/highlights/18039461704595777/)    
     boatFeatures:
       - content: 11.6m long, 6.5m wide
       - content: M﻿ax. 4﻿2 passengers + 2-3 crew
@@ -69,6 +74,11 @@ boats:
       imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
     title: Oceans - Deluxe
     featuredImage: https://ucarecdn.com/033861dd-c518-48e0-a767-176f44073284/
+    boatListingFeatures:
+      - content: Deluxe Vessel
+      - content: Suitable for 2 to 30 guests
+      - content: Indoor Lounge Area
+      - content: Overwater Sitting
     description: >-
       Oceans is a Seawind 1160 Deluxe, boasting an amazing layout equally
       suitable for couples as it is for groups. 
@@ -142,6 +152,10 @@ boats:
       - image: https://ucarecdn.com/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273/
     title: spirit Of Gwonda
     featuredImage: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/-/crop/2566x2704/1039,0/-/preview/
+    boatListingFeatures:
+      - content: The O.G.
+      - content: Suitable for up to 30 guests
+      - content: Indoor/Outdoor flow
     videoSection:
       imageOverlay: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
       title: 360° VR tour - Spirit Of Gwonda

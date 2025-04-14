@@ -62,6 +62,9 @@ export const pageQuery = graphql`
         boats {
           description
           title
+          boatListingFeatures {
+            content
+          }
           boatFeatures {
             content
           }
