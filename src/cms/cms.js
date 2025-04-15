@@ -18,6 +18,7 @@ import { CaseStudiesTemplate } from '../templates/CaseStudies'
 import { BoatsPageTemplate } from '../templates/BoatsPage'
 import { SingleCaseStudyTemplate } from '../templates/SingleCaseStudy'
 import { SingleBoatTourTemplate } from '../templates/SingleBoatTour'
+import { SingleBoatTemplate } from '../templates/SingleBoat'
 import { SingleFaqPageTemplate } from '../templates/SingleFaqPage'
 
 CMS.registerMediaLibrary(uploadcare)
@@ -67,6 +68,9 @@ CMS.registerPreviewTemplate('happySailor', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('boatTours', ({ entry }) => (
   <SingleBoatTourTemplate {...entry.getIn(['data']).toJS()} />
+))
+CMS.registerPreviewTemplate('boats', ({ entry }) => (
+  <SingleBoatTemplate {...entry.getIn(['data']).toJS()} />
 ))
 CMS.registerPreviewTemplate('faqPages', ({ entry }) => (
   <SingleFaqPageTemplate {...entry.getIn(['data']).toJS()} />

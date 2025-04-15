@@ -1,0 +1,127 @@
+.BoatTourIntro {
+	padding: 8rem 0 6rem;
+}
+
+.BoatTourIntro .container {
+	display: flex;
+	align-items: flex-start;
+}
+
+.BoatTourIntro .intro-section {
+	padding: 0;
+	/* flex: 0 0 60%; */
+	/* margin-right: 15%; */
+}
+
+.boat-content-column {
+	display: flex;
+	justify-content: center;
+}
+
+.boat-content-column .contentColumn h2 {
+	margin-right: 4rem;
+}
+
+.boat-content-column .contentColumn .intro-section {
+	max-width: none;
+}
+
+.boat-content-column .intro-section {
+	max-width: 90%;
+}
+
+.BoatTourIntro blockquote {
+	text-align: left;
+}
+
+@media only screen and (max-width: 1300px) {
+	.BoatTourIntro .intro-section {
+		flex: 1;
+		max-width: none;
+		margin-right: 5rem;
+	}
+
+	.BoatTourIntro .contentBox {
+		flex: 1;
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	.boat-content-column .contentColumn {
+		padding: 8rem 0 4rem;
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	.BoatTourIntro {
+		padding: 6rem 0;
+	}
+
+	.BoatTourIntro .container {
+		flex-wrap: wrap;
+	}
+
+	.BoatTourIntro .intro-section {
+		flex: 0 0 100%;
+		margin: 0 0 4rem;
+	}
+
+	.BoatTourIntro .contentBox {
+		flex: 0 0 100%;
+	}
+
+	.boat-content-column .contentColumn .container {
+		flex-wrap: wrap;
+	}
+
+	.boat-content-column .contentColumn h2 {
+		flex: 0 0 100%;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.boat-content-column .contentColumn .container,
+	.BoatTourIntro .intro-section {
+		text-align: center;
+	}
+
+	.boat-content-column .contentColumn {
+		padding: 4rem 0 2rem;
+	}
+
+	.BoatTourIntro blockquote {
+		text-align: center;
+	}
+
+
+	.boat-content-column .contentColumn .container h2,
+	.BoatTourIntro .intro-section h2 {
+		font-size: 2.8rem;
+	}
+
+	.boat-content-column .contentColumn .container h2:before,
+	.boat-content-column .contentColumn .container h2:after,
+	.BoatTourIntro .intro-section h2:before,
+	.BoatTourIntro .intro-section h2:after {
+		right: 0;
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.SingleBoatTour h2 {
+		font-size: 2.2rem !important;
+	}
+
+	.BoatTourIntro {
+		padding: 4rem 0;
+	}
+
+	.boat-content-column .Content {
+		text-align: center;
+	}
+
+	.boat-content-column .contentColumn {
+		padding: 4rem 0;
+	}
+}
