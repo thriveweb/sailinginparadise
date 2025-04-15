@@ -168,19 +168,23 @@
 }
 
 .video-section.homeVideo .overlay-content .container {
-  max-width: 53%;
   padding-top: 10vw;
-  margin: 0 0 0 auto;
+  margin: 0;
   flex-wrap: wrap;
 }
 
 .video-section.homeVideo .overlay-content h1,
 .video-section.homeVideo .overlay-content .button {
-  text-align: left;
+  text-align: center;
   line-height: 1;
   display: inline-block;
   position: relative;
   z-index: 4;
+}
+
+.video-section.homeVideo .overlay-content .buttonContainer {
+  width: 100%;
+  text-align: center;
 }
 
 .video-section.homeVideo .overlay-content h1 {
@@ -189,7 +193,6 @@
   margin: 0;
   max-width: 140rem;
   flex: 0 0 100%;
-  text-align: center;
 }
 
 /* Boats */
