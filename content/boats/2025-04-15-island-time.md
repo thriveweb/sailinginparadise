@@ -1,8 +1,8 @@
 ---
 template: SingleBoat
-title: ISLAND TIME
+title: Island Time
 featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/3158x3108/1212,795/-/preview/
-description: |+
+description: >+
   #### BRAND NEW 42 PAX
 
 
