@@ -63,6 +63,6 @@ videoSection:
   imageOverlay: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
   videoURL: https://tour.panoee.com/IslandTime
 meta:
-  title: ISLAND TIME
-  description: ISLAND TIME DESCRIPTION
+  title: Island Time
+  description: Island Time Description
 ---
