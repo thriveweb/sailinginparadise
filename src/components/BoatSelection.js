@@ -10,7 +10,7 @@ const BoatSelection = ({ boats }) => {
       <div className="boat-selection-grid">
         {boats && boats.map((boat, index) => (
           <div className="boat-card" key={index}>
-            <a href={`/boats/${boat.title.toLowerCase().replace(/\s+/g, '-')}`} className="boat-link">
+            <a href={boat.slug} className="boat-link">
               <div className="boat-image-container">
                 <img src={boat.featuredImage} alt={boat.title} className="boat-image" />
                 <h3 className="boat-title">{boat.title}</h3>
@@ -23,7 +23,7 @@ const BoatSelection = ({ boats }) => {
                   </div>
                 ))}
                 <div className="more-info-container">
-                  <Button title="More Info" url={`/boats/${boat.title.toLowerCase().replace(/\s+/g, '-')}`} className="more-info" />
+                  <Button title="More Info" url={boat.slug} className="more-info" />
                 </div>
               </div>
             </a>

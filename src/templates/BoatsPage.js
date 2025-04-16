@@ -19,9 +19,10 @@ export const BoatsPageTemplate = ({
   intro,
   secondaryBanner,
   columnBanner,
-  boats,
+  allboats,
   meta
 }) => {
+  console.log('allboats', allboats)
   return (
     <main className="Boats">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -30,7 +31,7 @@ export const BoatsPageTemplate = ({
       </Helmet>
       <PageHeader title={title} backgroundImage={featuredImage} />
       <IntroText content={intro} center />
-      <BoatSelection boats={boats} />
+      <BoatSelection boats={allboats} />
       {/* <Boats boats={boats} />
       <SecondaryBanner {...secondaryBanner} large />
       <ColumnBanner columnBanner={columnBanner} /> */}
@@ -38,13 +39,17 @@ export const BoatsPageTemplate = ({
   )
 }
 
-const BoatsPage = ({ data: { page, globalSections } }) => (
+const BoatsPage = ({ data: { page, globalSections, allBoats } }) => (
   <Layout meta={page.frontmatter.meta || false}>
     <BoatsPageTemplate
       {...page}
       {...page.frontmatter}
       body={page.html}
       {...globalSections.frontmatter}
+      allboats = {allBoats.edges.map(({ node }) => ({
+        ...node.frontmatter,
+        ...node.fields
+      }))}
     />
   </Layout>
 )
@@ -58,26 +63,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         featuredImage
-        intro
-        boats {
-          description
-          title
-          boatListingFeatures {
-            content
-          }
-          boatFeatures {
-            content
-          }
-          featuredImage
-          gallery {
-            image
-          }
-          videoSection {
-            imageOverlay
-            title
-            videoURL
-          }
-        }
+        intro        
         secondaryBanner {
           buttonTitle
           buttonUrl
@@ -89,6 +75,37 @@ export const pageQuery = graphql`
           description
           title
           canonicalLink
+        }
+      }
+    }
+    allBoats: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "boats" } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            description
+            title
+            boatListingFeatures {
+              content
+            }
+            boatFeatures {
+              content
+            }
+            featuredImage
+            gallery {
+              image
+            }
+            videoSection {
+              imageOverlay
+              title
+              videoURL
+            }
+          }
         }
       }
     }
