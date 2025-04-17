@@ -42,7 +42,7 @@ export default class Nav extends Component {
               filter: {
                 fields: {
                   contentType: {
-                    in: ["pages", "defaultPages", "faqPages", "boatTours", "posts"]
+                    in: ["pages", "defaultPages", "faqPages", "boatTours","boats", "posts"]
                   }
                 }
               }

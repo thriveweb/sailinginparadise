@@ -1205,6 +1205,30 @@ collections: # A list of collections the CMS should be able to edit
               widget: markdown,
               required: false,
             }
+      - label: 'Content Box'
+        required: false
+        name: 'contentBox'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Button Title,
+              name: buttonTitle,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Button Url,
+              name: buttonUrl,
+              widget: string,
+              required: false,
+            }
+      - {
+          label: Booking Iframe,
+          name: bookingIframe,
+          widget: markdown,
+          required: false,
+        }
       - label: 'Gallery'
         required: false
         name: 'gallery'
@@ -1236,10 +1260,95 @@ collections: # A list of collections the CMS should be able to edit
             }
           - {
               label: Video URL,
-              name: videoURL,
+              name: video,
               widget: string,
               required: false,
             }
+      - {
+          label: Content Column Title,
+          name: contentColumnTitle,
+          widget: string,
+          required: false,
+        }
+      - {
+          label: Content Column,
+          name: contentColumn,
+          widget: markdown,
+          required: false,
+        }
+      - label: Accordion Section
+        name: accordionSection
+        required: false
+        widget: 'object'
+        fields:
+          - {
+              label: Section Title,
+              name: sectionTitle,
+              widget: string,
+              required: false,
+            }
+          - label: Accordion
+            required: false
+            name: accordion
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Dropdown Content,
+                  name: dropdownContent,
+                  widget: markdown,
+                  required: false,
+                }
+      - label: 'Column Banner'
+        name: 'columnBanner'
+        required: false
+        widget: 'list'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - { label: Content, name: content, widget: markdown, required: false }
+          - {
+              label: Featured Image,
+              name: featuredImage,
+              widget: image,
+              required: false,
+            }
+          - {
+              label: Button Title,
+              name: buttonTitle,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Button Url,
+              name: buttonUrl,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Booking Widget,
+              name: bookingWidget,
+              widget: markdown,
+              required: false,
+            }
+      - label: 'Featured Testimonials'
+        required: false
+        name: 'featuredTestimonials'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - label: 'Testimonial'
+            name: 'testimonial'
+            required: false
+            widget: 'relation'
+            collection: 'happySailor'
+            searchFields: ['title']
+            valueField: 'title'
       - label: 'Meta'
         required: false
         name: 'meta'

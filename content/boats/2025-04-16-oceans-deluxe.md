@@ -45,7 +45,7 @@ gallery:
   - image: https://ucarecdn.com/12879a49-dd42-49fa-85cb-a9db8521d7a3/
 videoSection:
   title: " 360° VR TOUR - Oceans"
-  videoURL: https://tour.panoee.com/oceans
+  video: https://tour.panoee.com/oceans
   imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
 meta:
   title: Oceans - Deluxe

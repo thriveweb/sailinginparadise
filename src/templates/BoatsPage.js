@@ -32,7 +32,7 @@ export const BoatsPageTemplate = ({
       <PageHeader title={title} backgroundImage={featuredImage} />
       <IntroText content={intro} center />
       <BoatSelection boats={allboats} />
-      {/* <Boats boats={boats} />
+      {/* <Boats boats={allboats} />
       <SecondaryBanner {...secondaryBanner} large />
       <ColumnBanner columnBanner={columnBanner} /> */}
     </main>
@@ -103,7 +103,7 @@ export const pageQuery = graphql`
             videoSection {
               imageOverlay
               title
-              videoURL
+              video
             }
           }
         }

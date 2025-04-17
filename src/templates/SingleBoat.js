@@ -17,11 +17,9 @@ import FeaturedTestimonial from '../components/FeaturedTestimonial'
 import './SingleBoat.css'
 
 export const SingleBoatTemplate = ({
-  body,
-  tourType,
   title,
   featuredImage,
-  intro,
+  description,
   contentBox,
   bookingIframe,
   gallery,
@@ -31,15 +29,14 @@ export const SingleBoatTemplate = ({
   columnBanner,
   videoSection,
   slug,
-  post,
   caseStudies,
   featuredTestimonials,
   meta
 }) => {
-  // const charterUrl = slug
-  //   ? slug.replace('/boat-charter/', '').replace('/', '')
-  //   : ''
-
+  const boatUrl = slug
+    ? slug.replace('/boats/', '').replace('/', '')
+    : ''
+  console.log('**** videoSection ****', videoSection)
   return (
     <main className="SingleBoat">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -49,11 +46,37 @@ export const SingleBoatTemplate = ({
       <PageHeader title={title} backgroundImage={featuredImage} />
       <div className="BoatIntro">
         <div className="container">
-          {intro && <IntroText content={intro} />}
+          {description && <IntroText content={description} />}
+        </div>
+        <div className="container">
+          {bookingIframe ? (
+            <BookingIframe bookingIframe={bookingIframe} />
+          ) : (
+            <ContentBox {...contentBox} charterUrl={boatUrl} />
+          )}
         </div>
       </div>
       {gallery && <GallerySlider gallery={gallery} />}
       {videoSection && <VideoPopup {...videoSection} />}
+      {contentColumn && (
+        <div className="boat-content-column">
+          <IntroText content={contentColumn} title={contentColumnTitle} />
+        </div>
+      )}
+      <Accordion accordionSection={accordionSection} />
+      {columnBanner && (
+        <ColumnBanner
+          columnBanner={columnBanner}
+          boatTour
+          charterUrl={boatUrl}
+          bookingIframe={bookingIframe}
+        />
+      )}
+      <FeaturedTestimonial
+        {...featuredTestimonials}
+        caseStudies={caseStudies}
+        charterTitle={title}
+      />
     </main>
   )
 }
@@ -82,6 +105,13 @@ export const pageQuery = graphql`
       frontmatter {
         title
         featuredImage
+        description
+        contentBox {
+          buttonTitle
+          buttonUrl
+          title
+        }
+        bookingIframe
         gallery {
           image
         }
@@ -89,7 +119,29 @@ export const pageQuery = graphql`
           video
           title
           imageOverlay
-        }        
+        }
+        contentColumnTitle
+        contentColumn
+        accordionSection {
+          sectionTitle
+          accordion {
+            dropdownContent
+            title
+          }
+        }
+        columnBanner {
+          buttonTitle
+          buttonUrl
+          content
+          title
+          featuredImage
+          bookingWidget
+        }
+        featuredTestimonials {
+          title
+          description
+          testimonial
+        }      
         meta {
           description
           title

@@ -1,13 +1,13 @@
-.BoatTourIntro {
+.BoatIntro {
 	padding: 8rem 0 6rem;
 }
 
-.BoatTourIntro .container {
+.BoatIntro .container {
 	display: flex;
 	align-items: flex-start;
 }
 
-.BoatTourIntro .intro-section {
+.BoatIntro .intro-section {
 	padding: 0;
 	/* flex: 0 0 60%; */
 	/* margin-right: 15%; */
@@ -30,18 +30,18 @@
 	max-width: 90%;
 }
 
-.BoatTourIntro blockquote {
+.BoatIntro blockquote {
 	text-align: left;
 }
 
 @media only screen and (max-width: 1300px) {
-	.BoatTourIntro .intro-section {
+	.BoatIntro .intro-section {
 		flex: 1;
 		max-width: none;
 		margin-right: 5rem;
 	}
 
-	.BoatTourIntro .contentBox {
+	.BoatIntro .contentBox {
 		flex: 1;
 	}
 }
@@ -53,20 +53,20 @@
 }
 
 @media only screen and (max-width: 1000px) {
-	.BoatTourIntro {
+	.BoatIntro {
 		padding: 6rem 0;
 	}
 
-	.BoatTourIntro .container {
+	.BoatIntro .container {
 		flex-wrap: wrap;
 	}
 
-	.BoatTourIntro .intro-section {
+	.BoatIntro .intro-section {
 		flex: 0 0 100%;
 		margin: 0 0 4rem;
 	}
 
-	.BoatTourIntro .contentBox {
+	.BoatIntro .contentBox {
 		flex: 0 0 100%;
 	}
 
@@ -81,7 +81,7 @@
 
 @media only screen and (max-width: 768px) {
 	.boat-content-column .contentColumn .container,
-	.BoatTourIntro .intro-section {
+	.BoatIntro .intro-section {
 		text-align: center;
 	}
 
@@ -89,31 +89,31 @@
 		padding: 4rem 0 2rem;
 	}
 
-	.BoatTourIntro blockquote {
+	.BoatIntro blockquote {
 		text-align: center;
 	}
 
 
 	.boat-content-column .contentColumn .container h2,
-	.BoatTourIntro .intro-section h2 {
+	.BoatIntro .intro-section h2 {
 		font-size: 2.8rem;
 	}
 
 	.boat-content-column .contentColumn .container h2:before,
 	.boat-content-column .contentColumn .container h2:after,
-	.BoatTourIntro .intro-section h2:before,
-	.BoatTourIntro .intro-section h2:after {
+	.BoatIntro .intro-section h2:before,
+	.BoatIntro .intro-section h2:after {
 		right: 0;
 		margin: 0 auto;
 	}
 }
 
 @media only screen and (max-width: 425px) {
-	.SingleBoatTour h2 {
+	.SingleBoat h2 {
 		font-size: 2.2rem !important;
 	}
 
-	.BoatTourIntro {
+	.BoatIntro {
 		padding: 4rem 0;
 	}
 
