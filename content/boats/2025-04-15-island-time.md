@@ -73,22 +73,7 @@ videoSection:
   title: 360° VR TOUR - Island Time
   imageOverlay: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
   video: https://tour.panoee.com/IslandTime
-columnsSection:
-  leftColumn: >-
-    ## Not your average office Christmas Party!
 
-
-    If your Gold Coast Christmas Party has fallen into the 'get me out of here this is soooooo dull' category once too often, we are here to help fix that!   
-
-
-    Aboard your own private catamaran our crew are on hand to help make your Christmas Party perfect for your group.    You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
-
-
-    Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
-  rightColumn: >-
-    
-
-    ![](https://ucarecdn.com/36492aa7-7dfd-4bf5-95a7-c770c6316850/ "Boat charter gold coast sailing in paradise")
 contentColumnTitle: Not your average office Christmas Party!
 contentColumn: >-
   If your Gold Coast Christmas Party has fallen into the 'get me out of here
