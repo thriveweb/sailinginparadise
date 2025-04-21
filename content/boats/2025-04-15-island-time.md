@@ -124,59 +124,7 @@ columnsSection:
       If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!
     rightColumn: ""
 contentColumnTitle: Not your average office Christmas Party!
-contentColumn: >-
-  If your Gold Coast Christmas Party has fallen into the 'get me out of here
-  this is soooooo dull' category once too often, we are here to help fix
-  that!   
-
-
-  Aboard your own private catamaran our crew are on hand to help make your Christmas Party perfect for your group.    You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
-
-
-  Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
-
-
-  ![](https://ucarecdn.com/36492aa7-7dfd-4bf5-95a7-c770c6316850/ "Boat charter gold coast sailing in paradise")
-
-
-  ## Christmas Party Ideas
-
-
-  Got your own ideas?   Tell us what floats your boat and we'll do our best to make it happen.  Some options include;
-
-
-  * A relaxed sunset cruise with canapes and champagne,
-
-  * A day on the water with swimming, Island activities, and delicious BBQ lunch and icy cold beers,
-
-  * or even a high octane team building day with sailing challenges and water sports?
-
-
-  These are just a few of the Gold Coast Christmas Party ideas available with Sailing in Paradise.   The options are endless and our friendly team are on hand to help you plan 'your Christmas Party your way'.  
-
-
-  We have looked after all sorts of industry clients from fitness studios and uber-cool restaurants to banks and legal firms (and everything in between).   There is something about spending time on the water that brings people (of all ages and backgrounds) together and we would love to put on a Christmas Party your whole team will talk about for years to come!
-
-
-  ## Christmas Party Planners, we are here to help...
-
-
-  OK you have found your perfect Christmas Party, yay!   What now?  Time for a mojito…(ahem, well we need to set the scene for what's to come).
-
-
-  But in all seriousness, you are busy, we totally get it!   That's why we offer a fuss-free service.   From the moment you enquire and receive our Christmas Party info pack we are here to make your life easier.   
-
-
-  If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
-
-
-  ![](https://ucarecdn.com/1f757de8-82fc-4311-9ac9-ac47cf6ab973/-/crop/4328x3034/176,609/-/preview/ "Sailing boat charter gold coast")
-
-
-  ## The Christmas Party Boats
-
-
-  What do our customers love about our catamarans?   Well, time and time again they tell us they are the ideal venue for parties!    And work Christmas Parties are no exception.
+contentColumn: ""
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?
