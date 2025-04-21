@@ -68,13 +68,7 @@ export const SingleBoatTemplate = ({
             <IntroText className="contentColumn" content={section.rightColumn} />
           )}
         </div>
-      ))}
-
-      {contentColumn && (
-        <div className="boat-content-column">
-          <IntroText content={contentColumn} title={contentColumnTitle} />
-        </div>
-      )}
+      ))}      
       <Accordion accordionSection={accordionSection} />
       {columnBanner && (
         <ColumnBanner
@@ -135,9 +129,7 @@ export const pageQuery = graphql`
         columnsSection {
           leftColumn
           rightColumn
-        }
-        contentColumnTitle
-        contentColumn
+        }        
         accordionSection {
           sectionTitle
           accordion {
