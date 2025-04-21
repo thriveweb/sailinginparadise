@@ -1264,6 +1264,23 @@ collections: # A list of collections the CMS should be able to edit
               widget: string,
               required: false,
             }
+      - label: Columns Section
+        name: columnsSection
+        required: false
+        widget: 'list'
+        fields:
+          - {
+              label: Left Column,
+              name: leftColumn,
+              widget: markdown,
+              required: false,
+            }
+          - {
+              label: Right Column,
+              name: rightColumn,
+              widget: markdown,
+              required: false,
+            }
       - {
           label: Content Column Title,
           name: contentColumnTitle,

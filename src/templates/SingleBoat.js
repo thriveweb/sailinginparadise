@@ -23,6 +23,7 @@ export const SingleBoatTemplate = ({
   contentBox,
   bookingIframe,
   gallery,
+  columnsSection,
   contentColumnTitle,
   contentColumn,
   accordionSection,
@@ -36,7 +37,7 @@ export const SingleBoatTemplate = ({
   const boatUrl = slug
     ? slug.replace('/boats/', '').replace('/', '')
     : ''
-  console.log('**** videoSection ****', videoSection)
+  console.log('**** columnsSection ****', columnsSection)
   return (
     <main className="SingleBoat">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -58,6 +59,17 @@ export const SingleBoatTemplate = ({
       </div>
       {gallery && <GallerySlider gallery={gallery} />}
       {videoSection && <VideoPopup {...videoSection} />}
+      {columnsSection && columnsSection.map((section, index) => (
+        <div className="container boat-content-column" key={index}>
+          {section.leftColumn && (
+            <IntroText className="contentColumn" content={section.leftColumn} />
+          )}
+          {section.rightColumn && (
+            <IntroText className="contentColumn" content={section.rightColumn} />
+          )}
+        </div>
+      ))}
+
       {contentColumn && (
         <div className="boat-content-column">
           <IntroText content={contentColumn} title={contentColumnTitle} />
@@ -119,6 +131,10 @@ export const pageQuery = graphql`
           video
           title
           imageOverlay
+        }
+        columnsSection {
+          leftColumn
+          rightColumn
         }
         contentColumnTitle
         contentColumn

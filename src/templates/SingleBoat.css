@@ -15,7 +15,14 @@
 
 .boat-content-column {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
+	gap: 5rem;
+}
+
+.boat-content-column .contentColumn {
+	flex: 1 0 45%;
+	padding: 4rem 0 !important;
 }
 
 .boat-content-column .contentColumn h2 {
