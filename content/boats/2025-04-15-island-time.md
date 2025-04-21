@@ -123,8 +123,6 @@ columnsSection:
 
       If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!
     rightColumn: ""
-contentColumnTitle: Not your average office Christmas Party!
-contentColumn: ""
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?

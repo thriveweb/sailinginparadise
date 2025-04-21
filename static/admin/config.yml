@@ -1280,19 +1280,7 @@ collections: # A list of collections the CMS should be able to edit
               name: rightColumn,
               widget: markdown,
               required: false,
-            }
-      - {
-          label: Content Column Title,
-          name: contentColumnTitle,
-          widget: string,
-          required: false,
-        }
-      - {
-          label: Content Column,
-          name: contentColumn,
-          widget: markdown,
-          required: false,
-        }
+            }      
       - label: Accordion Section
         name: accordionSection
         required: false
