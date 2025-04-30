@@ -1,6 +1,7 @@
 ---
 template: SingleBoat
 title: Island Time
+date: 20025-04-30
 featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/3158x3108/1212,795/-/preview/
 description: >+
   #### BRAND NEW 42 PAX

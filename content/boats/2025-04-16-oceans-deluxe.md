@@ -1,6 +1,7 @@
 ---
 template: SingleBoat
 title: Oceans - Deluxe
+date: 20025-04-28
 featuredImage: https://ucarecdn.com/033861dd-c518-48e0-a767-176f44073284/
 description: >+
   Oceans is a Seawind 1160 Deluxe, boasting an amazing layout equally

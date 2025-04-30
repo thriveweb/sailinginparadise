@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import './BoatSelection.css'
-import Button from './Button'
+import { ICONButtonArrows } from './Icons'
 
 const BoatSelection = ({ boats }) => {
   console.log("***** boats *****", boats)
@@ -23,7 +23,9 @@ const BoatSelection = ({ boats }) => {
                   </div>
                 ))}
                 <div className="more-info-container">
-                  <Button title="More Info" url={boat.slug} className="more-info" />
+                  <Link className={`button more-info`} to={boat.slug}>
+                    More Info <ICONButtonArrows />
+                  </Link>
                 </div>
               </div>
             </a>
