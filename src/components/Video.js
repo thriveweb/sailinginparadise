@@ -61,7 +61,7 @@ class Video extends Component {
           {title.length > 1 && (
             <div className="overlay-content">
               <div className="container">
-                <h1 className="title-gradient">{title}</h1>
+                <h1 className="title-gradient" dangerouslySetInnerHTML={{ __html: title }}></h1>
                 <div className="buttonContainer">
                   <Button title={buttonTitle} url={buttonUrl} white />
                 </div>

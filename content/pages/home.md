@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: Yacht Hire Gold Coast
+title: Yacht Hire Gold&nbsp;Coast
 buttonTitle: "Enquire or Book Now "
 buttonUrl: booking-enquiry/
 posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview/-/enhance/29/
