@@ -20,7 +20,7 @@ featuredSlider:
 featuredBanner:
   buttonTitle: Best value rates for the week ahead
   buttonUrl: boat-charter/last-minute-charters/
-  image: https://ucarecdn.com/52837e09-5071-404c-8460-4131cccf63df/
+  image: https://ucarecdn.com/043c185a-8f9c-4946-b034-444ee4ffeb6c/
   title: LAST MINUTE CHARTERS
 services:
   - image: https://ucarecdn.com/46eb2fd9-8696-483f-a071-9453ef88c978/
@@ -48,7 +48,7 @@ services:
 serviceBanner:
   buttonTitle: Find your Perfect Charter
   buttonUrl: boat-charter/
-  featuredImage: https://ucarecdn.com/0b1e7280-9ce8-4d88-992a-e4f93a041c03/-/preview/-/enhance/13/
+  featuredImage: https://ucarecdn.com/72089e0a-c18a-41c2-855d-43c8050bc2b8/
   subtitle: Let’s Get The Party Started!
   title: Ready to book your Gold Coast Boat Hire?
 secondaryBanner:
