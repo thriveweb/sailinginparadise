@@ -9,13 +9,13 @@ hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
   - title: explore our boats
-    description: We welcome 'Island Time' our new 42 capacity boat for charter
-    buttonUrl: https://sailinginparadise.com.au/our-boats/
+    description: Take a tour of the fleet.
+    buttonUrl: our-boats/
   - title: Charter Options
-    description: Sail the Broadwater with our experienced team.
-    buttonUrl: about-us/
-  - buttonUrl: cruise/private-charter-gift-vouchers/
-    description: A beautiful evening on the water at sunset
+    description: Vessels for any occasion.
+    buttonUrl: boat-charter/
+  - buttonUrl: booking-enquiry/
+    description: Our friendly team are here to help.
     title: Enquire Now
 featuredBanner:
   buttonTitle: Best value rates for the week ahead
@@ -23,14 +23,14 @@ featuredBanner:
   image: https://ucarecdn.com/52837e09-5071-404c-8460-4131cccf63df/
   title: LAST MINUTE CHARTERS
 services:
-  - image: https://ucarecdn.com/7904ec34-41d8-4a6f-9cd3-3aa9d1860afd/
+  - image: https://ucarecdn.com/46eb2fd9-8696-483f-a071-9453ef88c978/
     serviceContent:
       buttonUrl: boat-charter/gold-coast-corporate-events/
       description: Team Building, Delegate Programs, Incentives, Meetings and Staff
         Parties are always better on the water...
       icon: /images/uploads/boat2.svg
       title: Corporate Events
-  - image: https://ucarecdn.com/4e25c39a-2365-4db8-a9c9-1dbeb0280f79/
+  - image: https://ucarecdn.com/6cee7f3a-3961-4570-915a-3c0e75122e10/
     serviceContent:
       buttonUrl: boat-charter/gold-coast-hens-parties/
       description: A unique hen’s party idea on the Gold Coast. Whether you are
@@ -64,35 +64,21 @@ aboutSection:
     - buttonTitle: See our boats
       buttonUrl: our-boats/
   content: >-
-    We have 3 of the most beautiful and well maintained sailing catamarans
-    available on the Gold Coast.  Our vessels are owned and operated by Sailing
-    in Paradise so from the time you make an enquiry through to the charter
-    itself you will be dealing directly with our team.  
+    At Sailing in Paradise, we proudly offer three of the most stunning and
+    well-maintained sailing **catamarans** available for **charter on the Gold
+    Coast**. These modern, spacious vessels are owned and operated by our
+    locally based team — so from the moment you enquire to the day of your
+    cruise, you’ll be dealing directly with the people who know the boats best.
 
 
-    These yachts are smooth and stable and  perfect for entertaining.
+    Our smooth, stable **charter yachts** are purpose-built for fun, comfort, and unforgettable experiences. Whether you're hosting a corporate event, celebrating a hens party, or planning a relaxed day out with family and friends, our boats are the perfect setting.
 
 
-    Imagine yourself lazing in the sun on the trampoline style foredeck with a cocktail in hand or relaxing with friends in the undercover area, either way you will enjoy unobstructed views of the beautiful Gold Coast Broadwater and surrounds.
-
-
-    Everything is taken care of when you charter one of our boats - the coolest tunes playing through state of the art sound system with speakers inside and out, large eskies stocked with ice, large central timber table for presenting your food, marine barbecue, paddleboards and beach games, clean modern bathroom facilities, the list goes on.
-
-
-    And our crew are on hand to ensure that your event is the best it can be.
-
-
-    From your initial enquiry all the way through to your special day and beyond, we go out of our way to ensure your expectations are not only met but exceeded.
-
-
-    We know organising an event can sometimes be stressful, but Sailing In Paradise's Guest Relations Gurus will take away the stress and replace it with fun.
-
-
-    On the day you will be greeted with smiles.. and good times will follow.
-  featuredImage: https://ucarecdn.com/2c1d7fda-d75d-4133-b44e-efe1fcb5c755/-/preview/-/enhance/19/
+    From your first enquiry to the last wave goodbye, our team are here to take the stress out of planning and replace it with laid-back vibes and smooth sailing.
+  featuredImage: https://ucarecdn.com/ce557254-c4b7-4e72-8557-e604ceb1b190/
   subtitle: Our Boats & Crew
   title: Meet Us
-highlightsIntro: "<h2>Private Charter Highlights</h2>"
+highlightsIntro: <h2>Private Charter Highlights</h2>
 highlights:
   - icon: /images/uploads/crew.svg
     title: Fun, friendly and professional crew
@@ -135,7 +121,7 @@ latestNews: >-
   [Read Blog](posts/the-ultimate-gold-coast-family-holiday-activity/)
 meta:
   description: Sailing in Paradise are the Gold Coast boat hire specialists.
-    Unique sailing catamarans offering private yacht charters for up to 50
+    Unique sailing catamarans offering private yacht charters from 2 to 102
     people. Call 0438 915 222 to book your Gold Coast luxury yacht hire
     experience.
   title: Boat Hire Gold Coast, Party Boat Rental & Boat Charters On The Gold Coast
