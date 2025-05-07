@@ -14,7 +14,7 @@ featuredSlider:
   - title: Charter Options
     description: Sail the Broadwater with our experienced team.
     buttonUrl: about-us/
-  - buttonUrl: cruise/gift-vouchers/
+  - buttonUrl: cruise/private-charter-gift-vouchers/
     description: A beautiful evening on the water at sunset
     title: Enquire Now
 featuredBanner:
@@ -41,7 +41,7 @@ services:
       title: Hens Party Specialists
   - image: https://ucarecdn.com/476fc357-c021-49a9-8464-5bf46fb30c51/
     serviceContent:
-      buttonUrl: gold-coast-birthday-parties/
+      buttonUrl: boat-charter/gold-coast-birthday-parties/
       description: "Celebrate another lap around the sun on the water.  "
       icon: /images/uploads/wheel.svg
       title: Birthday Party Charters
