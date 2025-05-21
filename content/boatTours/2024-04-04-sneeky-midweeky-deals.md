@@ -8,42 +8,23 @@ intro: >-
   ## Why should weekends have all the fun?
 
 
-  In partnership with Experience Gold Coast we are delighted to bring you two specially curated 'Sneeky Mid-Weeky' deals offering incredible mid-week all inclusive packages on private yacht charters!
+  In partnership with Experience Gold Coast we are delighted to bring you a specially curated 'Sneeky Mid-Weeky' deal.   
 
 
-  C﻿hoose from our laid-back *'Sail, Sip and Graze'* or the luxe *'Twilight Sail and Dine'* package options.  
-
-
-  ###### **T﻿wilight Sail and Dine**
+  ###### **Private Twilight Sail with Personal Chef**
 
 
   An indulgent evening for two, sailing at twilight aboard your own private catamaran.   Includes private chef, gourmet dining and wine aboard your 2 hour private charter.  
 
 
-  W﻿inter May to Aug - $1100 (for 2 guests)*
+  W﻿inter May to Aug - $1150 (for 2 guests)*
 
 
-  Summer Sep-Apr - $1300 (for 2 guests)*
+  Summer Sep-Apr - $1450 (for 2 guests)*
 
 
-  S﻿ave up to $300
+  S﻿ave up to $400
 
-
-  O﻿R
-
-
-  ###### **Sail, Sip and Graze**
-
-
-  3 unforgettable hours sailing aboard your own private catamaran with gourmet grazing and bottomless bubbly and beers.
-
-
-  W﻿inter M﻿ay - Aug $1500 (for 2 - 8 guests)*
-
-
-  Summer Sep - Apr $1700 (for 2 - 8 guests)*
-
-   Save up to $660
 
   \*﻿Additional guests or charter hours available on request.   Subject to availability shown on online calendars.   Unavailable during peak season (mid Nov - mid Jan).
 contentBox:
@@ -76,10 +57,7 @@ contentColumnTitle: your own private yacht = your MIDWEEK escape
 contentColumn: >-
   Step aboard your own private catamaran, and the beautiful Gold Coast
   Broadwater becomes your playground and you'll enjoy all the benefits of
-  sailing midweek - less boats, less people, quieter beaches - winning!!
-
-
-  During the day you will enjoy spectacular views and access to pristine beaches as the boat arrives at isolated islands surrounded by crystal clear turquoise waters.   There are plentiful activities available on board to keep you entertained including Beach Volleyball, Stand Up Paddleboards, Beach Cricket and splash mats. 
+  sailing midweek - less boats, less people, quieter waterways- winning!!
 
 
   Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast Mountains followed by the twinkling Gold Coast City Skyline by night, simply breath-taking!
@@ -98,7 +76,6 @@ accordionSection:
         We offer a personalised and customised service so if you have any questions or special requirements please feel free to reach out to our team and we will do our best to accommodate you.
       title: What to expect
     - dropdownContent: |-
-        * Swimmers and towel (if you plan to swim)
         * Smiles and good vibes :)
         * Sunglasses, sunscreen
         * Jacket for cooler days
@@ -109,13 +86,7 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach games, beach volleyball and splash mat 
-
-        * Use of tablet with premium Spotify and sound system on board
-
-        * Use of small marine BBQ if required
-
-        * Use of large eskies (ice supplied)
+        * Private chef and gourmet 2 course meal for our carefully curated menu
 
         * Instaworthy Memento Photos taken by our crew
 
@@ -140,25 +111,10 @@ accordionSection:
         There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis.
 
 
-        **Can I BYO food and drink?**
-
-
-        Yes if you would like to bring your own food and drinks on board that is completely fine.
-
-
-        **Do you have Eskies on board?**
-
-
-        Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
-
-
         **Where can we go on our charter?**
 
 
-        We operate in the calm, protected waters of the Gold Coast Broadwater. Where to go very much depends on what you would like to do and how long your boat charter is for so please feel free to discuss this with our team. In a 3 hour charter during the day our guests usually love a swim stop at Wavebreak Island where you can enjoy the range of island activities on board. Your skipper is knowledgeable in the local area and will make recommendations based on the conditions on the day.  If you don't wish to swim in a 3 hour charter you instead opt to sail further north along the inside of South Stradbroke Island and see the millionaires mansions at Sovereign Islands.
-
-
-        In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
+        We operate in the calm, protected waters of the Gold Coast Broadwater. In the evening we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
 
 
         **Will I get seasick?**
@@ -176,7 +132,7 @@ accordionSection:
         **Are your charters suitable for children?**
 
 
-        Absolutely! We love having kids on board and our crew will often try and include them in the sailing and driving the boat. We also carry a range of beach games suitable for kids including buckets and spades for the littlest family members. The wide and spacious deck area also make the boats wonderful for kids, of course you are always careful with children when it comes to being on the water but as boats go our catamarans would be some of the most family friendly around. Please feel free to contact our team if you have any questions about which boat may be best for your family.
+        Absolutely! We love having kids on board and our crew will often try and include them in the sailing and driving the boat.  The wide and spacious deck area also make the boats wonderful for kids, of course you are always careful with children when it comes to being on the water but as boats go our catamarans would be some of the most family friendly around. Please feel free to contact our team if you have any questions about which boat may be best for your family.
 
 
         **Are your charters suitable for guests with limited mobility?**
@@ -208,8 +164,6 @@ featuredTestimonials:
   description: ""
   testimonial: ""
 meta:
-  description: Sailing In Paradise - Surfers Paradise Gold Coast | From 10 to 30
-    People | Boat Charter | Party Boat Hire | Private Charters - Book now 0438
-    915 222.
-  title: Gold Coast Private Charters - Sailing in Paradise | Book now
+  description: Sailing In Paradise - Surfers Paradise Gold Coast | Sneeky Mid Weeky Deals
+  title: Gold Coast Sneeky Midweeky Private Charters - Sailing in Paradise | Book now
 ---
