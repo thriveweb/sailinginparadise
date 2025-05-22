@@ -128,6 +128,11 @@ columnsSection:
 
       If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!      
     rightColumn: ""
+videoSectionOptional:
+  title: Optional Video Section
+  imageOverlay: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
+  video: https://tour.panoee.com/IslandTime
+
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?

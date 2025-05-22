@@ -33,6 +33,7 @@ export const SingleBoatTemplate = ({
   columnsSection,
   contentColumnTitle,
   contentColumn,
+  videoSectionOptional,
   accordionSection,
   columnBanner,
   videoSection,
@@ -65,7 +66,7 @@ export const SingleBoatTemplate = ({
         </div>
       </div>
       {gallery && <GallerySlider gallery={gallery} />}
-      <BoatFeatureSection boatFeaturesIntro={boatFeaturesIntro} boatListingFeatures={boatListingFeatures} boatFeatures={boatFeatures} />      
+      <BoatFeatureSection boatFeaturesIntro={boatFeaturesIntro} boatListingFeatures={boatListingFeatures} boatFeatures={boatFeatures} />
       {videoSection && <div className="container"> <VideoPopup {...videoSection} /></div>}
       {columnsSection && columnsSection.map((section, index) => (
         <div className="container boat-content-column" key={index}>
@@ -77,6 +78,12 @@ export const SingleBoatTemplate = ({
           )}
         </div>
       ))}
+      {videoSectionOptional &&
+        <div className="container">
+          <h4>{videoSectionOptional.title}</h4>
+          <VideoPopup video={videoSectionOptional.video} imageOverlay={videoSectionOptional.imageOverlay} videoBanner={videoSectionOptional.videoBanner} />          
+        </div>
+      }
       <Accordion accordionSection={accordionSection} />
       {columnBanner && (
         <ColumnBanner
@@ -144,6 +151,11 @@ export const pageQuery = graphql`
         columnsSection {
           leftColumn
           rightColumn
+        }
+        videoSectionOptional {
+          video
+          title
+          imageOverlay
         }        
         accordionSection {
           sectionTitle

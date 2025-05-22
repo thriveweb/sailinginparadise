@@ -1282,6 +1282,31 @@ collections: # A list of collections the CMS should be able to edit
               widget: markdown,
               required: false,
             }      
+      - label: Optional Video Section
+        name: videoSectionOptional
+        required: false
+        widget: object
+        fields:
+          - {
+              label: Image Overlay,
+              name: imageOverlay,
+              widget: image,
+              required: false,
+            }
+          - {
+              label: Title,
+              name: title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              label: Video URL,
+              name: video,
+              widget: string,
+              required: false,
+            }
+      
       - label: Accordion Section
         name: accordionSection
         required: false
