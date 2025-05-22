@@ -1,7 +1,6 @@
 ---
 template: SingleBoat
 title: Island Time
-date: 20025-04-30
 featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/3158x3108/1212,795/-/preview/
 description: >+
   #### BRAND NEW 42 PAX
@@ -26,6 +25,9 @@ description: >+
 
   [S﻿ee our Instagram for videos of Island Time in action](https://www.instagram.com/stories/highlights/18039461704595777/)    
 
+boatFeaturesIntro: Optional intro section lorem ipsum dolor sit amet,
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
 boatListingFeatures:
   - content: New Vessel
   - content: Suitable for up to 42 guests
@@ -343,4 +345,5 @@ featuredTestimonials:
 meta:
   title: Island Time
   description: Island Time Description
+date: 20025-04-30
 ---
