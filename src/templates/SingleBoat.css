@@ -29,6 +29,26 @@
 	margin-right: 4rem;
 }
 
+.boat-content-column .contentColumn p a {
+  display: table;
+  padding: 1rem 3rem;
+  margin: 0;
+  background-color: #183c85;
+  color: white; 
+  border-radius: 3rem;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  transition: all ease-in-out 0.2s;
+  box-shadow: 0 0 3rem 0 rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  margin: 2rem 0;
+}
+
+.boat-content-column .contentColumn p a:hover {
+  background-color: white;
+  color: #212121;
+}
+
 .boat-content-column .contentColumn .intro-section {
 	max-width: none;
 }
@@ -39,58 +59,6 @@
 
 .BoatIntro blockquote {
 	text-align: left;
-}
-
-.boat-features-list {
-	padding-top: 6rem;
-	background: #FAFAFA;
-	border-radius: 12px;
-	max-width: 1200px;
-	box-shadow: 0 2px 8px rgba(0,0,0,0.03);
-}
-
-.features-columns {
-	display: flex;
-	gap: 48px;
-	justify-content: center;
-	margin-bottom: 40px;
-}
-
-.feature-column {
-	flex: 1 1 0;
-	min-width: 0;
-}
-
-.feature-item-row {
-	display: flex;
-	flex-direction: column;
-}
-
-.feature-item {
-	display: flex;
-	align-items: center;
-	font-size: 1.1rem;
-	color: #23262F;
-	margin: 1rem 0;
-}
-
-.feature-dot {
-	color: #1A2341;
-	font-size: 1.2em;
-	margin-right: 16px;
-}
-
-.feature-divider {
-	height: 1px;
-	background: #E6E8EC;
-	width: 100%;
-	margin: 0;
-}
-
-.features-button-row {
-	display: flex;
-	justify-content: center;
-	margin-top: 32px;
 }
 
 @media only screen and (max-width: 1300px) {

@@ -1,7 +1,8 @@
 ---
 template: SingleBoat
 title: Island Time
-featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/3158x3108/1212,795/-/preview/
+featuredImage: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
+# featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/3158x3108/1212,795/-/preview/
 description: >+
   #### BRAND NEW 42 PAX
 
@@ -110,6 +111,7 @@ columnsSection:
 
 
       We have looked after all sorts of industry clients from fitness studios and uber-cool restaurants to banks and legal firms (and everything in between).   There is something about spending time on the water that brings people (of all ages and backgrounds) together and we would love to put on a Christmas Party your whole team will talk about for years to come!
+      [Optional Button](#)  
     leftColumn: >-
       
 
@@ -124,7 +126,7 @@ columnsSection:
       But in all seriousness, you are busy, we totally get it!   That's why we offer a fuss-free service.   From the moment you enquire and receive our Christmas Party info pack we are here to make your life easier.   
 
 
-      If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!
+      If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!      
     rightColumn: ""
 accordionSection:
   accordion:

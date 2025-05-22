@@ -1,0 +1,49 @@
+.boat-features-list {
+	padding: 6rem 0;
+	background: #FAFAFA;
+	border-radius: 12px;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+
+.features-columns {
+	display: flex;
+	gap: 48px;
+	justify-content: center;
+	margin-bottom: 40px;
+}
+
+.feature-column {
+	flex: 1 1 0;
+	min-width: 0;
+}
+
+.feature-item-row {
+	display: flex;
+	flex-direction: column;
+}
+
+.feature-item {
+	display: flex;
+	align-items: center;
+	font-size: 1.1rem;
+	color: #23262F;
+	margin: 1rem 0;
+}
+
+.feature-dot {
+	color: #1A2341;
+	font-size: 1.2em;
+	margin-right: 16px;
+}
+
+.feature-divider {
+	height: 1px;
+	background: #E6E8EC;
+	width: 100%;
+	margin: 0;
+}
+
+.features-button-row {
+	display: flex;
+	margin-top: 32px;
+}

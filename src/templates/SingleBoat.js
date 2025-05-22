@@ -13,14 +13,16 @@ import VideoPopup from '../components/VideoPopup'
 import Accordion from '../components/Accordion'
 import ColumnBanner from '../components/ColumnBanner'
 import FeaturedTestimonial from '../components/FeaturedTestimonial'
-import FeatureTickIcon from '../components/FeatureTickIcon'
 
 import './SingleBoat.css'
 import Content from '../components/Content'
 import Button from '../components/Button'
+import BoatFeatureSection from '../components/BoatFeatureSection'
+
 
 export const SingleBoatTemplate = ({
   title,
+  boatFeaturesIntro,
   boatListingFeatures,
   boatFeatures,
   featuredImage,
@@ -43,7 +45,6 @@ export const SingleBoatTemplate = ({
     ? slug.replace('/boats/', '').replace('/', '')
     : ''
   console.log('**** columnsSection ****', columnsSection)
-  const title123 = "Optional intro section lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
   return (
     <main className="SingleBoat">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -64,39 +65,8 @@ export const SingleBoatTemplate = ({
         </div>
       </div>
       {gallery && <GallerySlider gallery={gallery} />}
-      <div className="container boat-features-list">
-        <h4>BOAT FEATURES</h4>
-        <Content src={title123}/>
-        <div className="features-columns">
-          <div className="feature-column">
-            {boatListingFeatures && boatListingFeatures.map((feature, i) => (
-              <div className="feature-item-row" key={i}>
-                <div className="feature-item">
-                  <span className="feature-dot"><FeatureTickIcon size={10} /></span>
-                  <span className="feature-text">{feature.content}</span>
-                </div>
-                <div className="feature-divider" />
-              </div>
-            ))}
-          </div>
-          <div className="feature-column">
-            {boatFeatures && boatFeatures.map((feature, i) => (
-              <div className="feature-item-row" key={i}>
-                <div className="feature-item">
-                  <span className="feature-dot"><FeatureTickIcon size={10} /></span>
-                  <span className="feature-text">{feature.content}</span>
-                </div>
-                <div className="feature-divider" />
-              </div>
-            ))}
-          </div>
-        </div>
-        <div className="features-button-row">
-          <button className="nav-button">ENQUIRE NOW</button>
-        </div>
-      </div>
-      
-      {videoSection && <VideoPopup {...videoSection} />}
+      <BoatFeatureSection boatFeaturesIntro={boatFeaturesIntro} boatListingFeatures={boatListingFeatures} boatFeatures={boatFeatures} />      
+      {videoSection && <div className="container"> <VideoPopup {...videoSection} /></div>}
       {columnsSection && columnsSection.map((section, index) => (
         <div className="container boat-content-column" key={index}>
           {section.leftColumn && (
@@ -149,6 +119,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         featuredImage
+        boatFeaturesIntro
         boatListingFeatures {
           content
         }
