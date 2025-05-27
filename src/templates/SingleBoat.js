@@ -66,7 +66,7 @@ export const SingleBoatTemplate = ({
         </div>
       </div>
       {gallery && <GallerySlider gallery={gallery} />}
-      <BoatFeatureSection boatFeaturesIntro={boatFeaturesIntro} boatListingFeatures={boatListingFeatures} boatFeatures={boatFeatures} />
+      <BoatFeatureSection boatFeaturesIntro={boatFeaturesIntro} boatFeatures={boatFeatures} />
       {videoSection && <div className="container"> <VideoPopup {...videoSection} /></div>}
       {columnsSection && columnsSection.map((section, index) => (
         <div className="container boat-content-column" key={index}>
@@ -81,7 +81,7 @@ export const SingleBoatTemplate = ({
       {videoSectionOptional &&
         <div className="container">
           <h4>{videoSectionOptional.title}</h4>
-          <VideoPopup video={videoSectionOptional.video} imageOverlay={videoSectionOptional.imageOverlay} videoBanner={videoSectionOptional.videoBanner} />          
+          <VideoPopup {...videoSectionOptional} />
         </div>
       }
       <Accordion accordionSection={accordionSection} />
