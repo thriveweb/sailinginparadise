@@ -1,6 +1,6 @@
 .boat-features-list {
 	padding: 6rem 0;
-	background: #FAFAFA;
+	background: #F8F8F8;
 	border-radius: 12px;
 	box-shadow: 0 2px 8px rgba(0,0,0,0.03);
 }
@@ -46,4 +46,10 @@
 .features-button-row {
 	display: flex;
 	margin-top: 32px;
+}
+
+@media (max-width: 768px) {
+  .features-columns {
+    gap: 0;
+  }
 }

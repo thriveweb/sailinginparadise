@@ -1,7 +1,6 @@
 .boat-selection {
   padding: 0 0 8rem 0;
-  background-color: #F5F5F5;  /* Light gray background for the section */
-}
+  }
 
 .boat-selection-title {
   text-align: center;
@@ -84,7 +83,7 @@
 .boat-features {
   padding: 24px;
   flex-grow: 1;
-  background-color: #FFFFFF;
+  background-color: #F8F8F8;  /* Light gray background for the section */
   border-bottom: 1px solid #E0E0E0;
 }
 
@@ -140,4 +139,4 @@
     font-size: 2rem;
     padding: 0 20px;
   }
-} 
+}
