@@ -1,11 +1,10 @@
 ---
 template: SingleBoat
-title: Oceans - Deluxe
-date: 20025-04-28
+title: Oceans Deluxe
 featuredImage: https://ucarecdn.com/033861dd-c518-48e0-a767-176f44073284/
 description: >+
-  Oceans is a Seawind 1160 Deluxe, boasting an amazing layout equally
-  suitable for couples as it is for groups. 
+  Oceans is a Seawind 1160 Deluxe, boasting an amazing layout equally suitable
+  for couples as it is for groups. 
 
 
   Oceans joined the fleet in April 2021 and is guaranteed to impress.    With a maximum guest capacity of 30, Oceans delivers the space required for your group without sacrificing any of the creature comforts.  
@@ -13,6 +12,7 @@ description: >+
 
   Oceans offers a comfortable lounging/dining area with flexible table configuration.   The undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.    This vessel is ideal for more relaxed celebrations, families with older kids and corporate events.  
 
+boatFeaturesIntro: ...
 boatListingFeatures:
   - content: Deluxe Vessel
   - content: Suitable for 2 to 30 guests
@@ -49,6 +49,7 @@ videoSection:
   video: https://tour.panoee.com/oceans
   imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
 meta:
-  title: Oceans - Deluxe
-  description: Oceans - Deluxe Description
+  title: Oceans Deluxe
+  description: Oceans Deluxe Description
+date: 20025-04-28
 ---
