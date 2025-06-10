@@ -12,7 +12,7 @@ description: >+
 
   Oceans offers a comfortable lounging/dining area with flexible table configuration.   The undercover space is a delightful indoor, outdoor zone that will provide comfort in any weather.   The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any of the action.   The foredeck is expansive, offering a combination of wide open deck space, mini trampolines and a cushioned relaxation area.    This vessel is ideal for more relaxed celebrations, families with older kids and corporate events.  
 
-boatFeaturesIntro: ...
+boatFeaturesIntro: ""
 boatListingFeatures:
   - content: Deluxe Vessel
   - content: Suitable for 2 to 30 guests
