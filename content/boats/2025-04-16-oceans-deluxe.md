@@ -17,7 +17,7 @@ boatListingFeatures:
   - content: Deluxe Vessel
   - content: Suitable for 2 to 30 guests
   - content: Indoor Lounge Area
-  - content: Overwater Sitting
+  - content: Overwater Seating
 boatFeatures:
   - content: 11.6m long, 6.5m wide
   - content: M﻿ax. 30 passengers + 2 crew
