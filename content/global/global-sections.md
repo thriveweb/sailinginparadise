@@ -5,11 +5,11 @@ footerContent: Sailing in Paradise offers cruises and private charters aboard 3
 columnBanner:
   - buttonTitle: See More
     buttonUrl: boat-charter
-    featuredImage: https://ucarecdn.com/e4ced92d-7f07-4600-a290-b62247b3a39c/
+    featuredImage: /uploads/e4ced92d-7f07-4600-a290-b62247b3a39c.png
     title: Interested in our private yacht charters?
   - buttonTitle: Hear from our Happy Sailors
     buttonUrl: happy-sailors
-    featuredImage: https://ucarecdn.com/2a39ca1b-c271-43b3-baf2-08d28326d139/
+    featuredImage: /uploads/2a39ca1b-c271-43b3-baf2-08d28326d139.png
     title: Guest Testimonials
 globalVideo:
   imageOverlay: /images/uploads/home-banner.jpg

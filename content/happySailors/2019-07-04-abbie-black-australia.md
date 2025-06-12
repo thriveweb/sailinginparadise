@@ -4,10 +4,10 @@ title: 'Abbie, Aus'
 cruiseType: Hen's Parties
 date: 2018-02-06T14:00:00.000Z
 featuredImage: >-
-  https://ucarecdn.com/21b0204a-27f2-4e12-be24-7b20abdb65dc/-/preview/-/enhance/7/
+  /uploads/21b0204a-27f2-4e12-be24-7b20abdb65dc.png-/preview/-/enhance/7/
 videoSection:
   title: ''
-secondaryImage: 'https://ucarecdn.com/b1a90bbe-f639-4ffe-8728-6bebdd9614f2/'
+secondaryImage: '/uploads/b1a90bbe-f639-4ffe-8728-6bebdd9614f2.png'
 excerpt: >-
   “I had the most amazing time celebrating my surprise hens sailing the
   Broadwater! Special thanks to Steve and Phoebe who made the whole experience
@@ -15,14 +15,14 @@ excerpt: >-
   went swimming and used the paddle boards. Planning the next time I can get on
   there! Highly recommend!” Facebook review 
 gallery:
-  - image: 'https://ucarecdn.com/3618bc41-8b56-47d7-9bfd-812a4abb7fdb/'
+  - image: '/uploads/3618bc41-8b56-47d7-9bfd-812a4abb7fdb.png'
   - image: >-
-      https://ucarecdn.com/384d0380-fdec-47f5-9789-5b4f2fd492ff/-/crop/1068x1456/0,0/-/preview/
+      /uploads/384d0380-fdec-47f5-9789-5b4f2fd492ff.png-/crop/1068x1456/0,0/-/preview/
   - image: >-
-      https://ucarecdn.com/1d56102b-a612-45d5-84d6-167d2d54f8ce/-/crop/1200x1002/0,319/-/preview/
-  - image: 'https://ucarecdn.com/d88c80a9-4a12-4f4f-bc3e-1d79ab7d9a14/'
-  - image: 'https://ucarecdn.com/0cfac6fe-c1aa-4607-b8a1-d8d5069395e6/'
+      /uploads/1d56102b-a612-45d5-84d6-167d2d54f8ce.png-/crop/1200x1002/0,319/-/preview/
+  - image: '/uploads/d88c80a9-4a12-4f4f-bc3e-1d79ab7d9a14.png'
+  - image: '/uploads/0cfac6fe-c1aa-4607-b8a1-d8d5069395e6.png'
   - image: >-
-      https://ucarecdn.com/ef045d0f-d468-4627-9c93-e30fe7aaa4b3/-/crop/1068x876/0,724/-/preview/
+      /uploads/ef045d0f-d468-4627-9c93-e30fe7aaa4b3.png-/crop/1068x876/0,724/-/preview/
 ---
 Abbie and her guests didn’t let a little rain dampen their spirits! These ladies rocked up to Abbie’s hens party event ready to hit the water and keen to party! They danced with their flower crowns, jumped in for a swim at Wave Break Island, and booked out our cheeky Butler to help keep the drinks flowing and everyone entertained.

@@ -2,12 +2,12 @@
 template: SingleBoatTour
 tourType: Cruise
 title: Talk Like A Pirate Day Cruise
-featuredImage: https://ucarecdn.com/c4a5c8dd-9a07-43d3-bcd7-d2812ea9ee2d/
+featuredImage: /uploads/c4a5c8dd-9a07-43d3-bcd7-d2812ea9ee2d.png
 intro: >-
   ### Ahoy there me' hearties! 
 
 
-  ![](https://ucarecdn.com/b4ee5250-3f55-4510-8ad3-a73dbf70852b/)
+  ![](/uploads/b4ee5250-3f55-4510-8ad3-a73dbf70852b.png)
 
 
   Sailing in Paradise is proud to be supporting Childhood Cancer Support this 'Talk like a Pirate Day' on Tuesday 19th September 2023.  We will be donating 100% of ticket sales from a special 3 hour Island Cruise departing Main Beach, Gold Coast.    So gather your family and friends and jump aboard as we set sail for 3 hours of fun.   Feel free to dress up in pirate theme (our crew will be getting into the spirit) or come along and enjoy the fun on the day however you feel comfortable.   This experience is suitable for all ages.  What a great way to kick off the school holidays and support a worthy cause.  
@@ -30,19 +30,19 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: https://ucarecdn.com/4cd2a0e8-063e-43c3-8431-140431086032/
-  - image: https://ucarecdn.com/1c3f8e2d-d38e-4aed-8b4d-5d051acd37d5/
-  - image: https://ucarecdn.com/279fc1b4-8074-4e4c-b836-3632ff3d6597/-/preview/-/enhance/64/
-  - image: https://ucarecdn.com/04d833ad-6334-43e4-af83-658592b32b09/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/83c2a001-9e25-4d5c-ac16-01c312586349/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/1df2e90b-4a80-434a-baf2-df316b155ea1/-/preview/-/enhance/30/
-  - image: https://ucarecdn.com/ac03c5de-eeb7-4960-adea-20f4284ddbcd/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/3af10b85-48d4-4283-8a3c-3cddf165c0c9/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/0b4bb3c9-2d65-4d82-9dfb-5be31fc79e88/-/preview/-/enhance/19/
-  - image: https://ucarecdn.com/22ecb641-a4d3-4476-b268-b53dc917a9c7/-/preview/-/enhance/81/
-  - image: https://ucarecdn.com/da3a53ae-83d4-46d3-9b0b-43d13a93dad7/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/405c3ac4-262d-41c7-a97d-d3941f6c3cc0/-/preview/-/enhance/23/
-  - image: https://ucarecdn.com/a87ff58b-7783-4f53-bdd3-f33de7f40e10/-/preview/-/enhance/50/
+  - image: /uploads/4cd2a0e8-063e-43c3-8431-140431086032.png
+  - image: /uploads/1c3f8e2d-d38e-4aed-8b4d-5d051acd37d5.png
+  - image: /uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.png-/preview/-/enhance/64/
+  - image: /uploads/04d833ad-6334-43e4-af83-658592b32b09.png-/preview/-/enhance/50/
+  - image: /uploads/83c2a001-9e25-4d5c-ac16-01c312586349.png-/preview/-/enhance/50/
+  - image: /uploads/1df2e90b-4a80-434a-baf2-df316b155ea1.png-/preview/-/enhance/30/
+  - image: /uploads/ac03c5de-eeb7-4960-adea-20f4284ddbcd.png-/preview/-/enhance/50/
+  - image: /uploads/3af10b85-48d4-4283-8a3c-3cddf165c0c9.png-/preview/-/enhance/50/
+  - image: /uploads/0b4bb3c9-2d65-4d82-9dfb-5be31fc79e88.png-/preview/-/enhance/19/
+  - image: /uploads/22ecb641-a4d3-4476-b268-b53dc917a9c7.png-/preview/-/enhance/81/
+  - image: /uploads/da3a53ae-83d4-46d3-9b0b-43d13a93dad7.png-/preview/-/enhance/50/
+  - image: /uploads/405c3ac4-262d-41c7-a97d-d3941f6c3cc0.png-/preview/-/enhance/23/
+  - image: /uploads/a87ff58b-7783-4f53-bdd3-f33de7f40e10.png-/preview/-/enhance/50/
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ""

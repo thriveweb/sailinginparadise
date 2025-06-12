@@ -3,7 +3,7 @@ template: SinglePost
 title: Set sail and help families facing childhood cancer
 status: Published
 date: 2022-08-31T02:51:57.160Z
-featuredImage: https://ucarecdn.com/d9c22837-731f-4ab9-9f95-a335726d4cbb/
+featuredImage: /uploads/d9c22837-731f-4ab9-9f95-a335726d4cbb.png
 videoSection:
   title: ""
 ---

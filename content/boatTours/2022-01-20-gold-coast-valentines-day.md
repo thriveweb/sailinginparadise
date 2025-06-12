@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Valentine's Day Cruise
 icon: ""
-featuredImage: https://ucarecdn.com/d9905a1b-0cbf-4a69-9472-3215e9de392f/
+featuredImage: /uploads/d9905a1b-0cbf-4a69-9472-3215e9de392f.png
 intro: >-
   Looking for a magical and memorable Valentine's Day experience on the Gold
   Coast this year?     Avoid crowded restaurants and instead charter your own
@@ -31,13 +31,13 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: https://ucarecdn.com/ad1b26e9-2728-4bba-8af0-19b684226580/
-  - image: https://ucarecdn.com/5fa3301e-25ad-46cb-aa26-6d1a2dcc608f/
-  - image: https://ucarecdn.com/2af83a0b-189a-4bb7-b3fc-8ac550cd064a/
-  - image: https://ucarecdn.com/b902bad4-ef77-44a0-bec6-737603038ad9/
-  - image: https://ucarecdn.com/33679040-5ff2-4508-b5a6-fde261e27faa/
-  - image: https://ucarecdn.com/81a79f75-ccb2-4d53-a1e4-5b7f55061824/
-  - image: https://ucarecdn.com/60744156-da5f-48b4-a1bd-f67f18ecb10a/
+  - image: /uploads/ad1b26e9-2728-4bba-8af0-19b684226580.png
+  - image: /uploads/5fa3301e-25ad-46cb-aa26-6d1a2dcc608f.png
+  - image: /uploads/2af83a0b-189a-4bb7-b3fc-8ac550cd064a.png
+  - image: /uploads/b902bad4-ef77-44a0-bec6-737603038ad9.png
+  - image: /uploads/33679040-5ff2-4508-b5a6-fde261e27faa.png
+  - image: /uploads/81a79f75-ccb2-4d53-a1e4-5b7f55061824.png
+  - image: /uploads/60744156-da5f-48b4-a1bd-f67f18ecb10a.png
 videoSection:
   title: ""
 contentColumn: >-

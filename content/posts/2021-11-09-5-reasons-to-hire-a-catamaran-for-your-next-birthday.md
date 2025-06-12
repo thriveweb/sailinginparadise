@@ -5,7 +5,7 @@ status: Published
 date: 2021-11-09T00:28:18.188Z
 categories:
   - category: News
-featuredImage: https://ucarecdn.com/9be77c50-ec24-42f3-8a43-500355b89ce7/
+featuredImage: /uploads/9be77c50-ec24-42f3-8a43-500355b89ce7.png
 excerpt: >+
   Another year older means it’s time to celebrate! Whether it’s your 21st
   birthday, a 30th celebration or perhaps 80th soiree, sailing around in a
@@ -57,7 +57,7 @@ Here are just a few of the many reviews we have received!
 
 These are just to name a few, check out our other reviews from [happy sailors](https://sailinginparadise.com.au/happy-sailors/)! 
 
-![](https://ucarecdn.com/9097820c-a573-489d-a5d5-e9b7e3e36c2a/)
+![](/uploads/9097820c-a573-489d-a5d5-e9b7e3e36c2a.png)
 
 ## We Have Options 
 

@@ -25,9 +25,9 @@ class Image extends React.Component {
 
     let imageSrc = src || source
 
-    console.log("**** Image source:", imageSrc);
+    // console.log("**** Image source:", imageSrc);
     imageSrc = convertUploadcareUrlToLocal(imageSrc);
-    console.log("**** After Image source:", imageSrc);
+    // console.log("**** After Image source:", imageSrc);
 
     if (background) {
       let style = {}

@@ -5,7 +5,7 @@ status: Published
 date: 2021-10-06T06:14:24.271Z
 categories:
   - {}
-featuredImage: https://ucarecdn.com/56ca21b0-e0b1-4bef-8224-104d6c4c9869/
+featuredImage: /uploads/56ca21b0-e0b1-4bef-8224-104d6c4c9869.png
 excerpt: Christmas really is just around the corner! 2021 has certainly been a
   year full of highs and lows and one that many of us are glad to see the back
   of. An epic end of year celebration is in order for many this year! If you are
@@ -37,7 +37,7 @@ We understand there are many different ways people like to celebrate, so we have
 
 Or, you can tell us what you want and we cater for you! The options are truly endless.
 
-![](https://ucarecdn.com/dfc34885-0e7b-4389-b0cd-3c55123bb262/)
+![](/uploads/dfc34885-0e7b-4389-b0cd-3c55123bb262.png)
 
 ## Who do we cater for? 
 
@@ -61,7 +61,7 @@ All you have to do is enjoy the day, and trust us that’s only too easy when yo
 
 On the other hand if you are looking to be more hands on we also offer a BYO option and are more than happy for guests to bring their own food and drinks on board.
 
-![](https://ucarecdn.com/6e110e75-1beb-4a5e-bb20-bd941827d7a5/)
+![](/uploads/6e110e75-1beb-4a5e-bb20-bd941827d7a5.png)
 
 ## Which boat is for you? 
 
@@ -77,7 +77,7 @@ Its unique design offers an open plan layout so your guests can interact with ea
 
 This is the ideal boat for larger groups, so if you have a big team, group of friends or family, we suggest booking the Spirit of Gwonda! 
 
-![](https://ucarecdn.com/5dcf090f-ee19-4fb5-a0d1-041df3da6c38/)
+![](/uploads/5dcf090f-ee19-4fb5-a0d1-041df3da6c38.png)
 
 ##### OCEANS (max 30 guests)
 
@@ -85,12 +85,12 @@ This is our largest and most luxurious vessel, which comes with a comfortable lo
 
 The cushioned overwater bench seating and BBQ area is a beautiful place to chill and watch the world sail by while not missing any action. This vessel is ideal for more relaxed celebrations, families with older kids and more decadent events. So if you’re wanting a party with all the luxurious frills attached, including your own private chef, this catamaran is for you! 
 
-![](https://ucarecdn.com/36e463ef-b1b3-4078-9c9f-15674af990a1/)
+![](/uploads/36e463ef-b1b3-4078-9c9f-15674af990a1.png)
 
 ##### SEAWIND 1000XL (max 20 guests)
 
 This catamaran is has a great layout, set out with upholstered booth style seating around a dining table with windows allowing for 360 degrees viewing from all areas. There is extra seating in the targa area at the back, and, as with our other vessels, there is ample area to laze around in the sun on the front trampoline area.
 
-![](https://ucarecdn.com/c57e0410-b93c-4b5e-b333-98136b7a6e0c/)
+![](/uploads/c57e0410-b93c-4b5e-b333-98136b7a6e0c.png)
 
 **Now, all that is left to do is book! We are super friendly and love to chat! If you are making an enquiry for the first time we suggest completing the enquiry form located [HERE](https://sailinginparadise.com.au/booking-enquiry/) on our website and we will send through info for you to read at your leisure.**

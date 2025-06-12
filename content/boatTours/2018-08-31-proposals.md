@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Proposals
 icon: ""
-featuredImage: https://ucarecdn.com/986b976f-de69-4527-9784-2cb8f12bfe15/-/preview/-/enhance/50/
+featuredImage: /uploads/986b976f-de69-4527-9784-2cb8f12bfe15.png-/preview/-/enhance/50/
 intro: >-
   ## Gold Coast Proposal Cruise
 
@@ -14,21 +14,21 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Enquire about your unique proposal
 gallery:
-  - image: https://ucarecdn.com/f7fb27d4-73d7-4788-b042-61f024f01e09/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/0624a2da-fd52-4f8c-84c1-52c4aac70c92/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/c20f69e6-8ab4-4f4c-a6e5-19af5913f736/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/4326177d-5f57-4364-8267-74797b78bd56/
-  - image: https://ucarecdn.com/8a0d6fd7-f1e8-417b-810d-bbdb8243a353/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/7427c511-efb3-440e-8a4b-fb365d2f161b/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/ef74481c-8b40-468b-a29b-3dc5b46ca480/
-  - image: https://ucarecdn.com/6f6731de-3783-41e4-ab0c-36471c17886d/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/0b4cda60-3763-410c-9bea-8bb8537413ee/-/preview/-/enhance/23/
-  - image: https://ucarecdn.com/de397de1-e8e2-4b66-9fbb-8a82f7912efe/-/preview/-/enhance/20/
-  - image: https://ucarecdn.com/fa11b9aa-1834-4478-9184-7993fa141b96/-/preview/-/enhance/17/
-  - image: https://ucarecdn.com/624b3a2f-eb0f-4356-8f64-1547651c8b58/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/4034509a-7433-4bb9-b437-a02ac595c787/
-  - image: https://ucarecdn.com/3b0f83ce-2298-4685-880c-4cba310e9f60/-/preview/-/enhance/19/
-  - image: https://ucarecdn.com/5f08dc69-3f29-423d-ba4d-fb5c54aa4075/-/preview/-/enhance/50/
+  - image: /uploads/f7fb27d4-73d7-4788-b042-61f024f01e09.png-/preview/-/enhance/50/
+  - image: /uploads/0624a2da-fd52-4f8c-84c1-52c4aac70c92.png-/preview/-/enhance/50/
+  - image: /uploads/c20f69e6-8ab4-4f4c-a6e5-19af5913f736.png-/preview/-/enhance/50/
+  - image: /uploads/4326177d-5f57-4364-8267-74797b78bd56.png
+  - image: /uploads/8a0d6fd7-f1e8-417b-810d-bbdb8243a353.png-/preview/-/enhance/50/
+  - image: /uploads/7427c511-efb3-440e-8a4b-fb365d2f161b.png-/preview/-/enhance/50/
+  - image: /uploads/ef74481c-8b40-468b-a29b-3dc5b46ca480.png
+  - image: /uploads/6f6731de-3783-41e4-ab0c-36471c17886d.png-/preview/-/enhance/50/
+  - image: /uploads/0b4cda60-3763-410c-9bea-8bb8537413ee.png-/preview/-/enhance/23/
+  - image: /uploads/de397de1-e8e2-4b66-9fbb-8a82f7912efe.png-/preview/-/enhance/20/
+  - image: /uploads/fa11b9aa-1834-4478-9184-7993fa141b96.png-/preview/-/enhance/17/
+  - image: /uploads/624b3a2f-eb0f-4356-8f64-1547651c8b58.png-/preview/-/enhance/50/
+  - image: /uploads/4034509a-7433-4bb9-b437-a02ac595c787.png
+  - image: /uploads/3b0f83ce-2298-4685-880c-4cba310e9f60.png-/preview/-/enhance/19/
+  - image: /uploads/5f08dc69-3f29-423d-ba4d-fb5c54aa4075.png-/preview/-/enhance/50/
 videoSection:
   imageOverlay: ""
   video: ""
@@ -150,8 +150,8 @@ columnBanner:
     buttonUrl: booking-enquiry
     content: Let our friendly and experienced team tailor a Proposal Cruise to impress.
     title: A proposal like no other...
-    featuredImage: https://ucarecdn.com/8a4a1f89-1f16-4ac9-9ec2-8c1d21465116/
-  - featuredImage: https://ucarecdn.com/713e61bb-5607-49a4-b443-308690d6a0a4/-/preview/-/enhance/27/
+    featuredImage: /uploads/8a4a1f89-1f16-4ac9-9ec2-8c1d21465116.png
+  - featuredImage: /uploads/713e61bb-5607-49a4-b443-308690d6a0a4.png-/preview/-/enhance/27/
 featuredTestimonials:
   description: Daniel organized a secret proposal charter with us. See what Lauren
     had to say about the unforgettable experience, other than "YES!"...

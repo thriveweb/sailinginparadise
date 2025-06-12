@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 title: Private Charter Guest Info
-featuredImage: https://ucarecdn.com/13a84dfa-cab1-48db-b79a-c7dbde7eba0f/
+featuredImage: /uploads/13a84dfa-cab1-48db-b79a-c7dbde7eba0f.png
 content: >-
   ### WELCOME TO SAILING IN PARADISE!
 
@@ -48,7 +48,7 @@ content: >-
   If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you.
 
 
-  ![](https://ucarecdn.com/18187796-18fb-42e5-b8c1-bcb87f39331f/)
+  ![](/uploads/18187796-18fb-42e5-b8c1-bcb87f39331f.png)
 
 
   ###### BOARDING INFO

@@ -5,7 +5,7 @@ status: Published
 date: 2021-09-18T02:29:35.464Z
 categories:
   - category: News
-featuredImage: https://ucarecdn.com/bd5265c4-6f1d-4401-940f-6f835e25e6f7/
+featuredImage: /uploads/bd5265c4-6f1d-4401-940f-6f835e25e6f7.png
 videoSection:
   title: ""
 meta:
@@ -38,4 +38,4 @@ In response to the COVID pandemic;
 * We have a COVID-friendly catering menu available and are able to pivot to individual portions should government guidelines require in future.
 * In the current health situation we are altering the usual cancellation policy to offer some flexibility to guests who are unable to sail due to the COVID-19 pandemic as outlined in our booking terms and conditions.      We ask that guests contact us directly to discuss individual circumstances as we are happy to work together to come to a solution.  
 
-![](https://ucarecdn.com/7a46aa56-ac90-4181-b7c5-ee57acf1182c/)
+![](/uploads/7a46aa56-ac90-4181-b7c5-ee57acf1182c.png)

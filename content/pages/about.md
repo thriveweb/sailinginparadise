@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about-us
 title: About Us
-featuredImage: https://ucarecdn.com/2e668bd0-98ad-4de4-8d50-f8f7581c3377/
+featuredImage: /uploads/2e668bd0-98ad-4de4-8d50-f8f7581c3377.png
 intro: >-
   ## our story
 
@@ -28,11 +28,11 @@ intro: >-
 
   All three boats have been carefully selected to offer the same spacious deck area, stable sailing and beach landing capabilities.
 gallery:
-  - image: https://ucarecdn.com/d3fce9ea-25bc-4f10-b643-e67e330427c4/
-  - image: https://ucarecdn.com/1a97171f-a25e-46d9-a987-2940d52f9607/
-  - image: https://ucarecdn.com/d63e2ef4-5e96-4662-9f49-a5ca4d34582f/
-  - image: https://ucarecdn.com/04bf8fb1-7026-457b-8b56-e2890481225c/
-  - image: https://ucarecdn.com/4f14fbcc-388d-40dd-85d2-26a13ee39e9a/
+  - image: /uploads/d3fce9ea-25bc-4f10-b643-e67e330427c4.png
+  - image: /uploads/1a97171f-a25e-46d9-a987-2940d52f9607.png
+  - image: /uploads/d63e2ef4-5e96-4662-9f49-a5ca4d34582f.png
+  - image: /uploads/04bf8fb1-7026-457b-8b56-e2890481225c.png
+  - image: /uploads/4f14fbcc-388d-40dd-85d2-26a13ee39e9a.png
 captainSection:
   captain:
     - description: Sailing in Paradise was the brainchild of Steve. Any of you who
@@ -47,7 +47,7 @@ captainSection:
         on charters.   Steve is driven by a passion for food with a keen
         interest in native Australian produce that he is hoping to align with
         the future vision for Sailing in Paradise.
-      image: https://ucarecdn.com/4f4c708f-0dc2-4ef8-8ff6-3f0a427d3692/
+      image: /uploads/4f4c708f-0dc2-4ef8-8ff6-3f0a427d3692.png
       name: Steve Buckley - Owner / Operator
       socialMedia:
         linkedin: ""
@@ -63,7 +63,7 @@ captainSection:
         our guests where she can . As well as the day-to-day, she is planning
         some exciting things to come for the future of Sailing in Paradise.
         Watch this space!
-      image: https://ucarecdn.com/60e7b3c2-123c-4b4a-9c2e-c3c3bfc99d94/
+      image: /uploads/60e7b3c2-123c-4b4a-9c2e-c3c3bfc99d94.png
       name: Jessica Buckley - Owner / operator
       socialMedia:
         linkedin: ""
@@ -86,7 +86,7 @@ crewSection:
         background in 6-star hospitality and amazing skill behind the camera you
         will be well looked after by Chanelle either on board the boat or in the
         office.
-      image: https://ucarecdn.com/839ed449-4aaf-4f18-a320-15bd026be749/-/crop/748x586/0,32/-/preview/
+      image: /uploads/839ed449-4aaf-4f18-a320-15bd026be749.png-/crop/748x586/0,32/-/preview/
       name: "Chanelle "
       title: Cruise Hostess/Guest Relations
     - content: >-
@@ -96,17 +96,17 @@ crewSection:
 
 
         Dan has a passion for the sea and when he's not out sailing, he can be found wakeboarding or jet skiing. You'll be sure to have a great day out with Daniel, "the captain of your hearts"!
-      image: https://ucarecdn.com/27d8e87d-23c3-4176-8ef2-9eb88a5affd0/-/preview/-/enhance/50/
+      image: /uploads/27d8e87d-23c3-4176-8ef2-9eb88a5affd0.png-/preview/-/enhance/50/
       name: Daniel
       title: Skipper
-    - image: https://ucarecdn.com/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc/-/crop/750x898/0,48/-/preview/-/enhance/21/
+    - image: /uploads/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc.png-/crop/750x898/0,48/-/preview/-/enhance/21/
       name: "Megan "
       title: Cruise Hostess
       content: Megan is always smiling when out on the water and will be sure to make
         your event as special and fun as possible!  Studying to become a
         teacher, her warm and caring nature will make your guests feel at home
         aboard our beautiful vessels.
-    - image: https://ucarecdn.com/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9/
+    - image: /uploads/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9.png
       name: Jemma
       title: Cruise Hostess
       content: Jemma has spent the past 10 years working as an outdoor adventure guide
@@ -114,7 +114,7 @@ crewSection:
         As a self-professed ocean nerd, Jemma will happily talk to you all about
         the local marine life… and she’s always ready to bust a move with our
         guests if the music is right!
-    - image: https://ucarecdn.com/45612d4c-023c-4409-ab6a-6cbeecabc6a6/-/crop/2052x1420/158,0/-/preview/
+    - image: /uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png-/crop/2052x1420/158,0/-/preview/
       name: Deon
       title: Skipper
       content: Deon has a love for the outdoors and 15 years experience in the marine
@@ -122,7 +122,7 @@ crewSection:
         Deon can usually be found hanging out with his dolphin friends and
         caring for our marine environment by rescuing trapped whales and injured
         marine life...  Go Deon!!
-    - image: https://ucarecdn.com/002819f5-2b26-41ac-94b6-e5be7698a290/-/crop/1815x2295/0,729/-/preview/
+    - image: /uploads/002819f5-2b26-41ac-94b6-e5be7698a290.png-/crop/1815x2295/0,729/-/preview/
       name: Chelsey
       title: Cruise Hostess
       content: >-
@@ -143,7 +143,7 @@ crewSection:
         skills will ensure you have a seamless booking and charter experience. 
          Feel free to reach out to Mady if you have any questions about booking
         a charter with Sailing in Paradise!
-      image: https://ucarecdn.com/564f4f0d-032b-449b-9436-b176e6a87897/-/crop/2287x1732/22,0/-/preview/
+      image: /uploads/564f4f0d-032b-449b-9436-b176e6a87897.png-/crop/2287x1732/22,0/-/preview/
   crewIntro: "## Our Crew
 
 
@@ -159,22 +159,22 @@ crewSection:
 secondaryBanner:
   buttonTitle: Take a Tour
   buttonUrl: our-boats
-  featuredImage: https://ucarecdn.com/06a3b51c-4af5-42ad-aa0a-1d9c2a169443/
+  featuredImage: /uploads/06a3b51c-4af5-42ad-aa0a-1d9c2a169443.png
   subtitle: ""
   title: check out our amazing catamarans
 videoSection:
-  imageOverlay: https://ucarecdn.com/5b87c65e-67fd-47f8-87cc-5cda851116da/
+  imageOverlay: /uploads/5b87c65e-67fd-47f8-87cc-5cda851116da.png
   title: Experience the open water with an affordable yet luxurious adventure
   video: "348353390"
 columnBanner:
   - buttonTitle: See More
     buttonUrl: boat-charter
     title: ready to start planning your private charter?
-    featuredImage: https://ucarecdn.com/b2caa059-80db-459d-8317-b769028c50e9/
+    featuredImage: /uploads/b2caa059-80db-459d-8317-b769028c50e9.png
   - buttonTitle: ""
     buttonUrl: ""
     title: ""
-    featuredImage: https://ucarecdn.com/1009971d-e5a7-4b76-8c13-a7aca1eccd8c/
+    featuredImage: /uploads/1009971d-e5a7-4b76-8c13-a7aca1eccd8c.png
 meta:
   description: Sailing in Paradise offers boat hire and private charters on the
     beautiful Gold Coast Broad Waters. Call 0418 915 222.

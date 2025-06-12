@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Work Christmas Party Ideas
 icon: ""
-featuredImage: https://ucarecdn.com/642056c5-b20b-4382-9ec4-94858fc555ca/
+featuredImage: /uploads/642056c5-b20b-4382-9ec4-94858fc555ca.png
 intro: >-
   ## The ultimate work Christmas Party Idea for 2023
 
@@ -44,10 +44,10 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: https://ucarecdn.com/b2163d17-c5ea-42ac-9bcb-08d3625993c6/
-  - image: https://ucarecdn.com/f4425c9b-c225-4238-898e-1cbd460859ea/
-  - image: https://ucarecdn.com/dc0a73db-49d7-4f8e-ad46-d86cd9866d5b/
-  - image: https://ucarecdn.com/acf3a2d1-5411-4a97-a6a2-8f106b2f9744/
+  - image: /uploads/b2163d17-c5ea-42ac-9bcb-08d3625993c6.png
+  - image: /uploads/f4425c9b-c225-4238-898e-1cbd460859ea.png
+  - image: /uploads/dc0a73db-49d7-4f8e-ad46-d86cd9866d5b.png
+  - image: /uploads/acf3a2d1-5411-4a97-a6a2-8f106b2f9744.png
 videoSection:
   title: ""
 contentColumnTitle: Step up the work Christmas Party game!
@@ -56,7 +56,7 @@ contentColumn: >-
   Christmas party one to remember.
 
 
-  ![Sailing in Paradise](https://ucarecdn.com/d0257018-cf26-4520-9f9f-9ad544ad31fc/ "Yacht Charters Gold Coast")
+  ![Sailing in Paradise](/uploads/d0257018-cf26-4520-9f9f-9ad544ad31fc.png "Yacht Charters Gold Coast")
 
 
   ## Christmas Party Planners, we are here to help...
@@ -74,7 +74,7 @@ contentColumn: >-
   Sailing in Paradise would love to create a work Christmas Party that you and your team will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  We are a friendly, professional crew and we’d love the chance to chat with you.
 
 
-  ![Christmas Yacht Charter](https://ucarecdn.com/88c69278-016a-4ccd-a83f-83164412649d/ "Spirit of Gwonda")
+  ![Christmas Yacht Charter](/uploads/88c69278-016a-4ccd-a83f-83164412649d.png "Spirit of Gwonda")
 accordionSection:
   accordion:
     - dropdownContent: >-
@@ -140,7 +140,7 @@ columnBanner:
     buttonUrl: booking-enquiry
     content: Enquire now for more information...
     title: Plan your work Christmas Party today
-  - featuredImage: https://ucarecdn.com/a5ee9bd8-dfa4-42e9-ad12-92b776b3b36f/
+  - featuredImage: /uploads/a5ee9bd8-dfa4-42e9-ad12-92b776b3b36f.png
 featuredTestimonials:
   description: The ladies from Bella Bronze enjoyed a fabulous Christmas Party on the water!
   testimonial: BELLA BRONZE TAN, Aus

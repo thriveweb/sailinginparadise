@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 title: Christmas Party Bookings
-featuredImage: https://ucarecdn.com/ecdf8e18-9211-4f4c-8d8e-6e893af2a1d7/
+featuredImage: /uploads/ecdf8e18-9211-4f4c-8d8e-6e893af2a1d7.png
 content: >-
   <!--StartFragment-->
 

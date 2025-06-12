@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast New Year's Eve 2024 Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
-featuredImage: https://ucarecdn.com/dba0149b-583f-4865-a988-8ec0b6959aac/
+featuredImage: /uploads/dba0149b-583f-4865-a988-8ec0b6959aac.png
 intro: >-
   ## New Year's Eve 2024 Party Boat
 
@@ -21,15 +21,15 @@ contentBox:
   title: "ENQUIRE NOW "
 bookingIframe: ""
 gallery:
-  - image: https://ucarecdn.com/76f824f6-642a-46d6-b717-7a0815985f30/
-  - image: https://ucarecdn.com/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4/-/preview/-/enhance/39/
-  - image: https://ucarecdn.com/9269a739-47ef-4540-9ff3-337c0dd3d07e/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/42d9ef6e-fa1f-45c4-8a08-9c8435e4bbce/
-  - image: https://ucarecdn.com/a0047999-5aaf-4dff-acb2-d2c838d353f0/-/preview/-/enhance/25/
-  - image: https://ucarecdn.com/46a748e9-7b87-431a-a2ac-6c2ba0d13061/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/42f631aa-ddd7-41a1-b4eb-762b4546d9ec/-/preview/-/enhance/42/
-  - image: https://ucarecdn.com/b24fbc76-268a-4751-a300-4d648a3cd9c7/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/7ba15080-d97b-4046-b1fd-7ec0a700c195/-/preview/-/enhance/33/
+  - image: /uploads/76f824f6-642a-46d6-b717-7a0815985f30.png
+  - image: /uploads/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4.png-/preview/-/enhance/39/
+  - image: /uploads/9269a739-47ef-4540-9ff3-337c0dd3d07e.png-/preview/-/enhance/50/
+  - image: /uploads/42d9ef6e-fa1f-45c4-8a08-9c8435e4bbce.png
+  - image: /uploads/a0047999-5aaf-4dff-acb2-d2c838d353f0.png-/preview/-/enhance/25/
+  - image: /uploads/46a748e9-7b87-431a-a2ac-6c2ba0d13061.png-/preview/-/enhance/50/
+  - image: /uploads/42f631aa-ddd7-41a1-b4eb-762b4546d9ec.png-/preview/-/enhance/42/
+  - image: /uploads/b24fbc76-268a-4751-a300-4d648a3cd9c7.png-/preview/-/enhance/50/
+  - image: /uploads/7ba15080-d97b-4046-b1fd-7ec0a700c195.png-/preview/-/enhance/33/
 contentColumnTitle: NEW YEARS EVE NEVER LOOKED BETTER
 contentColumn: >-
   Picture this: a day filled with breathtaking views, island beaches, and

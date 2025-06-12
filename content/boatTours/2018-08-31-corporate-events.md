@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Corporate Events
 icon: ""
-featuredImage: https://ucarecdn.com/ea9d0ab8-7dbf-4c8a-b7bd-4cf8fcb17504/
+featuredImage: /uploads/ea9d0ab8-7dbf-4c8a-b7bd-4cf8fcb17504.png
 intro: >-
   ## Gold Coast Corporate Yacht Charter
 
@@ -17,19 +17,19 @@ contentBox:
   buttonUrl: https://sailinginparadise.rezdy.com/catalog/285986/corporate-charters
   title: YOUR CORPORATE EVENT ON THE WATER IS ONLY A CLICK AWAY
 gallery:
-  - image: https://ucarecdn.com/cb7fb7d6-93d2-4c5b-a904-42c4dab0c828/
-  - image: https://ucarecdn.com/f99106b9-0d3d-43b8-a71e-41f42ec85c43/
-  - image: https://ucarecdn.com/e94af98a-13e6-4fce-b84d-744467c1b56c/
-  - image: https://ucarecdn.com/7ab0ada1-1f6e-4af5-9de3-eb777bbccbab/
-  - image: https://ucarecdn.com/7421b848-d427-4260-a693-626142350ba2/
-  - image: https://ucarecdn.com/b3ea0259-d86e-45ac-bdb0-0ecf4e3b980b/
-  - image: https://ucarecdn.com/0c1dada4-435e-4187-8b7c-476321822d86/
-  - image: https://ucarecdn.com/14248eab-6199-4e83-ae33-2012acaf3433/
-  - image: https://ucarecdn.com/c89650a1-be76-4513-ba7e-219b60395a70/
-  - image: https://ucarecdn.com/315f83e6-eff6-4809-85fc-64416ac5d098/
-  - image: https://ucarecdn.com/acdaa89c-65e5-48ec-8d45-a44f2541dfdb/
-  - image: https://ucarecdn.com/aab96652-6973-4625-be40-05493468c28d/
-  - image: https://ucarecdn.com/4aef8938-5c54-4373-9f42-552f908dafca/
+  - image: /uploads/cb7fb7d6-93d2-4c5b-a904-42c4dab0c828.png
+  - image: /uploads/f99106b9-0d3d-43b8-a71e-41f42ec85c43.png
+  - image: /uploads/e94af98a-13e6-4fce-b84d-744467c1b56c.png
+  - image: /uploads/7ab0ada1-1f6e-4af5-9de3-eb777bbccbab.png
+  - image: /uploads/7421b848-d427-4260-a693-626142350ba2.png
+  - image: /uploads/b3ea0259-d86e-45ac-bdb0-0ecf4e3b980b.png
+  - image: /uploads/0c1dada4-435e-4187-8b7c-476321822d86.png
+  - image: /uploads/14248eab-6199-4e83-ae33-2012acaf3433.png
+  - image: /uploads/c89650a1-be76-4513-ba7e-219b60395a70.png
+  - image: /uploads/315f83e6-eff6-4809-85fc-64416ac5d098.png
+  - image: /uploads/acdaa89c-65e5-48ec-8d45-a44f2541dfdb.png
+  - image: /uploads/aab96652-6973-4625-be40-05493468c28d.png
+  - image: /uploads/4aef8938-5c54-4373-9f42-552f908dafca.png
 videoSection:
   imageOverlay: ""
   video: ""
@@ -208,8 +208,8 @@ columnBanner:
     buttonUrl: booking-enquiry
     content: Let our friendly and experienced team tailor a package to suit you.
     title: Start planning your event now!
-    featuredImage: https://ucarecdn.com/15c3a790-7deb-4ba8-89f4-312b9d178290/
-  - featuredImage: https://ucarecdn.com/d26a63a1-2a8e-41e6-a90c-d185bec84c13/
+    featuredImage: /uploads/15c3a790-7deb-4ba8-89f4-312b9d178290.png
+  - featuredImage: /uploads/d26a63a1-2a8e-41e6-a90c-d185bec84c13.png
 featuredTestimonials:
   description: KOJO organized a corporate charter with us, take a look at their
     experience...

@@ -2,15 +2,15 @@
 template: BoatsPage
 slug: our-boats
 title: Our Charter Boats
-featuredImage: https://ucarecdn.com/7eb05bf9-806d-415f-8ceb-d7b21fa685ce/
+featuredImage: /uploads/7eb05bf9-806d-415f-8ceb-d7b21fa685ce.png
 intro: "## Choose from three beautiful catamarans"
 boats:
   - videoSection:
       title: " 360° VR TOUR - Island Time"
       videoURL: https://tour.panoee.com/IslandTime
-      imageOverlay: https://ucarecdn.com/ff34a71b-3eb4-45de-a7e0-f050365a7411/
+      imageOverlay: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.png
     title: "Island Time "
-    featuredImage: https://ucarecdn.com/bd7c8762-ee23-468c-b7fc-2ee0722ea36a/-/crop/3158x3108/1212,795/-/preview/
+    featuredImage: /uploads/bd7c8762-ee23-468c-b7fc-2ee0722ea36a.png-/crop/3158x3108/1212,795/-/preview/
     boatListingFeatures:
       - content: New Vessel
       - content: Suitable for up to 42 guests
@@ -57,23 +57,23 @@ boats:
       - content: S﻿ound System
       - content: B﻿BQ
     gallery:
-      - image: https://ucarecdn.com/38fa5db5-2e7e-4042-95cc-fcb840b4b744/
-      - image: https://ucarecdn.com/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0/
-      - image: https://ucarecdn.com/c83f6f16-25c4-42f7-a968-3684267485cf/
-      - image: https://ucarecdn.com/3325d55c-dcd9-4754-9049-dd0025911992/
-      - image: https://ucarecdn.com/975d5213-c405-48eb-9bc6-d653304a9d5b/
-      - image: https://ucarecdn.com/05568c86-c0de-4fe7-8230-33f0db7327dd/
-      - image: https://ucarecdn.com/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9/
-      - image: https://ucarecdn.com/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad/
-      - image: https://ucarecdn.com/cbb8f5cc-402f-48e2-ac76-87e947dbd041/
+      - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.png
+      - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.png
+      - image: /uploads/c83f6f16-25c4-42f7-a968-3684267485cf.png
+      - image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.png
+      - image: /uploads/975d5213-c405-48eb-9bc6-d653304a9d5b.png
+      - image: /uploads/05568c86-c0de-4fe7-8230-33f0db7327dd.png
+      - image: /uploads/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9.png
+      - image: /uploads/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad.png
+      - image: /uploads/cbb8f5cc-402f-48e2-ac76-87e947dbd041.png
   - virtualTourPopup:
       title: ""
     videoSection:
       title: " 360° VR TOUR - Oceans"
       videoURL: https://tour.panoee.com/oceans
-      imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
+      imageOverlay: /uploads/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2.png
     title: Oceans Deluxe
-    featuredImage: https://ucarecdn.com/033861dd-c518-48e0-a767-176f44073284/
+    featuredImage: /uploads/033861dd-c518-48e0-a767-176f44073284.png
     boatListingFeatures:
       - content: Deluxe Vessel
       - content: Suitable for 2 to 30 guests
@@ -105,15 +105,15 @@ boats:
       - content: Eskies
       - content: Sound System
     gallery:
-      - image: https://ucarecdn.com/771916aa-1471-4f2a-b6fd-d6f0207cdcf4/
-      - image: https://ucarecdn.com/987ab6b6-b626-4996-8df6-0fd15ffdd0a3/-/preview/-/enhance/28/
-      - image: https://ucarecdn.com/50f425d0-4c4e-4ef9-b6a7-f210d274f574/-/preview/-/enhance/14/
-      - image: https://ucarecdn.com/6e5a4b1d-64e6-404f-8177-b052f1dbae8b/-/crop/1000x569/0,98/-/preview/
-      - image: https://ucarecdn.com/798562c0-188d-42ea-8e4a-fd9267b4eb9c/
-      - image: https://ucarecdn.com/0e3170b2-7d7d-4605-94ba-8744f1d458d9/
-      - image: https://ucarecdn.com/c92a9b14-1df3-4135-9c14-e313b734264b/
-      - image: https://ucarecdn.com/dfeee078-1196-4eb9-8ad7-be4f3e9f805a/-/crop/1120x1126/0,284/-/preview/
-      - image: https://ucarecdn.com/12879a49-dd42-49fa-85cb-a9db8521d7a3/
+      - image: /uploads/771916aa-1471-4f2a-b6fd-d6f0207cdcf4.png
+      - image: /uploads/987ab6b6-b626-4996-8df6-0fd15ffdd0a3.png-/preview/-/enhance/28/
+      - image: /uploads/50f425d0-4c4e-4ef9-b6a7-f210d274f574.png-/preview/-/enhance/14/
+      - image: /uploads/6e5a4b1d-64e6-404f-8177-b052f1dbae8b.png-/crop/1000x569/0,98/-/preview/
+      - image: /uploads/798562c0-188d-42ea-8e4a-fd9267b4eb9c.png
+      - image: /uploads/0e3170b2-7d7d-4605-94ba-8744f1d458d9.png
+      - image: /uploads/c92a9b14-1df3-4135-9c14-e313b734264b.png
+      - image: /uploads/dfeee078-1196-4eb9-8ad7-be4f3e9f805a.png-/crop/1120x1126/0,284/-/preview/
+      - image: /uploads/12879a49-dd42-49fa-85cb-a9db8521d7a3.png
   - boatFeatures:
       - content: 10.5m long x 6.5m wide
       - content: Max. 30 passengers + 2 crew
@@ -146,24 +146,24 @@ boats:
 
       Measuring 10.5m long by 6.5m wide, there is ample space for up to 30 people (plus 2 crew), approx 60 square metres of deck space in fact.  You will be amazed at the room available inside this smooth and stable boat, making it ideal for social occasions of all kinds.
     gallery:
-      - image: https://ucarecdn.com/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e/
-      - image: https://ucarecdn.com/9a68ca1c-1414-4282-990c-1656ba923df9/
-      - image: https://ucarecdn.com/b4693d47-05c4-4b1c-a1ff-877201630d9d/
-      - image: https://ucarecdn.com/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273/
+      - image: /uploads/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e.png
+      - image: /uploads/9a68ca1c-1414-4282-990c-1656ba923df9.png
+      - image: /uploads/b4693d47-05c4-4b1c-a1ff-877201630d9d.png
+      - image: /uploads/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273.png
     title: spirit Of Gwonda
-    featuredImage: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/-/crop/2566x2704/1039,0/-/preview/
+    featuredImage: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png-/crop/2566x2704/1039,0/-/preview/
     boatListingFeatures:
       - content: The O.G.
       - content: Suitable for up to 30 guests
       - content: Indoor/Outdoor flow
     videoSection:
-      imageOverlay: https://ucarecdn.com/029c2c2a-acb1-475c-a7b5-e4b81312a9fb/
+      imageOverlay: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png
       title: 360° VR tour - Spirit Of Gwonda
       videoURL: https://tour.panoee.com/spirit-of-gwonda
 secondaryBanner:
   buttonTitle: Meet our Crew...
   buttonUrl: about-us
-  featuredImage: https://ucarecdn.com/427a43aa-1572-4c00-8f67-f2be6fced132/-/crop/5211x2779/223,254/-/preview/
+  featuredImage: /uploads/427a43aa-1572-4c00-8f67-f2be6fced132.png-/crop/5211x2779/223,254/-/preview/
   subtitle: ""
   title: Climb Aboard and get to know us
 meta:

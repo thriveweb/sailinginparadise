@@ -2,7 +2,7 @@
 template: PrivateCharters
 slug: boat-charter
 title: Boat Charter
-featuredImage: https://ucarecdn.com/ae8944f9-639c-41de-be91-7899ac721ff2/-/crop/3269x1740/0,528/-/preview/
+featuredImage: /uploads/ae8944f9-639c-41de-be91-7899ac721ff2.png-/crop/3269x1740/0,528/-/preview/
 intro: >-
   ## Private Boat Hire
 

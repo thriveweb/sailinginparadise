@@ -4,7 +4,7 @@ slug: ""
 title: Yacht Hire Gold&nbsp;Coast
 buttonTitle: "Enquire or Book Now "
 buttonUrl: booking-enquiry/
-posterImage: https://ucarecdn.com/375f91a7-6d1b-4e43-83ca-6f535d3775fb/-/preview/-/enhance/29/
+posterImage: /uploads/375f91a7-6d1b-4e43-83ca-6f535d3775fb.png-/preview/-/enhance/29/
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
@@ -20,17 +20,17 @@ featuredSlider:
 featuredBanner:
   buttonTitle: Best value rates for the week ahead
   buttonUrl: boat-charter/last-minute-charters/
-  image: https://ucarecdn.com/043c185a-8f9c-4946-b034-444ee4ffeb6c/
+  image: /uploads/043c185a-8f9c-4946-b034-444ee4ffeb6c.png
   title: LAST MINUTE CHARTERS
 services:
-  - image: https://ucarecdn.com/46eb2fd9-8696-483f-a071-9453ef88c978/
+  - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.png
     serviceContent:
       buttonUrl: boat-charter/gold-coast-corporate-events/
       description: Team Building, Delegate Programs, Incentives, Meetings and Staff
         Parties are always better on the water...
       icon: /images/uploads/boat2.svg
       title: Corporate Events
-  - image: https://ucarecdn.com/6cee7f3a-3961-4570-915a-3c0e75122e10/
+  - image: /uploads/6cee7f3a-3961-4570-915a-3c0e75122e10.png
     serviceContent:
       buttonUrl: boat-charter/gold-coast-hens-parties/
       description: A unique hen’s party idea on the Gold Coast. Whether you are
@@ -39,7 +39,7 @@ services:
         trimmings...
       icon: /images/uploads/wine.svg
       title: Hens Party Specialists
-  - image: https://ucarecdn.com/476fc357-c021-49a9-8464-5bf46fb30c51/
+  - image: /uploads/476fc357-c021-49a9-8464-5bf46fb30c51.png
     serviceContent:
       buttonUrl: boat-charter/gold-coast-birthday-parties/
       description: "Celebrate another lap around the sun on the water.  "
@@ -48,7 +48,7 @@ services:
 serviceBanner:
   buttonTitle: Find your Perfect Charter
   buttonUrl: boat-charter/
-  featuredImage: https://ucarecdn.com/72089e0a-c18a-41c2-855d-43c8050bc2b8/
+  featuredImage: /uploads/72089e0a-c18a-41c2-855d-43c8050bc2b8.png
   subtitle: Let’s Get The Party Started!
   title: Ready to book your Gold Coast Boat Hire?
 secondaryBanner:
@@ -75,7 +75,7 @@ aboutSection:
 
 
     From your first enquiry to the last wave goodbye, our team are here to take the stress out of planning and replace it with laid-back vibes and smooth sailing.
-  featuredImage: https://ucarecdn.com/ce557254-c4b7-4e72-8557-e604ceb1b190/
+  featuredImage: /uploads/ce557254-c4b7-4e72-8557-e604ceb1b190.png
   subtitle: Our Boats & Crew
   title: Meet Us
 highlightsIntro: <h2>Private Charter Highlights</h2>

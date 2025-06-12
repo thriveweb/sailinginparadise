@@ -3,7 +3,7 @@ template: SinglePost
 title: Unique Proposal Ideas on the Gold Coast
 status: Published
 date: 2021-09-21T04:42:58.936Z
-featuredImage: https://ucarecdn.com/c133e4ce-f8df-4275-991e-831cb3449b59/
+featuredImage: /uploads/c133e4ce-f8df-4275-991e-831cb3449b59.png
 excerpt: So, you’ve met the love of your life and now you’re ready to pop the
   big question? How exciting! You must be thinking of how to actually do it, and
   perhaps you have all these different scenarios and options in your head, am I
@@ -40,7 +40,7 @@ Imagine taking your future fiancé on board a beautiful sailing yacht and leadin
 
 Whenever you feel the moment is right, you can “give the nod” to your crew who will be looking after you. They will pull the sail out with a “will you marry me” sign on it, ready for your fiancé to see. All you have to do is get on one knee! The “will you marry me sail” is perfect if you're looking for a unique way to propose to your loved one and blow them off their feet! 
 
-![](https://ucarecdn.com/9a73256b-b923-406c-8375-94c3663b3651/)
+![](/uploads/9a73256b-b923-406c-8375-94c3663b3651.png)
 
 Your crew will discreetly capture the moment for you and send you all the photos so you will always have that special and romantic moment frozen in time. We would recommend popping the question sooner rather than later so you can celebrate together, and of course, make the most of that golden hour light in your photos. 
 
