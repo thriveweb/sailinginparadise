@@ -46,7 +46,7 @@ navItems:
   - subNavItems:
       - title: Island Time      
       - title: Spirit Of Gwonda
-      - title: Oceans - Deluxe
+      - title: Oceans Deluxe
     title: Our Charter Boats
   - title: About Us
   - subNavItems:
