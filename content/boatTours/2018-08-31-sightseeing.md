@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Sightseeing
 icon: ""
-featuredImage: https://ucarecdn.com/ecd8d123-c8fc-4598-ad75-c149932f1916/-/preview/-/enhance/88/
+featuredImage: /uploads/ecd8d123-c8fc-4598-ad75-c149932f1916.png-/preview/-/enhance/88/
 intro: >-
   ## Gold Coast Sightseeing Cruise
 
@@ -24,23 +24,23 @@ contentBox:
   title: Let us tailor your VIP Gold Coast Sightseeing Experience
 bookingIframe: ""
 gallery:
-  - image: https://ucarecdn.com/5a75a58f-60be-4724-b30f-df677622d5a5/-/preview/-/enhance/66/
-  - image: https://ucarecdn.com/605d50ba-a306-4eed-9f97-4022f4f68a8c/-/preview/-/enhance/19/
-  - image: https://ucarecdn.com/c7b2283e-6409-416a-bdc8-71d57c61f740/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/abc4dac6-6990-4ab3-a95e-ad848aa70e67/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/aed6529f-bfe5-41c5-9545-8249a9f80f3e/-/preview/-/enhance/37/
-  - image: https://ucarecdn.com/6019d2cf-d7ad-4be3-8f02-0651e64b07e8/-/preview/-/enhance/22/
-  - image: https://ucarecdn.com/2e22db0e-12fd-492e-acd1-c59776b55c08/-/preview/-/enhance/72/
-  - image: https://ucarecdn.com/7843557b-42ab-4875-b5ff-e3eeffe59ea6/-/preview/-/enhance/32/
-  - image: https://ucarecdn.com/de7e3b0d-f553-4c3b-9117-7c2b6543304f/-/preview/-/enhance/26/
-  - image: https://ucarecdn.com/d84189d5-3b3b-4cd3-87db-a9b593fc2110/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/4ef51e44-e22f-4512-b89d-3622e7b7e23d/-/preview/-/enhance/40/
-  - image: https://ucarecdn.com/3c6500ed-7157-458e-81be-fb9fca763a5d/-/preview/-/enhance/34/
-  - image: https://ucarecdn.com/677479b2-70e1-43d1-abf4-d849984c95a8/-/preview/-/enhance/25/
-  - image: https://ucarecdn.com/4735fe31-3c0c-4e7d-a7b2-d1b9c3ceaf2b/-/preview/-/enhance/28/
-  - image: https://ucarecdn.com/2420a184-553a-478c-9c4a-3e2aa762885f/-/preview/-/enhance/28/
-  - image: https://ucarecdn.com/f144c4b6-d624-406f-9713-019859fd5920/-/preview/-/enhance/32/
-  - image: https://ucarecdn.com/8a6c3cc3-31f9-40f5-9c33-e52050bf035f/-/preview/-/enhance/38/
+  - image: /uploads/5a75a58f-60be-4724-b30f-df677622d5a5.png-/preview/-/enhance/66/
+  - image: /uploads/605d50ba-a306-4eed-9f97-4022f4f68a8c.png-/preview/-/enhance/19/
+  - image: /uploads/c7b2283e-6409-416a-bdc8-71d57c61f740.png-/preview/-/enhance/50/
+  - image: /uploads/abc4dac6-6990-4ab3-a95e-ad848aa70e67.png-/preview/-/enhance/50/
+  - image: /uploads/aed6529f-bfe5-41c5-9545-8249a9f80f3e.png-/preview/-/enhance/37/
+  - image: /uploads/6019d2cf-d7ad-4be3-8f02-0651e64b07e8.png-/preview/-/enhance/22/
+  - image: /uploads/2e22db0e-12fd-492e-acd1-c59776b55c08.png-/preview/-/enhance/72/
+  - image: /uploads/7843557b-42ab-4875-b5ff-e3eeffe59ea6.png-/preview/-/enhance/32/
+  - image: /uploads/de7e3b0d-f553-4c3b-9117-7c2b6543304f.png-/preview/-/enhance/26/
+  - image: /uploads/d84189d5-3b3b-4cd3-87db-a9b593fc2110.png-/preview/-/enhance/50/
+  - image: /uploads/4ef51e44-e22f-4512-b89d-3622e7b7e23d.png-/preview/-/enhance/40/
+  - image: /uploads/3c6500ed-7157-458e-81be-fb9fca763a5d.png-/preview/-/enhance/34/
+  - image: /uploads/677479b2-70e1-43d1-abf4-d849984c95a8.png-/preview/-/enhance/25/
+  - image: /uploads/4735fe31-3c0c-4e7d-a7b2-d1b9c3ceaf2b.png-/preview/-/enhance/28/
+  - image: /uploads/2420a184-553a-478c-9c4a-3e2aa762885f.png-/preview/-/enhance/28/
+  - image: /uploads/f144c4b6-d624-406f-9713-019859fd5920.png-/preview/-/enhance/32/
+  - image: /uploads/8a6c3cc3-31f9-40f5-9c33-e52050bf035f.png-/preview/-/enhance/38/
 videoSection:
   imageOverlay: ""
   video: ""
@@ -234,8 +234,8 @@ columnBanner:
     content: Let our friendly and experienced team tailor a sightseeing charter for
       your group.
     title: Get out on the water and experience the real Gold Coast
-    featuredImage: https://ucarecdn.com/90d8ee6c-008c-40a2-a620-e532aab1315f/
-  - featuredImage: https://ucarecdn.com/89e840d4-ad24-4022-8ccc-5ec6f161b5a0/
+    featuredImage: /uploads/90d8ee6c-008c-40a2-a620-e532aab1315f.png
+  - featuredImage: /uploads/89e840d4-ad24-4022-8ccc-5ec6f161b5a0.png
 featuredTestimonials:
   description: Mr Apple spent the afternoon out on the water with us taking in the
     beautiful views. Check out his experience here...

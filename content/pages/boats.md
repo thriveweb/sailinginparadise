@@ -72,7 +72,7 @@ boats:
       title: " 360° VR TOUR - Oceans"
       videoURL: https://tour.panoee.com/oceans
       imageOverlay: https://ucarecdn.com/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2/
-    title: Oceans - Deluxe
+    title: Oceans Deluxe
     featuredImage: https://ucarecdn.com/033861dd-c518-48e0-a767-176f44073284/
     boatListingFeatures:
       - content: Deluxe Vessel

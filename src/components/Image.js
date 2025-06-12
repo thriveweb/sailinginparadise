@@ -15,7 +15,19 @@ class Image extends React.Component {
       alt
     } = this.props
 
-    const imageSrc = src || source
+    function convertUploadcareUrlToLocal(url) {
+      // Find index of '-/' in the URL
+      const index = url.indexOf('-/');
+      
+      // If found, return substring up to that point; else, return original URL
+      return index !== -1 ? url.substring(0, index) : url;
+    }
+
+    let imageSrc = src || source
+
+    console.log("**** Image source:", imageSrc);
+    imageSrc = convertUploadcareUrlToLocal(imageSrc);
+    console.log("**** After Image source:", imageSrc);
 
     if (background) {
       let style = {}
