@@ -3,10 +3,10 @@ template: SingleCaseStudy
 title: Kalina, Aus
 cruiseType: Birthday Parties
 date: 2018-09-02T11:16:05.312Z
-featuredImage: /uploads/31a7aa07-a5d6-4770-b6ed-76722e00142a.png-/crop/1080x1057/0,0/-/preview/
+featuredImage: /uploads/31a7aa07-a5d6-4770-b6ed-76722e00142a.png
 videoSection:
   title: ""
-secondaryImage: /uploads/895beb20-2dd8-4c6a-bfee-86077e041072.png-/crop/1081x1080/183,0/-/preview/
+secondaryImage: /uploads/895beb20-2dd8-4c6a-bfee-86077e041072.png
 excerpt: “I engaged services of Sailing in Paradise for my boyfriend's surprise
   40th Birthday Party. The Sailing in Paradise team and crew were extremely
   helpful and accommodating for all our needs. They assisted us with organising
@@ -24,10 +24,10 @@ gallery:
   - image: /uploads/1f63faba-659b-4f51-a106-8f9f37541a54.png
   - image: /uploads/e11241dc-ef28-4c44-9794-46a99b577712.png
   - image: /uploads/ef4025c1-a8ec-4b4a-80a1-4bbfd3a78933.png
-  - image: /uploads/c308e6fe-2fa7-4b30-a8c6-785806dae90e.png-/crop/1080x1062/0,558/-/preview/
-  - image: /uploads/70cc3923-5570-4a7e-ae19-be70d653f0a4.png-/crop/1049x902/0,285/-/preview/
-  - image: /uploads/341063f7-e334-4c7c-a803-b4b9f716bbcf.png-/preview/-/enhance/68/
-  - image: /uploads/c0dd692e-3316-4d41-a78e-a6c27d321bed.png-/crop/1021x1162/0,164/-/preview/
+  - image: /uploads/c308e6fe-2fa7-4b30-a8c6-785806dae90e.png
+  - image: /uploads/70cc3923-5570-4a7e-ae19-be70d653f0a4.png
+  - image: /uploads/341063f7-e334-4c7c-a803-b4b9f716bbcf.png
+  - image: /uploads/c0dd692e-3316-4d41-a78e-a6c27d321bed.png
   - {}
 meta:
   description: We love surprise birthdays! Kalina organized an afternoon private

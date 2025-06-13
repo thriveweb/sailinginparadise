@@ -14,9 +14,9 @@ excerpt: '"This cruise was a great way to spend the afternoon taking in the
 gallery:
   - image: /uploads/b6baef0f-9c92-4496-a3f6-67d618cbb340.png
   - image: /uploads/12eb622b-d3c3-4534-ae98-2ca818e42dca.png
-  - image: /uploads/ba3fb2a1-9683-4c00-84e3-8340db897d1c.png-/crop/609x672/0,124/-/preview/
+  - image: /uploads/ba3fb2a1-9683-4c00-84e3-8340db897d1c.png
   - image: /uploads/9faa94ae-b493-4b65-a9d0-782614a7f460.png
-  - image: /uploads/f92a881d-1855-47bb-9358-5ece6376dee7.png-/crop/1021x1260/0,120/-/preview/
+  - image: /uploads/f92a881d-1855-47bb-9358-5ece6376dee7.png
   - image: /uploads/94e489f6-574b-4304-9315-89049705fd7e.png
   - image: /uploads/c8e1bfcc-0161-47f4-9214-d7a38b454d02.png
   - image: /uploads/523c9cf0-2f46-4289-a5c1-7c838a781e06.png

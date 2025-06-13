@@ -7,7 +7,7 @@ featuredImage: '/uploads/dad04ddf-9033-44d3-8027-ca6677d15e66.png'
 videoSection:
   title: ''
 secondaryImage: >-
-  /uploads/67fb9678-c22b-46b5-8b8f-a292ee9b2149.png-/preview/-/enhance/20/
+  /uploads/67fb9678-c22b-46b5-8b8f-a292ee9b2149.png
 excerpt: >-
   “Amazing scenery, very comfortable boat and really friendly professional
   staff, we had a fantastic time and the crew made it a very memorable occasion.
@@ -18,7 +18,7 @@ gallery:
   - image: '/uploads/7c8738cf-d336-4d35-9cd0-8dc7fa717cbb.png'
   - image: '/uploads/868a7f0b-e787-47ff-b69b-54a491f4140a.png'
   - image: >-
-      /uploads/de5d4004-81a1-4598-ac72-b01f9b17d994.png-/crop/1068x1170/0,168/-/preview/
+      /uploads/de5d4004-81a1-4598-ac72-b01f9b17d994.png
   - image: '/uploads/40820097-d49d-4734-8ea5-4d7430d03b05.png'
   - image: '/uploads/13e873fc-c772-4d94-ae49-ffb7437bb584.png'
   - image: '/uploads/c89ff3be-d253-4b6f-a4ca-52400caf6b26.png'

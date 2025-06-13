@@ -4,11 +4,11 @@ title: 'Wyndham Vacations, Aus'
 cruiseType: Corporate Events
 date: 2018-10-18T11:52:01.515Z
 featuredImage: >-
-  /uploads/81bae4a9-51de-40e6-9ad8-8e7023e724fb.png-/preview/-/enhance/60/
+  /uploads/81bae4a9-51de-40e6-9ad8-8e7023e724fb.png
 videoSection:
   title: ''
 secondaryImage: >-
-  /uploads/3889b615-21fb-44ee-82fc-1d3de1bf0e51.png-/crop/1080x1367/0,253/-/preview/-/enhance/57/
+  /uploads/3889b615-21fb-44ee-82fc-1d3de1bf0e51.png
 excerpt: >-
   Wyndham Vacations – “We had THE BEST time on the boat. The crew on board were
   fantastic, very cosy, relaxing, good food and drinks and picture-perfect
@@ -23,8 +23,8 @@ gallery:
   - image: '/uploads/bfea22de-7cad-4d1b-8b48-5b613b67c552.png'
   - image: '/uploads/15887f08-7e45-454d-8879-6913af229d4f.png'
   - image: >-
-      /uploads/fc89fb7b-36a4-45d6-97ac-63862daea61d.png-/crop/1080x987/0,0/-/preview/
+      /uploads/fc89fb7b-36a4-45d6-97ac-63862daea61d.png
   - image: >-
-      /uploads/869ae824-3b8f-4edc-8508-2b7b8993f4b7.png-/crop/1080x810/0,675/-/preview/
+      /uploads/869ae824-3b8f-4edc-8508-2b7b8993f4b7.png
 ---
 Our private charters are ideal for planning corporate events with a difference!  We were delighted to host Wyndham’s corporate team build event with gourmet food from a private chef and beach activities! It was a relaxing and enjoyable day out with their colleagues, one they will remember for years to come!

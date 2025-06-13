@@ -7,7 +7,7 @@ featuredImage: '/uploads/fd23a35e-d2bb-417a-bbc3-5ee59e2252bd.png'
 videoSection:
   title: ''
 secondaryImage: >-
-  /uploads/864bbdb0-c9c9-4fbb-9854-0cec36f596ee.png-/crop/904x1000/0,250/-/preview/
+  /uploads/864bbdb0-c9c9-4fbb-9854-0cec36f596ee.png
 excerpt: >-
   Jasmine – “Highly recommend this company to everyone. We had our Xmas party on
   the 20-person catamaran, and it was even better than expected! So,
@@ -15,18 +15,18 @@ excerpt: >-
   group all day. Will definitely be booking again - thank you!” Facebook review
 gallery:
   - image: >-
-      /uploads/99d8ed89-e777-4546-b0aa-bf94dcef57d7.png-/preview/-/enhance/50/
+      /uploads/99d8ed89-e777-4546-b0aa-bf94dcef57d7.png
   - image: >-
-      /uploads/47c88ed6-1e2c-4372-8fe7-6469ec5c49e5.png-/preview/-/enhance/50/
+      /uploads/47c88ed6-1e2c-4372-8fe7-6469ec5c49e5.png
   - image: >-
-      /uploads/fcec8996-fc7d-4a1f-abb2-efc91abc69d1.png-/crop/1080x968/0,253/-/preview/-/enhance/21/
+      /uploads/fcec8996-fc7d-4a1f-abb2-efc91abc69d1.png
   - image: '/uploads/5e6c24be-b75b-4665-a732-45c6d9ac3408.png'
   - image: >-
-      /uploads/487ea2e7-dc4d-44a1-ace3-952a25618678.png-/crop/904x927/0,215/-/preview/-/enhance/15/
+      /uploads/487ea2e7-dc4d-44a1-ace3-952a25618678.png
   - image: >-
-      /uploads/8a103d7f-8230-4d26-9389-e6e509fb012a.png-/crop/1080x990/0,77/-/preview/-/enhance/13/
+      /uploads/8a103d7f-8230-4d26-9389-e6e509fb012a.png
   - image: >-
-      /uploads/19197af7-347a-4227-8a1c-b856358f7356.png-/crop/1579x1019/0,34/-/preview/-/enhance/42/
+      /uploads/19197af7-347a-4227-8a1c-b856358f7356.png
   - image: '/uploads/e3173c57-349b-4975-8029-5f534585f569.png'
   - image: '/uploads/ffa7c9e1-a4a1-49f8-92d6-52e45fd0e9e9.png'
 ---

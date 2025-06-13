@@ -3,7 +3,7 @@ template: SingleCaseStudy
 title: Tim, Aus
 cruiseType: Family Gatherings
 date: 2018-04-22T09:24:01.247Z
-featuredImage: /uploads/5c5c1a66-a4bc-4ab2-a0af-df24681e5c07.png-/crop/1248x931/138,0/-/preview/
+featuredImage: /uploads/5c5c1a66-a4bc-4ab2-a0af-df24681e5c07.png
 videoSection:
   title: ""
 secondaryImage: /uploads/56cc7685-a6c9-4989-920a-57780b2b0551.png
@@ -22,7 +22,7 @@ gallery:
   - image: /uploads/7038e3bc-859b-48c4-af89-6d331bbcddaf.png
   - image: /uploads/bc248aff-3ec6-47c3-9be6-f0affb6cfa28.png
   - image: /uploads/2470699a-62c1-497f-bb81-a453b113e138.png
-  - image: /uploads/385eb367-5ad4-48ca-b79f-3f53991fee68.png-/crop/1005x1075/0,276/-/preview/
+  - image: /uploads/385eb367-5ad4-48ca-b79f-3f53991fee68.png
 meta:
   description: Tim organized a private charter for a post-wedding experience for
     the whole family. Private charters can be a great idea for an unforgettable

@@ -4,7 +4,7 @@ title: 'Arnze, Aus'
 cruiseType: Private Charters
 date: 2018-12-31T14:00:00.000Z
 featuredImage: >-
-  /uploads/5320f37f-492b-491e-8cbd-2da5c59e2d2e.png-/crop/517x557/448,342/-/preview/
+  /uploads/5320f37f-492b-491e-8cbd-2da5c59e2d2e.png
 videoSection:
   title: ''
 secondaryImage: '/uploads/9597fdc7-761e-44cb-8ca2-b0f41f2d31c6.png'
@@ -21,7 +21,7 @@ gallery:
   - image: '/uploads/c5b7668e-850c-452c-b224-821505c1f19e.png'
   - image: '/uploads/53208f15-4805-419f-b8a1-fd2c2c66a2b8.png'
   - image: >-
-      /uploads/4211f374-bdbe-4fdb-b0db-34905eb14238.png-/crop/1080x1044/0,264/-/preview/
+      /uploads/4211f374-bdbe-4fdb-b0db-34905eb14238.png
   - image: '/uploads/db65cef6-d19a-4414-91f3-4df24842d2cb.png'
   - image: '/uploads/55cf0c56-6a50-48f2-9f0a-a5b159da9a69.png'
 ---

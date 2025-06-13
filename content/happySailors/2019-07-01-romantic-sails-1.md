@@ -6,7 +6,7 @@ date: 2018-05-18T09:17:55.239Z
 featuredImage: /uploads/de397cd4-4e39-4ed3-948f-dc0a0e879de7.png
 videoSection:
   title: ""
-secondaryImage: /uploads/19c84fbb-e32b-4527-8cc8-7818bd4e5f36.png-/crop/1308x1041/253,0/-/preview/
+secondaryImage: /uploads/19c84fbb-e32b-4527-8cc8-7818bd4e5f36.png
 excerpt: “Mark and I had such an amazing day - thank you! Mark really enjoyed
   Steve’s sailing tips and the experience. Chanelle did a beautiful job with our
   photos, some lovely keepsakes here. The whole day was very memorable for us
@@ -18,8 +18,8 @@ gallery:
   - image: /uploads/e181a645-178c-440a-9398-1836ac685408.png
   - image: /uploads/e05ec3fe-ce1d-4e5b-8d86-f483d8cc51aa.png
   - image: /uploads/5c266b9b-ce98-4777-8473-e04163348e6e.png
-  - image: /uploads/b9af392e-f38f-47f3-8f29-7218da07874e.png-/crop/766x728/0,0/-/preview/
-  - image: /uploads/58afeb7f-3d39-4bac-912d-b31fcdddf020.png-/crop/1080x1081/0,100/-/preview/
+  - image: /uploads/b9af392e-f38f-47f3-8f29-7218da07874e.png
+  - image: /uploads/58afeb7f-3d39-4bac-912d-b31fcdddf020.png
 meta:
   description: Taryn knew how much her partner Mark was interested in sailing and
     loved being out on the water, so she organized a private afternoon couples

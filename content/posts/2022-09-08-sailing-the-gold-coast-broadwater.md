@@ -3,7 +3,7 @@ template: SinglePost
 title: Sailing the Gold Coast Broadwater
 status: Published
 date: 2022-08-01T11:05:40.114Z
-featuredImage: /uploads/bfac3452-8f6e-4906-a759-830253d353ce.png-/crop/1440x703/0,116/-/preview/
+featuredImage: /uploads/bfac3452-8f6e-4906-a759-830253d353ce.png
 videoSection:
   title: ""
   video: https://vimeo.com/350091800

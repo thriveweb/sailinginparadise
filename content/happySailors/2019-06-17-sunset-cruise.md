@@ -21,7 +21,7 @@ gallery:
   - image: '/uploads/52c4c72e-85e2-45c6-a139-b9cf839decd1.png'
   - image: '/uploads/fd7c4e22-45b4-4f38-904a-9f4ce34a1e52.png'
   - image: >-
-      /uploads/4ebf741d-4e0a-4e47-a981-143da9abec15.png-/crop/1080x1210/0,170/-/preview/
+      /uploads/4ebf741d-4e0a-4e47-a981-143da9abec15.png
   - {}
 secondaryBanner:
   buttonTitle: Take me back

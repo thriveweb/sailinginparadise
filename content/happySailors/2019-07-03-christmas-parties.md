@@ -13,17 +13,17 @@ excerpt: >-
   recommended.” Facebook review
 gallery:
   - image: >-
-      /uploads/855dac7e-cee9-4b9e-93bb-d698f417c6b1.png-/crop/4032x2891/0,0/-/preview/
+      /uploads/855dac7e-cee9-4b9e-93bb-d698f417c6b1.png
   - image: '/uploads/e7aed882-f0ef-41b8-9bb1-ec47ae1254f8.png'
   - image: >-
-      /uploads/a3f40b00-a78f-4e56-8de0-0d2935f83710.png-/crop/1068x1530/0,0/-/preview/
+      /uploads/a3f40b00-a78f-4e56-8de0-0d2935f83710.png
   - image: >-
-      /uploads/3ec4960e-8e88-468a-bf4e-bf72229ca689.png-/preview/-/enhance/50/
+      /uploads/3ec4960e-8e88-468a-bf4e-bf72229ca689.png
   - image: '/uploads/314e08ab-037d-420b-afe5-9193b1d74a6e.png'
   - image: '/uploads/09990220-b38c-47ed-b983-0176e801c74f.png'
   - image: >-
-      /uploads/81116f71-9d48-46b2-9b29-118b2da5e463.png-/crop/3024x2058/0,681/-/preview/
+      /uploads/81116f71-9d48-46b2-9b29-118b2da5e463.png
   - image: >-
-      /uploads/222e412b-710d-4984-8b8a-91b7182f2253.png-/preview/-/enhance/50/
+      /uploads/222e412b-710d-4984-8b8a-91b7182f2253.png
 ---
 RVCA organized a sunset cruise private charter to celebrate their Christmas party in a unique and unforgettable way. The sunset charters are a great way to get the night started, especially if your group will be hitting the town afterwards to continue the celebrations! Organized catering is also a great option for easy planning and not having to worry about what to bring and pack up at the end.

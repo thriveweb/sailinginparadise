@@ -4,7 +4,7 @@ slug: happy-sailors
 title: Happy Sailors
 subtitle: Real Guest Testimonials
 featuredImage: >-
-  /uploads/30c57345-35c9-4e40-888f-cfdd25a63656.png-/crop/6000x2444/0,0/-/preview/
+  /uploads/30c57345-35c9-4e40-888f-cfdd25a63656.png
 meta:
   description: Real Guest Testimonials
   title: Happy Sailors | Sailing In Paradise

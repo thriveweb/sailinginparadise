@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Raft Up Events
 icon: ""
-featuredImage: /uploads/3d73b4df-6fdb-4c3e-b279-21617e63a30e.png-/preview/-/enhance/50/
+featuredImage: /uploads/3d73b4df-6fdb-4c3e-b279-21617e63a30e.png
 intro: >-
   ## gold coast 'Raft Up' yacht party
 
@@ -23,18 +23,18 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Let us help create the ultimate Boat Party Experience
 gallery:
-  - image: /uploads/0b3086b7-73e5-41c7-ad22-aa099e8740c8.png-/preview/-/enhance/34/
-  - image: /uploads/301d05e1-5b8f-4b20-a245-ddbb65f66ffc.png-/preview/-/enhance/22/
-  - image: /uploads/8269e9c3-5dda-4d79-9ec5-aec998890462.png-/preview/-/enhance/27/
-  - image: /uploads/036d1619-4e39-4c8e-bb1e-d68d976539a9.png-/preview/-/enhance/50/
-  - image: /uploads/9d66b331-785b-4949-adc6-c67235a078cf.png-/preview/-/enhance/39/
-  - image: /uploads/9a61198a-b6f2-4b45-aac2-1290bbe198c1.png-/preview/-/enhance/50/
-  - image: /uploads/c561ab1d-b71c-4c40-b093-84d97d780127.png-/preview/-/enhance/50/
-  - image: /uploads/96703631-634c-44bc-a788-9bfd2d9d0a68.png-/preview/-/enhance/18/
-  - image: /uploads/8cda1bd0-35ce-4672-814f-ef5cc7ecd0c4.png-/preview/-/enhance/50/
-  - image: /uploads/4eb7fbf3-1c39-499b-9e98-2ddd90b7c6bb.png-/preview/-/enhance/36/
-  - image: /uploads/116bb6b8-a92f-4653-a650-a4012fec072d.png-/preview/-/enhance/50/
-  - image: /uploads/9fe38623-d1be-4a6f-a712-6562c6d84c84.png-/preview/-/enhance/27/
+  - image: /uploads/0b3086b7-73e5-41c7-ad22-aa099e8740c8.png
+  - image: /uploads/301d05e1-5b8f-4b20-a245-ddbb65f66ffc.png
+  - image: /uploads/8269e9c3-5dda-4d79-9ec5-aec998890462.png
+  - image: /uploads/036d1619-4e39-4c8e-bb1e-d68d976539a9.png
+  - image: /uploads/9d66b331-785b-4949-adc6-c67235a078cf.png
+  - image: /uploads/9a61198a-b6f2-4b45-aac2-1290bbe198c1.png
+  - image: /uploads/c561ab1d-b71c-4c40-b093-84d97d780127.png
+  - image: /uploads/96703631-634c-44bc-a788-9bfd2d9d0a68.png
+  - image: /uploads/8cda1bd0-35ce-4672-814f-ef5cc7ecd0c4.png
+  - image: /uploads/4eb7fbf3-1c39-499b-9e98-2ddd90b7c6bb.png
+  - image: /uploads/116bb6b8-a92f-4653-a650-a4012fec072d.png
+  - image: /uploads/9fe38623-d1be-4a6f-a712-6562c6d84c84.png
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ""

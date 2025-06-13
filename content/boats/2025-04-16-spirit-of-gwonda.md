@@ -2,7 +2,7 @@
 template: SingleBoat
 title: Spirit Of Gwonda
 date: 20025-04-29
-featuredImage: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png-/crop/2566x2704/1039,0/-/preview/
+featuredImage: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png
 description: >+
   Our original vessel, the ‘Spirit Of Gwonda’ a Seawind 1050 Resort sailing
   catamaran which has been purpose built for entertaining and day cruises

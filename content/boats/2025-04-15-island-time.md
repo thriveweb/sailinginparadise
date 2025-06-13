@@ -75,7 +75,7 @@ columnsSection:
     leftColumn: >-
       
 
-      ![](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png-/crop/4328x3034/176,609/-/preview/ "Sailing boat charter gold coast")
+      ![](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat charter gold coast")
 videoSectionOptional:
   title: Take a video tour of Island Time
   imageOverlay: /uploads/18bdc2f6-fe59-4c00-9f80-75d0a2a90064.png

@@ -86,7 +86,7 @@ crewSection:
         background in 6-star hospitality and amazing skill behind the camera you
         will be well looked after by Chanelle either on board the boat or in the
         office.
-      image: /uploads/839ed449-4aaf-4f18-a320-15bd026be749.png-/crop/748x586/0,32/-/preview/
+      image: /uploads/839ed449-4aaf-4f18-a320-15bd026be749.png
       name: "Chanelle "
       title: Cruise Hostess/Guest Relations
     - content: >-
@@ -96,10 +96,10 @@ crewSection:
 
 
         Dan has a passion for the sea and when he's not out sailing, he can be found wakeboarding or jet skiing. You'll be sure to have a great day out with Daniel, "the captain of your hearts"!
-      image: /uploads/27d8e87d-23c3-4176-8ef2-9eb88a5affd0.png-/preview/-/enhance/50/
+      image: /uploads/27d8e87d-23c3-4176-8ef2-9eb88a5affd0.png
       name: Daniel
       title: Skipper
-    - image: /uploads/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc.png-/crop/750x898/0,48/-/preview/-/enhance/21/
+    - image: /uploads/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc.png
       name: "Megan "
       title: Cruise Hostess
       content: Megan is always smiling when out on the water and will be sure to make
@@ -114,7 +114,7 @@ crewSection:
         As a self-professed ocean nerd, Jemma will happily talk to you all about
         the local marine life… and she’s always ready to bust a move with our
         guests if the music is right!
-    - image: /uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png-/crop/2052x1420/158,0/-/preview/
+    - image: /uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png
       name: Deon
       title: Skipper
       content: Deon has a love for the outdoors and 15 years experience in the marine
@@ -122,7 +122,7 @@ crewSection:
         Deon can usually be found hanging out with his dolphin friends and
         caring for our marine environment by rescuing trapped whales and injured
         marine life...  Go Deon!!
-    - image: /uploads/002819f5-2b26-41ac-94b6-e5be7698a290.png-/crop/1815x2295/0,729/-/preview/
+    - image: /uploads/002819f5-2b26-41ac-94b6-e5be7698a290.png
       name: Chelsey
       title: Cruise Hostess
       content: >-
@@ -143,7 +143,7 @@ crewSection:
         skills will ensure you have a seamless booking and charter experience. 
          Feel free to reach out to Mady if you have any questions about booking
         a charter with Sailing in Paradise!
-      image: /uploads/564f4f0d-032b-449b-9436-b176e6a87897.png-/crop/2287x1732/22,0/-/preview/
+      image: /uploads/564f4f0d-032b-449b-9436-b176e6a87897.png
   crewIntro: "## Our Crew
 
 

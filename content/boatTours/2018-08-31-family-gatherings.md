@@ -22,22 +22,22 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/cc700503-a014-4961-8580-a33dd56ee748.png-/preview/-/enhance/50/
-  - image: /uploads/72c2badc-b77b-4a3a-b0b0-fc851cbe5e3c.png-/preview/-/enhance/50/
-  - image: /uploads/4f63cc38-65c9-4bad-830a-cf3b9c413c46.png-/preview/-/enhance/12/
-  - image: /uploads/e45f243c-9b3a-4c40-b615-b6946b170f50.png-/preview/-/enhance/50/
+  - image: /uploads/cc700503-a014-4961-8580-a33dd56ee748.png
+  - image: /uploads/72c2badc-b77b-4a3a-b0b0-fc851cbe5e3c.png
+  - image: /uploads/4f63cc38-65c9-4bad-830a-cf3b9c413c46.png
+  - image: /uploads/e45f243c-9b3a-4c40-b615-b6946b170f50.png
   - image: /uploads/6e743e38-355a-4605-b57c-2c1ccbc18af3.png
-  - image: /uploads/8ae177a1-3c5d-4cad-ba6b-6a1684a2eef7.png-/preview/-/enhance/50/
-  - image: /uploads/019825e9-7bc2-4c67-86b5-3b1f66ccfed9.png-/preview/-/enhance/50/
-  - image: /uploads/ef6a2325-de53-4007-a712-e1502b95d129.png-/preview/-/enhance/17/
-  - image: /uploads/7f0e5b62-2441-42f3-8f67-2ee94243a8d1.png-/preview/-/enhance/50/
-  - image: /uploads/06df8116-079f-4783-bb10-7a53a1f2314a.png-/preview/-/enhance/38/
-  - image: /uploads/89f6bee2-0aba-4346-a67b-c2a90a5bc8d2.png-/preview/-/enhance/68/
-  - image: /uploads/968255bb-4f73-480d-8766-99321f2ca627.png-/preview/-/enhance/50/
-  - image: /uploads/5a181ef4-94b4-4f14-9b4e-8b7c80410505.png-/preview/-/enhance/100/
-  - image: /uploads/17cd8650-040f-4cab-adfb-2aefe148c5f8.png-/preview/-/enhance/21/
-  - image: /uploads/567a2a33-8028-455c-8bc5-407925a6a45b.png-/preview/-/enhance/36/
-  - image: /uploads/92089020-50ec-4dac-b3eb-dd96db1cc273.png-/preview/-/enhance/50/
+  - image: /uploads/8ae177a1-3c5d-4cad-ba6b-6a1684a2eef7.png
+  - image: /uploads/019825e9-7bc2-4c67-86b5-3b1f66ccfed9.png
+  - image: /uploads/ef6a2325-de53-4007-a712-e1502b95d129.png
+  - image: /uploads/7f0e5b62-2441-42f3-8f67-2ee94243a8d1.png
+  - image: /uploads/06df8116-079f-4783-bb10-7a53a1f2314a.png
+  - image: /uploads/89f6bee2-0aba-4346-a67b-c2a90a5bc8d2.png
+  - image: /uploads/968255bb-4f73-480d-8766-99321f2ca627.png
+  - image: /uploads/5a181ef4-94b4-4f14-9b4e-8b7c80410505.png
+  - image: /uploads/17cd8650-040f-4cab-adfb-2aefe148c5f8.png
+  - image: /uploads/567a2a33-8028-455c-8bc5-407925a6a45b.png
+  - image: /uploads/92089020-50ec-4dac-b3eb-dd96db1cc273.png
 videoSection:
   imageOverlay: /uploads/5896d6be-d370-4425-8754-380e95e581d5.png
   video: "493602940"

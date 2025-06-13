@@ -3,12 +3,12 @@ template: SingleCaseStudy
 title: Tahlia, Aus
 cruiseType: Birthday Party
 date: ""
-featuredImage: /uploads/a6993c65-b26c-40a8-bf85-6d08a0cc982c.png-/crop/1012x784/68,154/-/preview/
+featuredImage: /uploads/a6993c65-b26c-40a8-bf85-6d08a0cc982c.png
 videoSection:
   imageOverlay: /uploads/fd046926-f6a5-4353-9617-641ac157b744.png
   title: ""
   video: ""
-secondaryImage: /uploads/95f30356-5abe-44f3-8e6e-e2517ad5caa7.png-/crop/4000x3822/0,667/-/preview/
+secondaryImage: /uploads/95f30356-5abe-44f3-8e6e-e2517ad5caa7.png
 excerpt: "Tahlia - The whole day was amazing. The staff were absolutely
   exceptional and made my mum's birthday run so smoothly, they both had
   professional yet very warm & calming attitudes. And every single person who

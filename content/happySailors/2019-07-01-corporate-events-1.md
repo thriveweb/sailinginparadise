@@ -3,7 +3,7 @@ template: SingleCaseStudy
 title: 'SIMPRO, Aus'
 cruiseType: Corporate Events
 date: 2018-11-23T12:00:45.085Z
-featuredImage: '/uploads/691af594-89f2-4027-abe7-e78fe042fb7b.png-/preview/'
+featuredImage: '/uploads/691af594-89f2-4027-abe7-e78fe042fb7b.png'
 videoSection:
   title: ''
 secondaryImage: '/uploads/349896a2-de1e-40cb-97c9-35dff33a14a6.png'
@@ -20,7 +20,7 @@ gallery:
   - image: '/uploads/71064c6d-6232-4bd6-8596-9bd3bb339719.png'
   - image: '/uploads/fb90f390-c4c9-4ab0-b3a6-0048416f6ccb.png'
   - image: >-
-      /uploads/6e05ea7a-2182-4ab0-a98f-a028b18dfe62.png-/crop/1069x867/3,203/-/preview/-/enhance/58/
+      /uploads/6e05ea7a-2182-4ab0-a98f-a028b18dfe62.png
   - image: '/uploads/131b75be-b653-46fd-8147-7c4199783eb4.png'
   - image: '/uploads/279d2c78-458f-4f67-b869-4cb0c7057a41.png'
 ---

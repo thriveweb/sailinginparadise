@@ -21,12 +21,12 @@ gallery:
   - image: '/uploads/30e5432e-e359-45a8-a012-cb5f39be55b1.png'
   - image: '/uploads/6511f5fe-8274-4ce7-8016-a61c4e661086.png'
   - image: >-
-      /uploads/658bb075-3519-45e3-b4bd-ef62ddefb3fe.png-/crop/1067x1293/0,191/-/preview/
+      /uploads/658bb075-3519-45e3-b4bd-ef62ddefb3fe.png
   - image: '/uploads/26da2212-76b4-4d66-8a8a-27ca2a146307.png'
   - image: >-
-      /uploads/d152eaed-a4b2-46c8-98f1-5e91dbe1653c.png-/crop/1049x1431/0,0/-/preview/
+      /uploads/d152eaed-a4b2-46c8-98f1-5e91dbe1653c.png
   - image: '/uploads/28e2bd21-c1c0-4601-98f9-274aef6b0f87.png'
   - image: >-
-      /uploads/03f10bc7-43dd-447e-9262-79251ae021f4.png-/crop/944x1335/0,0/-/preview/
+      /uploads/03f10bc7-43dd-447e-9262-79251ae021f4.png
 ---
 Whether you are young or young-at-heart, a local or visitor, flying solo or coming as a group…our Island Cruise is perfect for all types of people who desire for that Island experience!

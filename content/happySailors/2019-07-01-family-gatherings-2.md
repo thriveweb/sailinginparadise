@@ -4,7 +4,7 @@ title: 'Lydia, Aus'
 cruiseType: Family Gatherings
 date: 2018-06-22T10:50:23.005Z
 featuredImage: >-
-  /uploads/64408ba3-e829-48fa-95b1-9016f1d4d366.png-/crop/1201x894/63,0/-/preview/
+  /uploads/64408ba3-e829-48fa-95b1-9016f1d4d366.png
 videoSection:
   title: ''
 secondaryImage: '/uploads/df83000e-b09e-4cb5-894d-21ba44062f30.png'

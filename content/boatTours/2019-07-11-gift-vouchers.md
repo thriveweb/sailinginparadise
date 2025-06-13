@@ -2,7 +2,7 @@
 template: SingleBoatTour
 tourType: Cruise
 title: Private Charter Gift Vouchers
-featuredImage: /uploads/8aa4b228-3203-4d36-943d-93f34ab5f785.png-/crop/1333x738/0,571/-/preview/
+featuredImage: /uploads/8aa4b228-3203-4d36-943d-93f34ab5f785.png
 intro: >-
   Give the gift of a beautiful memory to that special someone or couple.   A
   private 2 hour sunset sail for two aboard a luxurious sailing catamaran.  

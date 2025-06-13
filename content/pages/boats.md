@@ -10,7 +10,7 @@ boats:
       videoURL: https://tour.panoee.com/IslandTime
       imageOverlay: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.png
     title: "Island Time "
-    featuredImage: /uploads/bd7c8762-ee23-468c-b7fc-2ee0722ea36a.png-/crop/3158x3108/1212,795/-/preview/
+    featuredImage: /uploads/bd7c8762-ee23-468c-b7fc-2ee0722ea36a.png
     boatListingFeatures:
       - content: New Vessel
       - content: Suitable for up to 42 guests
@@ -106,13 +106,13 @@ boats:
       - content: Sound System
     gallery:
       - image: /uploads/771916aa-1471-4f2a-b6fd-d6f0207cdcf4.png
-      - image: /uploads/987ab6b6-b626-4996-8df6-0fd15ffdd0a3.png-/preview/-/enhance/28/
-      - image: /uploads/50f425d0-4c4e-4ef9-b6a7-f210d274f574.png-/preview/-/enhance/14/
-      - image: /uploads/6e5a4b1d-64e6-404f-8177-b052f1dbae8b.png-/crop/1000x569/0,98/-/preview/
+      - image: /uploads/987ab6b6-b626-4996-8df6-0fd15ffdd0a3.png
+      - image: /uploads/50f425d0-4c4e-4ef9-b6a7-f210d274f574.png
+      - image: /uploads/6e5a4b1d-64e6-404f-8177-b052f1dbae8b.png
       - image: /uploads/798562c0-188d-42ea-8e4a-fd9267b4eb9c.png
       - image: /uploads/0e3170b2-7d7d-4605-94ba-8744f1d458d9.png
       - image: /uploads/c92a9b14-1df3-4135-9c14-e313b734264b.png
-      - image: /uploads/dfeee078-1196-4eb9-8ad7-be4f3e9f805a.png-/crop/1120x1126/0,284/-/preview/
+      - image: /uploads/dfeee078-1196-4eb9-8ad7-be4f3e9f805a.png
       - image: /uploads/12879a49-dd42-49fa-85cb-a9db8521d7a3.png
   - boatFeatures:
       - content: 10.5m long x 6.5m wide
@@ -151,7 +151,7 @@ boats:
       - image: /uploads/b4693d47-05c4-4b1c-a1ff-877201630d9d.png
       - image: /uploads/59d77f90-6e9c-4b0e-b0b0-cbfca99ac273.png
     title: spirit Of Gwonda
-    featuredImage: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png-/crop/2566x2704/1039,0/-/preview/
+    featuredImage: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png
     boatListingFeatures:
       - content: The O.G.
       - content: Suitable for up to 30 guests
@@ -163,7 +163,7 @@ boats:
 secondaryBanner:
   buttonTitle: Meet our Crew...
   buttonUrl: about-us
-  featuredImage: /uploads/427a43aa-1572-4c00-8f67-f2be6fced132.png-/crop/5211x2779/223,254/-/preview/
+  featuredImage: /uploads/427a43aa-1572-4c00-8f67-f2be6fced132.png
   subtitle: ""
   title: Climb Aboard and get to know us
 meta:

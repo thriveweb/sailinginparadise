@@ -4,7 +4,7 @@ title: 'Lowan, China '
 cruiseType: Family Gatherings
 date: 2018-02-09T10:56:50.192Z
 featuredImage: >-
-  /uploads/cc43f155-79b5-4660-948e-7f499819a066.png-/crop/1438x919/97,149/-/preview/
+  /uploads/cc43f155-79b5-4660-948e-7f499819a066.png
 videoSection:
   title: ''
 secondaryImage: '/uploads/b7832172-7d49-4661-bb1d-d2b53b79366e.png'

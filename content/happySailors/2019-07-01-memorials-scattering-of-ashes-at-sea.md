@@ -17,7 +17,7 @@ gallery:
   - image: /uploads/fbc6c1c8-6b07-491f-9002-456984a2cfaf.png
   - image: /uploads/e1cae903-af6b-4a3c-9f98-b3feee6ececf.png
   - image: /uploads/2bf80142-3dfa-4dd6-bd7b-b8a85617332d.png
-  - image: /uploads/2a6a0006-fc99-484b-9eb3-fe1de1468fce.png-/crop/996x642/0,0/-/preview/
+  - image: /uploads/2a6a0006-fc99-484b-9eb3-fe1de1468fce.png
   - image: /uploads/c0cdd18c-7991-4fd5-97fd-1ddc592e382f.png
   - image: /uploads/749d5bde-3023-4d56-8a6a-56dabace9a1f.png
 meta:

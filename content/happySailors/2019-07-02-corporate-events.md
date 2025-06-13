@@ -3,7 +3,7 @@ template: SingleCaseStudy
 title: "KOJO, Aus "
 cruiseType: Corporate Events
 date: 2018-03-21T01:51:21.580Z
-featuredImage: /uploads/b8a63f79-0abe-4035-8dca-9b3cfa9ef086.png-/crop/1063x861/0,83/-/preview/
+featuredImage: /uploads/b8a63f79-0abe-4035-8dca-9b3cfa9ef086.png
 videoSection:
   title: ""
 secondaryImage: /uploads/050a8916-1039-4af4-b08d-3071b3a878b4.png
@@ -19,7 +19,7 @@ gallery:
   - image: /uploads/3cafbaf9-ea6d-4c5f-94a4-482a4d70badf.png
   - image: /uploads/f6c7d1d9-1df7-4dc0-ab0a-060b6c2ef27b.png
   - image: /uploads/9e59ae04-1bb0-4c7a-a5c8-5b39c204ac51.png
-  - image: /uploads/2349576f-56d2-4e2b-8657-578a4a5efa89.png-/crop/1068x1231/0,369/-/preview/
+  - image: /uploads/2349576f-56d2-4e2b-8657-578a4a5efa89.png
   - image: /uploads/063d7e34-0393-4864-91ee-f25fde8bf46c.png
 meta:
   description: Sometimes planning corporate events can be time consuming and

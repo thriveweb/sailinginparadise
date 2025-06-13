@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Sightseeing
 icon: ""
-featuredImage: /uploads/ecd8d123-c8fc-4598-ad75-c149932f1916.png-/preview/-/enhance/88/
+featuredImage: /uploads/ecd8d123-c8fc-4598-ad75-c149932f1916.png
 intro: >-
   ## Gold Coast Sightseeing Cruise
 
@@ -24,23 +24,23 @@ contentBox:
   title: Let us tailor your VIP Gold Coast Sightseeing Experience
 bookingIframe: ""
 gallery:
-  - image: /uploads/5a75a58f-60be-4724-b30f-df677622d5a5.png-/preview/-/enhance/66/
-  - image: /uploads/605d50ba-a306-4eed-9f97-4022f4f68a8c.png-/preview/-/enhance/19/
-  - image: /uploads/c7b2283e-6409-416a-bdc8-71d57c61f740.png-/preview/-/enhance/50/
-  - image: /uploads/abc4dac6-6990-4ab3-a95e-ad848aa70e67.png-/preview/-/enhance/50/
-  - image: /uploads/aed6529f-bfe5-41c5-9545-8249a9f80f3e.png-/preview/-/enhance/37/
-  - image: /uploads/6019d2cf-d7ad-4be3-8f02-0651e64b07e8.png-/preview/-/enhance/22/
-  - image: /uploads/2e22db0e-12fd-492e-acd1-c59776b55c08.png-/preview/-/enhance/72/
-  - image: /uploads/7843557b-42ab-4875-b5ff-e3eeffe59ea6.png-/preview/-/enhance/32/
-  - image: /uploads/de7e3b0d-f553-4c3b-9117-7c2b6543304f.png-/preview/-/enhance/26/
-  - image: /uploads/d84189d5-3b3b-4cd3-87db-a9b593fc2110.png-/preview/-/enhance/50/
-  - image: /uploads/4ef51e44-e22f-4512-b89d-3622e7b7e23d.png-/preview/-/enhance/40/
-  - image: /uploads/3c6500ed-7157-458e-81be-fb9fca763a5d.png-/preview/-/enhance/34/
-  - image: /uploads/677479b2-70e1-43d1-abf4-d849984c95a8.png-/preview/-/enhance/25/
-  - image: /uploads/4735fe31-3c0c-4e7d-a7b2-d1b9c3ceaf2b.png-/preview/-/enhance/28/
-  - image: /uploads/2420a184-553a-478c-9c4a-3e2aa762885f.png-/preview/-/enhance/28/
-  - image: /uploads/f144c4b6-d624-406f-9713-019859fd5920.png-/preview/-/enhance/32/
-  - image: /uploads/8a6c3cc3-31f9-40f5-9c33-e52050bf035f.png-/preview/-/enhance/38/
+  - image: /uploads/5a75a58f-60be-4724-b30f-df677622d5a5.png
+  - image: /uploads/605d50ba-a306-4eed-9f97-4022f4f68a8c.png
+  - image: /uploads/c7b2283e-6409-416a-bdc8-71d57c61f740.png
+  - image: /uploads/abc4dac6-6990-4ab3-a95e-ad848aa70e67.png
+  - image: /uploads/aed6529f-bfe5-41c5-9545-8249a9f80f3e.png
+  - image: /uploads/6019d2cf-d7ad-4be3-8f02-0651e64b07e8.png
+  - image: /uploads/2e22db0e-12fd-492e-acd1-c59776b55c08.png
+  - image: /uploads/7843557b-42ab-4875-b5ff-e3eeffe59ea6.png
+  - image: /uploads/de7e3b0d-f553-4c3b-9117-7c2b6543304f.png
+  - image: /uploads/d84189d5-3b3b-4cd3-87db-a9b593fc2110.png
+  - image: /uploads/4ef51e44-e22f-4512-b89d-3622e7b7e23d.png
+  - image: /uploads/3c6500ed-7157-458e-81be-fb9fca763a5d.png
+  - image: /uploads/677479b2-70e1-43d1-abf4-d849984c95a8.png
+  - image: /uploads/4735fe31-3c0c-4e7d-a7b2-d1b9c3ceaf2b.png
+  - image: /uploads/2420a184-553a-478c-9c4a-3e2aa762885f.png
+  - image: /uploads/f144c4b6-d624-406f-9713-019859fd5920.png
+  - image: /uploads/8a6c3cc3-31f9-40f5-9c33-e52050bf035f.png
 videoSection:
   imageOverlay: ""
   video: ""

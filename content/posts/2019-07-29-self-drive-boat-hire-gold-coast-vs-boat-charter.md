@@ -23,7 +23,7 @@ Whether you are visiting the Gold Coast on holidays or a local to the area, the 
 
 For those with knowledge of the local waterways or previous boating experience a Self-Drive Boat hire can be a great way to explore the area on a budget. If you are unfamiliar with the area it may be beneficial to consider a skippered charter boat where you can relax and enjoy the experience in comfort without worrying about ending up stuck on one of the many sandbars.
 
-![](/uploads/657830d3-095e-455e-a7f2-c11daa57cf30.png-/preview/-/enhance/65/)
+![](/uploads/657830d3-095e-455e-a7f2-c11daa57cf30.png)
 
 **2. Do you want to enjoy a few drinks?**
 
@@ -33,13 +33,13 @@ If you are wanting to relax with a few beers or a glass of bubbly for your day o
 
 Self-Drive boat hire options on the Gold Coast are varied and include; half cabin boat hire, BBQ pontoon hire, and speedboat hire (with license). For smaller groups of under 10 or 12 guests you may be able to hire a small boat for self drive with no license. For larger groups you will find that most vessels require a skipper to drive for you anyway so then it becomes an option of comparing pricing and which boat you prefer. You might also consider a ticketed cruise (where you share with other guests) as a budget-friendly option.
 
-![](/uploads/2a2da761-2662-4938-81ae-7e3dd3e425e3.png-/preview/-/enhance/50/)
+![](/uploads/2a2da761-2662-4938-81ae-7e3dd3e425e3.png)
 
 **4. What style of boat do you prefer?**
 
 There are a variety of self-drive boat options on the Gold Coast from electric boats to donut shaped boats, BBQ pontoons to classic half-cabins. Skippered Boat charters offer a step-up in luxury with stunning sailing catamarans and motor cruisers available to host your day on the water in style. So take a look at some photos of the boat and see if you can picture yourself on board. In addition consider the facilities that you require on board including bathroom, eskies, BBQ etc to ensure you pick the correct vessel for your group.
 
-![](/uploads/a4935384-3c30-46c8-9e70-39da270b2a93.png-/preview/-/enhance/50/)
+![](/uploads/a4935384-3c30-46c8-9e70-39da270b2a93.png)
 
 ![](/uploads/7a9d3eb5-66c6-4e3a-ad71-906bcc948ebb.png)
 
@@ -47,7 +47,7 @@ There are a variety of self-drive boat options on the Gold Coast from electric b
 
 Due to the smaller size of most self-drive options you will find that you will need to look at a skippered boat hire to find one with any activities on board for your enjoyment. At Sailing in Paradise we carry Stand Up Paddleboards, Inflatables, Beach Volleyball, Beach Cricket, Buckets & Spades for the kids, snorkels and fishing rods on board which are available for the use of guests on our private charters or Island Cruises.
 
-![](/uploads/33354065-3cfd-4d44-bc55-2a63e14018a7.png-/preview/-/enhance/14/)
+![](/uploads/33354065-3cfd-4d44-bc55-2a63e14018a7.png)
 
 **6. Do you have children?**
 
@@ -69,7 +69,7 @@ Before choosing your perfect boat we recommend discussing with the operator your
 
 We also recommend discussing your preferred destination with skippered boat charter companies as some vessels cope better with certain itineraries.
 
-![](/uploads/4ebe0f17-2ad7-4cb4-b8ab-1d42f04425a0.png-/preview/-/enhance/22/)
+![](/uploads/4ebe0f17-2ad7-4cb4-b8ab-1d42f04425a0.png)
 
 **8. Would you like to see the sunset?**
 

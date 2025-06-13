@@ -42,8 +42,8 @@ contentSecondary: >-
   more enjoyable and stress-free experience.
 
 
-  ![](/uploads/127381af-3d70-4be0-9693-8f856da118fd.png "Wavebreak
-  Island Beach")
+  !["Wavebreak
+  Island Beach"](/uploads/127381af-3d70-4be0-9693-8f856da118fd.png)
 meta:
   description: >-
     Wave Break Island is a popular destination for boaties on the Gold Coast,

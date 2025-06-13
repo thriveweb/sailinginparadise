@@ -4,7 +4,7 @@ title: 'Robyn, Aus'
 cruiseType: Birthday Parties
 date: 2018-05-06T11:37:56.136Z
 featuredImage: >-
-  /uploads/21161362-d77f-4a31-a714-a5186b8595ce.png-/crop/1383x872/103,0/-/preview/
+  /uploads/21161362-d77f-4a31-a714-a5186b8595ce.png
 videoSection:
   title: ''
 secondaryImage: '/uploads/bd24029e-7b60-472b-8579-7e1cb407bec1.png'
