@@ -78,7 +78,7 @@ aboutSection:
   featuredImage: /uploads/ce557254-c4b7-4e72-8557-e604ceb1b190.png
   subtitle: Our Boats & Crew
   title: Meet Us
-highlightsIntro: <h2>Private Charter Highlights</h2>
+highlightsIntro: <h2>What's Included?</h2>
 highlights:
   - icon: /images/uploads/crew.svg
     title: Fun, friendly and professional crew
