@@ -21,6 +21,8 @@ export const HomePageTemplate = ({
   mobileVideo,
   buttonTitle,
   buttonUrl,
+  buttonSecondaryTitle,
+  buttonSecondaryUrl,  
   featuredSlider,
   featuredBanner,
   services,
@@ -49,6 +51,8 @@ export const HomePageTemplate = ({
         title={title}
         buttonTitle={buttonTitle}
         buttonUrl={buttonUrl}
+        buttonSecondaryTitle={buttonSecondaryTitle}
+        buttonSecondaryUrl={buttonSecondaryUrl}        
         posterImage={posterImage}
         featuredSlider={featuredSlider}
         featuredBanner={featuredBanner}
@@ -92,6 +96,8 @@ export const pageQuery = graphql`
         mobileVideo
         buttonTitle
         buttonUrl
+        buttonSecondaryTitle
+        buttonSecondaryUrl        
         featuredSlider {
           description
           title

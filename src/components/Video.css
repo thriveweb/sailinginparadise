@@ -195,6 +195,10 @@
   flex: 0 0 100%;  
 }
 
+.video-section .btnSecondary {
+  margin-left: 1rem;
+}
+
 /* Boats */
 
 .boat .video-section,

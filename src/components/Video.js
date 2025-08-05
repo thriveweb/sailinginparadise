@@ -39,6 +39,8 @@ class Video extends Component {
       title,
       buttonTitle,
       buttonUrl,
+      buttonSecondaryTitle,
+      buttonSecondaryUrl,      
       video,
       mobileVideo,
       posterImage,
@@ -64,6 +66,7 @@ class Video extends Component {
                 <h1 className="title-gradient" dangerouslySetInnerHTML={{ __html: title }}></h1>
                 <div className="buttonContainer">
                   <Button title={buttonTitle} url={buttonUrl} white />
+                  {buttonSecondaryTitle && <Button className={'btnSecondary'} title={buttonSecondaryTitle} url={buttonSecondaryUrl} white /> }
                 </div>
               </div>
             </div>

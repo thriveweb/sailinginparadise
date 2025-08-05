@@ -48,6 +48,18 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - {
+              label: Button Secondary Title,
+              name: buttonSecondaryTitle,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Button Secondary Url,
+              name: buttonSecondaryUrl,
+              widget: string,
+              required: false,
+            }
+          - {
               label: Poster Image,
               name: posterImage,
               widget: image,
