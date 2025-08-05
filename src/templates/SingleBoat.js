@@ -83,8 +83,7 @@ export const SingleBoatTemplate = ({
           <h4>{videoSectionOptional.title}</h4>
           <VideoPopup {...videoSectionOptional} />
         </div>
-      }
-      <Accordion accordionSection={accordionSection} />
+      }      
       {columnBanner && (
         <ColumnBanner
           columnBanner={columnBanner}
@@ -93,6 +92,7 @@ export const SingleBoatTemplate = ({
           bookingIframe={bookingIframe}
         />
       )}
+      <Accordion accordionSection={accordionSection} />
       <FeaturedTestimonial
         {...featuredTestimonials}
         caseStudies={caseStudies}

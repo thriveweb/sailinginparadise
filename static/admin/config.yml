@@ -1183,10 +1183,45 @@ collections: # A list of collections the CMS should be able to edit
           widget: markdown,
           required: false,
         }
+      - {
+          label: Booking Iframe,
+          name: bookingIframe,
+          widget: markdown,
+          required: false,
+        }
+      - label: 'Content Box'
+        required: false
+        name: 'contentBox'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Button Title,
+              name: buttonTitle,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Button Url,
+              name: buttonUrl,
+              widget: string,
+              required: false,
+            }      
       - label: 'Boat Features Intro' 
         required: false
         name: 'boatFeaturesIntro' 
         widget: 'string'
+      - label: 'Gallery'
+        required: false
+        name: 'gallery'
+        widget: 'list'
+        fields:
+          - {
+              label: Image,
+              name: image,
+              widget: image,
+              required: false,
+            }
       - label: 'Boat Listing Features'
         required: false
         name: 'boatListingFeatures'
@@ -1207,41 +1242,6 @@ collections: # A list of collections the CMS should be able to edit
               label: Content,
               name: content,
               widget: markdown,
-              required: false,
-            }
-      - label: 'Content Box'
-        required: false
-        name: 'contentBox'
-        widget: 'object'
-        fields:
-          - { label: Title, name: title, widget: string, required: false }
-          - {
-              label: Button Title,
-              name: buttonTitle,
-              widget: string,
-              required: false,
-            }
-          - {
-              label: Button Url,
-              name: buttonUrl,
-              widget: string,
-              required: false,
-            }
-      - {
-          label: Booking Iframe,
-          name: bookingIframe,
-          widget: markdown,
-          required: false,
-        }
-      - label: 'Gallery'
-        required: false
-        name: 'gallery'
-        widget: 'list'
-        fields:
-          - {
-              label: Image,
-              name: image,
-              widget: image,
               required: false,
             }
       - label: Video Section
@@ -1310,29 +1310,6 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
       
-      - label: Accordion Section
-        name: accordionSection
-        required: false
-        widget: 'object'
-        fields:
-          - {
-              label: Section Title,
-              name: sectionTitle,
-              widget: string,
-              required: false,
-            }
-          - label: Accordion
-            required: false
-            name: accordion
-            widget: list
-            fields:
-              - { label: Title, name: title, widget: string, required: false }
-              - {
-                  label: Dropdown Content,
-                  name: dropdownContent,
-                  widget: markdown,
-                  required: false,
-                }
       - label: 'Column Banner'
         name: 'columnBanner'
         required: false
@@ -1364,6 +1341,29 @@ collections: # A list of collections the CMS should be able to edit
               widget: markdown,
               required: false,
             }
+      - label: Accordion Section
+        name: accordionSection
+        required: false
+        widget: 'object'
+        fields:
+          - {
+              label: Section Title,
+              name: sectionTitle,
+              widget: string,
+              required: false,
+            }
+          - label: Accordion
+            required: false
+            name: accordion
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Dropdown Content,
+                  name: dropdownContent,
+                  widget: markdown,
+                  required: false,
+                }
       - label: 'Featured Testimonials'
         required: false
         name: 'featuredTestimonials'
@@ -1402,6 +1402,7 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
+  
   - name: boatTours
     label: Boat Tours
     editor:
