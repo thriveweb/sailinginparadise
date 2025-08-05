@@ -13,9 +13,31 @@ description: >-
 
 
   Book now and experience the most spacious and modern catamaran charter available in the region.
+bookingIframe: >-
+  <!--StartFragment-->
+
+
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/285987?iframe=true" style="">Check Availability and BOOK NOW</a>
+
+
+  <!--EndFragment-->
+contentBox:
+  buttonTitle: ""
+  buttonUrl: ""
+  title: ""
 boatFeaturesIntro: Optional intro section lorem ipsum dolor sit amet,
   consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
   dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+gallery:
+  - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.png
+  - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.png
+  - image: /uploads/c83f6f16-25c4-42f7-a968-3684267485cf.png
+  - image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.png
+  - image: /uploads/975d5213-c405-48eb-9bc6-d653304a9d5b.png
+  - image: /uploads/05568c86-c0de-4fe7-8230-33f0db7327dd.png
+  - image: /uploads/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9.png
+  - image: /uploads/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad.png
+  - image: /uploads/cbb8f5cc-402f-48e2-ac76-87e947dbd041.png
 boatListingFeatures:
   - content: New Vessel
   - content: Suitable for up to 42 guests
@@ -38,28 +60,6 @@ boatFeatures:
   - content: E﻿skies
   - content: S﻿ound System
   - content: B﻿BQ
-contentBox:
-  buttonTitle: ""
-  buttonUrl: ""
-  title: ""
-bookingIframe: >-
-  <!--StartFragment-->
-
-
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/285987?iframe=true" style="">Check Availability and BOOK NOW</a>
-
-
-  <!--EndFragment-->
-gallery:
-  - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.png
-  - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.png
-  - image: /uploads/c83f6f16-25c4-42f7-a968-3684267485cf.png
-  - image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.png
-  - image: /uploads/975d5213-c405-48eb-9bc6-d653304a9d5b.png
-  - image: /uploads/05568c86-c0de-4fe7-8230-33f0db7327dd.png
-  - image: /uploads/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9.png
-  - image: /uploads/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad.png
-  - image: /uploads/cbb8f5cc-402f-48e2-ac76-87e947dbd041.png
 videoSection:
   title: 360° VR TOUR - Island Time
   imageOverlay: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.png
@@ -72,17 +72,13 @@ columnsSection:
       S﻿hare in the joy of our charter guests sailing aboard Island Time, get a sneak peek of this beautiful vessel on charter.  
 
        [Optional Button](#)
-    leftColumn: >-
-      
-
-      ![](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat charter gold coast")
+    leftColumn: '![Sailing boat charter gold coast -
+      Alt](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat
+      charter gold coast")'
 videoSectionOptional:
-  title: Take a video tour of Island Time
-  imageOverlay: /uploads/18bdc2f6-fe59-4c00-9f80-75d0a2a90064.png
-  video: https://tour.panoee.com/IslandTime
-accordionSection:
-  accordion: []
-  sectionTitle: Why book your Christmas Party with us?
+  title: ""
+  imageOverlay: ""
+  video: ""
 columnBanner:
   - buttonTitle: Enquire Now
     buttonUrl: booking-enquiry
@@ -93,6 +89,9 @@ columnBanner:
   - featuredImage: /uploads/42752ca7-51c4-4cdf-84f5-f4cc8bdbaae9.png
     content: ""
     bookingWidget: ""
+accordionSection:
+  accordion: []
+  sectionTitle: Why book your Christmas Party with us?
 featuredTestimonials:
   description: ""
   testimonial: ""
