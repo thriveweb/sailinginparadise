@@ -247,6 +247,8 @@ class AlexBookingFormV2 extends React.Component {
                 'Web Search',
                 'Facebook',
                 'Instagram',
+                'TikTok',
+                'Email',
                 'Friend or family referral',
                 'Signage',
                 'Flyer',
