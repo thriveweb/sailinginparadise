@@ -21,7 +21,6 @@
 .boat-card {
   display: flex;
   flex-direction: column;
-  background: #fff;
   border: 1px solid #E0E0E0;  /* Light border around the card */
   border-radius: 8px;
   overflow: hidden;
@@ -84,7 +83,7 @@
   padding: 24px;
   flex-grow: 1;
   background-color: #F8F8F8;  /* Light gray background for the section */
-  border-bottom: 1px solid #E0E0E0;
+  /* border-bottom: 1px solid #E0E0E0; */
 }
 
 .feature-item {
@@ -115,7 +114,6 @@
   align-items: center;
   margin: 0;
   font-weight: 500;
-  background-color: #FFFFFF;
   border-top: none;
   width: 100%;
   cursor: pointer;

@@ -41,7 +41,7 @@ const BoatFeatureSection = ({ boatFeaturesIntro, boatFeatures }) => {
                 </div>
             </div>
             <div className="features-button-row">
-                <button className="nav-button">ENQUIRE NOW</button>
+                <a className="nav-button">ENQUIRE NOW</a>
             </div>
         </div>
     );

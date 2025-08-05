@@ -45,7 +45,27 @@
 
 .features-button-row {
 	display: flex;
-	margin-top: 32px;
+	/* margin-top: 32px; */
+}
+
+.features-button-row a.nav-button {
+  display: table;
+  padding: 1rem 3rem;
+  margin: 0;
+  background-color: #183c85;
+  color: white; 
+  border-radius: 3rem;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  transition: all ease-in-out 0.2s;
+  box-shadow: 0 0 3rem 0 rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  margin: 2rem 0;
+}
+
+.features-button-row a.nav-button:hover {
+  background-color: white;
+  color: #212121;
 }
 
 @media (max-width: 768px) {
