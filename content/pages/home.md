@@ -7,12 +7,8 @@ buttonUrl: booking-enquiry/
 buttonSecondaryTitle: "Book Now "
 buttonSecondaryUrl: booking-enquiry/
 posterImage: /uploads/375f91a7-6d1b-4e43-83ca-6f535d3775fb.png
-hdVideo: https://player.vimeo.com/video/1109275446?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-  width="2560" height="1440" frameborder="0" allow="autoplay; fullscreen;
-  picture-in-picture; clipboard-write; encrypted-media; web-share"
-  referrerpolicy="strict-origin-when-cross-origin" title="Island Time Day
-  Highlights"
-mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
+hdVideo: https://player.vimeo.com/external/1109275446.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
+mobileVideo: https://player.vimeo.com/external/1109275446.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
   - title: explore our boats
     description: Take a tour of the fleet.
