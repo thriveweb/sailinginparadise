@@ -69,10 +69,13 @@ contentColumn: >-
   years to come.
 
 
-  We can cater for groups of up to 30 people on our signature sailing catamaran the 'Spirit of Gwonda', or up to 30 on our deluxe vessel Oceans, or up to 42 on our brand new vessel Island Time.  If you have a larger group be sure to check out our amazing [Raft-Up Party](https://sailinginparadise.com.au/boat-charter/raft-up-parties/) options.  
+  We can cater for groups of up to 30 people on the 'Spirit of Gwonda' or 'Oceans', or up to 42 on our brand new vessel 'Island Time'.  If you have a larger group be sure to check out our amazing raft up party options.  
 
 
-  The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.   [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/).
+  The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.   
+
+
+  [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/)
 
 
   No matter what style of birthday party you wish to create, we can help. Whether you are looking for a relaxing day on the water with a BBQ and a few beers or a boat party with cocktails and awesome tunes... bring it on!   
@@ -82,10 +85,7 @@ contentColumn: >-
 
    At Sailing In Paradise, we are continually striving to create the best experience possible for our guests.  We understand that you want your special day to be memorable, fun, relaxing and stress free and that is exactly where we come in...
 
-  From the moment you send through an enquiry, all the way through to the follow up email with your free souvenir photos after your cruise, we pride ourselves on our professional yet friendly and laid-back attitude.   
-
-
-  [Meet our crew.](https://sailinginparadise.com.au/about-us/)
+  From the moment you send through an enquiry, all the way through to the follow up email with your free souvenir photos after your cruise, we pride ourselves on our professional yet friendly and laid-back attitude.
 accordionSection:
   accordion:
     - dropdownContent: >-
