@@ -25,9 +25,7 @@ contentBox:
   buttonTitle: ""
   buttonUrl: ""
   title: ""
-boatFeaturesIntro: Optional intro section lorem ipsum dolor sit amet,
-  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+boatFeaturesIntro: Step aboard the Gold Coast's ultimate vessel for day charters!
 gallery:
   - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.png
   - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.png
