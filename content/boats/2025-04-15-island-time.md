@@ -17,7 +17,7 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/605176?iframe=true" style="">Check Availability and BOOK NOW</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true" style="">Check Availability and BOOK NOW</a>
 
 
   <!--EndFragment-->
