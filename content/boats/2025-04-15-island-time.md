@@ -25,7 +25,7 @@ contentBox:
   buttonTitle: ""
   buttonUrl: ""
   title: ""
-boatFeaturesIntro: Step aboard the Gold Coast's ultimate vessel for day charters!
+boatFeaturesIntro: ""
 gallery:
   - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.png
   - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.png
@@ -69,14 +69,15 @@ columnsSection:
 
       S﻿hare in the joy of our charter guests sailing aboard Island Time, get a sneak peek of this beautiful vessel on charter.  
 
-       [Optional Button](#)
+
+      [t﻿est](uh)[I﻿sland Time charter highlights](https://www.instagram.com/stories/highlights/18039461704595777/)[](#)
     leftColumn: '![Sailing boat charter gold coast -
       Alt](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat
       charter gold coast")'
 videoSectionOptional:
-  title: ""
-  imageOverlay: ""
-  video: ""
+  title: Island Time Video Tour
+  imageOverlay: https://ucarecdn.com/81298017-15b1-4803-8cdc-31d1b6a64411/
+  video: https://vimeo.com/1109515017
 columnBanner:
   - buttonTitle: Enquire Now
     buttonUrl: booking-enquiry
