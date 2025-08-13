@@ -83,7 +83,17 @@ columnBanner:
 
       <!--EndFragment-->
 accordionSection:
-  accordion: []
+  accordion:
+    - title: Ready to book online?
+      dropdownContent: >-
+        <!--StartFragment-->
+
+
+        <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/279456/private-charters?iframe=true"></iframe>
+
+
+        <!--EndFragment-->
+  sectionTitle: ""
 featuredTestimonials:
   description: I organised my daughter’s 16th Birthday with Sailing in Paradise &
     all of can say is WOW definitely worth a five star review! Beautiful boat
