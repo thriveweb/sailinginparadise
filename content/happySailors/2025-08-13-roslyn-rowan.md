@@ -1,9 +1,9 @@
 ---
 template: SingleCaseStudy
-title: Roslyn Rowan
-cruiseType: 16th Birthday
+title: Roslyn, Aus
+cruiseType: Birthday Party
 date: ""
-featuredImage: ""
+featuredImage: https://ucarecdn.com/e43ce7bb-a032-4962-8fc3-938e4ded443c/
 videoSection:
   title: ""
   imageOverlay: ""
