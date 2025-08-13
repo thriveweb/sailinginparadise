@@ -72,8 +72,38 @@ videoSectionOptional:
   video: https://tour.panoee.com/oceans
 columnBanner:
   - featuredImage: ""
+    content: |-
+      N﻿ot quite ready to book or have questions?
+
+      P﻿lease send an enquiry and we will get right back to you.
+
+      [E﻿nquire Now](booking-enquiry/)
+    title: Start planning your charter
+    buttonTitle: ""
+  - featuredImage: https://ucarecdn.com/8b7afea8-8365-4e5f-83e8-2708ba0f979e/
+    content: ""
+accordionSection:
+  accordion:
+    - title: "Ready to Book?   "
+      dropdownContent: >-
+        <!--StartFragment-->
+
+
+        <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/279456/private-charters?iframe=true"></iframe>
+
+
+        <!--EndFragment-->
+featuredTestimonials:
+  title: Lucia Ray
+  description: Had an incredible time on the Ocean catamaran - very, very nice
+    boat and impeccable service by both the captain and the crew. 😁😁😁 Will
+    definitely be using Sailing in Paradise again!!!!
+  testimonial: Jessica, Aus
 meta:
   title: Oceans Deluxe
-  description: Oceans Deluxe Description
+  description: "Oceans is a Seawind 1160 Deluxe Sailing Catamaran.  She is offered
+    for private boat charter by Sailing in Paradise on the Gold Coast,
+    Australia.   Suitable for up to 30 guests.  Oceans is ideal for proposals,
+    family charters, celebrations or corporate events.  "
 date: 20025-04-28
 ---
