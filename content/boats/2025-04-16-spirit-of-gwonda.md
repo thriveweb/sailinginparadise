@@ -49,17 +49,17 @@ videoSection:
   title: "Spirit of Gwonda Video Walk-through "
   video: "https://vimeo.com/1109533855  "
 columnsSection:
-  - rightColumn: >-
+  - leftColumn: >-
       ### S﻿EE SPIRIT OF GWONDA IN ACTION
 
 
-      S﻿hare the joy of guests aboard Spirit of Gwonda.
+      S﻿hare the joy of guests aboard Spirit of Gwonda. 
 
 
       [C﻿harter Highlights Reel](https://www.instagram.com/stories/highlights/18021266234183760/)
-    leftColumn: '![Spirit of Gwonda, Charter Boat Gold Coast,
-      ](https://ucarecdn.com/1bc03c50-b06d-4083-9970-d6ff040263a6/ "Spirit of
-      Gwonda, Charter Boat Gold Coast, ")'
+    rightColumn: '![Spirit of Gwonda, Charter Catamaran, Gold
+      Coast](https://ucarecdn.com/f28efbf3-9aa9-4926-844d-1e14d6380cd2/ "Spirit
+      of Gwonda, Charter Catamaran, Gold Coast")'
 videoSectionOptional:
   imageOverlay: https://ucarecdn.com/3069e7bb-62cd-4943-8d42-f743143e6e7f/
   title: 360° VR tour - Spirit Of Gwonda
