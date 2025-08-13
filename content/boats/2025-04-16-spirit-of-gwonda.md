@@ -91,7 +91,7 @@ featuredTestimonials:
     would definitely recommend to anyone to book an event with Sailing in
     Paradise
   title: Roslyn's review
-  testimonial: SIMPRO, Aus
+  testimonial: Jessica, Aus
 meta:
   title: Spirit Of Gwonda
   description: "Spirit of Gwonda is a Charter Boat available on the Gold Coast
