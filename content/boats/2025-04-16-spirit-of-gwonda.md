@@ -55,10 +55,10 @@ videoSection:
   video: "https://vimeo.com/1109533855  "
 columnsSection:
   - rightColumn: >-
-      ### E﻿XPLORE SPIRIT OF GWONDA IN ACTION
+      ### S﻿EE SPIRIT OF GWONDA IN ACTION
 
 
-      S﻿hare in the joy of our charter guests sailing aboard Spirit of Gwonda, get a sneak peek of the Gold Coast icon on charter.
+      S﻿hare the joy of guests aboard Spirit of Gwonda.
 
 
       [C﻿harter Highlights Reel](https://www.instagram.com/stories/highlights/18021266234183760/)
@@ -78,12 +78,12 @@ columnBanner:
       P﻿lease send an enquiry and we will get right back to you.
     buttonUrl: booking-enquiry/
   - title: ""
-    featuredImage: https://ucarecdn.com/ae200328-668a-4bea-a0a6-6c5943f08831/
+    featuredImage: https://ucarecdn.com/b3f558f7-b0df-48e2-b564-1699516a95e1/
     content: >-
       <!--StartFragment-->
 
 
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="275px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/623456?iframe=true"></iframe>
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="275px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/623456?iframe=true"></iframe>0
 
 
       <!--EndFragment-->
