@@ -3,17 +3,21 @@ template: SingleBoat
 title: Oceans Deluxe
 featuredImage: /uploads/033861dd-c518-48e0-a767-176f44073284.png
 description: >-
-  **Introducing *Oceans***, a stylish Seawind 1160 Deluxe catamaran with a
-  versatile layout *ideal* for couples, families and groups of up to 20 seeking
-  **generous space and refined style** for complete comfort on your
-  charter.    Oceans can accommodate up to 30 guests on board should you have a
-  larger group.  
+  ### **O﻿CEANS - UP TO 30 GUESTS**
 
 
-  With a flexible indoor–outdoor lounge area perfect for any weather, Oceans also offers an expansive foredeck. 
+  Step aboard *Oceans* and feel instantly at ease. This sleek Seawind 1160 Deluxe catamaran offers the perfect balance of space and comfort, making her just as suited to intimate gatherings as she is to lively group celebrations.
 
 
-  *Oceans* is the perfect choice for relaxed celebrations, romantic date nights, proposals, family days, and intimate corporate events.
+  Her open layout with multiple seating areas on board creates a **relaxed, social atmosphere**. Whether you’re celebrating a milestone, popping the question, enjoying a family day out, or hosting a corporate event, *Oceans* sets the stage for memorable moments on the Gold Coast waters.
+bookingIframe: >-
+  <!--StartFragment-->
+
+
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true" style="">Check Availability and BOOK NOW</a>
+
+
+  <!--EndFragment-->
 boatFeaturesIntro: ""
 gallery:
   - image: /uploads/771916aa-1471-4f2a-b6fd-d6f0207cdcf4.png
@@ -23,7 +27,6 @@ gallery:
   - image: /uploads/798562c0-188d-42ea-8e4a-fd9267b4eb9c.png
   - image: /uploads/0e3170b2-7d7d-4605-94ba-8744f1d458d9.png
   - image: /uploads/c92a9b14-1df3-4135-9c14-e313b734264b.png
-  - image: /uploads/dfeee078-1196-4eb9-8ad7-be4f3e9f805a.png
   - image: /uploads/12879a49-dd42-49fa-85cb-a9db8521d7a3.png
 boatListingFeatures:
   - content: Deluxe Vessel
@@ -32,8 +35,8 @@ boatListingFeatures:
   - content: Overwater Seating
 boatFeatures:
   - content: 11.6m long, 6.5m wide
-  - content: M﻿ax. 30 passengers + 2 crew
   - content: Seawind 1160 Deluxe 2008
+  - content: M﻿ax. 30 passengers + 2 crew
   - content: Spacious cushioned dining/lounge area
   - content: Side access to foredeck
   - content: Spacious indoor/outdoor undercover space suitable in all weather
@@ -46,10 +49,29 @@ boatFeatures:
   - content: BBQ
   - content: Eskies
   - content: Sound System
+  - content: D﻿isco Light (on request)
 videoSection:
+  title: Oceans Video Walk-Through
+  video: https://vimeo.com/1109550681
+  imageOverlay: https://ucarecdn.com/48eb8dfe-c0bf-4cba-96cc-644d626c2d09/
+columnsSection:
+  - leftColumn: >-
+      ### S﻿EE OCEANS  IN ACTION
+
+
+      S﻿hare the joy of guests aboard our deluxe catamaran 'Oceans'
+
+
+      [C﻿HARTER HIGHLIGHTS REEL](https://www.instagram.com/stories/highlights/17928120349525159/)
+    rightColumn: '![Sailing in Paradise Boat Hire Gold
+      Coast](https://ucarecdn.com/ea2efaf6-d66f-401a-930d-86a1d7f0e022/ "Sailing
+      in Paradise Boat Hire Gold Coast")'
+videoSectionOptional:
+  imageOverlay: https://ucarecdn.com/afc3fec7-f908-4a9a-b301-11052de6c71e/
   title: " 360° VR TOUR - Oceans"
   video: https://tour.panoee.com/oceans
-  imageOverlay: /uploads/0fd8c8c7-8379-42ba-99f5-bc80d5be70c2.png
+columnBanner:
+  - featuredImage: ""
 meta:
   title: Oceans Deluxe
   description: Oceans Deluxe Description
