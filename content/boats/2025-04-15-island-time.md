@@ -70,7 +70,7 @@ columnsSection:
       S﻿hare in the joy of our charter guests sailing aboard Island Time, get a sneak peek of this beautiful vessel on charter.  
 
 
-      [t﻿est](uh)[I﻿sland Time charter highlights](https://www.instagram.com/stories/highlights/18039461704595777/)[](#)
+      [](uh)[I﻿sland Time charter highlights](https://www.instagram.com/stories/highlights/18039461704595777/)[](#)
     leftColumn: '![Sailing boat charter gold coast -
       Alt](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat
       charter gold coast")'
