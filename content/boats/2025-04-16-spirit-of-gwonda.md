@@ -31,8 +31,8 @@ boatListingFeatures:
   - content: Indoor/Outdoor flow
 boatFeatures:
   - content: 10.5m long x 6.5m wide
-  - content: Max. 30 passengers + 2 crew
   - content: Large central table
+  - content: Max. 30 passengers + 2 crew
   - content: Bench style seating for up to 30 guests
   - content: Main sail and jib
   - content: Trampoline style foredeck
