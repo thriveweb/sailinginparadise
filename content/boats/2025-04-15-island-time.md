@@ -59,9 +59,9 @@ boatFeatures:
   - content: S﻿ound System
   - content: B﻿BQ
 videoSection:
-  title: 360° VR TOUR - Island Time
+  title: "Island Time Video Tour "
   imageOverlay: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.png
-  video: https://tour.panoee.com/IslandTime
+  video: "https://vimeo.com/1109515017 "
 columnsSection:
   - rightColumn: >-
       ## Explore Island Time in Action
@@ -75,9 +75,9 @@ columnsSection:
       Alt](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat
       charter gold coast")'
 videoSectionOptional:
-  title: Island Time Video Tour
+  title: 360° VR TOUR - Island Time
   imageOverlay: https://ucarecdn.com/81298017-15b1-4803-8cdc-31d1b6a64411/
-  video: https://vimeo.com/1109515017
+  video: https://tour.panoee.com/IslandTime
 columnBanner:
   - buttonTitle: Enquire Now
     buttonUrl: booking-enquiry
