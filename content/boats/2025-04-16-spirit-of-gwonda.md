@@ -15,7 +15,14 @@ description: >-
 
 
   Measuring 10.5m by 6.5m, *Spirit of Gwonda* is smooth, stable, and perfect for parties, family outings, and any celebration on the water.
-bookingIframe: ""
+bookingIframe: >-
+  <!--StartFragment-->
+
+
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true" style="">Check Availability and BOOK NOW</a>
+
+
+  <!--EndFragment-->
 gallery:
   - image: https://ucarecdn.com/4383b5d0-107a-4935-b5a5-a3050acc8fa8/
   - image: https://ucarecdn.com/e2935cb8-8a00-4457-9f5a-97d2d9ec8fed/-/crop/1497x1142/3,641/-/preview/
