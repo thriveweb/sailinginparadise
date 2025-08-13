@@ -74,14 +74,7 @@ columnBanner:
     buttonUrl: booking-enquiry/
   - title: ""
     featuredImage: https://ucarecdn.com/b3f558f7-b0df-48e2-b564-1699516a95e1/
-    content: >-
-      <!--StartFragment-->
-
-
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="270px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/623456?iframe=true"></iframe>0
-
-
-      <!--EndFragment-->
+    content: ""
 accordionSection:
   accordion:
     - title: Ready to book online?
