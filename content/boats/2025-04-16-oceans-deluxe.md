@@ -76,10 +76,9 @@ columnBanner:
       N﻿ot quite ready to book or have questions?
 
       P﻿lease send an enquiry and we will get right back to you.
-
-      [E﻿nquire Now](booking-enquiry/)
     title: Start planning your charter
-    buttonTitle: ""
+    buttonTitle: Enquire Now
+    buttonUrl: booking-enquiry/
   - featuredImage: https://ucarecdn.com/8b7afea8-8365-4e5f-83e8-2708ba0f979e/
     content: ""
 accordionSection:
