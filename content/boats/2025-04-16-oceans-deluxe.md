@@ -62,6 +62,9 @@ columnsSection:
       S﻿hare the joy of guests aboard our deluxe catamaran 'Oceans'
 
 
+      ![]()
+
+
       [I﻿NSTA HIGHLIGHTS REEL](https://www.instagram.com/stories/highlights/17928120349525159/)
     rightColumn: '![Sailing in Paradise Boat Hire Gold
       Coast](https://ucarecdn.com/81eb3981-9ee8-494f-a607-a82dae72eb4b/ "Sailing
