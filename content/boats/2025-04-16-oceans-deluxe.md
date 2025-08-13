@@ -53,7 +53,7 @@ boatFeatures:
 videoSection:
   title: Oceans Video Walk-Through
   video: https://vimeo.com/1109550681
-  imageOverlay: https://ucarecdn.com/48eb8dfe-c0bf-4cba-96cc-644d626c2d09/
+  imageOverlay: https://ucarecdn.com/75ae85e9-a618-47ad-92fb-864b6efaaa20/
 columnsSection:
   - leftColumn: >-
       ### S﻿EE OCEANS  IN ACTION
@@ -62,9 +62,9 @@ columnsSection:
       S﻿hare the joy of guests aboard our deluxe catamaran 'Oceans'
 
 
-      [C﻿HARTER HIGHLIGHTS REEL](https://www.instagram.com/stories/highlights/17928120349525159/)
+      [I﻿NSTA HIGHLIGHTS REEL](https://www.instagram.com/stories/highlights/17928120349525159/)
     rightColumn: '![Sailing in Paradise Boat Hire Gold
-      Coast](https://ucarecdn.com/ea2efaf6-d66f-401a-930d-86a1d7f0e022/ "Sailing
+      Coast](https://ucarecdn.com/81eb3981-9ee8-494f-a607-a82dae72eb4b/ "Sailing
       in Paradise Boat Hire Gold Coast")'
 videoSectionOptional:
   imageOverlay: https://ucarecdn.com/afc3fec7-f908-4a9a-b301-11052de6c71e/
