@@ -83,7 +83,7 @@ columnBanner:
       <!--StartFragment-->
 
 
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="275px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/623456?iframe=true"></iframe>0
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="270px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/623456?iframe=true"></iframe>0
 
 
       <!--EndFragment-->
