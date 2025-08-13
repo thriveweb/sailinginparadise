@@ -44,8 +44,8 @@ boatFeatures:
   - content: N﻿EW - Seating and Tables (fwd deck)
 videoSection:
   imageOverlay: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png
-  title: 360° VR tour - Spirit Of Gwonda
-  video: https://tour.panoee.com/spirit-of-gwonda
+  title: "Spirit of Gwonda Video Walk-through "
+  video: "https://vimeo.com/1109533855  "
 columnsSection:
   - rightColumn: >-
       ### E﻿XPLORE SPIRIT OF GWONDA IN ACTION
@@ -60,8 +60,8 @@ columnsSection:
       Gwonda, Charter Boat Gold Coast, ")'
 videoSectionOptional:
   imageOverlay: https://ucarecdn.com/3069e7bb-62cd-4943-8d42-f743143e6e7f/
-  title: Spirit of Gwonda Video Walk-through
-  video: https://vimeo.com/1109533855
+  title: 360° VR tour - Spirit Of Gwonda
+  video: https://tour.panoee.com/spirit-of-gwonda
 columnBanner:
   - title: start planning your charter
     buttonTitle: Enquire now
@@ -76,7 +76,7 @@ columnBanner:
       <!--StartFragment-->
 
 
-      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="500px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/catalog/623456/spirit-of-gwonda-private?iframe=true"></iframe>
+      <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="100%" height="275px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/carouselWidget/623456?iframe=true"></iframe>
 
 
       <!--EndFragment-->
