@@ -6,15 +6,10 @@ description: >-
   ### Spirit of Gwonda - Up to 30 guests
 
 
+  Introducing **Spirit of Gwonda,** our original and much-loved Gold Coast icon. This Seawind 1050 Resort sailing catamaran is purpose-built for entertaining and day cruises, offering space, comfort, and a **relaxed open-plan layout for up to 30 guests.**
 
 
-  Introducing *Spirit of Gwonda*, our original and much-loved Gold Coast icon. This Seawind 1050 Resort sailing catamaran is purpose-built for entertaining and day cruises, offering space, comfort, and a relaxed open-plan layout for up to 30 guests.
-
-
-  You’ll enjoy a huge deck space to mingle, sunbathe on the front trampolines, or gather in the generous shaded interior with bench seating, central table, barbecue, and recently upgraded seating and bathroom facilities.
-
-
-  Measuring 10.5m by 6.5m, *Spirit of Gwonda* is smooth, stable, and perfect for parties, family outings, and any celebration on the water.
+  You’ll enjoy a **huge deck space to mingle**, sunbathe on the front trampolines, or gather in the generous shaded interior.    Spirit of Gwonda is the perfect vessel for **social occasions, parties and families.**
 bookingIframe: >-
   <!--StartFragment-->
 
