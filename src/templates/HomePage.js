@@ -22,7 +22,8 @@ export const HomePageTemplate = ({
   buttonTitle,
   buttonUrl,
   buttonSecondaryTitle,
-  buttonSecondaryUrl,  
+  buttonSecondaryUrl,
+  globalSections,  
   featuredSlider,
   featuredBanner,
   services,
@@ -52,7 +53,8 @@ export const HomePageTemplate = ({
         buttonTitle={buttonTitle}
         buttonUrl={buttonUrl}
         buttonSecondaryTitle={buttonSecondaryTitle}
-        buttonSecondaryUrl={buttonSecondaryUrl}        
+        buttonSecondaryUrl={buttonSecondaryUrl}   
+        globalSections={globalSections}     
         posterImage={posterImage}
         featuredSlider={featuredSlider}
         featuredBanner={featuredBanner}
@@ -74,12 +76,13 @@ export const HomePageTemplate = ({
 }
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page, posts, caseStudies } }) => (
+const HomePage = ({ data: { page, posts, caseStudies, globalSections } }) => (
   <Layout meta={page.frontmatter.meta || false}>
     <HomePageTemplate
       {...page.frontmatter}
       posts={posts}
       caseStudies={caseStudies}
+      globalSections={globalSections}     
     />
   </Layout>
 )
@@ -194,6 +197,21 @@ export const pageQuery = graphql`
             title
             featuredImage
             excerpt
+          }
+        }
+      }
+    }
+    globalSections: markdownRemark(
+      fields: { slug: { eq: "/global-sections/" } }
+    ) {
+      frontmatter {
+        bookingPopup {
+          title
+          contentBoxes {
+            buttonTitle
+            buttonUrl
+            icon
+            title
           }
         }
       }

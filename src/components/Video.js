@@ -1,9 +1,10 @@
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
 import { ICONPlay, ICONButtonArrows } from './Icons'
 import FeaturedSlider from './FeaturedSlider'
 import SocialLinks from './SocialLinks'
 import Image from './Image'
 import Button from './Button'
+import BookingPopup from './BookingPopup'
 
 import './Video.css'
 
@@ -11,7 +12,9 @@ class Video extends Component {
   constructor(props) {
     super(props)
     this.videoRef = React.createRef()
-    this.state = {}
+    this.state = {
+      popupActive: false
+    }
   }
 
   updateDimensions() {
@@ -34,13 +37,27 @@ class Video extends Component {
     })
   }
 
+  handlePopup = () => {
+    this.setState({
+      popupActive: !this.state.popupActive
+    })
+
+    console.log("********* this.state.popupActive", this.state.popupActive)
+
+    document.body.style.overflow = !this.state.popupActive ? 'hidden' : 'auto'
+    document.documentElement.style.overflow = !this.state.popupActive
+      ? 'hidden'
+      : 'auto'
+  }
+
   render() {
     const {
       title,
       buttonTitle,
       buttonUrl,
       buttonSecondaryTitle,
-      buttonSecondaryUrl,      
+      buttonSecondaryUrl, 
+      globalSections,     
       video,
       mobileVideo,
       posterImage,
@@ -51,9 +68,11 @@ class Video extends Component {
       featuredBanner,
       socialMedia
     } = this.props
-    const { videoPlaying, mobileWidth } = this.state
+    const { videoPlaying, mobileWidth, popupActive } = this.state
 
     if (!video) return null
+
+    const popup = globalSections ? globalSections.frontmatter.bookingPopup : {}
 
     const url = video.replace(/^.+v=/, '').replace(/&.*/, '')
 
@@ -66,9 +85,14 @@ class Video extends Component {
                 <h1 className="title-gradient" dangerouslySetInnerHTML={{ __html: title }}></h1>
                 <div className="buttonContainer">
                   <Button title={buttonTitle} url={buttonUrl} white />
-                  {buttonSecondaryTitle && <Button className={'btnSecondary'} title={buttonSecondaryTitle} url={buttonSecondaryUrl} white /> }
+                  {buttonSecondaryTitle && 
+                      <button className='button buttonWhite btnSecondary' type="button" onClick={this.handlePopup}>
+                        {buttonSecondaryTitle}<ICONButtonArrows/>
+                      </button>                      
+                  }
                 </div>
-              </div>
+                
+              </div>              
             </div>
           )}
           {posterImage && (
@@ -100,6 +124,11 @@ class Video extends Component {
             featuredBanner={featuredBanner}
           />
           <SocialLinks socialMedia={socialMedia} />
+          <BookingPopup
+                    {...popup}
+                    classActive={popupActive ? 'active' : ''}
+                    handlePopup={this.handlePopup}
+                  />
         </div>
       )
 
