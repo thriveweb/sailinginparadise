@@ -25,14 +25,14 @@
 .feature-item {
 	display: flex;
 	align-items: center;
-	font-size: 1.1rem;
+	font-size: 1.6rem;
 	color: #23262F;
 	margin: 1rem 0;
 }
 
 .feature-dot {
 	color: #1A2341;
-	font-size: 1.2em;
+	font-size: 1.6em;
 	margin-right: 16px;
 }
 
