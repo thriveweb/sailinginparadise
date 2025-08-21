@@ -42,8 +42,6 @@ class Video extends Component {
       popupActive: !this.state.popupActive
     })
 
-    console.log("********* this.state.popupActive", this.state.popupActive)
-
     document.body.style.overflow = !this.state.popupActive ? 'hidden' : 'auto'
     document.documentElement.style.overflow = !this.state.popupActive
       ? 'hidden'
@@ -56,8 +54,8 @@ class Video extends Component {
       buttonTitle,
       buttonUrl,
       buttonSecondaryTitle,
-      buttonSecondaryUrl, 
-      globalSections,     
+      buttonSecondaryUrl,
+      globalSections,
       video,
       mobileVideo,
       posterImage,
@@ -85,14 +83,14 @@ class Video extends Component {
                 <h1 className="title-gradient" dangerouslySetInnerHTML={{ __html: title }}></h1>
                 <div className="buttonContainer">
                   <Button title={buttonTitle} url={buttonUrl} white />
-                  {buttonSecondaryTitle && 
-                      <button className='button buttonWhite btnSecondary' type="button" onClick={this.handlePopup}>
-                        {buttonSecondaryTitle}<ICONButtonArrows/>
-                      </button>                      
+                  {buttonSecondaryTitle &&
+                    <button className='button buttonWhite btnSecondary' type="button" onClick={this.handlePopup}>
+                      {buttonSecondaryTitle}<ICONButtonArrows />
+                    </button>
                   }
                 </div>
-                
-              </div>              
+
+              </div>
             </div>
           )}
           {posterImage && (
@@ -125,10 +123,10 @@ class Video extends Component {
           />
           <SocialLinks socialMedia={socialMedia} />
           <BookingPopup
-                    {...popup}
-                    classActive={popupActive ? 'active' : ''}
-                    handlePopup={this.handlePopup}
-                  />
+            {...popup}
+            classActive={popupActive ? 'active' : ''}
+            handlePopup={this.handlePopup}
+          />
         </div>
       )
 
