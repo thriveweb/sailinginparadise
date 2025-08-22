@@ -50,6 +50,8 @@ boatFeatures:
   - content: Eskies
   - content: Sound System
   - content: D﻿isco Light (on request)
+boatFeaturesButtonText: "ENQUIRE NOW"
+boatFeaturesButtonLink: "/#"
 videoSection:
   title: Oceans Video Walk-Through
   video: https://vimeo.com/1109550681

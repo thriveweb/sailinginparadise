@@ -44,6 +44,8 @@ boatFeatures:
   - content: Sound System
   - content: D﻿isco Lighting
   - content: N﻿EW - Seating and Tables (fwd deck)
+boatFeaturesButtonText: "ENQUIRE NOW"
+boatFeaturesButtonLink: "/#"
 videoSection:
   imageOverlay: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png
   title: "Spirit of Gwonda Video Walk-through "
