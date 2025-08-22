@@ -1256,6 +1256,14 @@ collections: # A list of collections the CMS should be able to edit
               widget: markdown,
               required: false,
             }
+      - label: 'Boat Features Button Text' 
+        required: false
+        name: 'boatFeaturesButtonText' 
+        widget: 'string'
+      - label: 'Boat Features Button Link' 
+        required: false
+        name: 'boatFeaturesButtonLink' 
+        widget: 'string'
       - label: Video Section
         name: videoSection
         required: false

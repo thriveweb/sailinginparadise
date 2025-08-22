@@ -25,6 +25,8 @@ export const SingleBoatTemplate = ({
   boatFeaturesIntro,
   boatListingFeatures,
   boatFeatures,
+  boatFeaturesButtonText,
+  boatFeaturesButtonLink,
   featuredImage,
   description,
   contentBox,
@@ -66,7 +68,12 @@ export const SingleBoatTemplate = ({
         </div>
       </div>
       {gallery && <GallerySlider gallery={gallery} />}
-      <BoatFeatureSection boatFeaturesIntro={boatFeaturesIntro} boatFeatures={boatFeatures} />
+      <BoatFeatureSection
+        boatFeaturesIntro={boatFeaturesIntro}
+        boatFeatures={boatFeatures} 
+        boatFeaturesButtonText={boatFeaturesButtonText} 
+        boatFeaturesButtonLink={boatFeaturesButtonLink}
+      />
       {videoSection && <div className="container"> <VideoPopup {...videoSection} /></div>}
       {columnsSection && columnsSection.map((section, index) => (
         <div className="container boat-content-column" key={index}>
@@ -83,7 +90,7 @@ export const SingleBoatTemplate = ({
           <h4>{videoSectionOptional.title}</h4>
           <VideoPopup {...videoSectionOptional} />
         </div>
-      }      
+      }
       {columnBanner && (
         <ColumnBanner
           columnBanner={columnBanner}
@@ -133,6 +140,8 @@ export const pageQuery = graphql`
         boatFeatures {
           content
         }
+        boatFeaturesButtonText
+        boatFeaturesButtonLink
         description
         contentBox {
           buttonTitle

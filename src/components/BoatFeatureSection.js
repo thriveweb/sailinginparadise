@@ -3,7 +3,7 @@ import './BoatFeatureSection.css';
 import Content from './Content';
 import FeatureTickIcon from './FeatureTickIcon';
 
-const BoatFeatureSection = ({ boatFeaturesIntro, boatFeatures }) => {
+const BoatFeatureSection = ({ boatFeaturesIntro, boatFeatures, boatFeaturesButtonText, boatFeaturesButtonLink }) => {
     return (
         <div className="container boat-features-list">
             <h4>BOAT FEATURES</h4>
@@ -41,7 +41,7 @@ const BoatFeatureSection = ({ boatFeaturesIntro, boatFeatures }) => {
                 </div>
             </div>
             <div className="features-button-row">
-                <a className="nav-button">ENQUIRE NOW</a>
+                <a className="nav-button" href={boatFeaturesButtonLink || '#'}>{boatFeaturesButtonText || 'ENQUIRE NOW'}</a>
             </div>
         </div>
     );

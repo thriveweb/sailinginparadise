@@ -58,6 +58,8 @@ boatFeatures:
   - content: E﻿skies
   - content: S﻿ound System
   - content: B﻿BQ
+boatFeaturesButtonText: "ENQUIRE NOW"
+boatFeaturesButtonLink: "/#"
 videoSection:
   title: "Island Time Video Tour "
   imageOverlay: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.png
@@ -70,7 +72,7 @@ columnsSection:
       Share in the joy of our charter guests sailing aboard Island Time, get a sneak peek of this beautiful vessel on charter.  
 
 
-      [I﻿sland Time charter highlights](https://www.instagram.com/stories/highlights/18039461704595777/)
+      [Island Time charter highlights](https://www.instagram.com/stories/highlights/18039461704595777/)
     leftColumn: '![Sailing boat charter gold coast -
       Alt](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat
       charter gold coast")'
