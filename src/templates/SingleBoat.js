@@ -76,7 +76,7 @@ export const SingleBoatTemplate = ({
       />
       {videoSection && <div className="container"> <VideoPopup {...videoSection} /></div>}
       {columnsSection && columnsSection.map((section, index) => (
-        <div className="container boat-content-column" key={index}>
+        <div className="container single-boat-content-column" key={index}>
           {section.leftColumn && (
             <IntroText className="contentColumn" content={section.leftColumn} />
           )}
@@ -87,7 +87,6 @@ export const SingleBoatTemplate = ({
       ))}
       {videoSectionOptional &&
         <div className="container">
-          <h4>{videoSectionOptional.title}</h4>
           <VideoPopup {...videoSectionOptional} />
         </div>
       }
@@ -156,6 +155,7 @@ export const pageQuery = graphql`
           video
           title
           imageOverlay
+          ctaText
         }
         columnsSection {
           leftColumn
@@ -165,6 +165,7 @@ export const pageQuery = graphql`
           video
           title
           imageOverlay
+          ctaText
         }        
         accordionSection {
           sectionTitle

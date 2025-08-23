@@ -13,23 +13,23 @@
 	/* margin-right: 15%; */
 }
 
-.boat-content-column {
+.single-boat-content-column {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	gap: 5rem;
 }
 
-.boat-content-column .contentColumn {
+.single-boat-content-column .contentColumn {
 	flex: 1 0 45%;
 	padding: 4rem 0 !important;
 }
 
-.boat-content-column .contentColumn h2 {
+.single-boat-content-column .contentColumn h2 {
 	margin-right: 4rem;
 }
 
-.boat-content-column .contentColumn p a {
+.single-boat-content-column .contentColumn p a {
   display: table;
   padding: 1rem 3rem;
   margin: 0;
@@ -44,16 +44,16 @@
   margin: 2rem 0;
 }
 
-.boat-content-column .contentColumn p a:hover {
+.single-boat-content-column .contentColumn p a:hover {
   background-color: white;
   color: #212121;
 }
 
-.boat-content-column .contentColumn .intro-section {
+.single-boat-content-column .contentColumn .intro-section {
 	max-width: none;
 }
 
-.boat-content-column .intro-section {
+.single-boat-content-column .intro-section {
 	max-width: 90%;
 }
 
@@ -74,7 +74,7 @@
 }
 
 @media only screen and (max-width: 1000px) {
-	.boat-content-column .contentColumn {
+	.single-boat-content-column .contentColumn {
 		padding: 8rem 0 4rem;
 	}
 }
@@ -97,22 +97,22 @@
 		flex: 0 0 100%;
 	}
 
-	.boat-content-column .contentColumn .container {
+	.single-boat-content-column .contentColumn .container {
 		flex-wrap: wrap;
 	}
 
-	.boat-content-column .contentColumn h2 {
+	.single-boat-content-column .contentColumn h2 {
 		flex: 0 0 100%;
 	}
 }
 
 @media only screen and (max-width: 768px) {
-	.boat-content-column .contentColumn .container,
+	.single-boat-content-column .contentColumn .container,
 	.BoatIntro .intro-section {
 		text-align: center;
 	}
 
-	.boat-content-column .contentColumn {
+	.single-boat-content-column .contentColumn {
 		padding: 4rem 0 2rem;
 	}
 
@@ -121,13 +121,13 @@
 	}
 
 
-	.boat-content-column .contentColumn .container h2,
+	.single-boat-content-column .contentColumn .container h2,
 	.BoatIntro .intro-section h2 {
 		font-size: 2.8rem;
 	}
 
-	.boat-content-column .contentColumn .container h2:before,
-	.boat-content-column .contentColumn .container h2:after,
+	.single-boat-content-column .contentColumn .container h2:before,
+	.single-boat-content-column .contentColumn .container h2:after,
 	.BoatIntro .intro-section h2:before,
 	.BoatIntro .intro-section h2:after {
 		right: 0;
@@ -144,11 +144,11 @@
 		padding: 4rem 0;
 	}
 
-	.boat-content-column .Content {
+	.single-boat-content-column .Content {
 		text-align: center;
 	}
 
-	.boat-content-column .contentColumn {
+	.single-boat-content-column .contentColumn {
 		padding: 4rem 0;
 	}
 }

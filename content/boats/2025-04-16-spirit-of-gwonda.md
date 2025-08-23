@@ -48,8 +48,9 @@ boatFeaturesButtonText: "ENQUIRE NOW"
 boatFeaturesButtonLink: "/#"
 videoSection:
   imageOverlay: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png
-  title: "Spirit of Gwonda Video Walk-through "
-  video: "https://vimeo.com/1109533855  "
+  title: "Spirit of Gwonda Video Walk-through"
+  video: "1109533855"
+  ctaText: "Take a Tour"
 columnsSection:
   - leftColumn: >-
       ### S﻿EE SPIRIT OF GWONDA IN ACTION
@@ -66,6 +67,7 @@ videoSectionOptional:
   imageOverlay: https://ucarecdn.com/3069e7bb-62cd-4943-8d42-f743143e6e7f/
   title: 360° VR tour - Spirit Of Gwonda
   video: https://tour.panoee.com/spirit-of-gwonda
+  ctaText: "Take a Tour"
 columnBanner:
   - title: start planning your charter
     buttonTitle: Enquire now

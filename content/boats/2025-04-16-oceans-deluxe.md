@@ -54,8 +54,9 @@ boatFeaturesButtonText: "ENQUIRE NOW"
 boatFeaturesButtonLink: "/#"
 videoSection:
   title: Oceans Video Walk-Through
-  video: https://vimeo.com/1109550681
+  video: "1109550681"
   imageOverlay: https://ucarecdn.com/75ae85e9-a618-47ad-92fb-864b6efaaa20/
+  ctaText: "Take a Tour"
 columnsSection:
   - leftColumn: >-
       ### S﻿EE OCEANS  IN ACTION
@@ -75,6 +76,7 @@ videoSectionOptional:
   imageOverlay: https://ucarecdn.com/afc3fec7-f908-4a9a-b301-11052de6c71e/
   title: " 360° VR TOUR - Oceans"
   video: https://tour.panoee.com/oceans
+  ctaText: "Take a Tour"
 columnBanner:
   - featuredImage: ""
     content: |-

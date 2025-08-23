@@ -1283,10 +1283,17 @@ collections: # A list of collections the CMS should be able to edit
               default: '',
             }
           - {
-              label: Video URL,
+              label: Video,
               name: video,
               widget: string,
               required: false,
+            }
+          - {
+              label: CTA Text,
+              name: ctaText,
+              widget: string,
+              required: false,
+              default: 'Watch Video',
             }
       - label: Columns Section
         name: columnsSection
@@ -1324,10 +1331,17 @@ collections: # A list of collections the CMS should be able to edit
               default: '',
             }
           - {
-              label: Video URL,
+              label: Video,
               name: video,
               widget: string,
               required: false,
+            }
+          - {
+              label: CTA Text,
+              name: ctaText,
+              widget: string,
+              required: false,
+              default: 'Watch Video',
             }
       
       - label: 'Column Banner'

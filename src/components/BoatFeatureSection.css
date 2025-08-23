@@ -1,5 +1,5 @@
 .boat-features-list {
-	padding: 6rem 0;
+	padding: 2rem 0;
 	background: #F8F8F8;
 	border-radius: 12px;
 	/* box-shadow: 0 2px 8px rgba(0,0,0,0.03); */
@@ -9,7 +9,7 @@
 	display: flex;
 	gap: 48px;
 	justify-content: center;
-	margin-bottom: 40px;
+	margin-bottom: 1rem;
 }
 
 .feature-column {
@@ -59,8 +59,7 @@
   font-size: 1.4rem;
   transition: all ease-in-out 0.2s;
   box-shadow: 0 0 3rem 0 rgba(0, 0, 0, 0.1);
-  cursor: pointer;
-  margin: 2rem 0;
+  cursor: pointer;  
 }
 
 .features-button-row a.nav-button:hover {
@@ -70,6 +69,6 @@
 
 @media (max-width: 768px) {
   .features-columns {
-    gap: 0;
+    gap: 0;	
   }
 }
