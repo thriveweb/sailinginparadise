@@ -57,6 +57,10 @@
 	max-width: 90%;
 }
 
+.single-boat-column-banner {
+	padding-top: 5rem;
+}
+
 .BoatIntro blockquote {
 	text-align: left;
 }
@@ -71,11 +75,15 @@
 	.BoatIntro .contentBox {
 		flex: 1;
 	}
+	
 }
 
 @media only screen and (max-width: 1000px) {
 	.single-boat-content-column .contentColumn {
 		padding: 8rem 0 4rem;
+	}
+	.single-boat-column-banner {
+		padding-top: 0rem;
 	}
 }
 
@@ -112,8 +120,14 @@
 		text-align: center;
 	}
 
+	.single-boat-content-column {
+		row-gap: 1rem;
+		column-gap: 5rem;
+		width: 100%;
+	}
+
 	.single-boat-content-column .contentColumn {
-		padding: 4rem 0 2rem;
+		padding: 0 !important;  /* Reduce padding between columns for mobile */
 	}
 
 	.BoatIntro blockquote {

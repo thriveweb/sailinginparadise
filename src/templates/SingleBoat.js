@@ -92,6 +92,7 @@ export const SingleBoatTemplate = ({
       }
       {columnBanner && (
         <ColumnBanner
+          className="single-boat-column-banner"
           columnBanner={columnBanner}
           boatTour
           charterUrl={boatUrl}
