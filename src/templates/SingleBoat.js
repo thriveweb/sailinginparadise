@@ -100,11 +100,11 @@ export const SingleBoatTemplate = ({
         />
       )}
       <Accordion accordionSection={accordionSection} />
-      <FeaturedTestimonial
+      {/* <FeaturedTestimonial
         {...featuredTestimonials}
         caseStudies={caseStudies}
         charterTitle={title}
-      />
+      /> */}
     </main>
   )
 }
