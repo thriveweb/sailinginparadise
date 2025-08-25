@@ -6,7 +6,7 @@ description: >-
   ### **Seawind 1160 Resort - up to 42 Guests**
 
 
-  Introducing **'Island Time'**, the latest addition to our fleet, commissioned in 2023. This brand-new **Seawind 1160 Resort** is the ultimate **Gold Coast day charter** for events, parties, and group celebrations.
+  Introducing **'Island Time'**, the latest addition to our fleet, commissioned in 2023. This brand-new **Seawind 1160 Resort** is the ultimate **Gold Coast day charter boat** for events, parties, and group celebrations.
 
 
   Designed with seamless flow between indoor and outdoor areas, 'Island Time' comfortably hosts **up to 42 guests**. Enjoy a spacious shaded interior featuring a central island table and wraparound bench seating. Outside, relax on the expansive foredeck with trampolines and forward-facing seating with table zones, perfect for soaking up the Broadwater views. 
@@ -58,13 +58,13 @@ boatFeatures:
   - content: E﻿skies
   - content: S﻿ound System
   - content: B﻿BQ
-boatFeaturesButtonText: "ENQUIRE NOW"
-boatFeaturesButtonLink: "/#"
+boatFeaturesButtonText: ENQUIRE NOW
+boatFeaturesButtonLink: /booking-enquiry/
 videoSection:
   title: "Island Time Video Tour "
   imageOverlay: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.png
   video: "1109515017"
-  ctaText: "Take a Tour"
+  ctaText: Take a Tour
 columnsSection:
   - rightColumn: >-
       ## Explore Island Time in Action
@@ -81,7 +81,7 @@ videoSectionOptional:
   title: 360° VR TOUR - Island Time
   imageOverlay: https://ucarecdn.com/81298017-15b1-4803-8cdc-31d1b6a64411/
   video: https://tour.panoee.com/IslandTime
-  ctaText: "Take a Tour"
+  ctaText: Take a Tour
 columnBanner:
   - buttonTitle: Enquire Now
     buttonUrl: booking-enquiry
