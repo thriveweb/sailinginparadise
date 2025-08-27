@@ -11,29 +11,7 @@ intro: >-
   Looking for somewhere unique to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?  
 
 
-  Sailing in Paradise would love to create a 2024 Christmas Boat  Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  
-
-
-  ##### W﻿hat's Included with your Christmas Party Boat?
-
-
-  * Bespoke planning service
-
-  * E﻿xclusive Charter of vessel [(see our boats here)](https://sailinginparadise.com.au/our-boats/)
-
-  * F﻿riendly, professional crew
-
-  * 2 large eskies pre-filled with ice (BYO drinks welcome)
-
-  * I﻿sland Activities (SUPs, splash mats, beach volleyball etc)
-
-  * Amazing Sound System (Ipad/Spotify)
-
-  * Photo memories via Dropbox
-
-    \*C﻿atering and beverages service available
-
-  **Christmas Party Boat C﻿harters from $500 to $860 per hour (min 3 hours)**
+  Sailing in Paradise would love to create a 2025 Christmas Boat  Party that you and your guests will remember forever!
 contentBox:
   buttonTitle: ""
   buttonUrl: ""
@@ -72,6 +50,28 @@ contentColumn: >-
 
 
   !["Boat charter gold coast sailing in paradise"](/uploads/36492aa7-7dfd-4bf5-95a7-c770c6316850.jpg)
+
+
+  ## W﻿hat's Included with your Christmas Party Boat?
+
+
+  * Bespoke planning service
+
+  * E﻿xclusive Charter of vessel [](https://sailinginparadise.com.au/our-boats/)
+
+  * F﻿riendly, professional crew
+
+  * 2 large eskies pre-filled with ice (BYO drinks welcome)
+
+  * I﻿sland Activities (SUPs, splash mats, beach volleyball etc)
+
+  * Amazing Sound System (Ipad/Spotify)
+
+  * Photo memories via Dropbox
+
+    \*C﻿atering and beverages service available
+
+  **Christmas Party Boat C﻿harters from $500 to $860 per hour (min 3 hours)**
 
 
   ## Christmas Party Ideas
