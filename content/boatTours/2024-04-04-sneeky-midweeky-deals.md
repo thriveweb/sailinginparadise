@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Sneeky Mid-Weeky Deals
 icon: ""
-featuredImage: /uploads/ce10553d-ee62-4a2c-8548-d2e4b0ea6b4d.png
+featuredImage: /uploads/ce10553d-ee62-4a2c-8548-d2e4b0ea6b4d.jpg
 intro: >-
   ## Why should weekends have all the fun?
 
@@ -59,15 +59,15 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/87916cb2-1c33-4b46-a290-61fe91a61e99.png
-  - image: /uploads/e5116b04-14b4-4cb9-baa5-d248add19077.png
-  - image: /uploads/d9d1f4ff-8c65-42c9-ad5f-d110c979ecd9.png
-  - image: /uploads/89d28904-487e-45b9-8d37-c80e4b2b3b04.png
-  - image: /uploads/edac77ce-7a56-442f-a631-21e7b32f73f2.png
-  - image: /uploads/0320f8b4-f407-41e2-9da9-50c5bc6a3af6.png
-  - image: /uploads/1cb97989-d642-49ab-9455-891c41be4f4b.png
-  - image: /uploads/d2fd7d98-9d51-47d3-bbeb-9bf0a7248874.png
-  - image: /uploads/423937f1-fc1c-4e9c-a803-349848e7752e.png
+  - image: /uploads/87916cb2-1c33-4b46-a290-61fe91a61e99.jpg
+  - image: /uploads/e5116b04-14b4-4cb9-baa5-d248add19077.jpg
+  - image: /uploads/d9d1f4ff-8c65-42c9-ad5f-d110c979ecd9.jpg
+  - image: /uploads/89d28904-487e-45b9-8d37-c80e4b2b3b04.jpg
+  - image: /uploads/edac77ce-7a56-442f-a631-21e7b32f73f2.jpg
+  - image: /uploads/0320f8b4-f407-41e2-9da9-50c5bc6a3af6.jpg
+  - image: /uploads/1cb97989-d642-49ab-9455-891c41be4f4b.jpg
+  - image: /uploads/d2fd7d98-9d51-47d3-bbeb-9bf0a7248874.jpg
+  - image: /uploads/423937f1-fc1c-4e9c-a803-349848e7752e.jpg
 videoSection:
   imageOverlay: ""
   title: ""
@@ -202,7 +202,7 @@ columnBanner:
     buttonUrl: booking-enquiry
     content: O﻿ur Sneeky Mid-Weeky Deals are available for a very limited time.
     title: Secure my Sneeky Mid-Weeky Private Charter
-    featuredImage: /uploads/60cf28b4-7151-4fea-ae4c-0a8601e88000.png
+    featuredImage: /uploads/60cf28b4-7151-4fea-ae4c-0a8601e88000.jpg
     bookingWidget: ""
 featuredTestimonials:
   description: ""

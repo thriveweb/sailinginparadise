@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact-us
 title: Contact Us
-featuredImage: /uploads/449a8b27-28e0-48a5-a259-a779766a068a.png
+featuredImage: /uploads/449a8b27-28e0-48a5-a259-a779766a068a.jpg
 intro: >-
   ## get in touch with us
 
@@ -11,7 +11,7 @@ intro: >-
 secondaryBanner:
   buttonTitle: Book or enquire now
   buttonUrl: booking-enquiry
-  featuredImage: /uploads/a3732d58-dd7a-44d2-bc7e-ec65d4073729.png
+  featuredImage: /uploads/a3732d58-dd7a-44d2-bc7e-ec65d4073729.jpg
   subtitle: ""
   title: Let’s go sailing in paradise
 meta:

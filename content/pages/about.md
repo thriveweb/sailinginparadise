@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about-us
 title: About Us
-featuredImage: /uploads/2e668bd0-98ad-4de4-8d50-f8f7581c3377.png
+featuredImage: /uploads/2e668bd0-98ad-4de4-8d50-f8f7581c3377.jpg
 intro: >-
   ## our story
 
@@ -28,11 +28,11 @@ intro: >-
 
   All three boats have been carefully selected to offer the same spacious deck area, stable sailing and beach landing capabilities.
 gallery:
-  - image: /uploads/d3fce9ea-25bc-4f10-b643-e67e330427c4.png
-  - image: /uploads/1a97171f-a25e-46d9-a987-2940d52f9607.png
-  - image: /uploads/d63e2ef4-5e96-4662-9f49-a5ca4d34582f.png
-  - image: /uploads/04bf8fb1-7026-457b-8b56-e2890481225c.png
-  - image: /uploads/4f14fbcc-388d-40dd-85d2-26a13ee39e9a.png
+  - image: /uploads/d3fce9ea-25bc-4f10-b643-e67e330427c4.jpg
+  - image: /uploads/1a97171f-a25e-46d9-a987-2940d52f9607.jpg
+  - image: /uploads/d63e2ef4-5e96-4662-9f49-a5ca4d34582f.jpg
+  - image: /uploads/04bf8fb1-7026-457b-8b56-e2890481225c.jpg
+  - image: /uploads/4f14fbcc-388d-40dd-85d2-26a13ee39e9a.jpg
 captainSection:
   captain:
     - description: Sailing in Paradise was the brainchild of Steve. Any of you who
@@ -47,7 +47,7 @@ captainSection:
         on charters.   Steve is driven by a passion for food with a keen
         interest in native Australian produce that he is hoping to align with
         the future vision for Sailing in Paradise.
-      image: /uploads/4f4c708f-0dc2-4ef8-8ff6-3f0a427d3692.png
+      image: /uploads/4f4c708f-0dc2-4ef8-8ff6-3f0a427d3692.jpg
       name: Steve Buckley - Owner / Operator
       socialMedia:
         linkedin: ""
@@ -63,7 +63,7 @@ captainSection:
         our guests where she can . As well as the day-to-day, she is planning
         some exciting things to come for the future of Sailing in Paradise.
         Watch this space!
-      image: /uploads/60e7b3c2-123c-4b4a-9c2e-c3c3bfc99d94.png
+      image: /uploads/60e7b3c2-123c-4b4a-9c2e-c3c3bfc99d94.jpg
       name: Jessica Buckley - Owner / operator
       socialMedia:
         linkedin: ""
@@ -86,7 +86,7 @@ crewSection:
         background in 6-star hospitality and amazing skill behind the camera you
         will be well looked after by Chanelle either on board the boat or in the
         office.
-      image: /uploads/839ed449-4aaf-4f18-a320-15bd026be749.png
+      image: /uploads/839ed449-4aaf-4f18-a320-15bd026be749.jpg
       name: "Chanelle "
       title: Cruise Hostess/Guest Relations
     - content: >-
@@ -96,17 +96,17 @@ crewSection:
 
 
         Dan has a passion for the sea and when he's not out sailing, he can be found wakeboarding or jet skiing. You'll be sure to have a great day out with Daniel, "the captain of your hearts"!
-      image: /uploads/27d8e87d-23c3-4176-8ef2-9eb88a5affd0.png
+      image: /uploads/27d8e87d-23c3-4176-8ef2-9eb88a5affd0.jpg
       name: Daniel
       title: Skipper
-    - image: /uploads/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc.png
+    - image: /uploads/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc.jpg
       name: "Megan "
       title: Cruise Hostess
       content: Megan is always smiling when out on the water and will be sure to make
         your event as special and fun as possible!  Studying to become a
         teacher, her warm and caring nature will make your guests feel at home
         aboard our beautiful vessels.
-    - image: /uploads/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9.png
+    - image: /uploads/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9.jpg
       name: Jemma
       title: Cruise Hostess
       content: Jemma has spent the past 10 years working as an outdoor adventure guide
@@ -114,7 +114,7 @@ crewSection:
         As a self-professed ocean nerd, Jemma will happily talk to you all about
         the local marine life… and she’s always ready to bust a move with our
         guests if the music is right!
-    - image: /uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png
+    - image: /uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.jpg
       name: Deon
       title: Skipper
       content: Deon has a love for the outdoors and 15 years experience in the marine
@@ -122,7 +122,7 @@ crewSection:
         Deon can usually be found hanging out with his dolphin friends and
         caring for our marine environment by rescuing trapped whales and injured
         marine life...  Go Deon!!
-    - image: /uploads/002819f5-2b26-41ac-94b6-e5be7698a290.png
+    - image: /uploads/002819f5-2b26-41ac-94b6-e5be7698a290.jpg
       name: Chelsey
       title: Cruise Hostess
       content: >-
@@ -143,7 +143,7 @@ crewSection:
         skills will ensure you have a seamless booking and charter experience. 
          Feel free to reach out to Mady if you have any questions about booking
         a charter with Sailing in Paradise!
-      image: /uploads/564f4f0d-032b-449b-9436-b176e6a87897.png
+      image: /uploads/564f4f0d-032b-449b-9436-b176e6a87897.jpg
   crewIntro: "## Our Crew
 
 
@@ -159,22 +159,22 @@ crewSection:
 secondaryBanner:
   buttonTitle: Take a Tour
   buttonUrl: our-boats
-  featuredImage: /uploads/06a3b51c-4af5-42ad-aa0a-1d9c2a169443.png
+  featuredImage: /uploads/06a3b51c-4af5-42ad-aa0a-1d9c2a169443.jpg
   subtitle: ""
   title: check out our amazing catamarans
 videoSection:
-  imageOverlay: /uploads/5b87c65e-67fd-47f8-87cc-5cda851116da.png
+  imageOverlay: /uploads/5b87c65e-67fd-47f8-87cc-5cda851116da.jpg
   title: Experience the open water with an affordable yet luxurious adventure
   video: "348353390"
 columnBanner:
   - buttonTitle: See More
     buttonUrl: boat-charter
     title: ready to start planning your private charter?
-    featuredImage: /uploads/b2caa059-80db-459d-8317-b769028c50e9.png
+    featuredImage: /uploads/b2caa059-80db-459d-8317-b769028c50e9.jpg
   - buttonTitle: ""
     buttonUrl: ""
     title: ""
-    featuredImage: /uploads/1009971d-e5a7-4b76-8c13-a7aca1eccd8c.png
+    featuredImage: /uploads/1009971d-e5a7-4b76-8c13-a7aca1eccd8c.jpg
 meta:
   description: Sailing in Paradise offers boat hire and private charters on the
     beautiful Gold Coast Broad Waters. Call 0418 915 222.

@@ -5,7 +5,7 @@ status: Featured / Published
 date: 2018-03-27
 categories:
   - category: News
-featuredImage: /uploads/21846993-44c8-4e96-96e2-e0549d8be1d9.png
+featuredImage: /uploads/21846993-44c8-4e96-96e2-e0549d8be1d9.jpg
 excerpt: Burleigh’s heady mix of cool boutiques, hipster dining, golden beaches,
   surf breaks and awesome walks have long endeared Burleigh with the local crowd
   and are frequented by the Gold Coast’s beautiful people.
@@ -16,7 +16,7 @@ meta:
   noindex: false
   title: Things to do in Burleigh Heads | Sailing In Paradise
 ---
-![Burleigh Heads Beach](/uploads/7a026b9b-2b4c-4e4d-89e4-ead69a06f90d.png)
+![Burleigh Heads Beach](/uploads/7a026b9b-2b4c-4e4d-89e4-ead69a06f90d.jpg)
 
 Ask any Gold Coast local about their favourite places on the GC and Burleigh Heads (or simply Burleigh as it’s known to the locals) is sure to factor in pretty high on the list.   And it’s not hard to see why.  Burleigh’s heady mix of cool boutiques, hipster dining, golden beaches, surf breaks and awesome walks have long endeared Burleigh with the local crowd and are frequented by the Gold Coast’s beautiful people.
 
@@ -40,7 +40,7 @@ If you aren’t up for the walk, there are some great spots on Burleigh hill to 
 
 Renowned worldwide as a pro-surf spot, Burleigh delivers the goods when it comes to its amazing beach.   If you aren’t quite up for the paddle out and just fancy a quick dip, you are sure to find a calm spot most days at Burleigh.
 
-![Girl swimming at Burleigh Point](/uploads/bfc9a668-3424-45d2-8f3e-e1b343b4df21.png)
+![Girl swimming at Burleigh Point](/uploads/bfc9a668-3424-45d2-8f3e-e1b343b4df21.jpg)
 
 **Shop, Shop, Shop (hint: bring your credit card)**
 

@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Christmas Parties
 icon: ""
-featuredImage: /uploads/e6d70810-9de3-4ef3-a87a-1a77be12d43d.png
+featuredImage: /uploads/e6d70810-9de3-4ef3-a87a-1a77be12d43d.jpg
 intro: >-
   ## gold coast Christmas boat party
 
@@ -47,14 +47,14 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/3ac9fb35-c360-45b7-8073-f8fc4276aa3c.png
-  - image: /uploads/8039e778-fc75-4c1d-b801-7857a4ef3559.png
-  - image: /uploads/4f3fd348-7e7c-4f69-811f-140e3557fb21.png
-  - image: /uploads/c041dbaa-ab58-4736-b90e-89e50ab31ff8.png
-  - image: /uploads/145e93bb-d643-42b9-a3f8-90b6d29b837d.png
-  - image: /uploads/ce75f74e-ee06-4b0b-b50b-1e65058423b0.png
-  - image: /uploads/b98bd5bc-c0a1-4483-b2d9-ce7e620bf1f4.png
-  - image: /uploads/3fd391e4-3880-4fa8-982e-b080d96fd92b.png
+  - image: /uploads/3ac9fb35-c360-45b7-8073-f8fc4276aa3c.jpg
+  - image: /uploads/8039e778-fc75-4c1d-b801-7857a4ef3559.jpg
+  - image: /uploads/4f3fd348-7e7c-4f69-811f-140e3557fb21.jpg
+  - image: /uploads/c041dbaa-ab58-4736-b90e-89e50ab31ff8.jpg
+  - image: /uploads/145e93bb-d643-42b9-a3f8-90b6d29b837d.jpg
+  - image: /uploads/ce75f74e-ee06-4b0b-b50b-1e65058423b0.jpg
+  - image: /uploads/b98bd5bc-c0a1-4483-b2d9-ce7e620bf1f4.jpg
+  - image: /uploads/3fd391e4-3880-4fa8-982e-b080d96fd92b.jpg
 videoSection:
   imageOverlay: ""
   video: ""
@@ -71,7 +71,7 @@ contentColumn: >-
   Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
 
 
-  !["Boat charter gold coast sailing in paradise"](/uploads/36492aa7-7dfd-4bf5-95a7-c770c6316850.png)
+  !["Boat charter gold coast sailing in paradise"](/uploads/36492aa7-7dfd-4bf5-95a7-c770c6316850.jpg)
 
 
   ## Christmas Party Ideas
@@ -105,7 +105,7 @@ contentColumn: >-
   If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
 
 
-  ![](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat charter gold coast")
+  ![](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.jpg "Sailing boat charter gold coast")
 
 
   ## The Christmas Party Boats
@@ -321,7 +321,7 @@ columnBanner:
       evening on the water with your team.
     title: Start planning your Christmas Party today
     featuredImage: ""
-  - featuredImage: /uploads/ac32039b-c795-46db-81d3-73994772702d.png
+  - featuredImage: /uploads/ac32039b-c795-46db-81d3-73994772702d.jpg
     content: ""
     bookingWidget: ""
 featuredTestimonials:

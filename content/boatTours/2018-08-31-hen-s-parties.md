@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Hen's Parties
 icon: ""
-featuredImage: /uploads/13fd56d8-1c11-48c8-9edc-178a3637e78a.png
+featuredImage: /uploads/13fd56d8-1c11-48c8-9edc-178a3637e78a.jpg
 intro: >-
   ## gold coast Hens party boat
 
@@ -50,18 +50,18 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/63a56c79-609a-41f2-95c5-5a523aea6dee.png
-  - image: /uploads/f8a8546b-bffb-4f3c-9c64-d9e136af475a.png
-  - image: /uploads/9e1af779-767b-4de5-b0f2-e6d80836bd18.png
-  - image: /uploads/53d6d510-2a29-43c8-915f-6ca97e2e4d3f.png
-  - image: /uploads/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5.png
-  - image: /uploads/df0249f9-b0af-4628-b173-4f7fcf6d334e.png
-  - image: /uploads/8f486ec3-739d-42cd-a1bb-1542175aeadb.png
-  - image: /uploads/cf31a2d2-534a-4238-bdc8-030a3c3ec420.png
-  - image: /uploads/a8ae5472-af71-4979-b08d-053423dd479e.png
-  - image: /uploads/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1.png
-  - image: /uploads/4d311d5c-48ce-49af-ba59-52279b0f1d86.png
-  - image: /uploads/9d2866d7-f659-43e2-b6c0-66e29f9d8a66.png
+  - image: /uploads/63a56c79-609a-41f2-95c5-5a523aea6dee.jpg
+  - image: /uploads/f8a8546b-bffb-4f3c-9c64-d9e136af475a.jpg
+  - image: /uploads/9e1af779-767b-4de5-b0f2-e6d80836bd18.jpg
+  - image: /uploads/53d6d510-2a29-43c8-915f-6ca97e2e4d3f.jpg
+  - image: /uploads/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5.jpg
+  - image: /uploads/df0249f9-b0af-4628-b173-4f7fcf6d334e.jpg
+  - image: /uploads/8f486ec3-739d-42cd-a1bb-1542175aeadb.jpg
+  - image: /uploads/cf31a2d2-534a-4238-bdc8-030a3c3ec420.jpg
+  - image: /uploads/a8ae5472-af71-4979-b08d-053423dd479e.jpg
+  - image: /uploads/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1.jpg
+  - image: /uploads/4d311d5c-48ce-49af-ba59-52279b0f1d86.jpg
+  - image: /uploads/9d2866d7-f659-43e2-b6c0-66e29f9d8a66.jpg
 videoSection:
   imageOverlay: ""
   video: ""
@@ -87,7 +87,7 @@ contentColumn: >-
   The large trampoline style fore-decks are perfect for lazing in the sunshine or dancing as the sun sets over the calm, clear waters of the Gold Coast. There is an ample undercover space for all weather sailing.    Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
 
 
-  ![hen's party boat gold coast](/uploads/b3b8a3c7-5a4f-4ea1-b7c9-9a129713c208.png)
+  ![hen's party boat gold coast](/uploads/b3b8a3c7-5a4f-4ea1-b7c9-9a129713c208.jpg)
 
 
   **[C﻿LICK TO E﻿NQUIRE NOW ](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)**
@@ -327,7 +327,7 @@ columnBanner:
       your dreams
     buttonTitle: Send me the info
     buttonUrl: booking-enquiry/
-  - featuredImage: /uploads/6ac5219c-f16a-4c03-8106-4c86e53f41a7.png
+  - featuredImage: /uploads/6ac5219c-f16a-4c03-8106-4c86e53f41a7.jpg
 featuredTestimonials:
   description: Ruby booked a hen's party charter for her interstate hen to
     experience the Gold Coast

@@ -137,11 +137,11 @@ class Layout extends Component {
 
                 <meta 
                   property='og:image'
-                  content='/uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.png'
+                  content='/uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.jpg'
                 />
                 <meta 
                   property='twitter:image'
-                  content='/uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.png'
+                  content='/uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.jpg'
                 />
 
                 <script

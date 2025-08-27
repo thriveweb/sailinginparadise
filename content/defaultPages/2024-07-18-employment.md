@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 title: Employment
-featuredImage: /uploads/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb.png
+featuredImage: /uploads/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb.jpg
 content: >-
   S﻿ailing in Paradise offers a fun and varied work environment on board our
   fleet of 3 sailing catamarans on the Gold Coast Broadwater.   Departing Main
@@ -26,7 +26,7 @@ content: >-
   (Further details below) 
 
 
-  ![](/uploads/c2d54d27-cfc2-454f-ab05-56d40dc2331b.png)
+  ![](/uploads/c2d54d27-cfc2-454f-ab05-56d40dc2331b.jpg)
 
 
   **Skippers**
@@ -87,7 +87,7 @@ content: >-
 
   * As we are a licensed venue we would require the applicant to hold a current RSA ticket (or happy to obtain one).
 
-    ![](/uploads/a29f7d25-32fb-4ee9-baf7-678c8b354077.png)
+    ![](/uploads/a29f7d25-32fb-4ee9-baf7-678c8b354077.jpg)
 
   **Deckhand/Hostess**
 
@@ -169,5 +169,5 @@ content: >-
 
     T﻿o apply please contact us at;
 
-    ![](/uploads/dd070988-43ac-4492-bb08-226892425bd8.png)
+    ![](/uploads/dd070988-43ac-4492-bb08-226892425bd8.jpg)
 ---

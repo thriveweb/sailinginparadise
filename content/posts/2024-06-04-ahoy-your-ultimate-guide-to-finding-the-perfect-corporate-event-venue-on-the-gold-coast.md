@@ -4,7 +4,7 @@ title: Ahoy! Your Ultimate Guide to Finding the Perfect Corporate Event Venue on
   the Gold Coast
 status: Published
 date: 2024-06-04T10:24:00.983Z
-featuredImage: /uploads/88f83fbb-1060-4817-95e8-97beab2808c1.png
+featuredImage: /uploads/88f83fbb-1060-4817-95e8-97beab2808c1.jpg
 excerpt: Looking for the perfect event venue on the Gold Coast?  We have one
   that will float your boat.
 videoSection:
@@ -37,4 +37,4 @@ In this short blog, we'll explore everything you need to know about finding the 
 2. Choose the Right Charter Boat Company: With numerous charter boat companies vying for your business, it's essential to choose one that aligns with your vision and requirements. Look for companies with a proven track record of hosting successful corporate events and rave reviews from satisfied clients. At Sailing in Paradise we have been hosting corporate events for many years from big multinational conference groups through to small business owners with their teams (and everything in between). 
 3. Choosing the right vessel for your group:  Bear in mind when selecting your vessel that the style of boat your choose is important in determining the feel of your event.   There are a wide range of charter vessels available in Gold Coast Waters from Super Yachts to Sailing Cats, Motor Cruisers to Party Boats and everything in between.  Knowledge is power when it comes to boat selection and we firmly believe that its important that guests are empowered with this info prior to picking a boat.  Of course we would love you to book with Sailing in Paradise but we also understand and respect that every vessel does not suit every client – we recommend checking out our blog ‘How to pick the perfect charter boat on the Gold Coast’ for more info.    
 
-   ![Sailing in Paradise Boat Charter Gold Coast](/uploads/068bc220-6003-4e54-aac0-a60523ad8b51.png "Sailing in Paradise Boat Charter Gold Coast")
+   ![Sailing in Paradise Boat Charter Gold Coast](/uploads/068bc220-6003-4e54-aac0-a60523ad8b51.jpg "Sailing in Paradise Boat Charter Gold Coast")

@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 title: Charter Guest Brief
-featuredImage: /uploads/13a84dfa-cab1-48db-b79a-c7dbde7eba0f.png
+featuredImage: /uploads/13a84dfa-cab1-48db-b79a-c7dbde7eba0f.jpg
 content: >-
   ### WELCOME TO SAILING IN PARADISE!
 
@@ -48,7 +48,7 @@ content: >-
   If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you.
 
 
-  ![](/uploads/0a433e7a-742b-40b6-aaf5-bc566d5d7a73.png)
+  ![](/uploads/0a433e7a-742b-40b6-aaf5-bc566d5d7a73.jpg)
 
 
   ###### BOARDING INFO

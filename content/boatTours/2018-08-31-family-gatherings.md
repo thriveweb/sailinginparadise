@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Family Charters
 icon: ""
-featuredImage: /uploads/a87a0211-dfa8-4d84-b6d4-87ababbecf6c.png
+featuredImage: /uploads/a87a0211-dfa8-4d84-b6d4-87ababbecf6c.jpg
 intro: >-
   ## gold coast Family yacht charters
 
@@ -22,24 +22,24 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/cc700503-a014-4961-8580-a33dd56ee748.png
-  - image: /uploads/72c2badc-b77b-4a3a-b0b0-fc851cbe5e3c.png
-  - image: /uploads/4f63cc38-65c9-4bad-830a-cf3b9c413c46.png
-  - image: /uploads/e45f243c-9b3a-4c40-b615-b6946b170f50.png
-  - image: /uploads/6e743e38-355a-4605-b57c-2c1ccbc18af3.png
-  - image: /uploads/8ae177a1-3c5d-4cad-ba6b-6a1684a2eef7.png
-  - image: /uploads/019825e9-7bc2-4c67-86b5-3b1f66ccfed9.png
-  - image: /uploads/ef6a2325-de53-4007-a712-e1502b95d129.png
-  - image: /uploads/7f0e5b62-2441-42f3-8f67-2ee94243a8d1.png
-  - image: /uploads/06df8116-079f-4783-bb10-7a53a1f2314a.png
-  - image: /uploads/89f6bee2-0aba-4346-a67b-c2a90a5bc8d2.png
-  - image: /uploads/968255bb-4f73-480d-8766-99321f2ca627.png
-  - image: /uploads/5a181ef4-94b4-4f14-9b4e-8b7c80410505.png
-  - image: /uploads/17cd8650-040f-4cab-adfb-2aefe148c5f8.png
-  - image: /uploads/567a2a33-8028-455c-8bc5-407925a6a45b.png
-  - image: /uploads/92089020-50ec-4dac-b3eb-dd96db1cc273.png
+  - image: /uploads/cc700503-a014-4961-8580-a33dd56ee748.jpg
+  - image: /uploads/72c2badc-b77b-4a3a-b0b0-fc851cbe5e3c.jpg
+  - image: /uploads/4f63cc38-65c9-4bad-830a-cf3b9c413c46.jpg
+  - image: /uploads/e45f243c-9b3a-4c40-b615-b6946b170f50.jpg
+  - image: /uploads/6e743e38-355a-4605-b57c-2c1ccbc18af3.jpg
+  - image: /uploads/8ae177a1-3c5d-4cad-ba6b-6a1684a2eef7.jpg
+  - image: /uploads/019825e9-7bc2-4c67-86b5-3b1f66ccfed9.jpg
+  - image: /uploads/ef6a2325-de53-4007-a712-e1502b95d129.jpg
+  - image: /uploads/7f0e5b62-2441-42f3-8f67-2ee94243a8d1.jpg
+  - image: /uploads/06df8116-079f-4783-bb10-7a53a1f2314a.jpg
+  - image: /uploads/89f6bee2-0aba-4346-a67b-c2a90a5bc8d2.jpg
+  - image: /uploads/968255bb-4f73-480d-8766-99321f2ca627.jpg
+  - image: /uploads/5a181ef4-94b4-4f14-9b4e-8b7c80410505.jpg
+  - image: /uploads/17cd8650-040f-4cab-adfb-2aefe148c5f8.jpg
+  - image: /uploads/567a2a33-8028-455c-8bc5-407925a6a45b.jpg
+  - image: /uploads/92089020-50ec-4dac-b3eb-dd96db1cc273.jpg
 videoSection:
-  imageOverlay: /uploads/5896d6be-d370-4425-8754-380e95e581d5.png
+  imageOverlay: /uploads/5896d6be-d370-4425-8754-380e95e581d5.jpg
   video: "493602940"
   title: The perfect family day out!
 contentColumnTitle: Bring the family together!
@@ -242,8 +242,8 @@ columnBanner:
     content: Let our friendly and experienced team tailor a Family Boat Charter that
       they won’t forget.
     title: Give your family the experience of a lifetime!
-    featuredImage: /uploads/c3349743-5713-4c0b-86f5-1911221ab1e9.png
-  - featuredImage: /uploads/17f9895a-62ef-4d6e-8cd5-ac79c1db17fb.png
+    featuredImage: /uploads/c3349743-5713-4c0b-86f5-1911221ab1e9.jpg
+  - featuredImage: /uploads/17f9895a-62ef-4d6e-8cd5-ac79c1db17fb.jpg
 featuredTestimonials:
   description: We took Tim and his family out with us for a private charter, read
     about their experience with us here...

@@ -24,7 +24,7 @@ gallery:
   - image: https://ucarecdn.com/dd9b90c8-037c-4952-8cc7-64bbcd8d551b/-/crop/1732x1338/0,468/-/preview/
   - image: https://ucarecdn.com/69031016-4585-4ae7-9c99-d6b286e73184/
   - image: https://ucarecdn.com/475662b7-1f66-46f9-b8dc-82791b4ccb9b/
-  - image: /uploads/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e.png
+  - image: /uploads/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e.jpg
 boatListingFeatures:
   - content: The O.G.
   - content: Suitable for up to 30 guests
@@ -47,7 +47,7 @@ boatFeatures:
 boatFeaturesButtonText: ENQUIRE NOW
 boatFeaturesButtonLink: /booking-enquiry/
 videoSection:
-  imageOverlay: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.png
+  imageOverlay: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.jpg
   title: Spirit of Gwonda Video Walk-through
   video: "1109533855"
   ctaText: Take a Tour

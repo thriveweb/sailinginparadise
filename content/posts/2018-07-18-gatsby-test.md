@@ -6,7 +6,7 @@ date: '2018-07-18'
 categories:
   - category: Updates
   - category: News
-featuredImage: '/uploads/75b0f01b-1418-4bc2-b151-8aa5ad4a09ef.png'
+featuredImage: '/uploads/75b0f01b-1418-4bc2-b151-8aa5ad4a09ef.jpg'
 excerpt: >-
   An area close to our hearts, as we call it home! For such a small suburb Main
   Beach sure crams some variety into the mix.

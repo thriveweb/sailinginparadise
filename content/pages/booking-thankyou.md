@@ -3,7 +3,7 @@ template: BookingThankYou
 slug: thank-you-booking-enquiry
 title: Thank you for your booking enquiry
 featuredImage: >-
-  /uploads/3058f634-da87-4aa1-9c42-25b706b77232.png
+  /uploads/3058f634-da87-4aa1-9c42-25b706b77232.jpg
 intro: >-
   ## Success
 

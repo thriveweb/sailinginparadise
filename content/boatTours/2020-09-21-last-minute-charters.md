@@ -2,8 +2,8 @@
 template: SingleBoatTour
 tourType: Boat Charter
 title: Last Minute Charters
-icon: /uploads/746a0750-45be-4c63-9d8e-2279d30e0442.png
-featuredImage: /uploads/25fc3e45-1762-4c98-81a1-89866e3535b3.png
+icon: /uploads/746a0750-45be-4c63-9d8e-2279d30e0442.jpg
+featuredImage: /uploads/25fc3e45-1762-4c98-81a1-89866e3535b3.jpg
 intro: >-
   ##### Last Minute rates
 
@@ -23,7 +23,7 @@ intro: >-
   To explore our last minute rates and available please click to ['check availability and book now'.](https://sailinginparadise.rezdy.com/catalog/412461/last-minute-charter-bookings)
 
 
-  ![](/uploads/9c8c3201-0cf3-4f13-9828-afd4f86b04b9.png)
+  ![](/uploads/9c8c3201-0cf3-4f13-9828-afd4f86b04b9.jpg)
 
 
   ### What's included?
