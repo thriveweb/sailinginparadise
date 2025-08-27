@@ -2,7 +2,7 @@
 template: SingleBoatTour
 tourType: Cruise
 title: Christmas Special Gift Vouchers
-featuredImage: /uploads/8aa4b228-3203-4d36-943d-93f34ab5f785.png
+featuredImage: /uploads/8aa4b228-3203-4d36-943d-93f34ab5f785.jpg
 intro: >-
   Give the gift of experience this Christmas!  
 
@@ -25,12 +25,12 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/35f18be0-a3d1-4f5f-9786-2f3dc587525b.png
-  - image: /uploads/351241fc-1d70-4b01-884e-47c49f83129c.png
-  - image: /uploads/9db34c00-7a97-4946-a432-6b799232eccf.png
-  - image: /uploads/e3f15ee7-f943-441b-a3bc-f1a8794baad3.png
-  - image: /uploads/dd394e5f-ad7c-4eab-8f37-965866685359.png
-  - image: /uploads/2bebddad-4000-4ff2-991e-b6c2590e5073.png
+  - image: /uploads/35f18be0-a3d1-4f5f-9786-2f3dc587525b.jpg
+  - image: /uploads/351241fc-1d70-4b01-884e-47c49f83129c.jpg
+  - image: /uploads/9db34c00-7a97-4946-a432-6b799232eccf.jpg
+  - image: /uploads/e3f15ee7-f943-441b-a3bc-f1a8794baad3.jpg
+  - image: /uploads/dd394e5f-ad7c-4eab-8f37-965866685359.jpg
+  - image: /uploads/2bebddad-4000-4ff2-991e-b6c2590e5073.jpg
 videoSection:
   title: ""
 contentColumn: >-

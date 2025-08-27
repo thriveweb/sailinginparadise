@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 title: Private Charter Guest Info
-featuredImage: /uploads/13a84dfa-cab1-48db-b79a-c7dbde7eba0f.png
+featuredImage: /uploads/13a84dfa-cab1-48db-b79a-c7dbde7eba0f.jpg
 content: >-
   ### WELCOME TO SAILING IN PARADISE!
 
@@ -48,7 +48,7 @@ content: >-
   If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you.
 
 
-  ![](/uploads/18187796-18fb-42e5-b8c1-bcb87f39331f.png)
+  ![](/uploads/18187796-18fb-42e5-b8c1-bcb87f39331f.jpg)
 
 
   ###### BOARDING INFO

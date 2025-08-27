@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Romantic Sails
 icon: ""
-featuredImage: /uploads/a511561a-a3ed-4f76-989b-f28bb7d461e8.png
+featuredImage: /uploads/a511561a-a3ed-4f76-989b-f28bb7d461e8.jpg
 intro: >-
   ## Gold Coast Romantic Sails
 
@@ -25,22 +25,22 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/bfadca2a-5bbc-43e3-8a86-0d1c53b2f5cb.png
-  - image: /uploads/c07567b0-d897-4b34-a4e2-912d6c2b7be3.png
-  - image: /uploads/ed54039c-1ff2-4ebe-b213-cab0c02fdedf.png
-  - image: /uploads/7904d3bf-efec-4268-8b49-e22bc725525c.png
-  - image: /uploads/7533995e-9f02-458c-a2a2-6261b372207a.png
-  - image: /uploads/e926884b-eb80-43b9-beb2-1e0dc59db866.png
-  - image: /uploads/a4fc044d-a3f8-4abe-b3b8-065f83e7bab0.png
-  - image: /uploads/33dd5bcc-e2e6-4245-b1a1-c9c209077c79.png
-  - image: /uploads/067f0e1e-d7d9-49b5-963a-b4a0438d86bd.png
-  - image: /uploads/532a611b-cc82-4ae5-bdbb-07b5fd376dc2.png
-  - image: /uploads/354ee4a5-d699-4e37-a389-ea6c38f5ee11.png
-  - image: /uploads/83c208e5-21c1-484d-8703-112d1c049059.png
-  - image: /uploads/acdd7e3e-3dff-452b-8678-0862e71a96a8.png
-  - image: /uploads/576fd77d-f901-4e01-94ec-fcf4d095b493.png
-  - image: /uploads/c927653a-c1dd-4f4b-b9b4-4f8de6c7593f.png
-  - image: /uploads/08d0174d-8ed3-4f42-9455-57e83dc152b5.png
+  - image: /uploads/bfadca2a-5bbc-43e3-8a86-0d1c53b2f5cb.jpg
+  - image: /uploads/c07567b0-d897-4b34-a4e2-912d6c2b7be3.jpg
+  - image: /uploads/ed54039c-1ff2-4ebe-b213-cab0c02fdedf.jpg
+  - image: /uploads/7904d3bf-efec-4268-8b49-e22bc725525c.jpg
+  - image: /uploads/7533995e-9f02-458c-a2a2-6261b372207a.jpg
+  - image: /uploads/e926884b-eb80-43b9-beb2-1e0dc59db866.jpg
+  - image: /uploads/a4fc044d-a3f8-4abe-b3b8-065f83e7bab0.jpg
+  - image: /uploads/33dd5bcc-e2e6-4245-b1a1-c9c209077c79.jpg
+  - image: /uploads/067f0e1e-d7d9-49b5-963a-b4a0438d86bd.jpg
+  - image: /uploads/532a611b-cc82-4ae5-bdbb-07b5fd376dc2.jpg
+  - image: /uploads/354ee4a5-d699-4e37-a389-ea6c38f5ee11.jpg
+  - image: /uploads/83c208e5-21c1-484d-8703-112d1c049059.jpg
+  - image: /uploads/acdd7e3e-3dff-452b-8678-0862e71a96a8.jpg
+  - image: /uploads/576fd77d-f901-4e01-94ec-fcf4d095b493.jpg
+  - image: /uploads/c927653a-c1dd-4f4b-b9b4-4f8de6c7593f.jpg
+  - image: /uploads/08d0174d-8ed3-4f42-9455-57e83dc152b5.jpg
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ""
@@ -227,9 +227,9 @@ columnBanner:
     content: Let our friendly and experienced team tailor a Romantic Sail for you
       both to enjoy
     title: romance under sail...
-    featuredImage: /uploads/ff047696-d270-4df2-b368-61f1443b93b5.png
+    featuredImage: /uploads/ff047696-d270-4df2-b368-61f1443b93b5.jpg
   - buttonTitle: ""
-    featuredImage: /uploads/ace3d138-0f8b-4468-86e0-38313771f2b3.png
+    featuredImage: /uploads/ace3d138-0f8b-4468-86e0-38313771f2b3.jpg
 featuredTestimonials:
   description: Check out this lovely review from Taryn who chartered a boat for a
     romantic sail with us...

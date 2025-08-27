@@ -1,7 +1,7 @@
 ---
 template: SingleBoat
 title: Oceans Deluxe
-featuredImage: /uploads/033861dd-c518-48e0-a767-176f44073284.png
+featuredImage: /uploads/033861dd-c518-48e0-a767-176f44073284.jpg
 description: >-
   ### **O﻿CEANS - UP TO 30 GUESTS**
 
@@ -20,14 +20,14 @@ bookingIframe: >-
   <!--EndFragment-->
 boatFeaturesIntro: ""
 gallery:
-  - image: /uploads/771916aa-1471-4f2a-b6fd-d6f0207cdcf4.png
-  - image: /uploads/987ab6b6-b626-4996-8df6-0fd15ffdd0a3.png
-  - image: /uploads/50f425d0-4c4e-4ef9-b6a7-f210d274f574.png
-  - image: /uploads/6e5a4b1d-64e6-404f-8177-b052f1dbae8b.png
-  - image: /uploads/798562c0-188d-42ea-8e4a-fd9267b4eb9c.png
-  - image: /uploads/0e3170b2-7d7d-4605-94ba-8744f1d458d9.png
-  - image: /uploads/c92a9b14-1df3-4135-9c14-e313b734264b.png
-  - image: /uploads/12879a49-dd42-49fa-85cb-a9db8521d7a3.png
+  - image: /uploads/771916aa-1471-4f2a-b6fd-d6f0207cdcf4.jpg
+  - image: /uploads/987ab6b6-b626-4996-8df6-0fd15ffdd0a3.jpg
+  - image: /uploads/50f425d0-4c4e-4ef9-b6a7-f210d274f574.jpg
+  - image: /uploads/6e5a4b1d-64e6-404f-8177-b052f1dbae8b.jpg
+  - image: /uploads/798562c0-188d-42ea-8e4a-fd9267b4eb9c.jpg
+  - image: /uploads/0e3170b2-7d7d-4605-94ba-8744f1d458d9.jpg
+  - image: /uploads/c92a9b14-1df3-4135-9c14-e313b734264b.jpg
+  - image: /uploads/12879a49-dd42-49fa-85cb-a9db8521d7a3.jpg
 boatListingFeatures:
   - content: Deluxe Vessel
   - content: Suitable for 2 to 30 guests

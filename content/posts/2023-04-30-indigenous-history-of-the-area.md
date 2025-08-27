@@ -3,7 +3,7 @@ template: SinglePost
 title: Indigenous history of the area
 status: Published
 date: 2023-01-31T21:28:48.023Z
-featuredImage: /uploads/390c1718-b5d6-4977-b978-b72035e80356.png
+featuredImage: /uploads/390c1718-b5d6-4977-b978-b72035e80356.jpg
 videoSection:
   title: ""
 ---

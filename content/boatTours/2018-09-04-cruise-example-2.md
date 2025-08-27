@@ -2,7 +2,7 @@
 template: SingleBoatTour
 tourType: Cruise
 title: Gold Coast Island Cruise
-featuredImage: /uploads/90385426-9887-4332-9389-1a4211b34104.png
+featuredImage: /uploads/90385426-9887-4332-9389-1a4211b34104.jpg
 intro: >-
   ## Gold Coast island cruise
 
@@ -20,17 +20,17 @@ contentBox:
   title: Experience the true beauty of the Gold Coast's island beaches.
 bookingIframe: ""
 gallery:
-  - image: /uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.png
-  - image: /uploads/04d833ad-6334-43e4-af83-658592b32b09.png
-  - image: /uploads/83c2a001-9e25-4d5c-ac16-01c312586349.png
-  - image: /uploads/1df2e90b-4a80-434a-baf2-df316b155ea1.png
-  - image: /uploads/ac03c5de-eeb7-4960-adea-20f4284ddbcd.png
-  - image: /uploads/3af10b85-48d4-4283-8a3c-3cddf165c0c9.png
-  - image: /uploads/0b4bb3c9-2d65-4d82-9dfb-5be31fc79e88.png
-  - image: /uploads/22ecb641-a4d3-4476-b268-b53dc917a9c7.png
-  - image: /uploads/da3a53ae-83d4-46d3-9b0b-43d13a93dad7.png
-  - image: /uploads/405c3ac4-262d-41c7-a97d-d3941f6c3cc0.png
-  - image: /uploads/a87ff58b-7783-4f53-bdd3-f33de7f40e10.png
+  - image: /uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.jpg
+  - image: /uploads/04d833ad-6334-43e4-af83-658592b32b09.jpg
+  - image: /uploads/83c2a001-9e25-4d5c-ac16-01c312586349.jpg
+  - image: /uploads/1df2e90b-4a80-434a-baf2-df316b155ea1.jpg
+  - image: /uploads/ac03c5de-eeb7-4960-adea-20f4284ddbcd.jpg
+  - image: /uploads/3af10b85-48d4-4283-8a3c-3cddf165c0c9.jpg
+  - image: /uploads/0b4bb3c9-2d65-4d82-9dfb-5be31fc79e88.jpg
+  - image: /uploads/22ecb641-a4d3-4476-b268-b53dc917a9c7.jpg
+  - image: /uploads/da3a53ae-83d4-46d3-9b0b-43d13a93dad7.jpg
+  - image: /uploads/405c3ac4-262d-41c7-a97d-d3941f6c3cc0.jpg
+  - image: /uploads/a87ff58b-7783-4f53-bdd3-f33de7f40e10.jpg
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ""
@@ -105,7 +105,7 @@ columnBanner:
       new date (if you cannot see your preferred date as available).
     title: Book your Private Gold Coast Island Cruise Today
     featuredImage: ""
-  - featuredImage: /uploads/eb0dbf13-8b4a-4386-b9e2-ae289024029d.png
+  - featuredImage: /uploads/eb0dbf13-8b4a-4386-b9e2-ae289024029d.jpg
 featuredTestimonials:
   description: Check out Sandy's lovely review about her and her husband's
     experience on our Sunset and City Lights Cruise...

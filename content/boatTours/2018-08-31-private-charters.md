@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Private Charters
 icon: ""
-featuredImage: /uploads/5fb2ff23-e85f-4e32-939b-9d48808c3a31.png
+featuredImage: /uploads/5fb2ff23-e85f-4e32-939b-9d48808c3a31.jpg
 intro: >-
   ## gold coast Private Charter boat
 
@@ -25,26 +25,26 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/837421ea-a5da-41b7-9153-703081b3e1b3.png
-  - image: /uploads/054e68d5-3cd0-44c8-bad9-90af5191867e.png
-  - image: /uploads/b09330b7-2809-4422-a09e-b57602631baf.png
-  - image: /uploads/edac77ce-7a56-442f-a631-21e7b32f73f2.png
-  - image: /uploads/0320f8b4-f407-41e2-9da9-50c5bc6a3af6.png
-  - image: /uploads/b6f0f33c-7420-4891-adec-e98166fff3a3.png
-  - image: /uploads/fb3c9bfb-5eeb-46a3-858f-3e37de05c45f.png
-  - image: /uploads/0b125dc9-7cb0-4f19-8c0f-2022cd12887f.png
-  - image: /uploads/c21f6290-35ed-4c25-bcb4-d83f24022796.png
-  - image: /uploads/59f12649-5e70-4a06-a016-5bf9d191f67f.png
-  - image: /uploads/0bf0067c-8c39-4f91-aae9-60e3086f859b.png
-  - image: /uploads/34c9a85f-f067-4159-8a14-2c05ae69f2d0.png
-  - image: /uploads/116d7759-df41-4481-b8b1-d929ea58cdbc.png
-  - image: /uploads/cd7ce99c-f6c7-4b0d-9016-40088413f3c5.png
-  - image: /uploads/423937f1-fc1c-4e9c-a803-349848e7752e.png
-  - image: /uploads/95e275f6-8143-4fef-b298-24d89b8a4738.png
-  - image: /uploads/5be94011-b667-4b11-8b76-fb00b6e7a809.png
-  - image: /uploads/3af242b5-a29b-4890-83e4-2687330a4f99.png
+  - image: /uploads/837421ea-a5da-41b7-9153-703081b3e1b3.jpg
+  - image: /uploads/054e68d5-3cd0-44c8-bad9-90af5191867e.jpg
+  - image: /uploads/b09330b7-2809-4422-a09e-b57602631baf.jpg
+  - image: /uploads/edac77ce-7a56-442f-a631-21e7b32f73f2.jpg
+  - image: /uploads/0320f8b4-f407-41e2-9da9-50c5bc6a3af6.jpg
+  - image: /uploads/b6f0f33c-7420-4891-adec-e98166fff3a3.jpg
+  - image: /uploads/fb3c9bfb-5eeb-46a3-858f-3e37de05c45f.jpg
+  - image: /uploads/0b125dc9-7cb0-4f19-8c0f-2022cd12887f.jpg
+  - image: /uploads/c21f6290-35ed-4c25-bcb4-d83f24022796.jpg
+  - image: /uploads/59f12649-5e70-4a06-a016-5bf9d191f67f.jpg
+  - image: /uploads/0bf0067c-8c39-4f91-aae9-60e3086f859b.jpg
+  - image: /uploads/34c9a85f-f067-4159-8a14-2c05ae69f2d0.jpg
+  - image: /uploads/116d7759-df41-4481-b8b1-d929ea58cdbc.jpg
+  - image: /uploads/cd7ce99c-f6c7-4b0d-9016-40088413f3c5.jpg
+  - image: /uploads/423937f1-fc1c-4e9c-a803-349848e7752e.jpg
+  - image: /uploads/95e275f6-8143-4fef-b298-24d89b8a4738.jpg
+  - image: /uploads/5be94011-b667-4b11-8b76-fb00b6e7a809.jpg
+  - image: /uploads/3af242b5-a29b-4890-83e4-2687330a4f99.jpg
 videoSection:
-  imageOverlay: /uploads/529672e8-e082-475b-bb88-3360acb4912e.png
+  imageOverlay: /uploads/529672e8-e082-475b-bb88-3360acb4912e.jpg
   title: How your private charter could look...
   video: "349382726"
 contentColumnTitle: Imagine setting sail on your own private yacht
@@ -242,12 +242,12 @@ columnBanner:
     buttonUrl: booking-enquiry
     content: Send me some info...
     title: Start planning my charter
-    featuredImage: /uploads/60cf28b4-7151-4fea-ae4c-0a8601e88000.png
+    featuredImage: /uploads/60cf28b4-7151-4fea-ae4c-0a8601e88000.jpg
   - buttonTitle: ""
     buttonUrl: ""
     content: ""
     title: ""
-    featuredImage: /uploads/17b4668a-b462-4c3f-b247-ed3ef1eaad5e.png
+    featuredImage: /uploads/17b4668a-b462-4c3f-b247-ed3ef1eaad5e.jpg
 featuredTestimonials:
   description: Bree has been out with us 3 times now, check out her lovely review here...
   testimonial: Bree, Aus

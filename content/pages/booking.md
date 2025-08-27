@@ -3,7 +3,7 @@ template: Booking
 slug: booking-enquiry
 title: Booking Enquiry
 featuredImage: >-
-  /uploads/3058f634-da87-4aa1-9c42-25b706b77232.png
+  /uploads/3058f634-da87-4aa1-9c42-25b706b77232.jpg
 intro: >-
   ## LET'S GO SAILING IN PARADISE
 

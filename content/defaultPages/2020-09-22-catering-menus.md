@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 title: "Catering "
-featuredImage: /uploads/8cd84a2b-8d90-4027-9cb9-9ad408a68413.png
+featuredImage: /uploads/8cd84a2b-8d90-4027-9cb9-9ad408a68413.jpg
 content: >-
   Partnering with professional quality caterers, we can arrange delicious food
   on your behalf for a stress-free cruise. BYO is also possible if you prefer. 

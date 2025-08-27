@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Memorial Charters
 icon: ""
-featuredImage: /uploads/66e3ed8a-68d0-48ca-bc82-5afedd1d2e3b.png
+featuredImage: /uploads/66e3ed8a-68d0-48ca-bc82-5afedd1d2e3b.jpg
 intro: >-
   A scattering of ashes at sea is often chosen by families whose dearly departed
   had a love of the water or boating.  As we too share this love, we will do
@@ -22,14 +22,14 @@ contentBox:
   buttonUrl: booking-enquiry
   title: ""
 gallery:
-  - image: /uploads/3ff58452-e97c-4bba-b535-3852fcb3e57e.png
-  - image: /uploads/831ac488-7f38-411e-9e78-c43f9f8a75aa.png
-  - image: /uploads/b88ce2ca-f141-4565-91ea-e22d1297ccca.png
-  - image: /uploads/dbf82333-a81f-4381-8771-09a24aba9a16.png
-  - image: /uploads/7ca021c5-3bed-4768-b464-f8b732fb4be3.png
-  - image: /uploads/4f534e5f-a6eb-4d96-a072-a9615f91e752.png
-  - image: /uploads/9c91b6f0-b6d3-4082-a836-7a58f33f9ee9.png
-  - image: /uploads/0643faba-bb3f-463a-b8f8-b4af78518cbb.png
+  - image: /uploads/3ff58452-e97c-4bba-b535-3852fcb3e57e.jpg
+  - image: /uploads/831ac488-7f38-411e-9e78-c43f9f8a75aa.jpg
+  - image: /uploads/b88ce2ca-f141-4565-91ea-e22d1297ccca.jpg
+  - image: /uploads/dbf82333-a81f-4381-8771-09a24aba9a16.jpg
+  - image: /uploads/7ca021c5-3bed-4768-b464-f8b732fb4be3.jpg
+  - image: /uploads/4f534e5f-a6eb-4d96-a072-a9615f91e752.jpg
+  - image: /uploads/9c91b6f0-b6d3-4082-a836-7a58f33f9ee9.jpg
+  - image: /uploads/0643faba-bb3f-463a-b8f8-b4af78518cbb.jpg
 videoSection:
   imageOverlay: ""
   video: ""
@@ -170,7 +170,7 @@ columnBanner:
       your wishes.
     title: "Enquire now "
     featuredImage: /images/uploads/girl-img-column2.jpg
-  - featuredImage: /uploads/8bc0eee6-214b-4662-90a7-633c81e192c4.png
+  - featuredImage: /uploads/8bc0eee6-214b-4662-90a7-633c81e192c4.jpg
 featuredTestimonials:
   description: We were honoured to look after Elyce and her family for their loved
     ones memorial cruise. Read her lovely review here...

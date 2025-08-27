@@ -1,7 +1,7 @@
 ---
 template: SingleBoat
 title: Island Time
-featuredImage: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.png
+featuredImage: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.jpg
 description: >-
   ### **Seawind 1160 Resort - up to 42 Guests**
 
@@ -27,15 +27,15 @@ contentBox:
   title: ""
 boatFeaturesIntro: ""
 gallery:
-  - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.png
-  - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.png
-  - image: /uploads/c83f6f16-25c4-42f7-a968-3684267485cf.png
-  - image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.png
-  - image: /uploads/975d5213-c405-48eb-9bc6-d653304a9d5b.png
-  - image: /uploads/05568c86-c0de-4fe7-8230-33f0db7327dd.png
-  - image: /uploads/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9.png
-  - image: /uploads/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad.png
-  - image: /uploads/cbb8f5cc-402f-48e2-ac76-87e947dbd041.png
+  - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.jpg
+  - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.jpg
+  - image: /uploads/c83f6f16-25c4-42f7-a968-3684267485cf.jpg
+  - image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.jpg
+  - image: /uploads/975d5213-c405-48eb-9bc6-d653304a9d5b.jpg
+  - image: /uploads/05568c86-c0de-4fe7-8230-33f0db7327dd.jpg
+  - image: /uploads/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9.jpg
+  - image: /uploads/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad.jpg
+  - image: /uploads/cbb8f5cc-402f-48e2-ac76-87e947dbd041.jpg
 boatListingFeatures:
   - content: New Vessel
   - content: Suitable for up to 42 guests
@@ -62,7 +62,7 @@ boatFeaturesButtonText: ENQUIRE NOW
 boatFeaturesButtonLink: /booking-enquiry/
 videoSection:
   title: "Island Time Video Tour "
-  imageOverlay: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.png
+  imageOverlay: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.jpg
   video: "1109515017"
   ctaText: Take a Tour
 columnsSection:
@@ -75,7 +75,7 @@ columnsSection:
 
       [Island Time charter highlights](https://www.instagram.com/stories/highlights/18039461704595777/)
     leftColumn: '![Sailing boat charter gold coast -
-      Alt](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.png "Sailing boat
+      Alt](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.jpg "Sailing boat
       charter gold coast")'
 videoSectionOptional:
   title: 360° VR TOUR - Island Time
@@ -89,7 +89,7 @@ columnBanner:
       water.
     title: "Start planning your Charter "
     featuredImage: ""
-  - featuredImage: /uploads/42752ca7-51c4-4cdf-84f5-f4cc8bdbaae9.png
+  - featuredImage: /uploads/42752ca7-51c4-4cdf-84f5-f4cc8bdbaae9.jpg
     content: ""
     bookingWidget: ""
 accordionSection:

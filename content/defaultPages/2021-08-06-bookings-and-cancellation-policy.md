@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 title: "Bookings and Cancellation policy "
-featuredImage: /uploads/0f565ac9-352b-4894-a281-163dae3c2385.png
+featuredImage: /uploads/0f565ac9-352b-4894-a281-163dae3c2385.jpg
 content: >-
   **Bookings** 
 

@@ -2,7 +2,7 @@
 template: Cruises
 slug: cruise-tickets
 title: Cruise Tickets
-featuredImage: '/uploads/22ff8683-52df-4800-8d1c-fced02fe7ca8.png'
+featuredImage: '/uploads/22ff8683-52df-4800-8d1c-fced02fe7ca8.jpg'
 intro: >-
   ## Join our 'Sunset & City Lights Cruise' or 'Island Cruise'
 
