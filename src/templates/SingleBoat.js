@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 
@@ -47,7 +47,15 @@ export const SingleBoatTemplate = ({
   const boatUrl = slug
     ? slug.replace('/boats/', '').replace('/', '')
     : ''
-  console.log('**** columnsSection ****', columnsSection)
+
+  useEffect(() => {
+    // Add target="_blank" to all anchor tags after rendering
+    document.querySelectorAll('.single-boat-content-column .contentColumn p a').forEach(anchor => {
+      anchor.setAttribute('target', '_blank');
+      anchor.setAttribute('rel', 'noopener noreferrer'); // security best practice
+    });
+  }, []);
+
   return (
     <main className="SingleBoat">
       <Helmet title={meta ? meta.title : `${title} | Sailing in Paradise`}>
@@ -70,8 +78,8 @@ export const SingleBoatTemplate = ({
       {gallery && <GallerySlider gallery={gallery} />}
       <BoatFeatureSection
         boatFeaturesIntro={boatFeaturesIntro}
-        boatFeatures={boatFeatures} 
-        boatFeaturesButtonText={boatFeaturesButtonText} 
+        boatFeatures={boatFeatures}
+        boatFeaturesButtonText={boatFeaturesButtonText}
         boatFeaturesButtonLink={boatFeaturesButtonLink}
       />
       {videoSection && <div className="container"> <VideoPopup {...videoSection} /></div>}
