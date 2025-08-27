@@ -130,7 +130,7 @@ else
         fi
 
         # Use ImageMagick v7 "magick" command
-        if magick "$png_file" -quality 75 "$jpg_file"; then
+        if magick "$png_file" -quality 75 "$jpg_file"; then 
             # Get new file size
             if [[ "$OSTYPE" == "darwin"* ]]; then
                 new_file_size=$(stat -f%z "$jpg_file" 2>/dev/null || echo "0")
