@@ -1,10 +1,13 @@
 # Redirect domain aliases to primary domain
+
 https://sailing-paradise.netlify.com/* https://sailinginparadise.com.au/:splat 301!
 
 https://sailinginparadise.com.au/boat-charter/christmas-parties/* https://sailinginparadise.com.au/boat-charter/gold-coast-christmas-parties/:splat 301!
 
-https://sailinginparadise.com.au/the-boat/*	https://sailinginparadise.com.au/our-boats/:splat 301!
-https://sailinginparadise.com.au/gold-coast-boat-hire/*	https://sailinginparadise.com.au/our-boats/:splat 301!
+#https://sailinginparadise.com.au/our-boats/*	https://sailinginparadise.com.au/boats/:splat 301!
+
+#https://sailinginparadise.com.au/gold-coast-boat-hire/*	https://sailinginparadise.com.au/our-boats/:splat 301!
+
 https://sailinginparadise.com.au/gift-vouchers/*	https://sailinginparadise.com.au/cruise/gift-vouchers/:splat 301!
 https://sailinginparadise.com.au/cruises/gift-vouchers/*	https://sailinginparadise.com.au/cruise/gift-vouchers/:splat 301!
 https://sailinginparadise.com.au/ships-blog/*	https://sailinginparadise.com.au/latest-news/:splat 301!
@@ -38,7 +41,6 @@ https://sailinginparadise.com.au/cruise/sunset-city-lights-cruise/* https://sail
 https://sailinginparadise.com.au/gold-coast-hens-party/* https://sailinginparadise.com.au/boat-charter/gold-coast-hens-parties/:splat 301!
 https://sailinginparadise.com.au/private-yacht-charter/* https://sailinginparadise.com.au/boat-charter/gold-coast-private-charters/:splat 301!
 https://sailinginparadise.com.au/cruises/* https://sailinginparadise.com.au/cruise-tickets/:splat 301!
-https://sailinginparadise.com.au/boats/* https://sailinginparadise.com.au/our-boats/:splat 301!
 https://sailinginparadise.com.au/contact/* https://sailinginparadise.com.au/contact-us/:splat 301!
 https://sailinginparadise.com.au/private-charter/corporate-events/* https://sailinginparadise.com.au/boat-charter/gold-coast-corporate-events/:splat 301!
 https://sailinginparadise.com.au/boat-charter/corporate-events/* https://sailinginparadise.com.au/boat-charter/gold-coast-corporate-events/:splat 301!
