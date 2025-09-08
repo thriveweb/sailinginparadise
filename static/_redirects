@@ -1,5 +1,4 @@
 
 # Redirect domain aliases to primary domain
-
-https://sailing-paradise-upgrade.netlify.app/* https://sailinginparadise.com.au/:splat 301!
+/*   https://sailinginparadise.com.au/:splat  301!
 
