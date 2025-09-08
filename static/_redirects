@@ -1,9 +1,6 @@
 # Redirect domain aliases to primary domain
 
-# Boat path migrations
-/the-boat/*              /our-boats/:splat 301
-/gold-coast-boat-hire/*  /our-boats/:splat 301
-/boats/*                 /our-boats/:splat 301
+/boats/*   /our-boats/:splat 301
 
 https://sailing-paradise.netlify.com/* https://sailinginparadise.com.au/:splat 301!
 
