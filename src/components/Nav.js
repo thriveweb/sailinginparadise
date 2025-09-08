@@ -33,6 +33,33 @@ export default class Nav extends Component {
       : 'auto'
   }
 
+  isActivePath = (foundItemSlug, subNavItems, allMarkdownRemark) => {
+    if (typeof window !== 'undefined') {
+      const currentPath = window.location.pathname
+
+      // Check direct match
+      if (currentPath === foundItemSlug) {
+        return true
+      }
+
+      // Check if any child paths match (for parent highlighting)
+      if (subNavItems) {
+        const hasActiveChild = subNavItems.some(({ title }) => {
+          const childItem = allMarkdownRemark.edges.find(
+            ({ node }) => _get(node, 'frontmatter.title') === title
+          )
+          const childSlug = _get(childItem, 'node.fields.slug')
+          return childSlug && currentPath.startsWith(childSlug)
+        })
+        return hasActiveChild
+      }
+
+      // Check if current path is a subpage
+      return foundItemSlug !== '/' && currentPath.startsWith(foundItemSlug)
+    }
+    return false
+  }
+
   render() {
     return (
       <StaticQuery
@@ -84,18 +111,19 @@ export default class Nav extends Component {
                         ({ node }) => _get(node, 'frontmatter.title') === title
                       )
                       const foundItemSlug = _get(foundItem, 'node.fields.slug')
+                      const isActive = this.isActivePath(foundItemSlug, subNavItems, allMarkdownRemark)
+                      console.log("******* ", foundItemSlug, isActive)
 
                       if (!foundItemSlug)
                         return (
                           <li
                             key={`nav-${index}`}
-                            className={`NavLink ${
-                              subNavItems ? 'hasChildren' : ''
-                            } ${
-                              foundItemSlug === '/boat-charter/'
+                            className={`NavLink ${subNavItems ? 'hasChildren' : ''
+                              } ${foundItemSlug === '/boat-charter/'
                                 ? 'two-column'
                                 : ''
-                            } ${menuItemActive === index ? 'active' : ''}`}
+                              } ${menuItemActive === index ? 'active' : ''} ${isActive ? 'current' : ''
+                              }`}
                             onClick={() =>
                               this.setState({
                                 menuItemActive:
@@ -135,13 +163,12 @@ export default class Nav extends Component {
                       return (
                         <li
                           key={`nav-${index}`}
-                          className={`NavLink ${
-                            subNavItems ? 'hasChildren' : ''
-                          } ${
-                            foundItemSlug === '/boat-charter/'
+                          className={`NavLink ${subNavItems ? 'hasChildren' : ''
+                            } ${foundItemSlug === '/boat-charter/'
                               ? 'two-column'
                               : ''
-                          } ${menuItemActive === index ? 'active' : ''}`}
+                            } ${menuItemActive === index ? 'active' : ''} ${isActive ? 'current' : ''
+                            }`}
                         >
                           {optionalTitle ? <Link to={foundItemSlug}>{optionalTitle}</Link> : <Link to={foundItemSlug}>{title}</Link>}
                           <p
