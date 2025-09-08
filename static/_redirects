@@ -4,8 +4,9 @@ https://sailing-paradise.netlify.com/* https://sailinginparadise.com.au/:splat 3
 
 https://sailinginparadise.com.au/boat-charter/christmas-parties/* https://sailinginparadise.com.au/boat-charter/gold-coast-christmas-parties/:splat 301!
 
-https://sailinginparadise.com.au/the-boat/*	https://sailinginparadise.com.au/our-boats/:splat 301!
-https://sailinginparadise.com.au/gold-coast-boat-hire/*	https://sailinginparadise.com.au/our-boats/:splat 301!
+#https://sailinginparadise.com.au/the-boat/*	https://sailinginparadise.com.au/our-boats/:splat 301!
+#https://sailinginparadise.com.au/gold-coast-boat-hire/*	https://sailinginparadise.com.au/our-boats/:splat 301!
+
 https://sailinginparadise.com.au/gift-vouchers/*	https://sailinginparadise.com.au/cruise/gift-vouchers/:splat 301!
 https://sailinginparadise.com.au/cruises/gift-vouchers/*	https://sailinginparadise.com.au/cruise/gift-vouchers/:splat 301!
 https://sailinginparadise.com.au/ships-blog/*	https://sailinginparadise.com.au/latest-news/:splat 301!
