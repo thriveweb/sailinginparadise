@@ -1,6 +1,6 @@
 ---
 slug: general-contact
-phoneTitle: CALL US ON.
+phoneTitle: CALL US ON
 phone: 0438 915 222
 emailTitle: EMAIL US AT
 email: info@sailinginparadise.com.au
