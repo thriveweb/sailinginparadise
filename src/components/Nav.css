@@ -412,3 +412,11 @@
     width: 20rem;
   }
 }
+
+.NavLink.hasChildren > [aria-current='page'] {
+  color: #183c85;
+}
+
+.subMenu .NavLink .subMenu [aria-current='page'] {
+  opacity: 1;
+}
