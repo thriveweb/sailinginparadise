@@ -112,7 +112,7 @@ export default class Nav extends Component {
                       )
                       const foundItemSlug = _get(foundItem, 'node.fields.slug')
                       const isActive = this.isActivePath(foundItemSlug, subNavItems, allMarkdownRemark)
-                      console.log("******* ", foundItemSlug, isActive)
+                      // console.log("******* ", foundItemSlug, isActive)
 
                       if (!foundItemSlug)
                         return (
