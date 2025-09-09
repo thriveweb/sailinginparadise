@@ -30,6 +30,6 @@ Al l vessels are berthed at Marina Mirage C Arm.
 
 Please find a map below of the current vessel locations. (Logo & white arrows on map)
 
-![](https://ucarecdn.com/759f5db0-d315-44c9-9bef-35a338c7e2d1/)
+![]()
 
 If you can’t find us you can always call us and we will be happy to guide you.
