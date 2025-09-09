@@ -15,49 +15,37 @@ content: >-
   N﻿o straight spirits are permitted on board the vessel (commercial premix spirits cans or bottles only).   Any spirits bottles will need to be surrendered to crew and will be returned at the end of the charter - sorry!!
 
 
-  M﻿ariner's Cove marina does not permit the drinking of alcohol, or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat. In the event that any guests become overly intoxicated on the charter it may be necessary to  end the charter early and drop guests at the nearest wharf.  
+  The marina does not permit the drinking of alcohol, or any loud or disorderly behaviour.  We also cannot welcome any already intoxicated guests on board the boat so please hold off on cracking open those drinks until you get on the boat. In the event that any guests become overly intoxicated on the charter it may be necessary to  end the charter early and drop guests at the nearest wharf.  
 
 
   ###### GETTING TO THE MARINA
 
 
-  We are conveniently located at Marina Mirage and Mariners Cove at 74 Seaworld Drive, Main Beach. The marinas are directly adjacent to one another.
+  We are conveniently located at Marina Mirage 74 Seaworld Drive, Main Beach. 
 
 
-  **P﻿ARKING AT THE MARINAS**
+  ###### P﻿ARKING AT THE MARINA
 
 
-  The car parks are managed privately and conditions may change at any time so please check the signage at time of parking. 
-
-
-  M﻿ariner's Cove has recently introduced paid parking please download the app via <https://easypark.com.au/en_au>
-
-
-  M﻿arina Mirage currently offers free parking to staff and customers who may be shopping or dining within Marina Mirage.
-
-
-  L﻿imited free street parking is available on Seaworld Drive
+  M﻿arina Mirage currently offers free parking.  L﻿imited free street parking is also available on Seaworld Drive
 
 
   W﻿e recommend considering rideshare for a stress-free arrival to your charter.
 
 
-  ###### HOW TO FIND THE BOATS AT THE MARINAS
+  ###### HOW TO FIND OUR BOATS AT THE MARINAS
 
 
-  The access to the main marina jetty is at the very end (north western corner) of the Mariner's Cove carpark. For **Oceans & Spirit of Gwonda,** please take the jetty with the big yellow archway at Mariner's Cove. Our vessels are located on B arm, the first arm (to your left) after going under the first yellow archway, the boats are visible straight away. 
+  A﻿ll vessels are berthed at Marina Mirage C Arm. 
 
 
-  For **Island Time**, our crew will meet you at the Marina Mirage C Arm gate 10 minutes prior to your scheduled departure time (located to the right of the main boardwalk, on the corner of Omeros Brothers Seafood restaurant). 
+  Please find a map below of the current vessel locations.  
 
 
-  Please find a map below of the current vessel locations.
+  If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you. 
 
 
-  If you can’t find us you can always call us on 0438 915 222  and we will be happy to guide you.
-
-
-  ![](/uploads/bb3cfc09-aa1d-4abf-860e-a8825f4d6df3.jpg)
+  ![](https://ucarecdn.com/e22d55ce-2c4d-4b34-ad53-37d14e7d8055/)
 
 
   ###### BOARDING INFO
@@ -91,12 +79,6 @@ content: >-
 
 
   \- A friendly reminder that there is **no smoking** permitted onboard our vessels. Our crew can organise a smoking stop for any guests on request, please let them know at the start of your charter. 
-
-
-  \-  For the health and safety of all guests as well as our crew, we politely request that all guests attending the event are made aware that they will be unable to sail if they are showing symptoms of COVID-19 (high temp, cough, respiratory symptoms etc).  
-
-
-  \-  There is no overnight parking permitted at Mariner's Cove and parking inspections are sporadically enforced so we recommend street parking on Seaworld Drive (or catching a cab) if you intend to leave your car overnight. 
 
 
   If you still have any unanswered questions or are unsure of something, please feel free to give us a call on 0438 915 222 or drop us an email at info@sailinginparadise.com.au.  
