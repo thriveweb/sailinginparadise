@@ -12,43 +12,31 @@ content: >-
   ###### GETTING TO THE MARINA
 
 
-  We are conveniently located at Marina Mirage and Mariners Cove at 74 Seaworld Drive, Main Beach. The marinas are directly adjacent to one another.
+  We are conveniently located at Marina Mirage 74 Seaworld Drive, Main Beach. 
 
 
-  **P﻿ARKING AT THE MARINAS**
+  ###### P﻿ARKING AT THE MARINA
 
 
-  The car parks are managed privately and conditions may change at any time so please check the signage at time of parking. 
-
-
-  M﻿ariner's Cove has recently introduced paid parking please download the app via <https://easypark.com.au/en_au>
-
-
-  M﻿arina Mirage currently offers free parking to staff and customers who may be shopping or dining within Marina Mirage.
-
-
-  L﻿imited free street parking is available on Seaworld Drive
+  M﻿arina Mirage currently offers free parking.  L﻿imited free street parking is also available on Seaworld Drive
 
 
   W﻿e recommend considering rideshare for a stress-free arrival to your charter.
 
 
-  ###### HOW TO FIND THE BOATS AT THE MARINAS
+  ###### HOW TO FIND OUR BOATS AT THE MARINAS
 
 
-  The access to the main marina jetty is at the very end (north western corner) of the Mariner's Cove carpark. For **Oceans & Spirit of Gwonda**, please take the jetty with the big yellow archway at Mariner's Cove. Our vessels are located on B arm, the first arm (to your left) after going under the first yellow archway, the boats are visible straight away. 
+  A﻿ll vessels are berthed at Marina Mirage C Arm. 
 
 
-  For **Island Time**, our crew will meet you at the Marina Mirage C Arm gate 10 minutes prior to your scheduled departure time (located to the right of the main boardwalk, on the corner of Omeros Brothers Seafood restaurant). 
+  Please find a map below of the current vessel locations.  
 
 
-  Please find a map below of the current vessel locations.
+  If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you. 
 
 
-  If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you.
-
-
-  ![](/uploads/0a433e7a-742b-40b6-aaf5-bc566d5d7a73.jpg)
+  ![](https://ucarecdn.com/f68dc479-eda8-4d38-bdd7-c88709452940/)
 
 
   ###### BOARDING INFO
@@ -82,12 +70,6 @@ content: >-
 
 
   \- A friendly reminder that there is **no smoking** permitted onboard our vessels. Our crew can organise a smoking stop for any guests on request, please let them know at the start of your charter. 
-
-
-  \-  For the health and safety of all guests as well as our crew, we politely request that all guests attending the event are made aware that they will be unable to sail if they are showing symptoms of COVID-19 (high temp, cough, respiratory symptoms etc).  
-
-
-  \-  There is no overnight parking permitted at Mariner's Cove and parking inspections are sporadically enforced so we recommend street parking on Seaworld Drive (or catching a cab) if you intend to leave your car overnight. 
 
 
   \-﻿ Please no drinking or noisy behaviour in the marina area as this violates the terms of our lease.  
