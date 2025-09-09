@@ -19,6 +19,9 @@ featuredSlider:
   - buttonUrl: booking-enquiry/
     description: Our friendly team are here to help.
     title: Enquire Now
+  - title: Hen's Parties
+    description: Planning a bachelorette or last sail before the veil?
+    buttonUrl: gold-coast-hens-parties/
 featuredBanner:
   buttonTitle: A celebration your team will love
   buttonUrl: boat-charter/gold-coast-christmas-parties/
