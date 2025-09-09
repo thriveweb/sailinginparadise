@@ -95,8 +95,8 @@ highlights:
   - icon: /images/uploads/speakers.svg
     title: Fully equipped with Sound System (w Spotify), BBQ, Eskies, and Restroom
 featuredTestimonials:
-  buttonTitle: ""
-  buttonUrl: ""
+  buttonTitle: See more real guest reviews
+  buttonUrl: happy-sailors
   description: It's smiles all round with our top guest satisfaction rating across
     all review sites...
   testimonialsListing:
