@@ -77,7 +77,7 @@ aboutSection:
 
 
     From your first enquiry to the last wave goodbye, our team are here to take the stress out of planning and replace it with laid-back vibes and smooth sailing.
-  featuredImage: /uploads/ce557254-c4b7-4e72-8557-e604ceb1b190.jpg
+  featuredImage: https://ucarecdn.com/166d91b8-c55e-45e5-9804-eead72a2719c/
   subtitle: Our Boats & Crew
   title: Meet Us
 highlightsIntro: <h2>What's Included?</h2>
