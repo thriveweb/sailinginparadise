@@ -26,9 +26,9 @@ We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.  
 
 ### HOW TO FIND THE BOATS AT THE MARINA
 
-Al l vessels are berthed at Marina Mirage C Arm.   
+All vessels are berthed at Marina Mirage C Arm.   
 
-Please find a map below of the current vessel locations. (Logo & white arrows on map)
+Please find a map below of the current vessel locations. 
 
 ![]()
 
