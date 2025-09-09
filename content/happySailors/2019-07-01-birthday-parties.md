@@ -2,7 +2,7 @@
 template: SingleCaseStudy
 title: Lucy, Aus
 cruiseType: Birthday Parties
-date: 2018-04-28T11:04:01.955Z
+date: ""
 featuredImage: /uploads/877b75d9-8a0a-4ada-b571-4dda7df825a2.jpg
 videoSection:
   title: ""
