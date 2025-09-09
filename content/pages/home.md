@@ -56,19 +56,6 @@ services:
       description: "Celebrate another lap around the sun on the water.  "
       icon: /images/uploads/wheel.svg
       title: Birthday Party Charters
-  - serviceContent:
-      title: Christmas Parties
-      description: Guaranteed good times on the water!
-      icon: https://ucarecdn.com/424f3a86-e09d-47ec-bea9-e5e35c514c4f/
-      buttonUrl: boat-charter/gold-coast-christmas-parties/
-    image: https://ucarecdn.com/3a3a4f7e-6348-45f3-ab24-e28c9587e9de/
-  - serviceContent:
-      title: Proposals
-      icon: https://ucarecdn.com/3e1dc9ae-e46c-4e92-900a-57ad1072de6e/
-      description: What could be more romantic that a marriage proposal under sail as
-        the sun sets?
-      buttonUrl: boat-charter/gold-coast-proposals/
-    image: https://ucarecdn.com/3da533bc-08f1-4e86-b569-24a1c7f58070/
 serviceBanner:
   buttonTitle: Find your Perfect Charter
   buttonUrl: boat-charter/
