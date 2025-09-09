@@ -5,7 +5,7 @@ title: Yacht Hire Gold&nbsp;Coast
 buttonTitle: Enquire
 buttonUrl: booking-enquiry/
 buttonSecondaryTitle: "Book Now "
-buttonSecondaryUrl: booking-enquiry/
+buttonSecondaryUrl: https://sailinginparadise.rezdy.com/
 posterImage: /uploads/375f91a7-6d1b-4e43-83ca-6f535d3775fb.jpg
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
