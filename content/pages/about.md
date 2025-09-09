@@ -18,15 +18,6 @@ intro: >-
   >
 
   > *Owner - Steve Buckley*
-
-
-  After falling in love with our beautiful signature vessel ‘Spirit of Gwonda’ (which remains one of the best catamarans on the water for social occasions) the dream became a reality and Sailing in Paradise was born.  
-
-
-  In response to guest demand, our beautiful, deluxe vessel Oceans joined the fleet in 2021 and our brand new vessel Island Time in November 2023!
-
-
-  All three boats have been carefully selected to offer the same spacious deck area, stable sailing and beach landing capabilities.
 gallery:
   - image: /uploads/d3fce9ea-25bc-4f10-b643-e67e330427c4.jpg
   - image: /uploads/1a97171f-a25e-46d9-a987-2940d52f9607.jpg
