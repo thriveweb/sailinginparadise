@@ -6,7 +6,7 @@ buttonTitle: Enquire
 buttonUrl: booking-enquiry/
 buttonSecondaryTitle: "Book Now "
 buttonSecondaryUrl: https://sailinginparadise.rezdy.com/
-posterImage: /uploads/375f91a7-6d1b-4e43-83ca-6f535d3775fb.jpg
+posterImage: ""
 hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
@@ -20,10 +20,10 @@ featuredSlider:
     description: Our friendly team are here to help.
     title: Enquire Now
 featuredBanner:
-  buttonTitle: Best value rates for the week ahead
-  buttonUrl: boat-charter/last-minute-charters/
-  image: /uploads/043c185a-8f9c-4946-b034-444ee4ffeb6c.jpg
-  title: LAST MINUTE CHARTERS
+  buttonTitle: A celebration your team will love
+  buttonUrl: boat-charter/gold-coast-christmas-parties/
+  image: https://ucarecdn.com/aabd35ee-575a-4f4e-bff5-109d589412d7/
+  title: CHRISTMAS PARTY CHARTERS
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
@@ -95,29 +95,26 @@ highlights:
   - icon: /images/uploads/speakers.svg
     title: Fully equipped with Sound System (w Spotify), BBQ, Eskies, and Restroom
 featuredTestimonials:
-  buttonTitle: See more real guest reviews
-  buttonUrl: happy-sailors
-  description: It's smiles all round with our top guest satisfaction rating across
-    all review sites...
-  testimonialsListing:
-    - testimonial: Lauren, Aus
-    - testimonial: Kalina, Aus
-    - testimonial: Mariella, Aus
-  title: Happy Sailors
+  buttonTitle: ""
+  buttonUrl: ""
+  description: ""
+  testimonialsListing: []
+  title: ""
 latestNews: >-
   ## Latest News
 
 
-  ![]()
 
 
-  Hit the water with the kids these School Holidays!
+  **Discover the best Gold Coast party boats for Christmas 2025!**
 
 
-  > Come aboard with Sailing in Paradise – a fun experience for the whole family!
 
 
-  Trying to coordinate things to do on the Gold Coast can be tough when trying to please a whole family. We aim to provide a stress-free day that gets the kids active and enjoying the outdoors while the parents enjoy a beautiful day on the water.
+  ![](https://ucarecdn.com/c403f89f-92b9-4c10-bce6-dab253885521/)
+
+
+  Christmas is fast approaching, and after a huge year, your team deserves a celebration that goes beyond the usual. Why not trade in the stuffy function room for something unforgettable… a **private boat charter** on the Gold Coast?
 
 
   [Read Blog](posts/the-ultimate-gold-coast-family-holiday-activity/)
