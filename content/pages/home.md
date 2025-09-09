@@ -7,7 +7,7 @@ buttonUrl: booking-enquiry/
 buttonSecondaryTitle: "Book Now "
 buttonSecondaryUrl: https://sailinginparadise.rezdy.com/
 posterImage: ""
-hdVideo: https://player.vimeo.com/external/350091800.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
+hdVideo: https://player.vimeo.com/external/1109275446.hd.mp4?s=9a4fe7d10efab9c763cdc3463054215132366211&profile_id=175
 mobileVideo: https://player.vimeo.com/external/350091800.sd.mp4?s=59f7faaaf8417b36509068b7a3ffd12065e2e972&profile_id=164
 featuredSlider:
   - title: explore our boats
