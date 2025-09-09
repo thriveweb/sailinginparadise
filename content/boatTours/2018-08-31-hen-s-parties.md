@@ -39,7 +39,7 @@ gallery:
   - image: /uploads/9d2866d7-f659-43e2-b6c0-66e29f9d8a66.jpg
 videoSection:
   imageOverlay: https://ucarecdn.com/83811de6-f46d-41c6-ab38-382cff350a9b/
-  video: https://vimeo.com/1117016395
+  video: "1117016395"
   title: Hen's Party Highlights Reel
 contentColumnTitle: Plan your perfect hens party cruise
 contentColumn: >-
@@ -61,12 +61,6 @@ contentColumn: >-
 
 
   ![hen's party boat gold coast](https://ucarecdn.com/75d61ae7-0078-4c2f-9895-bc80b8a98fae/)
-
-
-  **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)***
-
-
-  **[REQUEST RATE CARD/INFO PACK](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)**
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?
