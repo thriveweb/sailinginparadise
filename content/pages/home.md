@@ -97,9 +97,13 @@ highlights:
 featuredTestimonials:
   buttonTitle: ""
   buttonUrl: ""
-  description: ""
-  testimonialsListing: []
-  title: ""
+  description: It's smiles all round with our top guest satisfaction rating across
+    all review sites...
+  testimonialsListing:
+    - testimonial: Tahlia, Aus
+    - testimonial: Kalina, Aus
+    - testimonial: LULULEMON, Aus
+  title: Happy Sailors
 latestNews: >-
   ## Latest News
 
