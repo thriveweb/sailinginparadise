@@ -61,6 +61,9 @@ contentColumn: >-
 
 
   ![hen's party boat gold coast](https://ucarecdn.com/75d61ae7-0078-4c2f-9895-bc80b8a98fae/)
+
+
+  ``
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?
