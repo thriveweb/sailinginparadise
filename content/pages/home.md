@@ -73,11 +73,8 @@ aboutSection:
     cruise, you’ll be dealing directly with the people who know the boats best.
 
 
-    Our smooth, stable **charter yachts** are purpose-built for fun, comfort, and unforgettable experiences. Whether you're hosting a corporate event, celebrating a hens party, or planning a relaxed day out with family and friends, our boats are the perfect setting.
-
-
     From your first enquiry to the last wave goodbye, our team are here to take the stress out of planning and replace it with laid-back vibes and smooth sailing.
-  featuredImage: https://ucarecdn.com/166d91b8-c55e-45e5-9804-eead72a2719c/
+  featuredImage: https://ucarecdn.com/326e4568-b895-4d14-9dfa-dad5ecbed088/
   subtitle: Our Boats & Crew
   title: Meet Us
 highlightsIntro: <h2>What's Included?</h2>
@@ -105,7 +102,11 @@ featuredTestimonials:
     - testimonial: LULULEMON, Aus
   title: Happy Sailors
 latestNews: |-
-  ## Latest News
+  ## Secure your charter now
+
+  > [R﻿EQUEST MORE INFO](https://sailinginparadise.com.au/booking-enquiry/)
+  >
+  > [B﻿OOK NOW](https://sailinginparadise.rezdy.com/)
 
 
 
