@@ -2,7 +2,7 @@
 template: SingleCaseStudy
 title: Kalina, Aus
 cruiseType: Birthday Parties
-date: 2018-09-02T11:16:05.312Z
+date: ""
 featuredImage: /uploads/31a7aa07-a5d6-4770-b6ed-76722e00142a.jpg
 videoSection:
   title: ""
