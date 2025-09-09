@@ -22,16 +22,14 @@ meta:
 ---
 ### GETTING TO THE MARINA
 
-We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.   The marinas are directly adjacent to one another.   Parking is available at Mariner's Cove (paid) and Marina Mirage, there is also limited street parking.  We do recommend considering ride share at busy times due to higher demand.   
+We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.   Parking is available Marina Mirage, there is also limited street parking.  We do recommend considering ride share at busy times due to higher demand.   
 
-### HOW TO FIND THE BOATS AT THE MARINAS
+### HOW TO FIND THE BOATS AT THE MARINA
 
-The access to the main marina jetty is at the very end (north western corner) of the Mariner's Cove carpark. For **Oceans & Spirit of Gwonda**, please take the jetty with the big yellow archway at Mariner's Cove. Our vessels are located on B arm, the first arm (to your left) after going under the first yellow archway, the boats are visible straight away. 
-
-For **Island Time**, our crew will meet you at the Marina Mirage C Arm gate 10 minutes prior to your scheduled departure time (located to the right of the main boardwalk, on the corner of Omeros Brothers Seafood restaurant). 
+Al l vessels are berthed at Marina Mirage C Arm.   
 
 Please find a map below of the current vessel locations. (Logo & white arrows on map)
 
-![]()
+![](https://ucarecdn.com/759f5db0-d315-44c9-9bef-35a338c7e2d1/)
 
 If you can’t find us you can always call us and we will be happy to guide you.
