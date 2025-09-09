@@ -20,8 +20,14 @@ featuredSlider:
     description: Our friendly team are here to help.
     title: Enquire Now
   - title: Hen's Parties
-    description: Planning a bachelorette or last sail before the veil?
+    description: Planning the last sail before the veil?
     buttonUrl: gold-coast-hens-parties/
+  - title: Birthday Parties
+    description: From 16ths to 60ths and beyond
+    buttonUrl: gold-coast-birthday-parties/
+  - title: Read Reviews
+    description: Rated 5* on all platforms
+    buttonUrl: happy-sailors/
 featuredBanner:
   buttonTitle: A celebration your team will love
   buttonUrl: boat-charter/gold-coast-christmas-parties/
