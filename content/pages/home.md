@@ -104,24 +104,12 @@ featuredTestimonials:
     - testimonial: Kalina, Aus
     - testimonial: LULULEMON, Aus
   title: Happy Sailors
-latestNews: >-
+latestNews: |-
   ## Latest News
 
 
 
-
-  **Discover the best Gold Coast party boats for Christmas 2025!**
-
-
-
-
-  ![](https://ucarecdn.com/c403f89f-92b9-4c10-bce6-dab253885521/)
-
-
-  Christmas is fast approaching, and after a huge year, your team deserves a celebration that goes beyond the usual. Why not trade in the stuffy function room for something unforgettable… a **private boat charter** on the Gold Coast?
-
-
-  [Read Blog](posts/the-ultimate-gold-coast-family-holiday-activity/)
+  ![]()
 meta:
   description: Sailing in Paradise are the Gold Coast boat hire specialists.
     Unique sailing catamarans offering private yacht charters from 2 to 102
