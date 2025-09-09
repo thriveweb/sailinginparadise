@@ -23,7 +23,7 @@ intro: >-
   After falling in love with our beautiful signature vessel ‘Spirit of Gwonda’ (which remains one of the best catamarans on the water for social occasions) the dream became a reality and Sailing in Paradise was born.  
 
 
-  In response to guest demand, our beautiful, deluxe vessel Oceans joined the fleet in 2021 and we are excited to welcome our brand new vessel Island Time (being commissioned for Sailing in Paradise) in October 2023!
+  In response to guest demand, our beautiful, deluxe vessel Oceans joined the fleet in 2021 and our brand new vessel Island Time in November 2023!
 
 
   All three boats have been carefully selected to offer the same spacious deck area, stable sailing and beach landing capabilities.
@@ -41,12 +41,7 @@ captainSection:
         are a regular at the Marina you will often find him working hard during
         the week to ensure the boats are in tip-top condition for our next
         charter guests. He also skippers the boats regularly so rest assured you
-        will be well looked after with Steve as part of your crew. A
-        self-confessed gadget geek and wannabe film-maker, Steve can often be
-        found with a plethora of gadgets such as drones, go pros and 360 cameras
-        on charters.   Steve is driven by a passion for food with a keen
-        interest in native Australian produce that he is hoping to align with
-        the future vision for Sailing in Paradise.
+        will be well looked after with Steve as part of your crew.
       image: /uploads/4f4c708f-0dc2-4ef8-8ff6-3f0a427d3692.jpg
       name: Steve Buckley - Owner / Operator
       socialMedia:
@@ -59,16 +54,14 @@ captainSection:
         background in Marketing and Event Management and with it an injection of
         fresh ideas and concepts, plus an unparalleled level of customer
         engagement.   These days Jess works more behind the scenes to ensure
-        that the business runs seamlessly, but still loves to be involved with
-        our guests where she can . As well as the day-to-day, she is planning
-        some exciting things to come for the future of Sailing in Paradise.
-        Watch this space!
+        that the business runs seamlessly, but rest assured that 'guest
+        happiness' is still her top priority.
       image: /uploads/60e7b3c2-123c-4b4a-9c2e-c3c3bfc99d94.jpg
       name: Jessica Buckley - Owner / operator
       socialMedia:
         linkedin: ""
         twitter: ""
-      title: Guest Relations Guru
+      title: "Guest Relations "
   captainIntro: >-
     ## Captains
 
@@ -79,7 +72,7 @@ captainSection:
     We realise that chartering a boat is not something that you do every day. Our aim is to make the entire experience as easy as possible, so that when you finally step aboard you can really just relax and enjoy the charter.  
 
 
-    In fact, guest happiness is our highest priority.    From your first enquiry, through to our optional catering/beverage packages and finally to our welcoming crew (who we are often told feel like part of the family after just a few short hours) we aim to exceed your expectations.   We encourage you to check out our social channels and Guest Reviews (Instagram, Facebook and Trip Advisor links at bottom of page) to really get a vibe for what we are about.
+    In fact, guest happiness is our highest priority.    From your first enquiry, through to our optional catering/beverage packages and finally to our welcoming crew (who we are often told feel like part of the family after just a few short hours) we aim to exceed your expectations.   We encourage you to check out our social channels and Guest Reviews to really get a vibe for what we are about.
 crewSection:
   crew:
     - content: Always smiling, Chanelle brings a genuine warmth to any charter, with a
@@ -159,22 +152,22 @@ crewSection:
 secondaryBanner:
   buttonTitle: Take a Tour
   buttonUrl: our-boats
-  featuredImage: /uploads/06a3b51c-4af5-42ad-aa0a-1d9c2a169443.jpg
+  featuredImage: https://ucarecdn.com/47666703-31a2-4d63-b8c0-b214aa25ac91/
   subtitle: ""
   title: check out our amazing catamarans
 videoSection:
-  imageOverlay: /uploads/5b87c65e-67fd-47f8-87cc-5cda851116da.jpg
-  title: Experience the open water with an affordable yet luxurious adventure
-  video: "348353390"
+  imageOverlay: ""
+  title: ""
+  video: ""
 columnBanner:
-  - buttonTitle: See More
-    buttonUrl: boat-charter
+  - buttonTitle: Request More Info
+    buttonUrl: booking-enquiry/
     title: ready to start planning your private charter?
     featuredImage: /uploads/b2caa059-80db-459d-8317-b769028c50e9.jpg
   - buttonTitle: ""
     buttonUrl: ""
     title: ""
-    featuredImage: /uploads/1009971d-e5a7-4b76-8c13-a7aca1eccd8c.jpg
+    featuredImage: https://ucarecdn.com/0739511f-6e9e-4dbd-b7d6-86decaac9b48/
 meta:
   description: Sailing in Paradise offers boat hire and private charters on the
     beautiful Gold Coast Broad Waters. Call 0418 915 222.
