@@ -43,9 +43,9 @@ videoSection:
   title: Hen's Party Highlights Reel
 contentColumnTitle: Plan your perfect hens party cruise
 contentColumn: >-
-  Our team are on hand to assist with the planning of your event from your
-  initial enquiry, through to the charter itself and sending your memento photos
-  after the cruise.  But first let's pick **the best boat for your group**!
+  
+
+  Our team are on hand to assist with the planning of your event from your initial enquiry, through to the charter itself and sending your memento photos after the cruise.  But first let's pick **the best boat for your group**!
 
 
   ###### the perfect hen's party boats
@@ -57,13 +57,13 @@ contentColumn: >-
   O﻿n board all vessels the spacious fore-decks are perfect for lazing in the sunshine or dancing as the sun sets over the calm, clear waters of the Gold Coast. There is an ample undercover space for all weather sailing.    Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
 
 
-  ###### [EXPLORE OUR BOATS](https://sailinginparadise.com.au/our-boats/)
+  > [EXPLORE OUR BOATS](https://sailinginparadise.com.au/our-boats/)
 
 
   ![hen's party boat gold coast](https://ucarecdn.com/75d61ae7-0078-4c2f-9895-bc80b8a98fae/)
 
 
-  ``
+  > [R﻿EQUEST INFO PACK](https://sailinginparadise.com.au/booking-enquiry/)
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?
