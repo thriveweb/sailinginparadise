@@ -20,7 +20,7 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check availability and Book Now</a>
 
 
   <!--EndFragment-->
@@ -64,6 +64,17 @@ contentColumn: >-
 
 
   Whatever the occasion, cruising the Gold Coast Broadwater with a Private Boat Charter aboard your own luxury catamaran is a great way to spend a day or evening and Sailing in Paradise is the ultimate venue for your next event.
+
+
+  > [R﻿EQUEST MORE INFO](https://sailinginparadise.com.au/booking-enquiry/)
+
+
+  ![Sailing in Paradise Catamarans](https://ucarecdn.com/0f5b1b39-2d19-4783-ab43-f128a999bb70/ "Sailing in Paradise Charter Boats Gold Coast")
+
+
+
+
+  > ﻿ta
 accordionSection:
   accordion:
     - dropdownContent: >-
@@ -240,7 +251,7 @@ accordionSection:
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
-    content: Send me some info...
+    content: ""
     title: Start planning my charter
     featuredImage: /uploads/60cf28b4-7151-4fea-ae4c-0a8601e88000.jpg
   - buttonTitle: ""
@@ -249,7 +260,7 @@ columnBanner:
     title: ""
     featuredImage: /uploads/17b4668a-b462-4c3f-b247-ed3ef1eaad5e.jpg
 featuredTestimonials:
-  description: Bree has been out with us 3 times now, check out her lovely review here...
+  description: ""
   testimonial: Bree, Aus
 meta:
   description: Sailing In Paradise - Surfers Paradise Gold Coast | From 10 to 30
