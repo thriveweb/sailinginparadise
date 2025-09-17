@@ -5,7 +5,7 @@ footerContent: >-
   sailing catamarans on the Gold Coast Broadwater.
 
 
-  C﻿all us on 0438 915222
+  C﻿all us on [0438915222](tel:0438915222)
 
 
   [R﻿equest Info Pack](https://sailinginparadise.com.au/booking-enquiry/)
