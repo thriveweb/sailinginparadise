@@ -71,6 +71,10 @@ class Video extends Component {
     if (!video) return null
 
     const popup = globalSections ? globalSections.frontmatter.bookingPopup : {}
+    const isIframe = buttonSecondaryUrl && buttonSecondaryUrl.startsWith('http')
+    const iframeContent = isIframe ? `                        
+        <a id="button-booking" class="button-booking rezdy rezdy-modal" style="color:white;" href="${buttonSecondaryUrl}?iframe=true">${buttonSecondaryTitle}</a>
+        `: ``;
 
     const url = video.replace(/^.+v=/, '').replace(/&.*/, '')
 
@@ -83,11 +87,32 @@ class Video extends Component {
                 <h1 className="title-gradient" dangerouslySetInnerHTML={{ __html: title }}></h1>
                 <div className="buttonContainer">
                   <Button title={buttonTitle} url={buttonUrl} white />
-                  {buttonSecondaryTitle &&
-                    <button className='button buttonWhite btnSecondary' type="button" onClick={this.handlePopup}>
-                      {buttonSecondaryTitle}<ICONButtonArrows />
-                    </button>
-                  }
+                  {buttonSecondaryTitle && (
+                    buttonSecondaryUrl ? (
+                      <div
+                        className="button buttonWhite"
+                        style={{marginLeft: "1rem"}}
+                      >
+                        {isIframe &&
+                          <span style={{display: "ruby"}}>
+                            <div dangerouslySetInnerHTML={{ __html: iframeContent }} />
+                            <ICONButtonArrows />
+                          </span>
+                        }
+                        {!isIframe &&
+                          <Button title={buttonSecondaryTitle} url={buttonSecondaryUrl + "/"} />
+                        }                        
+                      </div>
+                    ) : (
+                      <button
+                        className='button buttonWhite btnSecondary'
+                        type="button"
+                        onClick={this.handlePopup}
+                      >
+                        {buttonSecondaryTitle}<ICONButtonArrows />
+                      </button>
+                    )
+                  )}
                 </div>
 
               </div>

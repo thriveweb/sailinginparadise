@@ -5,16 +5,18 @@ backend:
   branch: feature/node-upgrade # Branch to update (optional; defaults to master)
 site_url: https://sailinginparadise.com.au
 display_url: https://sailinginparadise.com.au
-media_library:
-  name: uploadcare
-  config:
-    publicKey: f42a0747a02b03897d9f
-    multiple: false
-    tabs: 'file camera url facebook gdrive'
-    effects: 'crop,rotate,enhance,grayscale'
-    imageShrink: '2000x2000'
-    previewStep: true
-    clearable: true
+# media_library:
+#   name: uploadcare
+#   config:
+#     publicKey: f42a0747a02b03897d9f
+#     multiple: false
+#     tabs: 'file camera url facebook gdrive'
+#     effects: 'crop,rotate,enhance,grayscale'
+#     imageShrink: '2000x2000'
+#     previewStep: true
+#     clearable: true
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
