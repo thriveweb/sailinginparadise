@@ -1,15 +1,14 @@
 ---
 template: SingleCaseStudy
-title: LULULEMON, Aus
+title: Tristan, LULULEMON, Aus
 cruiseType: Corporate Events
 date: ""
 featuredImage: /uploads/2200414e-8ea2-41d8-8f04-638c64940892.jpg
 videoSection:
   title: ""
 secondaryImage: /uploads/36421cac-44b7-4a13-90d0-9ccee94321ea.jpg
-excerpt: Tristan - “Sailing in Paradise allowed Lululemon to throw an incredible
-  event that was full of unforgettable experiences and good times!” Facebook and
-  TripAdvisor
+excerpt: “Sailing in Paradise allowed Lululemon to throw an incredible event
+  that was full of unforgettable experiences and good times!”
 gallery:
   - image: /uploads/f70fd94a-874a-4c94-8361-17e3df06923b.jpg
   - image: /uploads/dcd9ec30-fd8d-4738-b5be-d00bc817066b.jpg
@@ -24,4 +23,3 @@ gallery:
   - image: /uploads/8f7034e3-66e5-4e83-8d81-a06add42889d.jpg
   - image: /uploads/c5381856-2766-4772-bb23-730140b9b865.jpg
 ---
-The fit and active team from Lululemon organized their corporate team building day out with us. There was delicious catering, a private chef serving gourmet food, team building exercises, impressive flips off the boat, speeches and laughter all around! Our crew took some photos of the day to help ensure an unforgettable experience for their team.
