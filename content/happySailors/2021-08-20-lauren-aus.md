@@ -1,8 +1,8 @@
 ---
 template: SingleCaseStudy
 title: Lauren, AUS
-cruiseType: Proposal charter
-date: 2021-01-02T14:00:00.000Z
+cruiseType: Proposals
+date: ""
 featuredImage: /uploads/be62a00c-7cfb-4c5e-9c1a-22e190d79281.jpg
 videoSection:
   title: ""
@@ -13,7 +13,7 @@ excerpt: '"I was lucky enough that my partner booked us a sunset cruise for our
   for us. The crew on the night were Anthony, Chanelle and Jemma. They were
   absolutely amazing and so accommodating. They captured the special moment for
   us which I will be able to keep forever. Thank you again guys, you made our
-  day so perfect!! ❤️💍" - Facebook review'
+  day so perfect!! ❤️💍"'
 gallery:
   - image: /uploads/1fcb7433-f1cb-4a36-a952-126b4fa7dd24.jpg
   - image: /uploads/2ee2739d-50e2-4913-88f4-4d652ef4ecd5.jpg
@@ -32,4 +32,3 @@ meta:
     proposal was priceless, it was such a special moment.
   title: Lauren & Matt's Proposal Cruise
 ---
-We absolutely love hosting proposals and helping create unforgettable memories for our guests! Seeing Laurens reaction to Matt's proposal was priceless, it was such a special moment. Our Seawind 1000XL is the perfect boat for couples, we set up a private romantic picnic set up on the foredeck to make it more special and comfortable. Check out Laurens review on her experience below....
