@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: "Sailing into 21: The Luxe Way to Party on the Gold Coast"
-status: Draft
+status: Published
 date: 2025-10-01T04:40:55.010Z
 categories:
   - {}
