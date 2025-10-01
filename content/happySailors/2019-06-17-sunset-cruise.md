@@ -5,7 +5,7 @@ cruiseType: Birthday Parties
 date: ""
 featuredImage: /uploads/311c7d0b-0fae-4d85-b181-ac57844a406a.jpg
 secondaryImage: /uploads/4aabaf1f-e3a5-4602-8308-24dc431a16e4.jpg
-excerpt: To celebrate my father's 70th Birthday I wanted to do something
+excerpt: "\"To celebrate my father's 70th Birthday I wanted to do something
   different, and Dad loved sailing in his younger years, so what better way to
   celebrate than on a catamaran? Anthony (Skipper), Chanelle and Anna were just
   pure class. They were incredibly polite and professional, and nothing during
@@ -14,7 +14,7 @@ excerpt: To celebrate my father's 70th Birthday I wanted to do something
   both my father and son were asked to assist, which made for some great photos
   that will be cherished. I cannot recommend Sailing in Paradise Gold Coast
   highly enough. If we could give them 10 stars, we would. Value for money was
-  bloody brilliant.
+  bloody brilliant.\""
 gallery:
   - image: /uploads/3b4fde42-d5f3-4b54-b758-f037c8176fbe.jpg
   - image: /uploads/52c4c72e-85e2-45c6-a139-b9cf839decd1.jpg
