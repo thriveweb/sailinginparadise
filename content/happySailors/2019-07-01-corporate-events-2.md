@@ -6,7 +6,7 @@ date: ""
 featuredImage: /uploads/2200414e-8ea2-41d8-8f04-638c64940892.jpg
 videoSection:
   title: ""
-secondaryImage: /uploads/36421cac-44b7-4a13-90d0-9ccee94321ea.jpg
+secondaryImage: ""
 excerpt: “Sailing in Paradise allowed Lululemon to throw an incredible event
   that was full of unforgettable experiences and good times!”
 gallery:
