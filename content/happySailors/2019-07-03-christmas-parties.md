@@ -19,4 +19,8 @@ gallery:
   - image: /uploads/09990220-b38c-47ed-b983-0176e801c74f.jpg
   - image: /uploads/81116f71-9d48-46b2-9b29-118b2da5e463.jpg
   - image: /uploads/222e412b-710d-4984-8b8a-91b7182f2253.jpg
+meta:
+  title: Christmas and End-of-Year Parties with Sailing in Paradise
+  description: Host the ultimate end-of-year work celebration on the water with
+    Sailing in Paradise Gold Coast cruises.
 ---
