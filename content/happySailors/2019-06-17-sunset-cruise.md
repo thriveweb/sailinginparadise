@@ -26,4 +26,8 @@ secondaryBanner:
   buttonUrl: happy-sailors
   title: Want to meet more Happy Sailors?
   featuredImage: /uploads/1b127403-fa18-4904-b975-46cfe5789712.jpg
+meta:
+  title: 70th Birthday Celebrations Party With Sailing In Paradise
+  description: From milestone birthdays to family celebrations, Sailing in
+    Paradise creates magical experiences on the Gold Coast waterways.
 ---
