@@ -22,4 +22,10 @@ gallery:
   - image: /uploads/9f064240-af78-42f3-a4e5-6fe68d78cebf.jpg
   - image: /uploads/8f7034e3-66e5-4e83-8d81-a06add42889d.jpg
   - image: /uploads/c5381856-2766-4772-bb23-730140b9b865.jpg
+secondaryBanner:
+  title: ""
+meta:
+  title: "Corporate Events with Sailing in Paradise "
+  description: Host your corporate event in style with Sailing in Paradise;
+    creating unique Gold Coast cruising experiences.
 ---
