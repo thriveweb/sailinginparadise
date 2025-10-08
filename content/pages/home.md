@@ -83,7 +83,7 @@ aboutSection:
 
 
     From your first enquiry to the last wave goodbye, our team are here to take the stress out of planning and replace it with laid-back vibes and smooth sailing.
-  featuredImage: ""
+  featuredImage: /uploads/georgia-small-flipped.jpg
   subtitle: Our Boats & Crew
   title: Meet Us
 highlightsIntro: <h2>What's Included?</h2>
