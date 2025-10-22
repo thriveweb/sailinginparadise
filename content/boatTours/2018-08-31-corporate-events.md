@@ -220,10 +220,9 @@ columnBanner:
     featuredImage: /uploads/15c3a790-7deb-4ba8-89f4-312b9d178290.jpg
   - featuredImage: /uploads/d26a63a1-2a8e-41e6-a90c-d185bec84c13.jpg
 featuredTestimonials:
-  description: KOJO organized a corporate charter with us, take a look at their
-    experience...
+  description: ""
   testimonial: "KOJO, Aus "
-  title: KOJO
+  title: ""
 meta:
   description: For the ultimate in stress-free corporate event planning, we offer
     a range of catering and drinks packages for up to 102 guests.
