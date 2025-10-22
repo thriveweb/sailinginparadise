@@ -1,7 +1,7 @@
 ---
 template: SingleBoat
 title: Spirit Of Gwonda
-featuredImage: https://ucarecdn.com/981fde2d-0f44-47e1-82cc-66a14be6b1b6/
+featuredImage: /uploads/unnamed.jpg
 description: >-
   ### Spirit of Gwonda - Up to 30 guests
 
