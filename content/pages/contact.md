@@ -4,7 +4,7 @@ slug: contact-us
 title: Contact Us
 featuredImage: /uploads/449a8b27-28e0-48a5-a259-a779766a068a.jpg
 intro: >-
-  ## get in touch with us
+  ## get in touch with us!
 
 
   We are friendly and we love to chat!   If you are making an enquiry for the first time we suggest completing the enquiry form located [HERE](https://sailinginparadise.com.au/booking-enquiry) on our website and we will then send through info for you to read at your leisure.   If you have any specific questions not covered in the reply email, perhaps check out the FAQ's on each page, drop us an email or give us a bell!   We look forward to talking with you!
