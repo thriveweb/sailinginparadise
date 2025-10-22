@@ -30,6 +30,6 @@ All vessels are berthed at Marina Mirage C Arm.
 
 Please find a map below of the current vessel locations. 
 
-![]()
+![Map](/uploads/new-map.jpg "Map")
 
 If you can’t find us you can always call us and we will be happy to guide you.
