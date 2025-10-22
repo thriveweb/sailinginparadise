@@ -39,8 +39,9 @@ gallery:
   - image: /uploads/aab96652-6973-4625-be40-05493468c28d.jpg
   - image: /uploads/4aef8938-5c54-4373-9f42-552f908dafca.jpg
 videoSection:
-  imageOverlay: ""
-  video: ""
+  imageOverlay: /uploads/3-boats-2025-city-skyline.jpg
+  video: "1129403282"
+  title: Gold Coast Corporate Raft Up Events
 contentColumnTitle: A corporate event venue with a difference...
 contentColumn: >-
   Our catamarans offer comfort, space and style and are guaranteed to create a
