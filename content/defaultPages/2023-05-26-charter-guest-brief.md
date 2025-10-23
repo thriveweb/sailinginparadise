@@ -36,7 +36,7 @@ content: >-
   If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you. 
 
 
-  ![](https://ucarecdn.com/f68dc479-eda8-4d38-bdd7-c88709452940/)
+  ![](/uploads/new-map.jpg)
 
 
   ###### BOARDING INFO
