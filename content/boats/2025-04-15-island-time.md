@@ -79,7 +79,7 @@ columnsSection:
       charter gold coast")'
 videoSectionOptional:
   title: 360° VR TOUR - Island Time
-  imageOverlay: https://ucarecdn.com/81298017-15b1-4803-8cdc-31d1b6a64411/
+  imageOverlay: /uploads/81298017-15b1-4803-8cdc-31d1b6a64411.jpg
   video: https://tour.panoee.com/IslandTime
   ctaText: Take a Tour
 columnBanner:

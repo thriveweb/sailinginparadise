@@ -31,7 +31,7 @@ featuredSlider:
 featuredBanner:
   buttonTitle: A celebration your team will love
   buttonUrl: boat-charter/gold-coast-christmas-parties/
-  image: https://ucarecdn.com/2dcb7a67-2cc4-4f36-af89-daa130049c07/
+  image: /uploads/2dcb7a67-2cc4-4f36-af89-daa130049c07.jpg
   title: CHRISTMAS PARTY CHARTERS
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg

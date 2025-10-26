@@ -5,7 +5,7 @@ status: Published
 date: 2025-09-09T05:34:16.394Z
 categories:
   - category: Updates
-featuredImage: https://ucarecdn.com/8cb5ca24-dce8-40c7-962c-63861f70bdbe/
+featuredImage: /uploads/8cb5ca24-dce8-40c7-962c-63861f70bdbe.jpg
 excerpt: >-
   Why Choose a Christmas Boat Charter on the Gold Coast?
 
@@ -13,7 +13,7 @@ excerpt: >-
 videoSection:
   title: How your Christmas Party could look...
   video: "1116997324"
-  imageOverlay: https://ucarecdn.com/5e10c21a-5ca0-41b2-ad0a-6c20a995a136/
+  imageOverlay: /uploads/5e10c21a-5ca0-41b2-ad0a-6c20a995a136.jpg
 contentSecondary: >-
   ## Which Christmas Party Boat Is Right for You?
 
@@ -79,7 +79,7 @@ Christmas is fast approaching, and after a huge year, your team deserves a celeb
 
 Picture your team cruising the sparkling waterways aboard a stylish sailing catamaran, soaking up sunshine and toasting the year’s wins. Forget static venues - your Christmas party boat is always on the move, with views of golden beaches, islands and the dazzling Surfers Paradise skyline. Add your choice of catering, drinks, and music, and you’ve got a staff party that’s guaranteed to impress.
 
-![](https://ucarecdn.com/1b5e7b17-864c-4579-b789-368077dfcd66/)
+![](/uploads/1b5e7b17-864c-4579-b789-368077dfcd66.jpg)
 
 ## Why Choose a Christmas Boat Charter on the Gold Coast?
 
@@ -117,7 +117,7 @@ Every workplace is different, so our Christmas boat charters come with flexible 
 
 •	Fully Customised Charter – design your own dream staff party, and we’ll make it happen.
 
-![](https://ucarecdn.com/71a584c3-c365-40d0-be32-a90dac5778fc/)
+![](/uploads/71a584c3-c365-40d0-be32-a90dac5778fc.jpg)
 
 ## Who Do Our Christmas Boat Charters Suit?
 

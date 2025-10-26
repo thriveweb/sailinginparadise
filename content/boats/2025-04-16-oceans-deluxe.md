@@ -55,7 +55,7 @@ boatFeaturesButtonLink: /booking-enquiry/
 videoSection:
   title: Oceans Video Walk-Through
   video: "1109550681"
-  imageOverlay: https://ucarecdn.com/75ae85e9-a618-47ad-92fb-864b6efaaa20/
+  imageOverlay: /uploads/75ae85e9-a618-47ad-92fb-864b6efaaa20.jpg
   ctaText: Take a Tour
 columnsSection:
   - leftColumn: >-
@@ -70,10 +70,10 @@ columnsSection:
 
       [I﻿NSTA HIGHLIGHTS REEL](https://www.instagram.com/stories/highlights/17928120349525159/)
     rightColumn: '![Sailing in Paradise Boat Hire Gold
-      Coast](https://ucarecdn.com/81eb3981-9ee8-494f-a607-a82dae72eb4b/ "Sailing
+      Coast](/uploads/81eb3981-9ee8-494f-a607-a82dae72eb4b.jpg "Sailing
       in Paradise Boat Hire Gold Coast")'
 videoSectionOptional:
-  imageOverlay: https://ucarecdn.com/afc3fec7-f908-4a9a-b301-11052de6c71e/
+  imageOverlay: /uploads/afc3fec7-f908-4a9a-b301-11052de6c71e.jpg
   title: " 360° VR TOUR - Oceans"
   video: https://tour.panoee.com/oceans
   ctaText: Take a Tour
@@ -86,7 +86,7 @@ columnBanner:
     title: Start planning your charter
     buttonTitle: Enquire Now
     buttonUrl: booking-enquiry/
-  - featuredImage: https://ucarecdn.com/8b7afea8-8365-4e5f-83e8-2708ba0f979e/
+  - featuredImage: /uploads/8b7afea8-8365-4e5f-83e8-2708ba0f979e.jpg
     content: ""
 accordionSection:
   accordion:

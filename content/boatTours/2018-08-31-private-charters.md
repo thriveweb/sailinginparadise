@@ -69,7 +69,7 @@ contentColumn: >-
   > [R﻿EQUEST MORE INFO](https://sailinginparadise.com.au/booking-enquiry/)
 
 
-  ![Sailing in Paradise Catamarans](https://ucarecdn.com/0f5b1b39-2d19-4783-ab43-f128a999bb70/ "Sailing in Paradise Charter Boats Gold Coast")
+  ![Sailing in Paradise Catamarans](/uploads/0f5b1b39-2d19-4783-ab43-f128a999bb70.jpg "Sailing in Paradise Charter Boats Gold Coast")
 
 
 

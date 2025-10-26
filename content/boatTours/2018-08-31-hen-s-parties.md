@@ -38,7 +38,7 @@ gallery:
   - image: /uploads/4d311d5c-48ce-49af-ba59-52279b0f1d86.jpg
   - image: /uploads/9d2866d7-f659-43e2-b6c0-66e29f9d8a66.jpg
 videoSection:
-  imageOverlay: https://ucarecdn.com/83811de6-f46d-41c6-ab38-382cff350a9b/
+  imageOverlay: /uploads/83811de6-f46d-41c6-ab38-382cff350a9b.jpg
   video: "1117016395"
   title: Hen's Party Highlights Reel
 contentColumnTitle: Plan your perfect hens party cruise
@@ -60,7 +60,7 @@ contentColumn: >-
   > [EXPLORE OUR BOATS](https://sailinginparadise.com.au/our-boats/)
 
 
-  ![hen's party boat gold coast](https://ucarecdn.com/75d61ae7-0078-4c2f-9895-bc80b8a98fae/)
+  ![hen's party boat gold coast](/uploads/75d61ae7-0078-4c2f-9895-bc80b8a98fae.jpg)
 
 
   > [R﻿EQUEST INFO PACK](https://sailinginparadise.com.au/booking-enquiry/)

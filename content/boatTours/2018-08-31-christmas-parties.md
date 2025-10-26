@@ -27,14 +27,14 @@ bookingIframe: >-
 gallery:
   - image: /uploads/8039e778-fc75-4c1d-b801-7857a4ef3559.jpg
   - image: /uploads/4f3fd348-7e7c-4f69-811f-140e3557fb21.jpg
-  - image: https://ucarecdn.com/552082bb-1faa-48fb-9a35-4871584245f6/
-  - image: https://ucarecdn.com/4e4afbfa-24ce-4b2e-82c5-7b61e392b3bf/
-  - image: https://ucarecdn.com/f247e1dc-6131-4daa-92a6-fc23d93a26c1/
+  - image: /uploads/552082bb-1faa-48fb-9a35-4871584245f6.jpg
+  - image: /uploads/4e4afbfa-24ce-4b2e-82c5-7b61e392b3bf.jpg
+  - image: /uploads/f247e1dc-6131-4daa-92a6-fc23d93a26c1.jpg
   - image: /uploads/c041dbaa-ab58-4736-b90e-89e50ab31ff8.jpg
   - image: /uploads/b98bd5bc-c0a1-4483-b2d9-ce7e620bf1f4.jpg
   - image: /uploads/3fd391e4-3880-4fa8-982e-b080d96fd92b.jpg
 videoSection:
-  imageOverlay: https://ucarecdn.com/e6eefd5c-aa64-4968-bbad-cc22c1bae65b/
+  imageOverlay: /uploads/e6eefd5c-aa64-4968-bbad-cc22c1bae65b.jpg
   video: "1116997324"
   title: Christmas Party Daytime Reel
 contentColumnTitle: Not your average office Christmas Party!
@@ -106,7 +106,7 @@ contentColumn: >-
   If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
 
 
-  ![](https://ucarecdn.com/ebbc900d-543e-4d31-aa8e-135895652747/ "Sailing boat charter gold coast")
+  ![](/uploads/ebbc900d-543e-4d31-aa8e-135895652747.jpg "Sailing boat charter gold coast")
 
 
   ## The Christmas Party Boats

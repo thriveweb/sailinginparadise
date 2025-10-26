@@ -19,11 +19,11 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: https://ucarecdn.com/4383b5d0-107a-4935-b5a5-a3050acc8fa8/
-  - image: https://ucarecdn.com/e2935cb8-8a00-4457-9f5a-97d2d9ec8fed/-/crop/1497x1142/3,641/-/preview/
-  - image: https://ucarecdn.com/dd9b90c8-037c-4952-8cc7-64bbcd8d551b/-/crop/1732x1338/0,468/-/preview/
-  - image: https://ucarecdn.com/69031016-4585-4ae7-9c99-d6b286e73184/
-  - image: https://ucarecdn.com/475662b7-1f66-46f9-b8dc-82791b4ccb9b/
+  - image: /uploads/4383b5d0-107a-4935-b5a5-a3050acc8fa8.jpg
+  - image: /uploads/e2935cb8-8a00-4457-9f5a-97d2d9ec8fed.jpg
+  - image: /uploads/dd9b90c8-037c-4952-8cc7-64bbcd8d551b.jpg
+  - image: /uploads/69031016-4585-4ae7-9c99-d6b286e73184.jpg
+  - image: /uploads/475662b7-1f66-46f9-b8dc-82791b4ccb9b.jpg
   - image: /uploads/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e.jpg
 boatListingFeatures:
   - content: The O.G.
@@ -61,10 +61,10 @@ columnsSection:
 
       [C﻿harter Highlights Reel](https://www.instagram.com/stories/highlights/18021266234183760/)
     rightColumn: '![Spirit of Gwonda, Charter Catamaran, Gold
-      Coast](https://ucarecdn.com/f28efbf3-9aa9-4926-844d-1e14d6380cd2/ "Spirit
+      Coast](/uploads/f28efbf3-9aa9-4926-844d-1e14d6380cd2.jpg "Spirit
       of Gwonda, Charter Catamaran, Gold Coast")'
 videoSectionOptional:
-  imageOverlay: https://ucarecdn.com/3069e7bb-62cd-4943-8d42-f743143e6e7f/
+  imageOverlay: /uploads/3069e7bb-62cd-4943-8d42-f743143e6e7f.jpg
   title: 360° VR tour - Spirit Of Gwonda
   video: https://tour.panoee.com/spirit-of-gwonda
   ctaText: Take a Tour
@@ -77,7 +77,7 @@ columnBanner:
       P﻿lease send an enquiry and we will get right back to you.
     buttonUrl: booking-enquiry/
   - title: ""
-    featuredImage: https://ucarecdn.com/b3f558f7-b0df-48e2-b564-1699516a95e1/
+    featuredImage: /uploads/b3f558f7-b0df-48e2-b564-1699516a95e1.jpg
     content: ""
 accordionSection:
   accordion:

@@ -21,7 +21,7 @@ import { SingleBoatTourTemplate } from '../templates/SingleBoatTour'
 import { SingleBoatTemplate } from '../templates/SingleBoat'
 import { SingleFaqPageTemplate } from '../templates/SingleFaqPage'
 
-CMS.registerMediaLibrary(uploadcare)
+// CMS.registerMediaLibrary(uploadcare)
 
 CMS.registerPreviewTemplate('home-page', ({ entry }) => (
   <HomePageTemplate {...entry.getIn(['data']).toJS()} />
