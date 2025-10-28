@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact-us
 title: Contact Us
-featuredImage: /uploads/449a8b27-28e0-48a5-a259-a779766a068a.jpg
+featuredImage: /uploads/uploadtest.jpg
 intro: >-
   ## get in touch with us!
 
