@@ -1,7 +1,7 @@
 ---
 template: SingleBoat
 title: Spirit Of Gwonda
-featuredImage: /uploads/unnamed.jpg
+featuredImage: /uploads/029c2c2a-acb1-475c-a7b5-e4b81312a9fb.jpg
 description: >-
   ### Spirit of Gwonda - Up to 30 guests
 
@@ -61,8 +61,8 @@ columnsSection:
 
       [C﻿harter Highlights Reel](https://www.instagram.com/stories/highlights/18021266234183760/)
     rightColumn: '![Spirit of Gwonda, Charter Catamaran, Gold
-      Coast](/uploads/f28efbf3-9aa9-4926-844d-1e14d6380cd2.jpg "Spirit
-      of Gwonda, Charter Catamaran, Gold Coast")'
+      Coast](/uploads/f28efbf3-9aa9-4926-844d-1e14d6380cd2.jpg "Spirit of
+      Gwonda, Charter Catamaran, Gold Coast")'
 videoSectionOptional:
   imageOverlay: /uploads/3069e7bb-62cd-4943-8d42-f743143e6e7f.jpg
   title: 360° VR tour - Spirit Of Gwonda
