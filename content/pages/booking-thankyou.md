@@ -13,9 +13,6 @@ intro: >-
   We can't wait to welcome you on board!
 
 
-  ![](/uploads/fampeople720190203sog_9803.jpg)
-
-
   [C﻿heck out our Google Reviews](https://g.page/r/CcNKiU4cjD26EBM/)
 
 
