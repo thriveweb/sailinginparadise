@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   # branch: master # Branch to update (optional; defaults to master)
-  branch: feature/node-upgrade # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
 site_url: https://sailinginparadise.com.au
 display_url: https://sailinginparadise.com.au
 # media_library:
