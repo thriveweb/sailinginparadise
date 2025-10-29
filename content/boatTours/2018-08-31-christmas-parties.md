@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Christmas Parties
 icon: ""
-featuredImage: https://ucarecdn.com/e6d70810-9de3-4ef3-a87a-1a77be12d43d/-/preview/-/enhance/50/
+featuredImage: /uploads/e6d70810-9de3-4ef3-a87a-1a77be12d43d.jpg
 intro: >-
   ## gold coast Christmas boat party
 
@@ -11,15 +11,54 @@ intro: >-
   Looking for somewhere unique to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?  
 
 
-  Sailing in Paradise would love to create a 2024 Christmas Boat  Party that you and your guests will remember forever!     So please fill out our enquiry form, send us an email or give us a bell.  
+  Sailing in Paradise would love to create a 2025 Christmas Boat  Party that you and your guests will remember forever!
+contentBox:
+  buttonTitle: ""
+  buttonUrl: ""
+  title: Book your VIP Gold Coast Christmas Party Experience
+bookingIframe: >-
+  <!--StartFragment-->
 
 
-  ##### W﻿hat's Included with your Christmas Party Boat?
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/285987?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability and BOOK NOW</a>
+
+
+  <!--EndFragment-->
+gallery:
+  - image: /uploads/8039e778-fc75-4c1d-b801-7857a4ef3559.jpg
+  - image: /uploads/4f3fd348-7e7c-4f69-811f-140e3557fb21.jpg
+  - image: /uploads/552082bb-1faa-48fb-9a35-4871584245f6.jpg
+  - image: /uploads/4e4afbfa-24ce-4b2e-82c5-7b61e392b3bf.jpg
+  - image: /uploads/f247e1dc-6131-4daa-92a6-fc23d93a26c1.jpg
+  - image: /uploads/c041dbaa-ab58-4736-b90e-89e50ab31ff8.jpg
+  - image: /uploads/b98bd5bc-c0a1-4483-b2d9-ce7e620bf1f4.jpg
+  - image: /uploads/3fd391e4-3880-4fa8-982e-b080d96fd92b.jpg
+videoSection:
+  imageOverlay: /uploads/e6eefd5c-aa64-4968-bbad-cc22c1bae65b.jpg
+  video: "1116997324"
+  title: Christmas Party Daytime Reel
+contentColumnTitle: Not your average office Christmas Party!
+contentColumn: >-
+  If your Gold Coast Christmas Party has fallen into the 'get me out of here
+  this is soooooo dull' category once too often, we are here to help fix
+  that!   
+
+
+  Aboard your own private catamaran our crew are on hand to help make your Christmas Party perfect for your group.    You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
+
+
+  Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
+
+
+  !["Boat charter gold coast sailing in paradise"](/uploads/36492aa7-7dfd-4bf5-95a7-c770c6316850.jpg)
+
+
+  ## W﻿hat's Included with your Christmas Party Boat?
 
 
   * Bespoke planning service
 
-  * E﻿xclusive Charter of vessel [(see our boats here)](https://sailinginparadise.com.au/our-boats/)
+  * E﻿xclusive Charter of vessel [](https://sailinginparadise.com.au/our-boats/)
 
   * F﻿riendly, professional crew
 
@@ -34,44 +73,6 @@ intro: >-
     \*C﻿atering and beverages service available
 
   **Christmas Party Boat C﻿harters from $500 to $860 per hour (min 3 hours)**
-contentBox:
-  buttonTitle: ""
-  buttonUrl: ""
-  title: Book your VIP Gold Coast Christmas Party Experience
-bookingIframe: >-
-  <!--StartFragment-->
-
-
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/285987?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability and BOOK NOW</a>
-
-
-  <!--EndFragment-->
-gallery:
-  - image: https://ucarecdn.com/3ac9fb35-c360-45b7-8073-f8fc4276aa3c/
-  - image: https://ucarecdn.com/8039e778-fc75-4c1d-b801-7857a4ef3559/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/4f3fd348-7e7c-4f69-811f-140e3557fb21/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/c041dbaa-ab58-4736-b90e-89e50ab31ff8/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/145e93bb-d643-42b9-a3f8-90b6d29b837d/
-  - image: https://ucarecdn.com/ce75f74e-ee06-4b0b-b50b-1e65058423b0/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/b98bd5bc-c0a1-4483-b2d9-ce7e620bf1f4/-/preview/-/enhance/28/
-  - image: https://ucarecdn.com/3fd391e4-3880-4fa8-982e-b080d96fd92b/-/preview/-/enhance/50/
-videoSection:
-  imageOverlay: ""
-  video: ""
-contentColumnTitle: Not your average office Christmas Party!
-contentColumn: >-
-  If your Gold Coast Christmas Party has fallen into the 'get me out of here
-  this is soooooo dull' category once too often, we are here to help fix
-  that!   
-
-
-  Aboard your own private catamaran our crew are on hand to help make your Christmas Party perfect for your group.    You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
-
-
-  Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
-
-
-  ![](https://ucarecdn.com/36492aa7-7dfd-4bf5-95a7-c770c6316850/ "Boat charter gold coast sailing in paradise")
 
 
   ## Christmas Party Ideas
@@ -105,7 +106,7 @@ contentColumn: >-
   If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
 
 
-  ![](https://ucarecdn.com/1f757de8-82fc-4311-9ac9-ac47cf6ab973/-/crop/4328x3034/176,609/-/preview/ "Sailing boat charter gold coast")
+  ![](/uploads/ebbc900d-543e-4d31-aa8e-135895652747.jpg "Sailing boat charter gold coast")
 
 
   ## The Christmas Party Boats
@@ -321,7 +322,7 @@ columnBanner:
       evening on the water with your team.
     title: Start planning your Christmas Party today
     featuredImage: ""
-  - featuredImage: https://ucarecdn.com/ac32039b-c795-46db-81d3-73994772702d/
+  - featuredImage: /uploads/ac32039b-c795-46db-81d3-73994772702d.jpg
     content: ""
     bookingWidget: ""
 featuredTestimonials:

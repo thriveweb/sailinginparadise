@@ -1,9 +1,10 @@
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
 import { ICONPlay, ICONButtonArrows } from './Icons'
 import FeaturedSlider from './FeaturedSlider'
 import SocialLinks from './SocialLinks'
 import Image from './Image'
 import Button from './Button'
+import BookingPopup from './BookingPopup'
 
 import './Video.css'
 
@@ -11,7 +12,9 @@ class Video extends Component {
   constructor(props) {
     super(props)
     this.videoRef = React.createRef()
-    this.state = {}
+    this.state = {
+      popupActive: false
+    }
   }
 
   updateDimensions() {
@@ -34,11 +37,25 @@ class Video extends Component {
     })
   }
 
+  handlePopup = () => {
+    this.setState({
+      popupActive: !this.state.popupActive
+    })
+
+    document.body.style.overflow = !this.state.popupActive ? 'hidden' : 'auto'
+    document.documentElement.style.overflow = !this.state.popupActive
+      ? 'hidden'
+      : 'auto'
+  }
+
   render() {
     const {
       title,
       buttonTitle,
       buttonUrl,
+      buttonSecondaryTitle,
+      buttonSecondaryUrl,
+      globalSections,
       video,
       mobileVideo,
       posterImage,
@@ -49,9 +66,15 @@ class Video extends Component {
       featuredBanner,
       socialMedia
     } = this.props
-    const { videoPlaying, mobileWidth } = this.state
+    const { videoPlaying, mobileWidth, popupActive } = this.state
 
     if (!video) return null
+
+    const popup = globalSections ? globalSections.frontmatter.bookingPopup : {}
+    const isIframe = buttonSecondaryUrl && buttonSecondaryUrl.startsWith('http')
+    const iframeContent = isIframe ? `                        
+        <a id="button-booking" class="button-booking rezdy rezdy-modal" style="color:white;" href="${buttonSecondaryUrl}?iframe=true">${buttonSecondaryTitle}</a>
+        `: ``;
 
     const url = video.replace(/^.+v=/, '').replace(/&.*/, '')
 
@@ -61,8 +84,37 @@ class Video extends Component {
           {title.length > 1 && (
             <div className="overlay-content">
               <div className="container">
-                <h1 className="title-gradient">{title}</h1>
-                <Button title={buttonTitle} url={buttonUrl} white />
+                <h1 className="title-gradient" dangerouslySetInnerHTML={{ __html: title }}></h1>
+                <div className="buttonContainer">
+                  <Button title={buttonTitle} url={buttonUrl} white />
+                  {buttonSecondaryTitle && (
+                    buttonSecondaryUrl ? (
+                      <div
+                        className="button buttonWhite"
+                        style={{marginLeft: "1rem"}}
+                      >
+                        {isIframe &&
+                          <span style={{display: "ruby"}}>
+                            <div dangerouslySetInnerHTML={{ __html: iframeContent }} />
+                            <ICONButtonArrows />
+                          </span>
+                        }
+                        {!isIframe &&
+                          <Button title={buttonSecondaryTitle} url={buttonSecondaryUrl + "/"} />
+                        }                        
+                      </div>
+                    ) : (
+                      <button
+                        className='button buttonWhite btnSecondary'
+                        type="button"
+                        onClick={this.handlePopup}
+                      >
+                        {buttonSecondaryTitle}<ICONButtonArrows />
+                      </button>
+                    )
+                  )}
+                </div>
+
               </div>
             </div>
           )}
@@ -95,6 +147,11 @@ class Video extends Component {
             featuredBanner={featuredBanner}
           />
           <SocialLinks socialMedia={socialMedia} />
+          <BookingPopup
+            {...popup}
+            classActive={popupActive ? 'active' : ''}
+            handlePopup={this.handlePopup}
+          />
         </div>
       )
 

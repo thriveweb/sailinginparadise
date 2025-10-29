@@ -1,19 +1,22 @@
 # See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  # branch: master # Branch to update (optional; defaults to master)
+  branch: feature/node-upgrade # Branch to update (optional; defaults to master)
 site_url: https://sailinginparadise.com.au
 display_url: https://sailinginparadise.com.au
-media_library:
-  name: uploadcare
-  config:
-    publicKey: f42a0747a02b03897d9f
-    multiple: false
-    tabs: 'file camera url facebook gdrive'
-    effects: 'crop,rotate,enhance,grayscale'
-    imageShrink: '2000x2000'
-    previewStep: true
-    clearable: true
+# media_library:
+#   name: uploadcare
+#   config:
+#     publicKey: f42a0747a02b03897d9f
+#     multiple: false
+#     tabs: 'file camera url facebook gdrive'
+#     effects: 'crop,rotate,enhance,grayscale'
+#     imageShrink: '2000x2000'
+#     previewStep: true
+#     clearable: true
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
@@ -43,6 +46,18 @@ collections: # A list of collections the CMS should be able to edit
           - {
               label: Button Url,
               name: buttonUrl,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Button Secondary Title,
+              name: buttonSecondaryTitle,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Button Secondary Url,
+              name: buttonSecondaryUrl,
               widget: string,
               required: false,
             }
@@ -842,6 +857,17 @@ collections: # A list of collections the CMS should be able to edit
                   widget: markdown,
                   required: false,
                 }
+              - label: 'Boat Listing Features'
+                required: false
+                name: 'boatListingFeatures'
+                widget: 'list'
+                fields:
+                  - {
+                      label: Content,
+                      name: content,
+                      widget: markdown,
+                      required: false,
+                    }
               - label: 'Boat Features'
                 required: false
                 name: 'boatFeatures'
@@ -1149,6 +1175,270 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
+  - name: boats
+    label: Boats
+    editor:
+      preview: true
+    folder: content/boats
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: SingleBoat,
+        }
+      - { label: Title, name: title, widget: string }
+      - { label: Featured Image, name: featuredImage, widget: image }
+      - {
+          label: Description,
+          name: description,
+          widget: markdown,
+          required: false,
+        }
+      - {
+          label: Booking Iframe,
+          name: bookingIframe,
+          widget: markdown,
+          required: false,
+        }
+      - label: 'Content Box'
+        required: false
+        name: 'contentBox'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Button Title,
+              name: buttonTitle,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Button Url,
+              name: buttonUrl,
+              widget: string,
+              required: false,
+            }      
+      - label: 'Boat Features Intro' 
+        required: false
+        name: 'boatFeaturesIntro' 
+        widget: 'string'
+      - label: 'Gallery'
+        required: false
+        name: 'gallery'
+        widget: 'list'
+        fields:
+          - {
+              label: Image,
+              name: image,
+              widget: image,
+              required: false,
+            }
+      - label: 'Boat Listing Features'
+        required: false
+        name: 'boatListingFeatures'
+        widget: 'list'
+        fields:
+          - {
+              label: Content,
+              name: content,
+              widget: markdown,
+              required: false,
+            }
+      - label: 'Boat Features'
+        required: false
+        name: 'boatFeatures'
+        widget: 'list'
+        fields:
+          - {
+              label: Content,
+              name: content,
+              widget: markdown,
+              required: false,
+            }
+      - label: 'Boat Features Button Text' 
+        required: false
+        name: 'boatFeaturesButtonText' 
+        widget: 'string'
+      - label: 'Boat Features Button Link' 
+        required: false
+        name: 'boatFeaturesButtonLink' 
+        widget: 'string'
+      - label: Video Section
+        name: videoSection
+        required: false
+        widget: object
+        fields:
+          - {
+              label: Image Overlay,
+              name: imageOverlay,
+              widget: image,
+              required: false,
+            }
+          - {
+              label: Title,
+              name: title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              label: Video,
+              name: video,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: CTA Text,
+              name: ctaText,
+              widget: string,
+              required: false,
+              default: 'Watch Video',
+            }
+      - label: Columns Section
+        name: columnsSection
+        required: false
+        widget: 'list'
+        fields:
+          - {
+              label: Left Column,
+              name: leftColumn,
+              widget: markdown,
+              required: false,
+            }
+          - {
+              label: Right Column,
+              name: rightColumn,
+              widget: markdown,
+              required: false,
+            }      
+      - label: Optional Video Section
+        name: videoSectionOptional
+        required: false
+        widget: object
+        fields:
+          - {
+              label: Image Overlay,
+              name: imageOverlay,
+              widget: image,
+              required: false,
+            }
+          - {
+              label: Title,
+              name: title,
+              widget: string,
+              required: false,
+              default: '',
+            }
+          - {
+              label: Video,
+              name: video,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: CTA Text,
+              name: ctaText,
+              widget: string,
+              required: false,
+              default: 'Watch Video',
+            }
+      
+      - label: 'Column Banner'
+        name: 'columnBanner'
+        required: false
+        widget: 'list'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - { label: Content, name: content, widget: markdown, required: false }
+          - {
+              label: Featured Image,
+              name: featuredImage,
+              widget: image,
+              required: false,
+            }
+          - {
+              label: Button Title,
+              name: buttonTitle,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Button Url,
+              name: buttonUrl,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Booking Widget,
+              name: bookingWidget,
+              widget: markdown,
+              required: false,
+            }
+      - label: Accordion Section
+        name: accordionSection
+        required: false
+        widget: 'object'
+        fields:
+          - {
+              label: Section Title,
+              name: sectionTitle,
+              widget: string,
+              required: false,
+            }
+          - label: Accordion
+            required: false
+            name: accordion
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Dropdown Content,
+                  name: dropdownContent,
+                  widget: markdown,
+                  required: false,
+                }
+      - label: 'Featured Testimonials'
+        required: false
+        name: 'featuredTestimonials'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - label: 'Testimonial'
+            name: 'testimonial'
+            required: false
+            widget: 'relation'
+            collection: 'happySailor'
+            searchFields: ['title']
+            valueField: 'title'
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+  
   - name: boatTours
     label: Boat Tours
     editor:

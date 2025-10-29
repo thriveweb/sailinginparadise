@@ -9,7 +9,7 @@ export default({ content, center, className = '', title }) => {
 	if(title) return <div className='contentColumn'>
 		<div className='container'>
 			<h2 className='fancy-title'>{title}</h2>
-			<Content className={`intro-section  ${className}`} src={content}/>
+			<Content className={`intro-section ${className}`} src={content}/>
 		</div>
 	</div>
 

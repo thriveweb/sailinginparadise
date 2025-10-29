@@ -5,7 +5,7 @@ status: Published
 date: 2025-02-21T03:09:47.769Z
 categories:
   - category: News
-featuredImage: https://ucarecdn.com/a04fcb77-60b7-4931-81ce-7e59e3ffe141/
+featuredImage: /uploads/a04fcb77-60b7-4931-81ce-7e59e3ffe141.jpg
 excerpt: If you’re looking to make your hens boat party extra special, a themed
   event is the perfect way to add some personality and fun!
 videoSection:
@@ -35,4 +35,4 @@ Please touch base with our team if you are considering a theme party and we will
 
 
 
-![](https://ucarecdn.com/d8065e17-d2c7-46ac-a99d-b78ae4e428cf/)
+![](/uploads/d8065e17-d2c7-46ac-a99d-b78ae4e428cf.jpg)

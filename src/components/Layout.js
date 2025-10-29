@@ -129,12 +129,6 @@ class Layout extends Component {
             <Fragment>
               <Helmet titleTemplate={`%s`}>
                 {title}
-                <link
-                  href="https://ucarecdn.com"
-                  rel="preconnect"
-                  crossorigin
-                />
-                <link rel="dns-prefetch" href="https://ucarecdn.com" />
                 {/* Add font link tags here */}
                 <meta
                   name="msvalidate.01"
@@ -143,11 +137,11 @@ class Layout extends Component {
 
                 <meta 
                   property='og:image'
-                  content='https://ucarecdn.com/279fc1b4-8074-4e4c-b836-3632ff3d6597/-/preview/-/enhance/64/-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000x/-/format/auto/-/quality/lighter/'
+                  content='/uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.jpg'
                 />
                 <meta 
                   property='twitter:image'
-                  content='https://ucarecdn.com/279fc1b4-8074-4e4c-b836-3632ff3d6597/-/preview/-/enhance/64/-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/1000x/-/format/auto/-/quality/lighter/'
+                  content='/uploads/279fc1b4-8074-4e4c-b836-3632ff3d6597.jpg'
                 />
 
                 <script

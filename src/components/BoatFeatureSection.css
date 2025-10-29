@@ -1,0 +1,74 @@
+.boat-features-list {
+	padding: 2rem 0;
+	background: #F8F8F8;
+	border-radius: 12px;
+	/* box-shadow: 0 2px 8px rgba(0,0,0,0.03); */
+}
+
+.features-columns {
+	display: flex;
+	gap: 48px;
+	justify-content: center;
+	margin-bottom: 1rem;
+}
+
+.feature-column {
+	flex: 1 1 0;
+	min-width: 0;
+}
+
+.feature-item-row {
+	display: flex;
+	flex-direction: column;
+}
+
+.feature-item {
+	display: flex;
+	align-items: center;
+	font-size: 1.6rem;
+	color: #23262F;
+	margin: 0.5rem 0;
+}
+
+.feature-dot {
+	color: #1A2341;
+	font-size: 1.6em;
+	margin-right: 16px;
+}
+
+.feature-divider {
+	height: 1px;
+	background: #E6E8EC;
+	width: 100%;
+	margin: 0;
+}
+
+.features-button-row {
+	display: flex;
+	/* margin-top: 32px; */
+}
+
+.features-button-row a.nav-button {
+  display: table;
+  padding: 1rem 3rem;
+  margin: 0;
+  background-color: #183c85;
+  color: white; 
+  border-radius: 3rem;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  transition: all ease-in-out 0.2s;
+  box-shadow: 0 0 3rem 0 rgba(0, 0, 0, 0.1);
+  cursor: pointer;  
+}
+
+.features-button-row a.nav-button:hover {
+  background-color: white;
+  color: #212121;
+}
+
+@media (max-width: 768px) {
+  .features-columns {
+    gap: 0;	
+  }
+}

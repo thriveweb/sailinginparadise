@@ -1,0 +1,194 @@
+.BoatIntro {
+	padding: 8rem 0 6rem;
+}
+
+.BoatIntro .container {
+	display: flex;
+	align-items: flex-start;
+}
+
+.BoatIntro .intro-section {
+	padding: 0;
+	/* flex: 0 0 60%; */
+	/* margin-right: 15%; */
+}
+
+.single-boat-content-column {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 5rem;
+}
+
+.single-boat-content-column .contentColumn {
+	flex: 1 0 45%;
+	padding: 4rem 0 !important;
+}
+
+.single-boat-content-column .contentColumn h2 {
+	margin-right: 4rem;
+}
+
+.single-boat-content-column .contentColumn p a {
+  display: table;
+  padding: 1rem 3rem;
+  margin: 0;
+  background-color: #183c85;
+  color: white; 
+  border-radius: 3rem;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  transition: all ease-in-out 0.2s;
+  box-shadow: 0 0 3rem 0 rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  margin: 2rem 0;
+}
+
+.single-boat-content-column .contentColumn p a:hover {
+  background-color: white;
+  color: #212121;
+}
+
+.single-boat-content-column .contentColumn .intro-section {
+	max-width: none;
+}
+
+.single-boat-content-column .intro-section {
+	max-width: 90%;
+}
+
+.single-boat-column-banner {
+	padding-top: 5rem;
+}
+
+.BoatIntro blockquote {
+	text-align: left;
+}
+
+@media only screen and (max-width: 1300px) {
+	.BoatIntro .intro-section {
+		flex: 1;
+		max-width: none;
+		margin-right: 5rem;
+	}
+
+	.BoatIntro .contentBox {
+		flex: 1;
+	}
+	
+}
+
+@media only screen and (max-width: 1000px) {
+	.single-boat-content-column .contentColumn {
+		padding: 8rem 0 4rem;
+	}
+	.single-boat-column-banner {
+		padding-top: 0rem;
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	.BoatIntro {
+		padding: 6rem 0;
+	}
+
+	.BoatIntro .container {
+		flex-wrap: wrap;
+	}
+
+	.BoatIntro .intro-section {
+		flex: 0 0 100%;
+		margin: 0 0 4rem;
+	}
+
+	.BoatIntro .contentBox {
+		flex: 0 0 100%;
+	}
+
+	.single-boat-content-column .contentColumn .container {
+		flex-wrap: wrap;
+	}
+
+	.single-boat-content-column .contentColumn h2 {
+		flex: 0 0 100%;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.single-boat-content-column .contentColumn .container,
+	.BoatIntro .intro-section {
+		text-align: center;
+	}
+
+	.single-boat-content-column {
+		row-gap: 1rem;
+		column-gap: 5rem;
+		width: 100%;
+	}
+
+	.single-boat-content-column .contentColumn {
+		padding: 0 !important;  /* Reduce padding between columns for mobile */
+	}
+
+	.BoatIntro blockquote {
+		text-align: center;
+	}
+
+
+	.single-boat-content-column .contentColumn .container h2,
+	.BoatIntro .intro-section h2 {
+		font-size: 2.8rem;
+	}
+
+	.single-boat-content-column .contentColumn .container h2:before,
+	.single-boat-content-column .contentColumn .container h2:after,
+	.BoatIntro .intro-section h2:before,
+	.BoatIntro .intro-section h2:after {
+		right: 0;
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	.SingleBoat h2 {
+		font-size: 2.2rem !important;
+	}
+
+	.BoatIntro {
+		padding: 4rem 0;
+	}
+
+	.single-boat-content-column .Content {
+		text-align: center;
+	}
+
+	.single-boat-content-column .contentColumn {
+		padding: 4rem 0;
+	}
+}
+
+@media (max-width: 900px) {
+	.boat-features-list {
+		padding: 32px 10px 32px 10px;
+	}
+	.features-columns {
+		gap: 24px;
+	}
+}
+
+@media (max-width: 700px) {
+	.features-columns {
+		flex-direction: column;
+		gap: 0;
+	}
+	.feature-column {
+		width: 100%;
+	}
+	.features-title {
+		font-size: 2rem;
+	}
+	.features-enquire-btn {
+		width: 100%;
+		padding: 18px 0;
+	}
+}

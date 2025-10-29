@@ -21,6 +21,9 @@ export const HomePageTemplate = ({
   mobileVideo,
   buttonTitle,
   buttonUrl,
+  buttonSecondaryTitle,
+  buttonSecondaryUrl,
+  globalSections,  
   featuredSlider,
   featuredBanner,
   services,
@@ -49,18 +52,21 @@ export const HomePageTemplate = ({
         title={title}
         buttonTitle={buttonTitle}
         buttonUrl={buttonUrl}
+        buttonSecondaryTitle={buttonSecondaryTitle}
+        buttonSecondaryUrl={buttonSecondaryUrl}   
+        globalSections={globalSections}     
         posterImage={posterImage}
         featuredSlider={featuredSlider}
         featuredBanner={featuredBanner}
         socialMedia={socialMedia}
       />
-      <ServiceColumns services={services} serviceBanner={serviceBanner} />
-      <SecondaryBanner {...secondaryBanner} contentBox />
-      <HomeAboutBanner {...aboutSection} />
       <HighlightChart
         highlights={highlights}
         highlightsIntro={highlightsIntro}
       />
+      <ServiceColumns services={services} serviceBanner={serviceBanner} />
+      <SecondaryBanner {...secondaryBanner} contentBox />
+      <HomeAboutBanner {...aboutSection} />      
       <TestimonialSlider {...featuredTestimonials} caseStudies={caseStudies} />
       <FeaturedPosts latestNews={latestNews} posts={posts} />
       <InstagramFeed />
@@ -70,12 +76,13 @@ export const HomePageTemplate = ({
 }
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page, posts, caseStudies } }) => (
+const HomePage = ({ data: { page, posts, caseStudies, globalSections } }) => (
   <Layout meta={page.frontmatter.meta || false}>
     <HomePageTemplate
       {...page.frontmatter}
       posts={posts}
       caseStudies={caseStudies}
+      globalSections={globalSections}     
     />
   </Layout>
 )
@@ -92,6 +99,8 @@ export const pageQuery = graphql`
         mobileVideo
         buttonTitle
         buttonUrl
+        buttonSecondaryTitle
+        buttonSecondaryUrl        
         featuredSlider {
           description
           title
@@ -188,6 +197,21 @@ export const pageQuery = graphql`
             title
             featuredImage
             excerpt
+          }
+        }
+      }
+    }
+    globalSections: markdownRemark(
+      fields: { slug: { eq: "/global-sections/" } }
+    ) {
+      frontmatter {
+        bookingPopup {
+          title
+          contentBoxes {
+            buttonTitle
+            buttonUrl
+            icon
+            title
           }
         }
       }

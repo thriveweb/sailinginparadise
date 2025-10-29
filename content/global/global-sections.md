@@ -1,15 +1,22 @@
 ---
 slug: global-sections
-footerContent: Sailing in Paradise offers cruises and private charters aboard 3
-  beautiful sailing catamarans on the Gold Coast Broadwater.
+footerContent: >-
+  Sailing in Paradise offers cruises and private charters aboard 3 beautiful
+  sailing catamarans on the Gold Coast Broadwater.
+
+
+  **C﻿all us on [0438915222](tel:0438915222)**
+
+
+  **[R﻿equest Info Pack](https://sailinginparadise.com.au/booking-enquiry/)**
 columnBanner:
   - buttonTitle: See More
     buttonUrl: boat-charter
-    featuredImage: https://ucarecdn.com/e4ced92d-7f07-4600-a290-b62247b3a39c/
+    featuredImage: /uploads/e4ced92d-7f07-4600-a290-b62247b3a39c.jpg
     title: Interested in our private yacht charters?
   - buttonTitle: Hear from our Happy Sailors
     buttonUrl: happy-sailors
-    featuredImage: https://ucarecdn.com/2a39ca1b-c271-43b3-baf2-08d28326d139/
+    featuredImage: /uploads/2a39ca1b-c271-43b3-baf2-08d28326d139.jpg
     title: Guest Testimonials
 globalVideo:
   imageOverlay: /images/uploads/home-banner.jpg

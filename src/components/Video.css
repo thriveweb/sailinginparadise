@@ -168,27 +168,35 @@
 }
 
 .video-section.homeVideo .overlay-content .container {
-  max-width: 53%;
   padding-top: 10vw;
-  margin: 0 0 0 auto;
+  margin: 0;
   flex-wrap: wrap;
 }
 
 .video-section.homeVideo .overlay-content h1,
 .video-section.homeVideo .overlay-content .button {
-  text-align: left;
+  text-align: center;
   line-height: 1;
   display: inline-block;
   position: relative;
   z-index: 4;
 }
 
+.video-section.homeVideo .overlay-content .buttonContainer {
+  width: 100%;
+  text-align: center;
+}
+
 .video-section.homeVideo .overlay-content h1 {
-  font-size: 18rem;
+  font-size: 14rem;
   font-weight: 600;
   margin: 0;
   max-width: 140rem;
-  flex: 0 0 100%;
+  flex: 0 0 100%;  
+}
+
+.video-section .btnSecondary {
+  margin-left: 1rem;
 }
 
 /* Boats */
@@ -202,13 +210,13 @@
 
 @media only screen and (max-width: 1800px) {
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 16rem;
+    font-size: 12rem;
   }
 }
 
 @media only screen and (max-width: 1600px) {
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 14rem;
+    font-size: 11rem;
   }
 }
 
@@ -221,7 +229,7 @@
   }
 
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 12rem;
+    font-size: 9rem;
     flex: 0 0 100%;
     max-width: none;
     display: block;
@@ -263,7 +271,7 @@
 
 @media only screen and (max-width: 1070px) {
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 10rem;
+    font-size: 7rem;
   }
 }
 
@@ -279,7 +287,7 @@
 
 @media only screen and (max-width: 950px) {
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 8rem;
+    font-size: 6rem;
   }
 }
 
@@ -297,7 +305,7 @@
 
 @media only screen and (max-width: 750px) {
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 6rem;
+    font-size: 4rem;
   }
 }
 
@@ -309,7 +317,7 @@
 
 @media only screen and (max-width: 550px) {
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .video-section.homeVideo .overlay-content .container {
@@ -319,7 +327,7 @@
 
 @media only screen and (max-width: 450px) {
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .video-section.homeVideo {
@@ -344,7 +352,7 @@
 
 @media only screen and (max-width: 320px) {
   .video-section.homeVideo .overlay-content h1 {
-    font-size: 3.4rem;
+    font-size: 2rem;
   }
 }
 

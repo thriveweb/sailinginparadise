@@ -12,10 +12,10 @@ hours: |-
   **OFFICE HOURS** (via phone) 9AM - 5PM
 
   **SAILING HOURS** (pre-booking required) 6AM - Midnight
-map: https://ucarecdn.com/3605c06b-3135-41cb-956a-a4c1515f50f9/
+map: /uploads/new-map-1-.jpg
 socialMedia:
   facebook: https://www.facebook.com/sailinginparadise
-  googlePlus: ""
+  googlePlus: https://g.page/r/CcNKiU4cjD26EBM/
   instagram: https://www.instagram.com/sailinginparadisegoldcoast/
   tripAdvisor: https://www.tripadvisor.com.au/Attraction_Review-g658994-d4705796-Reviews-Sailing_In_Paradise-Main_Beach_Gold_Coast_Queensland.html
 ---

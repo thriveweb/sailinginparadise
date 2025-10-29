@@ -14,7 +14,7 @@ const encodeMarkdownURIs = (source = '') => {
 }
 
 const Image = ({ nodeKey, src, alt, ...props }) => {
-  const decodedSrc = decodeURI(src)
+  const decodedSrc = decodeURI(src).split(" ")[0]
   return (
     <img className="Content--Image" {...props} src={decodedSrc} alt={alt} />
   )
@@ -47,13 +47,15 @@ const Content = ({ source, src, className = '' }) => {
 
   return (
     <Marked
-      className={`Content ${className}`}
-      source={encodeMarkdownURIs(source)}
+      className={`Content ${className}`}   
+      components={{
+        img: Image,
+      }}   
       renderers={{
         image: Image,
         html: HtmlBlock
       }}
-    />
+    >{encodeMarkdownURIs(source)}</Marked>
   )
 }
 

@@ -34,6 +34,7 @@
 .featuredSlider .fancy-title {
   font-size: 2rem;
   opacity: 0.8;
+  padding-right: 6rem;
 }
 
 .featuredSlider .fancy-title:before,
@@ -87,6 +88,10 @@
 .featuredSlider .slick-arrow.slick-prev {
   right: 10rem;
   left: auto;
+}
+
+.sliderItem p {
+  color: rgba(65, 63, 71, 0.7);
 }
 
 /*Featured Banner*/

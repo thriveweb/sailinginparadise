@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Private Charters
 icon: ""
-featuredImage: https://ucarecdn.com/5fb2ff23-e85f-4e32-939b-9d48808c3a31/-/preview/-/enhance/33/
+featuredImage: /uploads/5fb2ff23-e85f-4e32-939b-9d48808c3a31.jpg
 intro: >-
   ## gold coast Private Charter boat
 
@@ -20,31 +20,31 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Book Now</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279456?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check availability and Book Now</a>
 
 
   <!--EndFragment-->
 gallery:
-  - image: https://ucarecdn.com/837421ea-a5da-41b7-9153-703081b3e1b3/-/preview/-/enhance/23/
-  - image: https://ucarecdn.com/054e68d5-3cd0-44c8-bad9-90af5191867e/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/b09330b7-2809-4422-a09e-b57602631baf/-/preview/-/enhance/34/
-  - image: https://ucarecdn.com/edac77ce-7a56-442f-a631-21e7b32f73f2/-/preview/-/enhance/74/
-  - image: https://ucarecdn.com/0320f8b4-f407-41e2-9da9-50c5bc6a3af6/-/preview/-/enhance/39/
-  - image: https://ucarecdn.com/b6f0f33c-7420-4891-adec-e98166fff3a3/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/fb3c9bfb-5eeb-46a3-858f-3e37de05c45f/
-  - image: https://ucarecdn.com/0b125dc9-7cb0-4f19-8c0f-2022cd12887f/-/preview/-/enhance/100/
-  - image: https://ucarecdn.com/c21f6290-35ed-4c25-bcb4-d83f24022796/-/preview/-/enhance/30/
-  - image: https://ucarecdn.com/59f12649-5e70-4a06-a016-5bf9d191f67f/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/0bf0067c-8c39-4f91-aae9-60e3086f859b/
-  - image: https://ucarecdn.com/34c9a85f-f067-4159-8a14-2c05ae69f2d0/-/preview/-/enhance/33/
-  - image: https://ucarecdn.com/116d7759-df41-4481-b8b1-d929ea58cdbc/-/preview/-/enhance/32/
-  - image: https://ucarecdn.com/cd7ce99c-f6c7-4b0d-9016-40088413f3c5/-/preview/-/enhance/38/
-  - image: https://ucarecdn.com/423937f1-fc1c-4e9c-a803-349848e7752e/-/preview/-/enhance/26/
-  - image: https://ucarecdn.com/95e275f6-8143-4fef-b298-24d89b8a4738/-/preview/-/enhance/34/
-  - image: https://ucarecdn.com/5be94011-b667-4b11-8b76-fb00b6e7a809/-/preview/-/enhance/74/
-  - image: https://ucarecdn.com/3af242b5-a29b-4890-83e4-2687330a4f99/-/preview/-/enhance/33/
+  - image: /uploads/837421ea-a5da-41b7-9153-703081b3e1b3.jpg
+  - image: /uploads/054e68d5-3cd0-44c8-bad9-90af5191867e.jpg
+  - image: /uploads/b09330b7-2809-4422-a09e-b57602631baf.jpg
+  - image: /uploads/edac77ce-7a56-442f-a631-21e7b32f73f2.jpg
+  - image: /uploads/0320f8b4-f407-41e2-9da9-50c5bc6a3af6.jpg
+  - image: /uploads/b6f0f33c-7420-4891-adec-e98166fff3a3.jpg
+  - image: /uploads/fb3c9bfb-5eeb-46a3-858f-3e37de05c45f.jpg
+  - image: /uploads/0b125dc9-7cb0-4f19-8c0f-2022cd12887f.jpg
+  - image: /uploads/c21f6290-35ed-4c25-bcb4-d83f24022796.jpg
+  - image: /uploads/59f12649-5e70-4a06-a016-5bf9d191f67f.jpg
+  - image: /uploads/0bf0067c-8c39-4f91-aae9-60e3086f859b.jpg
+  - image: /uploads/34c9a85f-f067-4159-8a14-2c05ae69f2d0.jpg
+  - image: /uploads/116d7759-df41-4481-b8b1-d929ea58cdbc.jpg
+  - image: /uploads/cd7ce99c-f6c7-4b0d-9016-40088413f3c5.jpg
+  - image: /uploads/423937f1-fc1c-4e9c-a803-349848e7752e.jpg
+  - image: /uploads/95e275f6-8143-4fef-b298-24d89b8a4738.jpg
+  - image: /uploads/5be94011-b667-4b11-8b76-fb00b6e7a809.jpg
+  - image: /uploads/3af242b5-a29b-4890-83e4-2687330a4f99.jpg
 videoSection:
-  imageOverlay: https://ucarecdn.com/529672e8-e082-475b-bb88-3360acb4912e/
+  imageOverlay: /uploads/529672e8-e082-475b-bb88-3360acb4912e.jpg
   title: How your private charter could look...
   video: "349382726"
 contentColumnTitle: Imagine setting sail on your own private yacht
@@ -64,6 +64,17 @@ contentColumn: >-
 
 
   Whatever the occasion, cruising the Gold Coast Broadwater with a Private Boat Charter aboard your own luxury catamaran is a great way to spend a day or evening and Sailing in Paradise is the ultimate venue for your next event.
+
+
+  > [R﻿EQUEST MORE INFO](https://sailinginparadise.com.au/booking-enquiry/)
+
+
+  ![Sailing in Paradise Catamarans](/uploads/0f5b1b39-2d19-4783-ab43-f128a999bb70.jpg "Sailing in Paradise Charter Boats Gold Coast")
+
+
+
+
+  > ﻿ta
 accordionSection:
   accordion:
     - dropdownContent: >-
@@ -240,16 +251,16 @@ accordionSection:
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
-    content: Send me some info...
+    content: ""
     title: Start planning my charter
-    featuredImage: https://ucarecdn.com/60cf28b4-7151-4fea-ae4c-0a8601e88000/
+    featuredImage: /uploads/60cf28b4-7151-4fea-ae4c-0a8601e88000.jpg
   - buttonTitle: ""
     buttonUrl: ""
     content: ""
     title: ""
-    featuredImage: https://ucarecdn.com/17b4668a-b462-4c3f-b247-ed3ef1eaad5e/-/preview/-/enhance/36/
+    featuredImage: /uploads/17b4668a-b462-4c3f-b247-ed3ef1eaad5e.jpg
 featuredTestimonials:
-  description: Bree has been out with us 3 times now, check out her lovely review here...
+  description: ""
   testimonial: Bree, Aus
 meta:
   description: Sailing In Paradise - Surfers Paradise Gold Coast | From 10 to 30

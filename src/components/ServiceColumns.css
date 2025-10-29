@@ -33,6 +33,11 @@
 	transform: scale(1.05) translateX(1rem);
 }
 
+.serviceContent .serviceLink {
+	color: rgba(65, 63, 71, 0.7);
+}
+
+
 .serviceContent .button {
 	display: inline-block;
 	border: none;

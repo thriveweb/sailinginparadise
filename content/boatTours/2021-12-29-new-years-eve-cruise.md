@@ -1,50 +1,53 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Gold Coast New Year's Eve 2024 Cruise
+title: Gold Coast New Year's Eve 2025 Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
-featuredImage: https://ucarecdn.com/dba0149b-583f-4865-a988-8ec0b6959aac/
+featuredImage: /uploads/dba0149b-583f-4865-a988-8ec0b6959aac.jpg
 intro: >-
-  ## New Year's Eve 2024 Party Boat
+  ## New Year's Eve 2025 Party Boat
 
 
-  This New Year’s Eve, elevate your celebration aboard a private yacht charter.    Why pay premium prices for crowded venues, long drinks lines and tacky tunes when you can sail the night away with your faves and customise the food, drinks and music to suit your vibe.  
+  Looking for the ultimate New Year’s Eve event on the Gold Coast? Skip the crowded bars and overpriced tickets and welcome 2025 in true style aboard your own private party boat!
 
 
-  S﻿o what are you waiting for?  Gather your crew and set sail into 2025 with an incredible private charter experience on the stunning Gold Coast Broadwater.    
+  With Sailing in Paradise, you and your crew can enjoy an unforgettable night on the stunning Gold Coast Broadwater.   Set the vibe your way — choose your own music, bring your favourite food and drinks, and dance under the stars as fireworks light up the skyline. 
 
 
   **Enquire or book now to secure your yacht.**
 contentBox:
-  buttonTitle: NEW YEAR'S EVE CHARTER INFO
+  buttonTitle: SEND ME NEW YEAR'S EVE CHARTER INFO
   buttonUrl: booking-enquiry
   title: "ENQUIRE NOW "
 bookingIframe: ""
 gallery:
-  - image: https://ucarecdn.com/76f824f6-642a-46d6-b717-7a0815985f30/
-  - image: https://ucarecdn.com/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4/-/preview/-/enhance/39/
-  - image: https://ucarecdn.com/9269a739-47ef-4540-9ff3-337c0dd3d07e/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/42d9ef6e-fa1f-45c4-8a08-9c8435e4bbce/
-  - image: https://ucarecdn.com/a0047999-5aaf-4dff-acb2-d2c838d353f0/-/preview/-/enhance/25/
-  - image: https://ucarecdn.com/46a748e9-7b87-431a-a2ac-6c2ba0d13061/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/42f631aa-ddd7-41a1-b4eb-762b4546d9ec/-/preview/-/enhance/42/
-  - image: https://ucarecdn.com/b24fbc76-268a-4751-a300-4d648a3cd9c7/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/7ba15080-d97b-4046-b1fd-7ec0a700c195/-/preview/-/enhance/33/
+  - image: /uploads/76f824f6-642a-46d6-b717-7a0815985f30.jpg
+  - image: /uploads/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4.jpg
+  - image: /uploads/9269a739-47ef-4540-9ff3-337c0dd3d07e.jpg
+  - image: /uploads/42d9ef6e-fa1f-45c4-8a08-9c8435e4bbce.jpg
+  - image: /uploads/a0047999-5aaf-4dff-acb2-d2c838d353f0.jpg
+  - image: /uploads/46a748e9-7b87-431a-a2ac-6c2ba0d13061.jpg
+  - image: /uploads/42f631aa-ddd7-41a1-b4eb-762b4546d9ec.jpg
+  - image: /uploads/b24fbc76-268a-4751-a300-4d648a3cd9c7.jpg
+  - image: /uploads/7ba15080-d97b-4046-b1fd-7ec0a700c195.jpg
 contentColumnTitle: NEW YEARS EVE NEVER LOOKED BETTER
 contentColumn: >-
-  Picture this: a day filled with breathtaking views, island beaches, and
-  crystal-clear waters. Dive into fun with beach volleyball, stand-up
-  paddleboarding, and beach cricket—all at your fingertips on our daytime
-  sails. 
+  Celebrate New Year’s Eve on the Gold Coast in style aboard your own private
+  catamaran. Spend the day exploring island beaches, crystal-clear waters, and
+  taking in the stunning coastal views. Relax on deck or get active with beach
+  games like volleyball, paddleboarding, or a swim in the Broadwater.
 
 
-  As the sun sets, soak in the vibrant colours painting the horizon and the stunning Gold Coast skyline coming alive. When midnight strikes, experience an epic fireworks show lighting up the night sky from the best vantage point on the water.
+  The sunset over the Gold Coast hinterland brings the calm of the evening on the water.   When midnight arrives, you’ll have one of the best vantage points to watch the New Year’s Eve fireworks light up the sky.
 
 
-  Indulge in catering and beverage packages designed to make your night a breeze or feel free to bring your own favorites along, BYO is welcome!
+  Choose from our catering and drinks packages for a seamless celebration, or bring your own food and beverages. BYO is always welcome.  
 
 
-  Don’t just ring in the New Year—make a splash! Book your private catamaran now and start 2025 with an unforgettable adventure.
+  Start 2025 with an unforgettable experience on board a Gold Coast New Year’s Eve boat hire — perfect for friends, families, and private groups.
+
+
+  **Enquire or book your private yacht now to secure your spot for New Year’s Eve 2025.**
 accordionSection:
   accordion: []
   sectionTitle: ""

@@ -54,7 +54,7 @@ export const SingleCaseStudyTemplate = ({
                   itemProp="dateCreated pubdate datePublished"
                   date={date}
                 >
-                  {_format(date, 'MMMM, YYYY')}
+                  {_format(date, 'MMMM, yyyy')}
                 </time>
               </Fragment>
             )}

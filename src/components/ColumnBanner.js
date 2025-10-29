@@ -20,7 +20,7 @@ export default ({
 
   if (bookingIframe)
     return (
-      <div className={`bookingIframe columnsBanner${className}`}>
+      <div className={`bookingIframe columnsBanner ${className}`}>
         {columnBanner.map(
           (
             {

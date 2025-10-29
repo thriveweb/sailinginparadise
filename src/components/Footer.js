@@ -132,11 +132,9 @@ export default props => {
           <div className="footer-col col4">
             <h4>Quick contact</h4>
             <EnquiryForm />
-            <Link className="button" to="/booking-enquiry/">
-              Enquire About Hiring our Boats
-            </Link>
-            <Link className="button" to="/cruise-tickets/">
-              Book Tickets on a Cruise
+
+            <Link className="booking-button" to="/booking-enquiry/">
+              Booking Enquiry
             </Link>
           </div>
         </div>

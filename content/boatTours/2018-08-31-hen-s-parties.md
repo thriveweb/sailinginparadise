@@ -3,40 +3,15 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Hen's Parties
 icon: ""
-featuredImage: https://ucarecdn.com/13fd56d8-1c11-48c8-9edc-178a3637e78a/
+featuredImage: /uploads/13fd56d8-1c11-48c8-9edc-178a3637e78a.jpg
 intro: >-
-  ## gold coast Hens party boat
+  ### Planning a hens party on the Gold Coast? 
 
 
-  Hi hen's party planners!   When you book a hen's party boat charter with Sailing in Paradise you can expect a quality of service from years of experience in the industry coupled with the essential hen's party ingredient - good times!
+  A **hens party boat charter** with **Sailing in Paradise** is the perfect way to celebrate in style. With years of experience delivering unforgettable events, our crew knows how to combine **professional service** with relaxed, **good vibes**.
 
 
-  We don't bring pre-prescribed ideas of what a hens party should be.  We simply bring beautiful, spacious (and photogenic) boats with a fun, professional crew to help you host the hen's party of your dreams.
-
-
-  ###### W﻿hat's Included with your hen's party boat?
-
-
-  * Bespoke planning service 
-
-  * E﻿xclusive charter of vessel [(see our boats here)](/our-boats/)
-
-  * F﻿riendly, professional skipper and crew
-
-  * Use of 2 large eskies with ice (BYO drinks welcome)
-
-  * I﻿sland Activities including SUPs, splash mats, beach volleyball 
-
-  * A﻿mazing Sound System (with Ipad/Spotify control
-
-  * P﻿hoto memories of your charter
-
-    \*C﻿atering, beverages and hen's party butlers are available as optional extras
-
-  **Hen's Party Boat C﻿harters available from $430 to $860 per hour (min 3 hours)***
-
-
-  **[C﻿LICK TO REQUEST RATE CARD/INFO PACK](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)**
+  We don’t do cookie-cutter hens parties. Instead, we provide spacious, photogenic boats and a fun, friendly team to help you create **a celebration that’s uniquely yours**. Whether you want a **laid-back day in the sun**, a **sunset cruise with champagne**, or an **epic night on the water**, your hens party boat will be exactly what you imagine...and more.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
@@ -45,52 +20,50 @@ bookingIframe: >-
   <!--StartFragment-->
 
 
-  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/279607" style="background: rgb(12, 7, 94); border: 1px solid rgb(12, 7, 94); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability or Book Now</a>
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/catalog/279607/hen-s-parties" style="background: rgb(12, 7, 94); border: 1px solid rgb(12, 7, 94); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">Check Availability or Book Now</a>
 
 
   <!--EndFragment-->
 gallery:
-  - image: https://ucarecdn.com/63a56c79-609a-41f2-95c5-5a523aea6dee/
-  - image: https://ucarecdn.com/f8a8546b-bffb-4f3c-9c64-d9e136af475a/-/crop/1333x1689/0,188/-/preview/
-  - image: https://ucarecdn.com/9e1af779-767b-4de5-b0f2-e6d80836bd18/-/preview/-/enhance/30/
-  - image: https://ucarecdn.com/53d6d510-2a29-43c8-915f-6ca97e2e4d3f/-/crop/1041x1188/0,137/-/preview/
-  - image: https://ucarecdn.com/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5/-/crop/1334x1507/0,109/-/preview/
-  - image: https://ucarecdn.com/df0249f9-b0af-4628-b173-4f7fcf6d334e/-/crop/1333x1654/0,137/-/preview/
-  - image: https://ucarecdn.com/8f486ec3-739d-42cd-a1bb-1542175aeadb/
-  - image: https://ucarecdn.com/cf31a2d2-534a-4238-bdc8-030a3c3ec420/
-  - image: https://ucarecdn.com/a8ae5472-af71-4979-b08d-053423dd479e/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1/-/preview/-/enhance/20/
-  - image: https://ucarecdn.com/4d311d5c-48ce-49af-ba59-52279b0f1d86/-/preview/-/enhance/6/
-  - image: https://ucarecdn.com/9d2866d7-f659-43e2-b6c0-66e29f9d8a66/-/crop/1177x1250/0,74/-/preview/
+  - image: /uploads/63a56c79-609a-41f2-95c5-5a523aea6dee.jpg
+  - image: /uploads/f8a8546b-bffb-4f3c-9c64-d9e136af475a.jpg
+  - image: /uploads/9e1af779-767b-4de5-b0f2-e6d80836bd18.jpg
+  - image: /uploads/53d6d510-2a29-43c8-915f-6ca97e2e4d3f.jpg
+  - image: /uploads/4e3dbc31-acbd-4f46-aa93-838c2f2f95a5.jpg
+  - image: /uploads/df0249f9-b0af-4628-b173-4f7fcf6d334e.jpg
+  - image: /uploads/8f486ec3-739d-42cd-a1bb-1542175aeadb.jpg
+  - image: /uploads/cf31a2d2-534a-4238-bdc8-030a3c3ec420.jpg
+  - image: /uploads/a8ae5472-af71-4979-b08d-053423dd479e.jpg
+  - image: /uploads/dde73587-17f9-4db8-8da2-3e7f8bb4e8f1.jpg
+  - image: /uploads/4d311d5c-48ce-49af-ba59-52279b0f1d86.jpg
+  - image: /uploads/9d2866d7-f659-43e2-b6c0-66e29f9d8a66.jpg
 videoSection:
-  imageOverlay: ""
-  video: ""
+  imageOverlay: /uploads/83811de6-f46d-41c6-ab38-382cff350a9b.jpg
+  video: "1117016395"
+  title: Hen's Party Highlights Reel
 contentColumnTitle: Plan your perfect hens party cruise
 contentColumn: >-
-  How does your perfect hen's party look?  A relaxed morning brunch with
-  mimosas, an afternoon on the water with swimming and sunbathing or a high
-  energy hen's night under the sparkling city lights.  
+  
+
+  Our team are on hand to assist with the planning of your event from your initial enquiry, through to the charter itself and sending your memento photos after the cruise.  But first let's pick **the best boat for your group**!
 
 
-  The choice is totally yours and our team are on hand to assist with the planning of your event from your initial enquiry, through to the charter itself and sending your memento photos after the cruise.  
-
-
-  ## the perfect hen's party boats
+  ###### the perfect hen's party boats
 
 
   We have 3 beautiful sailing catamarans available for charter catering to small or large groups.  
 
 
-  [Click here for a tour of our boats. ](https://sailinginparadise.com.au/our-boats/)
+  O﻿n board all vessels the spacious fore-decks are perfect for lazing in the sunshine or dancing as the sun sets over the calm, clear waters of the Gold Coast. There is an ample undercover space for all weather sailing.    Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
 
 
-  The large trampoline style fore-decks are perfect for lazing in the sunshine or dancing as the sun sets over the calm, clear waters of the Gold Coast. There is an ample undercover space for all weather sailing.    Facilities are plentiful to ensure you have everything on hand to enjoy a perfect day!
+  > [EXPLORE OUR BOATS](https://sailinginparadise.com.au/our-boats/)
 
 
-  ![hen's party boat gold coast](https://ucarecdn.com/b3b8a3c7-5a4f-4ea1-b7c9-9a129713c208/ "hen's party boat gold coast")
+  ![hen's party boat gold coast](/uploads/75d61ae7-0078-4c2f-9895-bc80b8a98fae.jpg)
 
 
-  **[C﻿LICK TO E﻿NQUIRE NOW ](https://sailinginparadise.com.au/booking-enquiry/?charter=gold-coast-hens-parties)**
+  > [R﻿EQUEST INFO PACK](https://sailinginparadise.com.au/booking-enquiry/)
 accordionSection:
   accordion:
     - title: Why choose sailing in paradise?
@@ -133,21 +106,25 @@ accordionSection:
 
         **F﻿riendly, engaging crew -** Our crew love people just as much as they love boats :-)
     - dropdownContent: >-
-        * Private use of your own beautiful sailing catamaran for 3 to 6 hours
+        
 
-        * Skipper plus 1 crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
+        * Private use of your own beautiful sailing catamaran for 3 to 6 hours 
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and splash mats
+        * Bespoke planning service 
 
-        * Use of tablet with premium spotify and sound system on board
+        * E﻿xclusive charter of vessel [(see our boats here)](/our-boats/)
 
-        * Use of small marine BBQ if required
+        * F﻿riendly, professional skipper and crew
 
-        * Use of large eskies (ice supplied)
+        * Use of 2 large eskies with ice (BYO drinks welcome)
 
-        * Instaworthy Memento Photos taken by our crew
+        * I﻿sland Activities including SUPs, splash mats, beach volleyball 
 
-        * Lots of FUN!!
+        * A﻿mazing Sound System (with Ipad/Spotify control)
+
+        * P﻿hoto memories of your charter
+
+          \*C﻿atering, beverages and hen's party butlers are available as optional extras
       title: What's included
     - dropdownContent: >-
         This really depends on what you want from your experience but;
@@ -327,12 +304,11 @@ columnBanner:
       your dreams
     buttonTitle: Send me the info
     buttonUrl: booking-enquiry/
-  - featuredImage: https://ucarecdn.com/6ac5219c-f16a-4c03-8106-4c86e53f41a7/-/crop/1333x1445/0,555/-/preview/
+  - featuredImage: /uploads/6ac5219c-f16a-4c03-8106-4c86e53f41a7.jpg
 featuredTestimonials:
-  description: Ruby booked a hen's party charter for her interstate hen to
-    experience the Gold Coast
-  testimonial: Ruby, Aus
-  title: Happy Sailors
+  description: ""
+  testimonial: ""
+  title: ""
 meta:
   description: Sailing In Paradise - Gold Coast's ultimate VIP Hens Party
     experience. Affordable luxury aboard a smooth sailing catamaran. It's where

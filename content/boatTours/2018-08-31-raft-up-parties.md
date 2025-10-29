@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Raft Up Events
 icon: ""
-featuredImage: https://ucarecdn.com/3d73b4df-6fdb-4c3e-b279-21617e63a30e/-/preview/-/enhance/50/
+featuredImage: /uploads/3d73b4df-6fdb-4c3e-b279-21617e63a30e.jpg
 intro: >-
   ## gold coast 'Raft Up' yacht party
 
@@ -23,18 +23,18 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Let us help create the ultimate Boat Party Experience
 gallery:
-  - image: https://ucarecdn.com/0b3086b7-73e5-41c7-ad22-aa099e8740c8/-/preview/-/enhance/34/
-  - image: https://ucarecdn.com/301d05e1-5b8f-4b20-a245-ddbb65f66ffc/-/preview/-/enhance/22/
-  - image: https://ucarecdn.com/8269e9c3-5dda-4d79-9ec5-aec998890462/-/preview/-/enhance/27/
-  - image: https://ucarecdn.com/036d1619-4e39-4c8e-bb1e-d68d976539a9/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/9d66b331-785b-4949-adc6-c67235a078cf/-/preview/-/enhance/39/
-  - image: https://ucarecdn.com/9a61198a-b6f2-4b45-aac2-1290bbe198c1/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/c561ab1d-b71c-4c40-b093-84d97d780127/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/96703631-634c-44bc-a788-9bfd2d9d0a68/-/preview/-/enhance/18/
-  - image: https://ucarecdn.com/8cda1bd0-35ce-4672-814f-ef5cc7ecd0c4/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/4eb7fbf3-1c39-499b-9e98-2ddd90b7c6bb/-/preview/-/enhance/36/
-  - image: https://ucarecdn.com/116bb6b8-a92f-4653-a650-a4012fec072d/-/preview/-/enhance/50/
-  - image: https://ucarecdn.com/9fe38623-d1be-4a6f-a712-6562c6d84c84/-/preview/-/enhance/27/
+  - image: /uploads/0b3086b7-73e5-41c7-ad22-aa099e8740c8.jpg
+  - image: /uploads/301d05e1-5b8f-4b20-a245-ddbb65f66ffc.jpg
+  - image: /uploads/8269e9c3-5dda-4d79-9ec5-aec998890462.jpg
+  - image: /uploads/036d1619-4e39-4c8e-bb1e-d68d976539a9.jpg
+  - image: /uploads/9d66b331-785b-4949-adc6-c67235a078cf.jpg
+  - image: /uploads/9a61198a-b6f2-4b45-aac2-1290bbe198c1.jpg
+  - image: /uploads/c561ab1d-b71c-4c40-b093-84d97d780127.jpg
+  - image: /uploads/96703631-634c-44bc-a788-9bfd2d9d0a68.jpg
+  - image: /uploads/8cda1bd0-35ce-4672-814f-ef5cc7ecd0c4.jpg
+  - image: /uploads/4eb7fbf3-1c39-499b-9e98-2ddd90b7c6bb.jpg
+  - image: /uploads/116bb6b8-a92f-4653-a650-a4012fec072d.jpg
+  - image: /uploads/9fe38623-d1be-4a6f-a712-6562c6d84c84.jpg
 videoSection:
   imageOverlay: /images/uploads/DSC_1073.jpg
   video: ""
@@ -233,8 +233,8 @@ columnBanner:
 
       Call our friendly and experienced team and let us tailor a unique and special VIP Raft Up Yacht Party Experience that you and your crew will never forget.
     title: Let's create an event to remember!
-    featuredImage: https://ucarecdn.com/5647eb83-36f5-45ec-938c-b57115db0ee3/
-  - featuredImage: https://ucarecdn.com/8a2e91d4-09ff-40ec-accf-2df4db6cb858/
+    featuredImage: /uploads/5647eb83-36f5-45ec-938c-b57115db0ee3.jpg
+  - featuredImage: /uploads/8a2e91d4-09ff-40ec-accf-2df4db6cb858.jpg
 featuredTestimonials:
   description: Wondering about what a Raft Up Yacht Party could be like? Hear what
     Margaret had to say...

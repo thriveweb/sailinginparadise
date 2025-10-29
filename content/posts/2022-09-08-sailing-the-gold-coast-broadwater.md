@@ -3,11 +3,11 @@ template: SinglePost
 title: Sailing the Gold Coast Broadwater
 status: Published
 date: 2022-08-01T11:05:40.114Z
-featuredImage: https://ucarecdn.com/bfac3452-8f6e-4906-a759-830253d353ce/-/crop/1440x703/0,116/-/preview/
+featuredImage: /uploads/bfac3452-8f6e-4906-a759-830253d353ce.jpg
 videoSection:
   title: ""
   video: https://vimeo.com/350091800
-  imageOverlay: https://ucarecdn.com/baa12906-c817-460a-807d-7c19ad9c8e60/
+  imageOverlay: /uploads/baa12906-c817-460a-807d-7c19ad9c8e60.jpg
 contentSecondary: >-
   The Broadwater is a calm and sheltered stretch of water that extends north
   from Southport to Paradise Point. It is a popular area for yachts as the

@@ -19,8 +19,12 @@ class VideoPopup extends Component {
   }
 
   render() {
-    const { title, video, imageOverlay, videoBanner } = this.props
+    const { title, video, imageOverlay, videoBanner, ctaText } = this.props
     if (!video) return null
+    // Determine the video URL
+    const videoUrl = video.startsWith('http')
+      ? video
+      : `https://player.vimeo.com/video/${video}?autoplay=1&start=0`
 
     return (
       <div
@@ -41,7 +45,7 @@ class VideoPopup extends Component {
           </div>
           {title && (
             <p className="button buttonWhite">
-              Watch Video <ICONButtonArrows />
+              {ctaText || 'Watch Video'} <ICONButtonArrows />
             </p>
           )}
         </div>
@@ -55,7 +59,7 @@ class VideoPopup extends Component {
               <X class="Popup-Close" onClick={this.togglePopup.bind(this)} />
               <iframe
                 title={`popupvideo-${video}`}
-                src={`https://player.vimeo.com/video/${video}?autoplay=1&start=0`}
+                src={videoUrl}
                 frameBorder="0"
                 allowFullScreen
               ></iframe>

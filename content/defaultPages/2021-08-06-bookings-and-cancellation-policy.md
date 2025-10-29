@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
 title: "Bookings and Cancellation policy "
-featuredImage: https://ucarecdn.com/0f565ac9-352b-4894-a281-163dae3c2385/
+featuredImage: /uploads/0f565ac9-352b-4894-a281-163dae3c2385.jpg
 content: >-
   **Bookings** 
 

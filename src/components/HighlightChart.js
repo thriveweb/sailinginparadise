@@ -8,7 +8,7 @@ export default ({ highlights, highlightsIntro }) => {
 	if(!highlights) return null
 
 	return <section className='highlightSection'>
-		<div className='container large'>
+		<div className='large'>
 			{highlightsIntro && <Content src={highlightsIntro} />}
 			<div className='highlights'>
 				{highlights.map(({ title, icon }, index) => {

@@ -5,7 +5,7 @@ status: Published
 date: 2019-06-28T11:59:31.316Z
 categories:
   - category: News
-featuredImage: 'https://ucarecdn.com/5d0b6adb-ba09-48bc-a210-2eb22dd67cda/'
+featuredImage: '/uploads/5d0b6adb-ba09-48bc-a210-2eb22dd67cda.jpg'
 excerpt: >-
   When you think of the Gold Coast, endless stretches of long sandy ocean
   beaches are usually top of mind… But look beyond the ocean waves and you will
@@ -42,8 +42,8 @@ contentSecondary: >-
   more enjoyable and stress-free experience.
 
 
-  ![](https://ucarecdn.com/127381af-3d70-4be0-9693-8f856da118fd/ "Wavebreak
-  Island Beach")
+  !["Wavebreak
+  Island Beach"](/uploads/127381af-3d70-4be0-9693-8f856da118fd.jpg)
 meta:
   description: >-
     Wave Break Island is a popular destination for boaties on the Gold Coast,
@@ -54,4 +54,4 @@ When you think of the Gold Coast, endless stretches of long sandy ocean beaches 
 
 Wave Break Island is a popular destination for boaties on the Gold Coast, it’s a little slice of paradise right on our doorstep.   Accessible only by boat, Wavebreak Island has stunning views back of the Gold Coast city skyline but yet feels a million miles away.   
 
-![](https://ucarecdn.com/be591b10-79c8-4d84-870e-be4a1b9591c7/ "Wavebreak Island Drone")
+![](/uploads/be591b10-79c8-4d84-870e-be4a1b9591c7.jpg "Wavebreak Island Drone")

@@ -109,7 +109,7 @@ class Form extends React.Component {
 
     const formatting = (
       <time itemProp="dateCreated pubdate datePublished" date={startDate}>
-        {_format(startDate, 'DD MMM YYYY')}
+        {_format(startDate, 'dd MMM yyyy')}
       </time>
     )
     const date = _get(formatting, 'props.children') || ''

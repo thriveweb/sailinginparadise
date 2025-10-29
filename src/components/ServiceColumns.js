@@ -26,8 +26,8 @@ export default ({ services, serviceBanner }) => {
 					<div className='serviceContent'>
 						{icon && <Image src={icon} alt='' />}
 						{title && <Link className='fancy-title' to={buttonUrl}>{title}</Link>}
-						{excerpt && <p>{excerpt}</p>}
-						{buttonUrl && <Button title='Know More' url={buttonUrl} />}
+						{excerpt && <p><a href={buttonUrl || "#"} className="serviceLink">{excerpt}</a></p>}
+						{/* {buttonUrl && <Button title='Know More' url={buttonUrl} />} */}
 					</div>
 					<div className='serviceImage relative'>
 						{image && <Image background src={`${image}-/format/auto/-/quality/lighter/-/progressive/yes/-/resize/700/`} />}

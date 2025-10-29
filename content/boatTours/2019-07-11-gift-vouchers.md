@@ -2,7 +2,7 @@
 template: SingleBoatTour
 tourType: Cruise
 title: Private Charter Gift Vouchers
-featuredImage: https://ucarecdn.com/8aa4b228-3203-4d36-943d-93f34ab5f785/-/crop/1333x738/0,571/-/preview/
+featuredImage: /uploads/8aa4b228-3203-4d36-943d-93f34ab5f785.jpg
 intro: >-
   Give the gift of a beautiful memory to that special someone or couple.   A
   private 2 hour sunset sail for two aboard a luxurious sailing catamaran.  
@@ -25,12 +25,12 @@ bookingIframe: '<script type="text/javascript"
   160px; display: block; text-decoration: none; cursor: pointer;">Purchase Gift
   Voucher</a>'
 gallery:
-  - image: https://ucarecdn.com/35f18be0-a3d1-4f5f-9786-2f3dc587525b/
-  - image: https://ucarecdn.com/351241fc-1d70-4b01-884e-47c49f83129c/
-  - image: https://ucarecdn.com/9db34c00-7a97-4946-a432-6b799232eccf/
-  - image: https://ucarecdn.com/e3f15ee7-f943-441b-a3bc-f1a8794baad3/
-  - image: https://ucarecdn.com/dd394e5f-ad7c-4eab-8f37-965866685359/
-  - image: https://ucarecdn.com/2bebddad-4000-4ff2-991e-b6c2590e5073/
+  - image: /uploads/35f18be0-a3d1-4f5f-9786-2f3dc587525b.jpg
+  - image: /uploads/351241fc-1d70-4b01-884e-47c49f83129c.jpg
+  - image: /uploads/9db34c00-7a97-4946-a432-6b799232eccf.jpg
+  - image: /uploads/e3f15ee7-f943-441b-a3bc-f1a8794baad3.jpg
+  - image: /uploads/dd394e5f-ad7c-4eab-8f37-965866685359.jpg
+  - image: /uploads/2bebddad-4000-4ff2-991e-b6c2590e5073.jpg
 videoSection:
   title: ""
 accordionSection:

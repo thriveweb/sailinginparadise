@@ -43,12 +43,15 @@ navItems:
       - title: Sneeky Mid-weeky Deals
         optionalTitle: Sneeky Mid-weeky Deals
     title: Boat Charter
-  - title: Our Charter Boats
-  - subNavItems: []
-    title: About Us
+  - subNavItems:
+      - title: Island Time
+      - title: Spirit Of Gwonda
+      - title: Oceans Deluxe
+    title: Our Charter Boats
+  - title: About Us
   - subNavItems:
       - title: Happy Sailors
-      - title: Latest News
+      - title: The Logbook
       - title: Employment
       - title: Charter FAQs
       - title: Contact Us
