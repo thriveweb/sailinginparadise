@@ -101,15 +101,14 @@ highlights:
   - icon: /images/uploads/speakers.svg
     title: Fully equipped with Sound System (w Spotify), BBQ, Eskies, and Restroom
 featuredTestimonials:
-  buttonTitle: See more real guest reviews
-  buttonUrl: happy-sailors
-  description: It's smiles all round with our top guest satisfaction rating across
-    all review sites...
+  buttonTitle: ""
+  buttonUrl: ""
+  description: ""
   testimonialsListing:
     - testimonial: Tahlia, Aus
     - testimonial: Kalina, Aus
     - testimonial: LULULEMON, Aus
-  title: Happy Sailors
+  title: ""
 latestNews: |-
   ## Secure your charter now
 
