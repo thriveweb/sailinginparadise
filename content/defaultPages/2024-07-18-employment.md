@@ -15,7 +15,7 @@ content: >-
   I﻿f you think you fit the bill and would like to explore employment opportunities with Sailing in Paradise please [email us](mailto:crew@sailinginparadise.com.au) with your resume and covering letter.
 
 
-  ###### C﻿urrent Available Positions
+  ###### C﻿rew roles
 
 
   1. S﻿KIPPER
