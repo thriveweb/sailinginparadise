@@ -30,6 +30,10 @@ gallery:
   - image: /uploads/42f631aa-ddd7-41a1-b4eb-762b4546d9ec.jpg
   - image: /uploads/b24fbc76-268a-4751-a300-4d648a3cd9c7.jpg
   - image: /uploads/7ba15080-d97b-4046-b1fd-7ec0a700c195.jpg
+videoSection:
+  video: "1142795725"
+  imageOverlay: /uploads/img_9912.jpg
+  title: Midnight on the water!
 contentColumnTitle: NEW YEARS EVE NEVER LOOKED BETTER
 contentColumn: >-
   Celebrate New Year’s Eve on the Gold Coast in style aboard your own private
@@ -44,7 +48,7 @@ contentColumn: >-
   Choose from our catering and drinks packages for a seamless celebration, or bring your own food and beverages. BYO is always welcome.  
 
 
-  Start 2025 with an unforgettable experience on board a Gold Coast New Year’s Eve boat hire — perfect for friends, families, and private groups.
+  Start 2026 with an unforgettable experience on board a Gold Coast New Year’s Eve boat hire — perfect for friends, families, and private groups.
 
 
   **Enquire or book your private yacht now to secure your spot for New Year’s Eve 2025.**
