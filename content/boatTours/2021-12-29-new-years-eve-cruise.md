@@ -32,7 +32,7 @@ gallery:
   - image: /uploads/7ba15080-d97b-4046-b1fd-7ec0a700c195.jpg
 videoSection:
   video: "1142795725"
-  imageOverlay: ""
+  imageOverlay: /uploads/new-years-fireworks.jpg
   title: Midnight on the water!
 contentColumnTitle: NEW YEARS EVE NEVER LOOKED BETTER
 contentColumn: >-
