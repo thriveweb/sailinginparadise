@@ -29,10 +29,10 @@ featuredSlider:
     description: Rated 5* on all platforms
     buttonUrl: happy-sailors/
 featuredBanner:
-  buttonTitle: A celebration your team will love
-  buttonUrl: boat-charter/gold-coast-christmas-parties/
-  image: /uploads/2dcb7a67-2cc4-4f36-af89-daa130049c07.jpg
-  title: CHRISTMAS PARTY CHARTERS
+  buttonTitle: This week's availability
+  buttonUrl: boat-charter/last-minute-charters/
+  image: /uploads/sunset-lifering-oceans-sip.jpg
+  title: LAST MINUTE RATES
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
