@@ -95,7 +95,11 @@ columnBanner:
 
       <!--EndFragment-->
     title: This fortnight's availability
-    content: If it's available it's meant to be!
+    content: >-
+      P﻿lease allow a moment for the calendar below to load...
+
+
+      If you can't find what you want please give us a bell - [C﻿ontact Us](https://sailinginparadise.com.au/contact-us/)
     featuredImage: ""
 meta:
   description: We occasionally offer special last minute rates on our vessels
