@@ -32,7 +32,7 @@ featuredBanner:
   buttonTitle: This week's availability
   buttonUrl: boat-charter/last-minute-charters/
   image: /uploads/sunset-lifering-oceans-sip.jpg
-  title: LAST MINUTE RATES
+  title: LAST MINUTE CHARTERS
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
