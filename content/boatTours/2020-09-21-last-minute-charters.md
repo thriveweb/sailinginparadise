@@ -13,10 +13,10 @@ intro: >-
   This might be your sign.
 
 
-  Every now and then, our sailing catamarans open up at **special last-minute rates**, perfectly aligned with our existing charter schedule. It’s an invitation to stop postponing joy and say *yes* to the ocean, the sunshine, and a day that reminds you what living well feels like.
+  Every now and then, our sailing catamarans open up for **special last-minute offerings**, perfectly aligned with our existing charter schedule. It’s an invitation to stop postponing joy and say *yes* to the ocean, the sunshine, and a day that reminds you what living well feels like.
 
 
-  You’ll step aboard one of **Sailing in Paradise’s beautiful sailing catamarans**, personally selected by our team to suit your group. Whether you’re gathering your favourite people or celebrating something special (or nothing at all), this is your chance to turn a free day into an unforgettable one.
+  You’ll step aboard one of **Sailing in Paradise’s beautiful sailing catamarans**, selected by our team to suit your group. Whether you’re gathering your favourite people or celebrating something special (or nothing at all), this is your chance to turn a free day into an unforgettable one.
 
 
   We offer last-minute bookings for groups of **up to 20, 30 or 40 guests** - because some of the best plans are the ones you make on a whim.
