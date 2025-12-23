@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Last Minute charters
+title: Last Minute Charters
 icon: /uploads/746a0750-45be-4c63-9d8e-2279d30e0442.jpg
 featuredImage: /uploads/25fc3e45-1762-4c98-81a1-89866e3535b3.jpg
 intro: >-
