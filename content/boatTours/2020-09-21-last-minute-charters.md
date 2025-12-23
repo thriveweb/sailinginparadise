@@ -11,16 +11,13 @@ intro: >-
   Are you planning to sail in the next two weeks?
 
 
-  Our stunning vessels are available at reduced rates for last minute bookings which fit within our existing charter commitments.  You will be sailing on board one of Sailing in Paradise's beautiful sailing catamarans selected by us to suit your group.     Bookings are available for groups of up to 20, 30 or 40 guests.  
+  Our stunning vessels are occasionally available at reduced rates for last minute bookings which fit within our existing charter commitments.  You will be sailing on board one of Sailing in Paradise's beautiful sailing catamarans selected by us to suit your group.     Bookings are available for groups of up to 20, 30 or 40 guests.  
 
 
   P﻿rices vary dependant on vessel availability, time and day so please check a few options on the calendar or reach out directly if you require assistance organising a custom charter to suit your requirements.  
 
 
   E﻿xtended charters are available on request.  
-
-
-  To explore our last minute rates and available please click to ['check availability and book now'.](https://sailinginparadise.rezdy.com/catalog/412461/last-minute-charter-bookings)
 
 
   ![](/uploads/9c8c3201-0cf3-4f13-9828-afd4f86b04b9.jpg)
