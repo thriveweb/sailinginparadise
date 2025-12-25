@@ -16,7 +16,17 @@ contentBox:
   buttonTitle: ""
   buttonUrl: ""
   title: ""
-bookingIframe: ""
+bookingIframe: >-
+  <!--StartFragment-->
+
+
+  <script type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <a id="button-booking" class="button-booking rezdy rezdy-modal" href="https://sailinginparadise.rezdy.com/productsCalendar/529475?iframe=true" style="background: rgb(24, 60, 133); border: 1px solid rgb(24, 60, 133); color: rgb(255, 255, 255); font: bold 14px / 1 &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 12px 15px; text-align: center; width: 160px; display: block; text-decoration: none; cursor: pointer;">book your new year's eve yacht
+
+
+  </a>
+
+
+  <!--EndFragment-->
 gallery:
   - image: /uploads/76f824f6-642a-46d6-b717-7a0815985f30.jpg
   - image: /uploads/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4.jpg
