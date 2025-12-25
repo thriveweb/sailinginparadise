@@ -29,14 +29,11 @@ bookingIframe: >-
   <!--EndFragment-->
 gallery:
   - image: /uploads/76f824f6-642a-46d6-b717-7a0815985f30.jpg
+  - image: /uploads/photo-19-5-2025-6-37-08-pm.jpg
   - image: /uploads/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4.jpg
-  - image: /uploads/9269a739-47ef-4540-9ff3-337c0dd3d07e.jpg
+  - image: /uploads/new-years-fireworks-ls.jpg
   - image: /uploads/42d9ef6e-fa1f-45c4-8a08-9c8435e4bbce.jpg
-  - image: /uploads/a0047999-5aaf-4dff-acb2-d2c838d353f0.jpg
-  - image: /uploads/46a748e9-7b87-431a-a2ac-6c2ba0d13061.jpg
-  - image: /uploads/42f631aa-ddd7-41a1-b4eb-762b4546d9ec.jpg
-  - image: /uploads/b24fbc76-268a-4751-a300-4d648a3cd9c7.jpg
-  - image: /uploads/7ba15080-d97b-4046-b1fd-7ec0a700c195.jpg
+  - image: /uploads/036d1619-4e39-4c8e-bb1e-d68d976539a9.jpg
 videoSection:
   video: "1142795725"
   imageOverlay: /uploads/new-years-fireworks-ls.jpg
