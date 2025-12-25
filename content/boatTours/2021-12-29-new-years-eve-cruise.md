@@ -11,14 +11,11 @@ intro: >-
   Looking for the ultimate New Year’s Eve event on the Gold Coast? Skip the crowded bars and overpriced tickets and welcome 2025 in true style aboard your own private party boat!
 
 
-  With Sailing in Paradise, you and your crew can enjoy an unforgettable night on the stunning Gold Coast Broadwater.   Set the vibe your way — choose your own music, bring your favourite food and drinks, and dance under the stars as fireworks light up the skyline. 
-
-
-  **Enquire or book now to secure your yacht.**
+  With Sailing in Paradise, you and your crew can enjoy an unforgettable night on the stunning Gold Coast Broadwater.   Set the vibe your way — choose your own music, bring your favourite food and drinks, and dance under the stars as fireworks light up the skyline.
 contentBox:
-  buttonTitle: SEND ME NEW YEAR'S EVE CHARTER INFO
-  buttonUrl: booking-enquiry
-  title: "ENQUIRE NOW "
+  buttonTitle: ""
+  buttonUrl: ""
+  title: ""
 bookingIframe: ""
 gallery:
   - image: /uploads/76f824f6-642a-46d6-b717-7a0815985f30.jpg
