@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast New Year's Eve 2025 Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
-featuredImage: /uploads/dba0149b-583f-4865-a988-8ec0b6959aac.jpg
+featuredImage: /uploads/0e0a83ac-5fef-439e-876a-71d5d9d8f02b.jpg
 intro: >-
   ## New Year's Eve 2025 Party Boat
 
@@ -29,7 +29,7 @@ bookingIframe: >-
   <!--EndFragment-->
 gallery:
   - image: /uploads/76f824f6-642a-46d6-b717-7a0815985f30.jpg
-  - image: /uploads/photo-19-5-2025-6-37-08-pm.jpg
+  - image: /uploads/552082bb-1faa-48fb-9a35-4871584245f6.jpg
   - image: /uploads/ca31dcd0-6b11-4934-9fac-ac7c74ae10c4.jpg
   - image: /uploads/new-years-fireworks-ls.jpg
   - image: /uploads/42d9ef6e-fa1f-45c4-8a08-9c8435e4bbce.jpg
