@@ -5,7 +5,7 @@ title: Gold Coast Christmas Parties
 icon: ""
 featuredImage: /uploads/e6d70810-9de3-4ef3-a87a-1a77be12d43d.jpg
 intro: >-
-  ## gold coast Christmas 2026 boat charters
+  ## gold coast Christmas Party boat charters 2026
 
 
   Planning a Christmas party in 2026? Our Christmas party boat charters on the Gold Coast are built for corporate teams, groups of friends, and end-of-year celebrations on the water.
@@ -14,7 +14,7 @@ intro: >-
   W﻿ith a fleet of three beautiful sailing catamarans and over a decade of experience on Gold Coast waters you can trust Sailing in Paradise to deliver the boat and the vibes for a celebration to remember.  
 
 
-  ###### C﻿HRISTMAS 2026 B﻿OOKINGS NOW OPEN 
+  ###### C﻿HRISTMAS 2026 B﻿OOKINGS NOW OPEN
 
    Book early to secure your preferred vessel and date.
 contentBox:
@@ -58,7 +58,7 @@ contentColumn: >-
   ![Christmas Party Boat charter Gold Coast Sailing in Paradise](/uploads/36492aa7-7dfd-4bf5-95a7-c770c6316850.jpg "Christmas Party Boat charter Gold Coast Sailing in Paradise")
 
 
-  ## W﻿hat's Included with your Christmas Party Boat?
+  ### W﻿hat's Included with your Christmas Party Boat?
 
 
   * Bespoke planning service
@@ -80,7 +80,7 @@ contentColumn: >-
   **Christmas Party Boat C﻿harters from $500 to $860 per hour (min 3 hours)**
 
 
-  ## Christmas Party Ideas
+  ###### Christmas Party Ideas
 
 
   Got your own ideas?   Tell us what floats your boat and we'll do our best to make it happen.  Some options include;
@@ -99,7 +99,7 @@ contentColumn: >-
   We have looked after all sorts of industry clients from fitness studios and uber-cool restaurants to banks and legal firms (and everything in between).   There is something about spending time on the water that brings people (of all ages and backgrounds) together and we would love to put on a Christmas Party your whole team will talk about for years to come!
 
 
-  ## Christmas Party Planners, we are here to help...
+  ###### Christmas Party Planners, we are here to help...
 
 
   OK you have found your perfect Christmas Party, yay!   What now?  Time for a mojito…(ahem, well we need to set the scene for what's to come).
@@ -114,7 +114,7 @@ contentColumn: >-
   ![Christmas Party Boat charter Gold Coast Sailing in Paradise](/uploads/ebbc900d-543e-4d31-aa8e-135895652747.jpg "Christmas Party Boat charter Gold Coast Sailing in Paradise")
 
 
-  ## The Christmas Party Boats
+  ###### The Christmas Party Boats
 
 
   What do our customers love about our catamarans?   Well, time and time again they tell us they are the ideal venue for parties!    And work Christmas Parties are no exception.
