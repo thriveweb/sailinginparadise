@@ -301,9 +301,8 @@ featuredTestimonials:
   testimonial: Lucy, Aus
   title: Happy Sailors
 meta:
-  description: If you are looking for the perfect birthday party venue on the Gold
-    Coast then look no further. Sailing In Paradise can help to create a
-    memorable birthday experience to share with family and friends aboard one of
-    our beautiful boats.
-  title: Gold Coast Birthday Party Cruise
+  description: "Private birthday party boat charters on the Gold Coast for groups
+    of 10-42 guests.  Celebrate with music, drinks, swimming stops and a relaxed
+    premium atmosphere on board a luxury catamaran.   "
+  title: Gold Coast Birthday Party Boat Charters Sailing in Paradise
 ---
