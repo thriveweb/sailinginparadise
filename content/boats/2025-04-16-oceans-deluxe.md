@@ -36,7 +36,7 @@ boatListingFeatures:
 boatFeatures:
   - content: 11.6m long, 6.5m wide
   - content: Seawind 1160 Deluxe 2008
-  - content: M﻿ax. 30 passengers + 2 crew
+  - content: M﻿ax. 30 pax + 2 crew (﻿ideal for 2-20)
   - content: Spacious cushioned dining/lounge area
   - content: Side access to foredeck
   - content: Spacious indoor/outdoor undercover space suitable in all weather
@@ -70,8 +70,8 @@ columnsSection:
 
       [I﻿NSTA HIGHLIGHTS REEL](https://www.instagram.com/stories/highlights/17928120349525159/)
     rightColumn: '![Sailing in Paradise Boat Hire Gold
-      Coast](/uploads/81eb3981-9ee8-494f-a607-a82dae72eb4b.jpg "Sailing
-      in Paradise Boat Hire Gold Coast")'
+      Coast](/uploads/81eb3981-9ee8-494f-a607-a82dae72eb4b.jpg "Sailing in
+      Paradise Boat Hire Gold Coast")'
 videoSectionOptional:
   imageOverlay: /uploads/afc3fec7-f908-4a9a-b301-11052de6c71e.jpg
   title: " 360° VR TOUR - Oceans"
