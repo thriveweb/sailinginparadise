@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: "Gold Coast Christmas Parties "
+title: Gold Coast Christmas Parties
 icon: ""
 featuredImage: /uploads/e6d70810-9de3-4ef3-a87a-1a77be12d43d.jpg
 intro: >-
