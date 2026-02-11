@@ -1,7 +1,7 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Gold Coast Christmas Parties
+title: "Gold Coast Christmas Parties "
 icon: ""
 featuredImage: /uploads/e6d70810-9de3-4ef3-a87a-1a77be12d43d.jpg
 intro: >-
@@ -55,7 +55,7 @@ contentColumn: >-
   Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
 
 
-  !["Boat charter gold coast sailing in paradise"](/uploads/36492aa7-7dfd-4bf5-95a7-c770c6316850.jpg)
+  ![Christmas Party Boat charter Gold Coast Sailing in Paradise](/uploads/36492aa7-7dfd-4bf5-95a7-c770c6316850.jpg "Christmas Party Boat charter Gold Coast Sailing in Paradise")
 
 
   ## W﻿hat's Included with your Christmas Party Boat?
@@ -111,7 +111,7 @@ contentColumn: >-
   If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
 
 
-  ![](/uploads/ebbc900d-543e-4d31-aa8e-135895652747.jpg "Sailing boat charter gold coast")
+  ![Christmas Party Boat charter Gold Coast Sailing in Paradise](/uploads/ebbc900d-543e-4d31-aa8e-135895652747.jpg "Christmas Party Boat charter Gold Coast Sailing in Paradise")
 
 
   ## The Christmas Party Boats
@@ -159,6 +159,19 @@ accordionSection:
 
 
         **F﻿riendly, engaging crew -** Our crew love people just as much as they love boats :-)
+    - title: How far in advance should we book a Christmas Boat Party Charter?
+      dropdownContent: >-
+        It depends on how flexible you are with your preferred sailing date,
+        time and vessel.
+
+
+        For high-demand dates, especially Fri-Sun in November and December — we recommend booking your Christmas party boat charter as early as possible. Many of our returning guests secure their charter as soon as they step off the boat this year to lock in their preferred date. 
+
+
+        That said, by June or July there is often still some excellent availability for Christmas party charters on the Gold Coast.
+
+
+        If you’re flexible with your sail date and happy to book a midweek cruise, it’s sometimes possible to secure a charter even a week or two before your event.
     - title: What's Included
       dropdownContent: >-
         * Private use of your own beautiful sailing catamaran for 3 to 6 hours
@@ -335,7 +348,8 @@ featuredTestimonials:
     Christmas Party with us...
   testimonial: "RACEVIEW STATE SCHOOL, Aus "
 meta:
-  description: "Celebrate this 2024 Christmas party sailing the beautiful Gold
-    Coast with Sailing in Paradise. Packages for up to 1 to 102 people. "
-  title: Gold Coast Christmas Party Boat | Christmas Party Cruise Gold Coast
+  description: Book your 2026 Christmas party boat charter on the Gold Coast with
+    Sailing in Paradise. Private charters for corporate teams and groups from
+    1–102 guests. Catering, drinks packages and crew included.
+  title: Christmas Party Boat Charters 2026  Gold Coast  Sailing in Paradise
 ---
