@@ -5,13 +5,18 @@ title: Gold Coast Christmas Parties
 icon: ""
 featuredImage: /uploads/e6d70810-9de3-4ef3-a87a-1a77be12d43d.jpg
 intro: >-
-  ## gold coast Christmas boat party
+  ## gold coast Christmas 2026 boat charters
 
 
-  Looking for somewhere unique to host this year’s work Christmas Party?  How does a Boat Cruise aboard your own private catamaran sound?  
+  Planning a Christmas party in 2026? Our Christmas party boat charters on the Gold Coast are built for corporate teams, groups of friends, and end-of-year celebrations on the water.
 
 
-  Sailing in Paradise would love to create a 2025 Christmas Boat  Party that you and your guests will remember forever!
+  W﻿ith a fleet of three beautiful sailing catamarans and over a decade of experience on Gold Coast waters you can trust Sailing in Paradise to deliver the boat and the vibes for a celebration to remember.  
+
+
+  ###### C﻿HRISTMAS 2026 B﻿OOKINGS NOW OPEN 
+
+   Book early to secure your preferred vessel and date.
 contentBox:
   buttonTitle: ""
   buttonUrl: ""
