@@ -20,7 +20,7 @@ content: >-
 
   1. S﻿KIPPER
 
-  2. DECKHAND/HOSTESS
+  2. DECKHAND/HOST(ESS)
 
 
   (Further details below) 
@@ -89,7 +89,7 @@ content: >-
 
     ![](/uploads/a29f7d25-32fb-4ee9-baf7-678c8b354077.jpg)
 
-  **Deckhand/Hostess**
+  **Deckhand/Host(ess)**
 
 
   **Duties & Responsibilities:**
