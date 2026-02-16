@@ -3,171 +3,229 @@ template: DefaultPage
 title: Employment
 featuredImage: /uploads/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb.jpg
 content: >-
-  S﻿ailing in Paradise offers a fun and varied work environment on board our
-  fleet of 3 sailing catamarans on the Gold Coast Broadwater.   Departing Main
-  Beach, we cater to a variety of different charter types ranging from
-  celebrations to corporate events, romantic sails and family days out.   
+  ## Work With Us...
 
 
-  We seek crew who are professional and energetic with a fun yet laid-back vibe.
+  ### Join the Crew at Sailing in Paradise
 
 
-  I﻿f you think you fit the bill and would like to explore employment opportunities with Sailing in Paradise please [email us](mailto:crew@sailinginparadise.com.au) with your resume and covering letter.
+  At **Sailing in Paradise**, no two days are the same.
 
 
-  ###### C﻿rew roles
+  Operating a fleet of three sailing catamarans on the beautiful Gold Coast Broadwater (departing Main Beach), we deliver unforgettable on-water experiences, from milestone celebrations and corporate events to romantic sails and family adventures.
 
 
-  1. S﻿KIPPER
+  We’re known for our professional service, relaxed energy and seriously good vibes. If you’re energetic, capable, people-focused and love the ocean, we’d love to hear from you.
 
-  2. DECKHAND/HOST(ESS)
+
+  While we don’t always have active vacancies, we’re always interested in connecting with great people for future opportunities.
+
+
+
+
+  ### Crew Roles
+
+
+  * **Skipper**
+
+  * **Deckhand / Host(ess)**
+
+
+  Weekend availability is essential, with increased availability required over December and January.
+
+
 
 
   (Further details below) 
 
 
-  ![](/uploads/c2d54d27-cfc2-454f-ab05-56d40dc2331b.jpg)
+  ![](/uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png)
 
 
-  **Skippers**
 
 
-  **Duties & Responsibilities:**
+  ### Skipper
 
 
-  * Safe operation of the vessel
+  #### The Role
 
-  * Host guests in a fun loving, yet safe and professional manner
 
-  * Maintain clear and respectful communication with guests, crew and management
+  As Skipper, you are responsible for the safe operation of the vessel while delivering an exceptional guest experience. You’ll lead a team of two (Skipper + GPH), manage the day’s run sheet and ensure everything runs smoothly, safely and professionally.
+
+
+  You’re calm under pressure, proactive, personable and capable of balancing safety with fun.
+
+
+  #### Key Responsibilities
+
+
+  * Safe operation and navigation of the vessel
+
+  * Hosting guests in a fun, safe and professional manner
+
+  * Clear communication with guests, crew and management
 
   * Adherence to SMS and operational procedures
 
-  * Maintain vessel logs and required paperwork
+  * Maintaining vessel logs and required documentation
 
-  * Ability to 'see and act' on any issues that  may arise
+  * Monitoring and addressing issues before they escalate
 
-  * Ability to manage and delegate duties to crew and conduct staff training where necessary
+  * Delegating and managing crew duties
 
-  * Making our guests smile :-) 
+  * Conducting training where required
 
-  * Basic cleaning 
+  * Basic cleaning
 
-  * Assist with maintenance of the vessels
+  * Assisting with vessel maintenance
+
+  * Creating a positive, memorable experience for every guest
 
 
-  **Ideally you will have:**
+  #### Ideally You’ll Have
 
 
-  * Minimum qualification - Current coxswain, NC1 or NC2
+  * Minimum qualification: Current Coxswain, NC1 or NC2 (Master 5 desirable)
 
-  * Demonstrated abilities and experience in vessel handling
+  * Demonstrated vessel handling experience
 
-  * Ability to pitch in and work as part of a team of 2 (skipper and GPH) on all charters
+  * Ability to work effectively in a 2-person crew
 
-  * A friendly, outgoing and approachable personality and a love of people and fun.
+  * Friendly, outgoing and confident personality
 
-  * Outstanding communication skills 
+  * Excellent communication and customer service skills
 
-  * Reliable and consistent availability on weekends and some week days
+  * Reliable weekend availability (and some weekdays)
 
-  * Excellent customer service skills and understanding of the importance of, and ability to encourage, customer feedback and reviews.
+  * High energy and physical fitness
 
-  * High energy levels, physically fit.
-
-  * Enthusiastic and optimistic attitude
-
-  * Problem solving mentality, looking for opportunities to improve the guest experience and the business in general at all times
+  * Strong problem-solving mindset
 
   * Basic mechanical knowledge
 
-  * Sailing experience preferred but not essential.
+  * Sailing experience (preferred but not essential)
 
-  * Current first aid certificate
+  * Current First Aid certificate
 
-  * As we are a licensed venue we would require the applicant to hold a current RSA ticket (or happy to obtain one).
-
-    ![](/uploads/a29f7d25-32fb-4ee9-baf7-678c8b354077.jpg)
-
-  **Deckhand/Host(ess)**
+  * RSA (or willingness to obtain one)
 
 
-  **Duties & Responsibilities:**
 
 
-  * Providing an unforgettable guest experience
-
-  * Assist guests in boarding and disembarking the vessel
-
-  * Ensure guest safety on board
-
-  * Provide food and drinks service
-
-  * Provide watersports activities and set up of beach gear
-
-  * Capture the guest experience on the day with photos and videos
-
-  * Generate social media content on Instagram stories
-
-  * Encourage positive guest reviews
+  * ![](/uploads/georgia-small-flipped.jpg)
 
 
-  **Ideally you will have**
+  ### Deckhand / Host(ess)
 
 
-  * A friendly, outgoing and approachable personality and a love of people.    You should be just as comfortable hosting a high energy 21st birthday as you are a polished corporate event or a family with young children.   
+  #### The Role
 
-  * Experience working in hospitality (in the marine industry a bonus)
 
-  * A can-do attitude and a great work ethic with the ability to take initiative to improve the guest experience at every opportunity
+  This is a dynamic, hands-on position combining hospitality, safety and seamanship.
 
-  * A love of boats and the water (experience working on boats advantageous). You will need to be fit, active and willing to get in and get the job done, this includes hauling the anchor, hoisting the sails, arranging watersports for guests and scrubbing the decks
 
-  * An eye for taking a great photograph and the creative ability to create stylish social media content quickly and on-the-go.  
+  You’ll help create unforgettable experiences, whether that’s hosting a high-energy 21st birthday, delivering polished service at a corporate event, or ensuring a relaxed family day on the water.
 
-  * Proven multi-tasking ability
 
-  * A respect for international customs and cultures
+  You’ll assist with vessel operations, guest service, watersports, photography and social media content creation.
 
-  * Reliable and consistent availability on weekends and some weekdays (occasionally last-minute).   The role is primarily weekend focused, please consider prior to applying if this fits with your lifestyle.
 
-  * Reliable and consistent availability
+  #### Key Responsibilities
 
-  * The ability to understand and focus on important safety requirements
+
+  * Delivering an outstanding guest experience
+
+  * Assisting with boarding and disembarkation
+
+  * Ensuring guest safety onboard
+
+  * Food and beverage service
+
+  * Watersports setup and beach gear management
+
+  * Capturing photos and videos throughout the charter
+
+  * Creating Instagram story content
+
+  * Encouraging guest reviews and feedback
+
+  * Assisting with general deck duties (anchors, sails, cleaning etc.)
+
+
+  #### Ideally You’ll Have
+
+
+  * A warm, outgoing personality and natural hosting ability
+
+  * Hospitality experience (marine experience a bonus)
+
+  * Strong work ethic and proactive attitude
+
+  * Comfort working in a fast-paced, physical environment
+
+  * A love of boats and the ocean
+
+  * Confidence in photography and social media content creation
+
+  * Proven ability to multitask
+
+  * Respect for diverse cultures and guests
+
+  * Reliable weekend availability (primary focus)
+
+  * Strong safety awareness
 
   * Basic cash handling experience
 
-  * RSA certificate (or willing to obtain one) and experience working in licensed venues
+  * RSA (or willingness to obtain one)
 
-  * First Aid certificate (or willing to obtain one)
-
-
-  Both roles are casual role and set hours/days cannot be guaranteed.   Availability on weekends and some weekdays is required.   During December/January, maximum availability is required to cope with increased demand at this time.   
+  * First Aid certificate (or willingness to obtain one)
 
 
-  **To apply for this role please [apply via email ](mailto:crew@sailinginparadise.com.au)with the following info;**
 
 
-  1. Resume including full work history
-
-  2. Covering letter stating;
 
 
-  * Which role you are interested in
+  ### Availability & Employment Conditions
 
-  * What sparked your interest in this role
 
-  * Your previous, relevant experience
+  Most crew roles are casual positions, offering great flexibility around bookings and seasonal demand. Hours and days are not guaranteed, and weekend availability is essential, with increased availability required during peak season from November to January.
 
-  * What makes you tick (we'd love to learn a little bit about you as a person)
 
-  * Your current commitments and any notice period
+  From time to time, more senior or permanent opportunities may become available. We welcome prospective applications and encourage you to submit your resume for consideration for future roles.
 
-  * Preferred number of hours, ongoing availability including any holidays planned (please include details of your visa and any work limitations if not an Australian citizen)
 
-  * Social Media Handle (for deckhand/host position to demonstrate your photography and content style).  
+  Due to application volumes, only shortlisted applicants may be contacted.
 
-    T﻿o apply please contact us at;
 
-    ![](/uploads/dd070988-43ac-4492-bb08-226892425bd8.jpg)
+
+
+  ## How to Apply
+
+
+  If you’d like to be considered for current or future opportunities, please email us with:
+
+
+  * Your resume (including full work history)
+
+  * A covering letter outlining:
+
+    * Which role you’re applying for
+    * What sparked your interest
+    * Your relevant experience
+    * A little about you and what makes you tick
+    * Your current commitments and notice period
+    * Your preferred hours and ongoing availability
+    * Any upcoming travel or holidays
+    * Visa details and work limitations (if applicable)
+    * Your social media handle (required for Deckhand/Host applicants)
+
+  Please send applications to:
+
+
+
+
+  * ![](/uploads/dd070988-43ac-4492-bb08-226892425bd8.jpg)
+
+    ![](/uploads/3-boats-2025-city-skyline.jpg)
 ---
