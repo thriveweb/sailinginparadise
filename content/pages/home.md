@@ -29,10 +29,10 @@ featuredSlider:
     description: Rated 5* on all platforms
     buttonUrl: happy-sailors/
 featuredBanner:
-  buttonTitle: This week's availability
-  buttonUrl: boat-charter/last-minute-charters/
-  image: /uploads/sunset-lifering-oceans-sip.jpg
-  title: LAST MINUTE CHARTERS
+  buttonTitle: Ever wanted to work on the water?
+  buttonUrl: /employment/
+  image: /uploads/georgia-small-flipped.jpg
+  title: JOIN OUR CREW
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
