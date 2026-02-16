@@ -30,7 +30,7 @@ featuredSlider:
     buttonUrl: happy-sailors/
 featuredBanner:
   buttonTitle: Ever wanted to work on the water?
-  buttonUrl: /employment/
+  buttonUrl: https://sailinginparadise.com.au/employment/
   image: /uploads/georgia-small-flipped.jpg
   title: JOIN OUR CREW
 services:
