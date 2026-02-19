@@ -344,9 +344,8 @@ columnBanner:
     content: ""
     bookingWidget: ""
 featuredTestimonials:
-  description: See what the staff at Raceview State School had to say about their
-    Christmas Party with us...
-  testimonial: "RACEVIEW STATE SCHOOL, Aus "
+  description: ""
+  testimonial: ""
 meta:
   description: Book your 2026 Christmas party boat charter on the Gold Coast with
     Sailing in Paradise. Private charters for corporate teams and groups from
