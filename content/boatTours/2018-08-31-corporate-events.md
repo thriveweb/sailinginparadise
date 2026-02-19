@@ -221,7 +221,7 @@ columnBanner:
   - featuredImage: /uploads/d26a63a1-2a8e-41e6-a90c-d185bec84c13.jpg
 featuredTestimonials:
   description: ""
-  testimonial: "KOJO, Aus "
+  testimonial: ""
   title: ""
 meta:
   description: For the ultimate in stress-free corporate event planning, we offer
