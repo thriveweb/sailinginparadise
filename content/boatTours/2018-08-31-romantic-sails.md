@@ -231,10 +231,9 @@ columnBanner:
   - buttonTitle: ""
     featuredImage: /uploads/ace3d138-0f8b-4468-86e0-38313771f2b3.jpg
 featuredTestimonials:
-  description: Check out this lovely review from Taryn who chartered a boat for a
-    romantic sail with us...
-  testimonial: Taryn, Aus
-  title: Taryn
+  description: ""
+  testimonial: ""
+  title: ""
 meta:
   description: If you are celebrating a wedding anniversary, birthday, Valentines
     Day or looking to impress a special date, trust us when we say, there is
