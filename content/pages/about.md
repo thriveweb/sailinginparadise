@@ -66,57 +66,56 @@ captainSection:
     In fact, guest happiness is our highest priority.    From your first enquiry, through to our optional catering/beverage packages and finally to our welcoming crew (who we are often told feel like part of the family after just a few short hours) we aim to exceed your expectations.   We encourage you to check out our social channels and Guest Reviews to really get a vibe for what we are about.
 crewSection:
   crew:
-    - content: Always smiling, Chanelle brings a genuine warmth to any charter, with a
-        background in 6-star hospitality and amazing skill behind the camera you
-        will be well looked after by Chanelle either on board the boat or in the
-        office.
-      image: /uploads/839ed449-4aaf-4f18-a320-15bd026be749.jpg
-      name: "Chanelle "
-      title: Cruise Hostess/Guest Relations
-    - content: >-
-        Daniel is a former tradesman and joined our crew after years on the
-        water at the Whitsunday Islands. He loves to make you laugh and he is
-        always up for a chat! 
-
-
-        Dan has a passion for the sea and when he's not out sailing, he can be found wakeboarding or jet skiing. You'll be sure to have a great day out with Daniel, "the captain of your hearts"!
-      image: /uploads/27d8e87d-23c3-4176-8ef2-9eb88a5affd0.jpg
-      name: Daniel
+    - content: Georgia brings a true passion for the ocean to every charter, with a
+        deep love for scuba diving and life on and in the water. Warm,
+        organised, and attentive, she ensures your event runs seamlessly from
+        start to finish. With a natural eye for capturing special moments,
+        Georgia will beautifully document your day so you can treasure the
+        memories for years to come.
+      image: /uploads/dsc07708.jpg
+      name: "Georgia "
+      title: Cruise Hostess
+    - content: Mat is an ocean lover to his core. When he’s not onboard our boats,
+        you’ll find him working in marine conservation. Laid-back, friendly, and
+        full of fascinating stories from his adventures, Mat will make your time
+        on the water truly unforgettable.
+      image: /uploads/photo-7-11-2025-10-07-47-am.jpg
+      name: Mat
       title: Skipper
     - image: /uploads/df0ddcbc-0e45-4d12-ae3a-3d3503698dbc.jpg
       name: "Megan "
+      title: Marketing and Reservations Coordinator
+      content: Meg began her journey with us as a Cruise Hostess and now works behind
+        the scenes as part of our social media and bookings team. You’ll still
+        spot her out on the water from time to time (she can’t resist!),
+        capturing beautiful moments and jumping at any opportunity to create a
+        TikTok. Warm, friendly, and always ready to help, Meg is passionate
+        about bringing every guest’s event to life.
+    - image: /uploads/photo-11-10-2024-12-18-07-pm.jpg
+      name: Michelle
       title: Cruise Hostess
-      content: Megan is always smiling when out on the water and will be sure to make
-        your event as special and fun as possible!  Studying to become a
-        teacher, her warm and caring nature will make your guests feel at home
-        aboard our beautiful vessels.
-    - image: /uploads/5a5665d6-aa1a-48c0-b5b7-6861f68a63e9.jpg
-      name: Jemma
-      title: Cruise Hostess
-      content: Jemma has spent the past 10 years working as an outdoor adventure guide
-        taking groups diving, kayaking, camping and hiking all over Australia.
-        As a self-professed ocean nerd, Jemma will happily talk to you all about
-        the local marine life… and she’s always ready to bust a move with our
-        guests if the music is right!
-    - image: /uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.jpg
-      name: Deon
+      content: Michelle is our South American ray of sunshine, bringing her vibrant
+        and fun-loving energy to every charter. With a strong background in
+        hospitality and customer service, she ensures every guest feels welcomed
+        and well looked after from the moment they step onboard. Passionate
+        about travel, the ocean, and capturing special moments, Michelle loves
+        helping create memories you’ll cherish long after your day on the water.
+    - image: /uploads/photo-2-11-2025-2-15-19-pm.jpg
+      name: Ken
       title: Skipper
-      content: Deon has a love for the outdoors and 15 years experience in the marine
-        and tourism industry.    When not skippering for Sailing in Paradise
-        Deon can usually be found hanging out with his dolphin friends and
-        caring for our marine environment by rescuing trapped whales and injured
-        marine life...  Go Deon!!
-    - image: /uploads/002819f5-2b26-41ac-94b6-e5be7698a290.jpg
-      name: Chelsey
+      content: Originally from the US, Ken brings years of experience in the marine
+        industry and a natural confidence on the water. You won’t have to ask
+        him twice to jump in for a boogie - Ken brings great energy to every
+        charter. Fun, friendly, and always up for an adventure, Ken loves
+        travel, surfing, and helping guests create unforgettable memories.
+    - image: /uploads/screenshot-2026-02-19-at-1.36.51 pm.png
+      name: Jess
       title: Cruise Hostess
-      content: >-
-        Chelsey is originally from Canada where her hobbies included
-        snowboarding and beating boys at arm wrestles.  She was drawn to the
-        sunny shores of Australia and with a love of the outdoors and the ocean
-        started a career in the marine world.
-
-
-        Chelsey is a super fun addition to our crew, bringing a great energy to her charters and is always super happy to help guests get “the shot”!
+      content: Originally from the US and currently studying Marketing, Jess brings a
+        fun, bubbly energy to every charter and is always up for a chat. With a
+        natural talent behind the camera, she’ll make sure your event is
+        beautifully captured so you can relive the memories long after your time
+        on the water.
     - name: "Mady "
       title: Bookings Manager
       content: An approachable country girl with a well travelled background and years
