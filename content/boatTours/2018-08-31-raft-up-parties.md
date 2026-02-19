@@ -236,9 +236,8 @@ columnBanner:
     featuredImage: /uploads/5647eb83-36f5-45ec-938c-b57115db0ee3.jpg
   - featuredImage: /uploads/8a2e91d4-09ff-40ec-accf-2df4db6cb858.jpg
 featuredTestimonials:
-  description: Wondering about what a Raft Up Yacht Party could be like? Hear what
-    Margaret had to say...
-  testimonial: Margaret, Aus
+  description: ""
+  testimonial: ""
   title: ""
 meta:
   description: Whether you are organising a corporate event, a wedding or a get
