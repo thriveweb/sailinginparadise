@@ -70,11 +70,6 @@ contentColumn: >-
 
 
   ![Sailing in Paradise Catamarans](/uploads/0f5b1b39-2d19-4783-ab43-f128a999bb70.jpg "Sailing in Paradise Charter Boats Gold Coast")
-
-
-
-
-  > ﻿ta
 accordionSection:
   accordion:
     - dropdownContent: >-
