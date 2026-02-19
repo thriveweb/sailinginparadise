@@ -245,10 +245,9 @@ columnBanner:
     featuredImage: /uploads/c3349743-5713-4c0b-86f5-1911221ab1e9.jpg
   - featuredImage: /uploads/17f9895a-62ef-4d6e-8cd5-ac79c1db17fb.jpg
 featuredTestimonials:
-  description: We took Tim and his family out with us for a private charter, read
-    about their experience with us here...
-  testimonial: Tim, Aus
-  title: Tim
+  description: ""
+  testimonial: ""
+  title: ""
 meta:
   description: When you charter a boat with Sailing in Paradise we aim to provide
     a special experience the whole family will enjoy.
