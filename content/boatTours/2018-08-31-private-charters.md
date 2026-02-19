@@ -256,7 +256,7 @@ columnBanner:
     featuredImage: /uploads/17b4668a-b462-4c3f-b247-ed3ef1eaad5e.jpg
 featuredTestimonials:
   description: ""
-  testimonial: Bree, Aus
+  testimonial: ""
 meta:
   description: Sailing In Paradise - Surfers Paradise Gold Coast | From 10 to 30
     People | Boat Charter | Party Boat Hire | Private Charters - Book now 0438
