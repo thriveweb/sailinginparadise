@@ -296,10 +296,9 @@ columnBanner:
     featuredImage: /uploads/61c88734-b17f-450f-8e6b-e10d9ade46f2.jpg
   - featuredImage: /uploads/f3bf4df1-6f8a-405b-b07f-96343f6aa19c.jpg
 featuredTestimonials:
-  description: Lucy booked a charter with us for her husband's 30th birthday, read
-    what she had to say about the experience...
-  testimonial: Lucy, Aus
-  title: Happy Sailors
+  description: ""
+  testimonial: ""
+  title: ""
 meta:
   description: "Private birthday party boat charters on the Gold Coast for groups
     of 10-42 guests.  Celebrate with music, drinks, swimming stops and a relaxed
