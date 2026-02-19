@@ -172,10 +172,9 @@ columnBanner:
     featuredImage: /images/uploads/girl-img-column2.jpg
   - featuredImage: /uploads/8bc0eee6-214b-4662-90a7-633c81e192c4.jpg
 featuredTestimonials:
-  description: We were honoured to look after Elyce and her family for their loved
-    ones memorial cruise. Read her lovely review here...
-  testimonial: Elyce, Aus
-  title: Elyce
+  description: ""
+  testimonial: ""
+  title: ""
 meta:
   description: "Based on the Gold Coast we offer scattering of ashes at sea on
     board one of three spacious sailing catamarans.   Our boats can accommodate
