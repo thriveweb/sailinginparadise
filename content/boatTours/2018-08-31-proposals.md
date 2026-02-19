@@ -153,10 +153,9 @@ columnBanner:
     featuredImage: /uploads/8a4a1f89-1f16-4ac9-9ec2-8c1d21465116.jpg
   - featuredImage: /uploads/713e61bb-5607-49a4-b443-308690d6a0a4.jpg
 featuredTestimonials:
-  description: Daniel organized a secret proposal charter with us. See what Lauren
-    had to say about the unforgettable experience, other than "YES!"...
-  testimonial: Lauren, Aus-1
-  title: Lauren
+  description: ""
+  testimonial: ""
+  title: ""
 meta:
   description: Are you planning to propose to your future wife, or husband and
     seeking out unique proposal ideas? We absolutely adore hosting proposals and
