@@ -22,12 +22,25 @@ meta:
 ---
 ### GETTING TO THE MARINA
 
-We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.   Parking is available Marina Mirage, there is also limited street parking.  We do recommend considering ride share at busy times due to higher demand.   
+We are conveniently located at Marina Mirage at 74 Seaworld Drive, Main Beach.   
 
-### HOW TO FIND THE BOATS AT THE MARINA
+### P﻿ARKING
 
-All vessels are berthed at Marina Mirage C Arm.   
+Due to construction work in the area parking at the marina is fairly limited at present.  
 
-Please find a map below of the current vessel locations. 
+W﻿e recommend considering rideshare for a stress-free arrival to your charter.
 
-If you can’t find us you can always call us and we will be happy to guide you.
+* M﻿arina Mirage - Very limited parking on South Side (undercover and rooftop parking - closed)
+* S﻿eaworld Drive - Limited free street parking
+* P﻿hillip Park (beach) carpark - Limited free parking
+* M﻿ariner's Cove - Limited Paid Parking
+
+### HOW TO FIND OUR BOATS AT THE MARINAS
+
+A﻿ll vessels are berthed at Marina Mirage C Arm. 
+
+Please find a map of the current vessel locations.    There is some construction work in the area which may change at times however access to the marina will remain open.  
+
+If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you.
+
+T﻿hanks and we look forward to welcoming you on board!
