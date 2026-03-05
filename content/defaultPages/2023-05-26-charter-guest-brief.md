@@ -18,28 +18,39 @@ content: >-
   ###### P﻿ARKING AT THE MARINA
 
 
-  M﻿arina Mirage currently offers free parking.  L﻿imited free street parking is also available on Seaworld Drive.  A small paid car park is also available at Mariner's Cove.   
+  Due to construction work in the area parking at the marina is fairly limited at present.  
 
 
   W﻿e recommend considering rideshare for a stress-free arrival to your charter.
 
 
-  ###### HOW TO FIND OUR BOATS AT THE MARINAS
+  * M﻿arina Mirage - Very limited parking on South Side (undercover and rooftop parking - closed)
+
+  * S﻿eaworld Drive - Limited free street parking
+
+  * P﻿hillip Park (beach) carpark - Limited free parking
+
+  * M﻿ariner's Cove - Limited Paid Parking
+
+
+  ### HOW TO FIND OUR BOATS AT THE MARINAS
 
 
   A﻿ll vessels are berthed at Marina Mirage C Arm. 
 
 
-  Please find a map below of the current vessel locations.    With construction work in the area it is possible that access may change slightly however we have been advised that access to the marina will remain possible at all times.   
+  Please find a map below of the current vessel locations.    There is some construction work in the area which may change at times however access to the marina will remain open.  
 
 
-  If you can’t find us you can always call us on 0438 915 222 (option 3 if after hours) and we will be happy to guide you. 
+  If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you.
 
 
-  ![](/uploads/marina-map.jpg)
+  T﻿hanks and we look forward to welcoming you on board!
 
 
-  ![]()
+  ![](/uploads/marina-map-2026-march.jpg)
+
+
 
 
   ###### BOARDING INFO
