@@ -2,7 +2,7 @@
 template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Photoshoot Location
-featuredImage: /uploads/2j8a9660.jpg
+featuredImage: /uploads/2j8a9660-1-.jpg
 intro: >-
   **A Unique Gold Coast Photoshoot Location**
 
@@ -20,6 +20,7 @@ gallery:
   - image: /uploads/photo-3-3-2026-4-15-20-pm.jpg
   - image: /uploads/photo-3-3-2026-2-24-09-pm.jpg
   - image: /uploads/2j8a9881-1.jpg
+  - image: /uploads/5bode.jpg
 videoSection:
   title: Gold Coast Photoshoot | Anjuum Swim BTS
   imageOverlay: /uploads/photo-3-3-2026-2-27-15-pm.jpg
