@@ -85,6 +85,7 @@ columnBanner:
     buttonTitle: Contact Us
     content: Get in touch with our friendly team to discuss your shoot and check
       availability.
-    featuredImage: /uploads/photo-3-3-2026-2-37-59-pm.jpg
+    featuredImage: ""
     buttonUrl: contact-us/
+  - featuredImage: /uploads/photo-3-3-2026-2-27-15-pm.jpg
 ---
