@@ -88,4 +88,9 @@ columnBanner:
     featuredImage: ""
     buttonUrl: https://sailinginparadise.com.au/contact-us/
   - featuredImage: /uploads/photo-3-3-2026-2-27-15-pm.jpg
+meta:
+  title: Boat Photoshoot Location Gold Coast | Brand & Fashion Shoots
+  description: A unique Gold Coast photoshoot location on a luxury sailing
+    catamaran. Ideal for fashion, swimwear and brand shoots with open ocean
+    views, sails, spacious decks and secluded Broadwater islands.
 ---
