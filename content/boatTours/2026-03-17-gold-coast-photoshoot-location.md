@@ -9,7 +9,7 @@ intro: >-
 
   Looking for a stunning photoshoot location on the Gold Coast? Our sailing catamarans provide a beautiful and versatile setting for brand shoots, fashion campaigns, lifestyle content and social media photography. With open ocean views, elegant interiors and the ability to sail during your shoot, our vessels offer a huge range of creative possibilities.
 contentBox:
-  buttonUrl: contact-us/
+  buttonUrl: https://sailinginparadise.com.au/contact-us/
   buttonTitle: Contact us here
   title: book your photoshoot
 gallery:
@@ -86,6 +86,6 @@ columnBanner:
     content: Get in touch with our friendly team to discuss your shoot and check
       availability.
     featuredImage: ""
-    buttonUrl: contact-us/
+    buttonUrl: https://sailinginparadise.com.au/contact-us/
   - featuredImage: /uploads/photo-3-3-2026-2-27-15-pm.jpg
 ---
