@@ -24,11 +24,11 @@ content: >-
   ### Crew Roles
 
 
-  * **Fleet Manager/Lead Skipper**
+  * **Fleet Manager/Lead Skipper - HIRING**
 
-  * **S﻿kipper**
+  * **S﻿kipper - HIRING**
 
-  * **Deckhand / Host(ess)**
+  * **Deckhand / Host(ess) - EOI's open for 2026**
 
 
   Weekend availability is essential, with increased availability required over December and January.
