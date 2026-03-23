@@ -21,19 +21,17 @@ content: >-
   While we don’t always have active vacancies, we’re always interested in connecting with great people for future opportunities.
 
 
-
-
   ### Crew Roles
 
 
-  * **Skipper**
+  * **Fleet Manager/Lead Skipper**
+
+  * **S﻿kipper**
 
   * **Deckhand / Host(ess)**
 
 
   Weekend availability is essential, with increased availability required over December and January.
-
-
 
 
   (Further details below) 
@@ -42,6 +40,79 @@ content: >-
   ![](/uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png)
 
 
+  ## **Fleet Manager/Lead Skipper**
+
+
+  This is a **hands-on marine leadership role** combining vessel operations, fleet maintenance, and crew support.
+
+
+  You'll help keep the operation running smoothly day to day, skippering charters on busy days and during quieter times you will ensure vessels are maintained to a high standard and handle mechanical repairs and vessel maintenance.
+
+
+  Because this role involves hosting guest charters, you'll need to be comfortable interacting with guests and delivering a welcoming, professional onboard experience.
+
+
+  #### Key Responsibilities
+
+
+  **Operations & Guest Experience**
+
+
+  * Skipper charter vessels as required
+
+  * Deliver an exceptional onboard experience with energy, calmness, and professionalism
+
+  * Communicate clearly with guests, crew, and management
+
+  * Train and support crew and help maintain a strong team environment
+
+
+  **Fleet Maintenance & Repairs**
+
+
+  * Maintain all vessels in excellent operational condition
+
+  * Diagnose and repair mechanical issues where possible
+
+  * Carry out routine maintenance and preventative servicing
+
+  * Coordinate specialist contractors when required
+
+  * Maintain maintenance logs and service records
+
+  * Ensure safety equipment and operational systems are maintained
+
+  * Assist with ordering supplies and managing fleet equipment
+
+  * Support operational systems and digital tools used to manage the fleet
+
+
+  #### Essential Requirements
+
+
+  * **Master 5 Commercial Ticket (or higher)**
+
+  * Strong hands-on mechanical and troubleshooting ability
+
+  * Experience maintaining marine equipment and vessel systems
+
+  * Minimum 3-5 years of commercial skippering experience required
+
+  * Must hold valid Australian work rights at the time of application
+
+  * Experience with outboard and diesel engines highly regarded
+
+  * Knowledge of AMSA regulations and vessel survey requirements
+
+  * Strong customer service and guest interaction skills
+
+  * Valid Driver's Licence
+
+
+  F﻿or more information on this role please visit our [SEEK Ad HERE.](https://www.seek.com.au/job/90970112)
+
+
+  - - -
 
 
   ### Skipper
@@ -108,9 +179,6 @@ content: >-
   * Current First Aid certificate
 
   * RSA (or willingness to obtain one)
-
-
-
 
   * ![](/uploads/georgia-small-flipped.jpg)
 
@@ -182,10 +250,6 @@ content: >-
   * First Aid certificate (or willingness to obtain one)
 
 
-
-
-
-
   ### Availability & Employment Conditions
 
 
@@ -196,8 +260,6 @@ content: >-
 
 
   Due to application volumes, only shortlisted applicants may be contacted.
-
-
 
 
   ## How to Apply
@@ -221,8 +283,6 @@ content: >-
     * Your social media handle (required for Deckhand/Host applicants)
 
   Please send applications to:
-
-
 
 
   * ![](/uploads/dd070988-43ac-4492-bb08-226892425bd8.jpg)
