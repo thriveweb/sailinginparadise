@@ -21,6 +21,7 @@ gallery:
   - image: /uploads/photo-3-3-2026-2-24-09-pm.jpg
   - image: /uploads/2j8a9881-1.jpg
   - image: /uploads/5bode.jpg
+  - image: /uploads/5d918a1f-40d3-4707-95bf-725351e0eae4.jpg
 videoSection:
   title: Gold Coast Photoshoot | Anjuum Swim BTS
   imageOverlay: /uploads/photo-3-3-2026-2-27-15-pm.jpg
@@ -83,8 +84,11 @@ accordionSection:
 columnBanner:
   - title: Ready to create something beautiful on the water?
     buttonTitle: Contact Us
-    content: Get in touch with our friendly team to discuss your shoot and check
-      availability.
+    content: >-
+      ![]()
+
+
+      Get in touch with our friendly team to discuss your shoot and check availability.
     featuredImage: ""
     buttonUrl: https://sailinginparadise.com.au/contact-us/
   - featuredImage: /uploads/photo-3-3-2026-2-27-15-pm.jpg
