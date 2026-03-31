@@ -11,7 +11,7 @@ intro: >-
 contentBox:
   buttonUrl: https://sailinginparadise.com.au/contact-us/
   buttonTitle: Contact us here
-  title: book your photoshoot
+  title: Ready to create something beautiful? book your photoshoot now
 gallery:
   - image: /uploads/photo-3-3-2026-2-27-15-pm.jpg
   - image: /uploads/2j8a9660.jpg
@@ -39,6 +39,8 @@ contentColumn: >-
   * Option to stop and shoot on a secluded island
 
   * 3﻿ beautiful catamarans to choose from
+
+    ![](/uploads/dc43652d-6e0d-499a-bc16-80eb6e22cb20-1-.jpg)
 accordionSection:
   sectionTitle: FAQ's
   accordion:
