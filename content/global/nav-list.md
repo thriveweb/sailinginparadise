@@ -38,10 +38,8 @@ navItems:
         optionalTitle: "Last Minute "
       - title: Gold Coast New Year's Eve 2025 Cruise
         optionalTitle: New Year's Eve
-      - title: Gold Coast Valentine's Day Cruise
-        optionalTitle: Valentine's Day
-      - title: Sneeky Mid-weeky Deals
-        optionalTitle: Sneeky Mid-weeky Deals
+      - title: Gold Coast Photoshoot Location
+        optionalTitle: Photoshoot Location
     title: Boat Charter
   - subNavItems:
       - title: Island Time
