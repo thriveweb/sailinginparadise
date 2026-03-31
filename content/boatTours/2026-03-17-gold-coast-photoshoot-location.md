@@ -39,8 +39,6 @@ contentColumn: >-
   * Option to stop and shoot on a secluded island
 
   * 3﻿ beautiful catamarans to choose from
-
-    ![](/uploads/dc43652d-6e0d-499a-bc16-80eb6e22cb20-1-.jpg)
 accordionSection:
   sectionTitle: FAQ's
   accordion:
@@ -93,7 +91,7 @@ columnBanner:
       Get in touch with our friendly team to discuss your shoot and check availability.
     featuredImage: /uploads/03aaaef0-bc70-4e9d-8533-3309e9a7d59f.jpg
     buttonUrl: https://sailinginparadise.com.au/contact-us/
-  - featuredImage: /uploads/photo-3-3-2026-2-27-15-pm.jpg
+  - featuredImage: /uploads/2j8a9660.jpg
 meta:
   title: Boat Photoshoot Location Gold Coast | Brand & Fashion Shoots
   description: A unique Gold Coast photoshoot location on a luxury sailing
