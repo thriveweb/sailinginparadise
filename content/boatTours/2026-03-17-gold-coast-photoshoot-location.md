@@ -85,7 +85,7 @@ columnBanner:
   - title: Ready to create something beautiful on the water?
     buttonTitle: Contact Us
     content: >-
-      ![]()
+      ![](/uploads/03aaaef0-bc70-4e9d-8533-3309e9a7d59f.jpg)
 
 
       Get in touch with our friendly team to discuss your shoot and check availability.
