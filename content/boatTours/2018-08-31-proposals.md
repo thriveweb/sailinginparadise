@@ -66,6 +66,9 @@ contentColumn: >-
   *\*Subject to availability. Peak periods and public holidays may be excluded. Weekends may be available on request - please enquire.*
 
 
+  ![Private proposal on a Sailing in Paradise boat at sunset, Gold Coast, Australia ](/uploads/dji_20260205181839_0100_d.jpg)
+
+
   ## **A Truly Special Gold Coast Proposal Experience**
 
 
@@ -91,8 +94,6 @@ contentColumn: >-
 
 
   We also offer daytime proposal charters, including the option to stop at a nearby island for an added sense of adventure.
-
-
 
 
   We also offer daytime proposal charters, including the option to stop at a nearby island for an added sense of adventure.
