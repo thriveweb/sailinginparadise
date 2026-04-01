@@ -68,7 +68,7 @@ contentColumn: >-
 
 
 
-  ![](/uploads/dji_20260205181839_0100_d.jpg)
+  ![Private proposal on a Sailing in Paradise boat at sunset, Gold Coast, Australia ](/uploads/dji_20260205181839_0100_d.jpg)
 
 
   **A Truly Special Gold Coast Proposal Experience**\
@@ -104,7 +104,7 @@ contentColumn: >-
 
 
 
-  ![](/uploads/mb3a0838.jpg)
+  ![Private proposal on a Sailing in Paradise boat at sunset, Gold Coast, Australia ](/uploads/mb3a0838.jpg)
 accordionSection:
   accordion:
     - dropdownContent: >-
