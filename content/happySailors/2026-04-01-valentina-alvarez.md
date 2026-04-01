@@ -1,6 +1,6 @@
 ---
 template: SingleCaseStudy
-title: Valentina Alvarez
+title: Valentina, Aus
 cruiseType: Proposal
 date: 2024-12-23T14:00:00.000Z
 featuredImage: /uploads/photo-24-12-2024-6-29-29-pm.jpg
