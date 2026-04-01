@@ -44,8 +44,8 @@ videoSection:
   title: A private yacht, a golden sunset & A moment that changes everything.
 contentColumnTitle: Our proposal package
 contentColumn: >-
-  Our proposal charter package is available Monday to Thursday (mid-January to
-  mid-November, excluding public holidays) and includes:
+  Our proposal charter package is available Monday to Thursday (mid January to
+  mid November, excluding public holidays) and includes:
 
 
   > * 2 hour private sunset sail on *Oceans Deluxe*
@@ -63,7 +63,7 @@ contentColumn: >-
   > **$1,100**
 
 
-  *\*Subject to availability. Peak periods and public holidays may be excluded. Weekends may be available on request—please enquire.*
+  *\*Subject to availability. Peak periods and public holidays may be excluded. Weekends may be available on request - please enquire.*
 
 
 
@@ -71,28 +71,37 @@ contentColumn: >-
   ![](/uploads/dji_20260205181839_0100_d.jpg)
 
 
-  ### A Truly Special Experience
+  **A Truly Special Gold Coast Proposal Experience**\
+
+  A private sunset yacht proposal gives you two hours of calm-water sailing aboard a smooth, stable catamaran, perfect for creating a relaxed and intimate atmosphere.\
+
+  \
+
+  We cruise alongside South Stradbroke Island before stopping at a stunning vantage point to watch the sun dip behind the Gold Coast hinterland mountains. The crystal-clear waters are full of life, so you might spot dolphins nearby or sea eagles gliding overhead, adding to the magic of your engagement moment on the Gold Coast.\
+
+  \
+
+  As evening falls, the Surfers Paradise skyline begins to sparkle, creating a breathtaking backdrop as we return to the marina.\
+
+  \
+
+  You’re welcome to bring additional food and drinks, or we can assist with additional catering to elevate your proposal experience even further.
 
 
-  A proposal sunset charter gives you two hours of calm-water sailing aboard a smooth, stable catamaran - perfect for creating a relaxed and intimate atmosphere.
+  **Celebrate Your Engagement Your Way**\
+
+  If you’d like to include loved ones, you can plan a surprise proposal with family and friends on board. We can customise a private yacht charter to suit your group, perfect for those looking for unique engagement celebration ideas on the Gold Coast.
 
 
-  We cruise alongside South Stradbroke Island before stopping at a stunning vantage point, where you can watch the sun dip behind the Gold Coast hinterland mountains. The crystal-clear waters are full of life, so you might spot dolphins playing nearby or some sea eagles gliding overhead.
+  We also offer daytime proposal charters, including the option to stop at a nearby island for an added sense of adventure.
 
 
-  As evening falls, the Surfers Paradise skyline begins to sparkle, creating a magical backdrop as we return to the marina.
 
 
-  BYO is welcome for additional food and drinks, or we can assist with additional catering. 
 
 
-  ### Celebrate Your Way
 
 
-  If you’d prefer to share the moment with loved ones, you can plan a surprise proposal with family and friends on board. We’re happy to customise a private charter for larger groups, just get in touch for more information and a quote.
-
-
-  We also offer daytime charters, including the option to stop at a nearby island for an added touch of adventure.
 
 
   ![](/uploads/mb3a0838.jpg)
