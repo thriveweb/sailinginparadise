@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Proposals
 icon: ""
-featuredImage: /uploads/mb3a0820.jpg
+featuredImage: /uploads/dji_20260205182500_0165_d.jpg
 intro: >-
   ## Gold Coast Proposal Cruise
 
@@ -66,12 +66,8 @@ contentColumn: >-
   *\*Subject to availability. Peak periods and public holidays may be excluded. Weekends may be available on request - please enquire.*
 
 
+  ## **A Truly Special Gold Coast Proposal Experience**
 
-
-  ![Private proposal on a Sailing in Paradise boat at sunset, Gold Coast, Australia ](/uploads/dji_20260205181839_0100_d.jpg)
-
-
-  **A Truly Special Gold Coast Proposal Experience**\
 
   A private sunset yacht proposal gives you two hours of calm-water sailing aboard a smooth, stable catamaran, perfect for creating a relaxed and intimate atmosphere.\
 
@@ -88,7 +84,8 @@ contentColumn: >-
   You’re welcome to bring additional food and drinks, or we can assist with additional catering to elevate your proposal experience even further.
 
 
-  **Celebrate Your Engagement Your Way**\
+  ## **Celebrate Your Engagement Your Way**
+
 
   If you’d like to include loved ones, you can plan a surprise proposal with family and friends on board. We can customise a private yacht charter to suit your group, perfect for those looking for unique engagement celebration ideas on the Gold Coast.
 
@@ -98,13 +95,7 @@ contentColumn: >-
 
 
 
-
-
-
-
-
-
-  ![Private proposal on a Sailing in Paradise boat at sunset, Gold Coast, Australia ](/uploads/mb3a0838.jpg)
+  We also offer daytime proposal charters, including the option to stop at a nearby island for an added sense of adventure.
 accordionSection:
   accordion:
     - dropdownContent: >-
