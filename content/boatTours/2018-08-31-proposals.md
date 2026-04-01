@@ -3,80 +3,145 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Proposals
 icon: ""
-featuredImage: /uploads/986b976f-de69-4527-9784-2cb8f12bfe15.jpg
+featuredImage: /uploads/mb3a0820.jpg
 intro: >-
   ## Gold Coast Proposal Cruise
 
 
-  Are you planning to propose to your future wife, or husband and seeking out unique proposal ideas?   Firstly, congratulations, this is such an exciting time!!    Secondly, we are thrilled that you are here as we absolutely adore hosting proposals and are proud to offer one of the most beautiful ways to propose on the Gold Coast!
+  You only get one chance to ask one of life’s biggest questions, so why not make it truly unforgettable?
+
+
+  A private yacht, a glowing sunset, and a moment that’s entirely yours. This is one of the most romantic proposal ideas on the Gold Coast.
+
+
+  We’ll guide you through every detail of your proposal, from how you choose to pop the question to the food and drinks onboard, and thoughtful touches like our optional ‘Will You Marry Me?’ sail, so the experience feels completely your own.
+
+
+  With over 15 years of experience creating engagement and proposal experiences on the Gold Coast, our team knows how to deliver a seamless, beautifully timed moment that still feels natural and personal. No two proposals are ever the same, and we’re here to bring your vision to life so you can relax and focus on the moment that matters most.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
   title: Enquire about your unique proposal
 gallery:
-  - image: /uploads/f7fb27d4-73d7-4788-b042-61f024f01e09.jpg
   - image: /uploads/0624a2da-fd52-4f8c-84c1-52c4aac70c92.jpg
+  - image: /uploads/f7fb27d4-73d7-4788-b042-61f024f01e09.jpg
   - image: /uploads/c20f69e6-8ab4-4f4c-a6e5-19af5913f736.jpg
-  - image: /uploads/4326177d-5f57-4364-8267-74797b78bd56.jpg
+  - image: /uploads/mb3a0838.jpg
   - image: /uploads/8a0d6fd7-f1e8-417b-810d-bbdb8243a353.jpg
-  - image: /uploads/7427c511-efb3-440e-8a4b-fb365d2f161b.jpg
-  - image: /uploads/ef74481c-8b40-468b-a29b-3dc5b46ca480.jpg
+  - image: /uploads/mb3a0658-1-.jpg
+  - image: /uploads/dji_20260205181839_0100_d.jpg
   - image: /uploads/6f6731de-3783-41e4-ab0c-36471c17886d.jpg
-  - image: /uploads/0b4cda60-3763-410c-9bea-8bb8537413ee.jpg
+  - image: /uploads/0m3a1655.jpg
   - image: /uploads/de397de1-e8e2-4b66-9fbb-8a82f7912efe.jpg
   - image: /uploads/fa11b9aa-1834-4478-9184-7993fa141b96.jpg
-  - image: /uploads/624b3a2f-eb0f-4356-8f64-1547651c8b58.jpg
-  - image: /uploads/4034509a-7433-4bb9-b437-a02ac595c787.jpg
+  - image: /uploads/mb3a1011-2-.jpg
+  - image: /uploads/dji_20260205180631_0014_d.jpg
   - image: /uploads/3b0f83ce-2298-4685-880c-4cba310e9f60.jpg
   - image: /uploads/5f08dc69-3f29-423d-ba4d-fb5c54aa4075.jpg
 videoSection:
-  imageOverlay: ""
-  video: ""
-contentColumnTitle: A proposal to remember...
+  imageOverlay: /uploads/dji_20260205181913_0125_d.jpg
+  video: "1179101606"
+  title: A private yacht, a golden sunset & A moment that changes everything.
+contentColumnTitle: Our proposal package
 contentColumn: >-
-  > Can you imagine anything more romantic than popping the question on your own
-  private yacht as the sun sets over the mountains in the distance?   
+  Our proposal charter package is available Monday to Thursday (mid-January to
+  mid-November, excluding public holidays) and includes:
 
 
-  The answer is pretty much guaranteed to be yes, right?   In fact, we have a 100% success rate to date, so be sure to have that engagement ring at the ready...
+  > * 2 hour private sunset sail on *Oceans Deluxe*
+
+  > * Romantic picnic setup on the front deck (cushions, blankets, fairy lights)
+
+  > * Optional use of our beautiful “Will You Marry Me” sail 
+
+  > * Chilled bottle of Moët & gourmet cheese board for two
+
+  > * Photos and videos captured during your proposal, delivered via Dropbox
+
+  >
+
+  > **$1,100**
 
 
-  A yacht proposal is an experience that neither one of you will ever forget. Our beautiful waterways are the perfect backdrop for romance.  We invite you to sail away on your own private yacht, relaxing on the trampoline style foredeck, sipping champagne and nibbling on gourmet cheese platters to the sounds of your favourite tunes and the waves lapping beneath.   You may even be joined by the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans.  
+  *\*Subject to availability. Peak periods and public holidays may be excluded. Weekends may be available on request—please enquire.*
 
 
-  > "Life is not measured by the number of breaths we take, but the moments that take our breath away"
 
 
-  There are many ways to pop the question on board.  Some to consider include;
+  ![](/uploads/dji_20260205181839_0100_d.jpg)
 
 
-  * a traditional bended knee approach,
-
-  * arriving at a romantic beach picnic by boat,
-
-  * or our most popular option – revealing our gorgeous ‘Will You Marry Me’ Sail at sunset (the sail can be hoisted discretely by our onboard crew at just the right time.  
+  ### A Truly Special Experience
 
 
-  We would love to chat with you via phone or email any time and start planning your perfect proposal which can be fully customised to your wishes.
+  A proposal sunset charter gives you two hours of calm-water sailing aboard a smooth, stable catamaran - perfect for creating a relaxed and intimate atmosphere.
+
+
+  We cruise alongside South Stradbroke Island before stopping at a stunning vantage point, where you can watch the sun dip behind the Gold Coast hinterland mountains. The crystal-clear waters are full of life, so you might spot dolphins playing nearby or some sea eagles gliding overhead.
+
+
+  As evening falls, the Surfers Paradise skyline begins to sparkle, creating a magical backdrop as we return to the marina.
+
+
+  BYO is welcome for additional food and drinks, or we can assist with additional catering. 
+
+
+  ### Celebrate Your Way
+
+
+  If you’d prefer to share the moment with loved ones, you can plan a surprise proposal with family and friends on board. We’re happy to customise a private charter for larger groups, just get in touch for more information and a quote.
+
+
+  We also offer daytime charters, including the option to stop at a nearby island for an added touch of adventure.
+
+
+  ![](/uploads/mb3a0838.jpg)
 accordionSection:
   accordion:
     - dropdownContent: >-
-        A unique customised experience - this is not a cookie cutter marriage
-        proposal.  You are invited to make this time your own and it should be
-        as unique as your relationship.   
+        \
+
+        On the day of your Gold Coast yacht proposal, you and your partner will board our deluxe vessel, Oceans, around 10 minutes prior to departure. Our friendly skipper and host will welcome you on board and provide a quick safety briefing before we set off.\
+
+        \
+
+        Before your charter, we’ll work with you to plan the key details such as when you’d like food and drinks served, your chosen proposal song, and whether you’d like the “Will You Marry Me” sail displayed.\
+
+        \
+
+        As you relax on the spacious front deck, we’ll cruise out of the marina and into the calm Gold Coast waterways. At the perfect moment (usually within the first 30 minutes) your song will play, the sail will be unfurled, and the sun will begin to set as you pop the question.\
+
+        \
+
+        Your hostess will discreetly capture photos and videos throughout your proposal experience, with time afterwards for golden hour photos. You’ll then enjoy the remainder of your private charter soaking in the views, before returning to the marina as the Surfers Paradise skyline lights up the water.
 
 
-        Upon boarding the boat you will be greeted by our friendly crew who will adapt to your preference of their involvement on board.    We invite you to take a walk around the boat and find a place to chill out with a drink and enjoy the beautiful views and the sounds of the water.   When it comes time to pop the question should you have planned with our team in advance to use our beautiful 'will you marry me' sail simply give our skipper the nod and we will unfurl it at the perfect moment... often to the sounds of a favourite song you may have let us know about.
-      title: What to expect
+        Want to tweak some things or have some different ideas? Just let us know! We are totally open to tailoring the experience to suit your preferences.
+      title: What will happen on the day of my proposal?
     - dropdownContent: >-
-        * Your partner (and any family if you wish to make it a group event)
+        Our Gold Coast proposal package includes everything you need for a
+        seamless and unforgettable experience:\
 
-        * The ring :-)
+        \
 
-        * If you wish to BYO you are welcome to bring food and drinks on board. We also provide fully catered packages
+        Personalised planning support from our experienced bookings team\
 
-        * If you are sailing during the day and wish to swim, please bring towels
-      title: What to Bring
+        Private use of the vessel for 2 hours\
+
+        Red carpet arrival\
+
+        Professional skipper and host\
+
+        Bottle of Moët\
+
+        Gourmet couples cheeseboard (artisan cheeses, antipasto, cured meats, fruits, nuts & fresh bread)\
+
+        Romantic picnic setup on the front deck (cushions, blankets & fairy lights)\
+
+        Photos and videos captured during your proposal (delivered via Dropbox)\
+
+        Premium sound system with Spotify (create your own playlist or use our curated romantic sail playlist)
+      title: What is included in my proposal charter?
     - title: Charter FAQ's
       dropdownContent: >-
         **Where do your boats depart from?**
@@ -94,7 +159,7 @@ accordionSection:
         **What about other transport options?**
 
 
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Maxi Taxis.
+        There are lots of ways to get to the boat! The most popular is often Uber so you can have a stress-free arrival. 
 
 
         **Can I BYO?**
@@ -108,47 +173,27 @@ accordionSection:
 
         Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick or spill your drink either :-).
     - dropdownContent: >-
-        Yes we do!!   Our ‘**Sail Away with me…’ Proposal package** includes;
+        1. T﻿he ring
 
+        2. Any additional food or drinks you’d like to bring
 
-        * A 2 hour private sunset sail for 2 guests (mid-week)
-
-        * A romantic boat picnic set up on the front deck
-          (weather permitting)
-        * Use of our beautiful ‘Will you Marry me’ Sail (you give the nod)
-
-        * Chilled bottle of Moet and gourmet cheese board
-
-        * Beautiful digital photos captured of your proposal and voyage 
-
-
-        **$1,100***
-
-
-        \*Subject to availability. Available Monday to Thursday (mid-January to mid-November, excl public holidays).  Weekends may be available on request, please enquire. 
-
-
-        You can also consider a surprise proposal with your closest family and friends on board.  Please contact us for a quote for a customised private charter for larger groups.
-
-
-        Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a proposal charter info pack via email.
-      title: Do you offer special packages?
-    - dropdownContent: >-
-        Our beautiful Seawind catamarans offer the relaxation of sailing in
-        complete comfort.   The trampoline-style foredeck is a favourite spot
-        for snuggling and gives an immersive sailing experience with 360 degree
-        views of the Gold Coast’s stunning waterways.  It is also the ideal spot
-        for spying the friendly bottle-nose dolphins who frequently ride the bow
-        waves of our catamarans, so close you can almost touch.. 
-
-
-        [Read more about our boats here](https://sailinginparadise.com.au/our-boats/)
-      title: THE PERFECT VESSELS FOR YOUR SPECIAL DAY
-  sectionTitle: Planning your proposal cruise
+        3. S﻿wimwear and towels if you have selected a day charter and wish to swim
+      title: What do I need to bring?
+    - dropdownContent: So far, we’re sitting at a 100% success rate! Something about a
+        private yacht, champagne, and a Gold Coast sunset seems to help...
+      title: Has anyone ever said no?
+    - title: What if I have a special request?
+      dropdownContent: We’d love to hear it! If you have something unique in mind for
+        your proposal or engagement celebration on the Gold Coast, just reach
+        out via phone or email and we’ll do our best to bring it to life.
+    - title: Can I see more photos and videos of the boat?
+      dropdownContent: "W﻿e have photos, videos and a 360 virtual tour of Oceans here:
+        <https://sailinginparadise.com.au/boats/oceans-deluxe/>"
+  sectionTitle: FAQ's
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
-    content: Let our friendly and experienced team tailor a Proposal Cruise to impress.
+    content: Let our friendly and experienced team help you plan the perfect proposal
     title: A proposal like no other...
     featuredImage: /uploads/8a4a1f89-1f16-4ac9-9ec2-8c1d21465116.jpg
   - featuredImage: /uploads/713e61bb-5607-49a4-b443-308690d6a0a4.jpg
@@ -157,9 +202,8 @@ featuredTestimonials:
   testimonial: ""
   title: ""
 meta:
-  description: Are you planning to propose to your future wife, or husband and
-    seeking out unique proposal ideas? We absolutely adore hosting proposals and
-    are proud to offer one of the most beautiful ways to propose on the Gold
-    Coast!
-  title: Gold Coast Proposal Cruise | Sailing In Paradise
+  description: Plan the perfect Gold Coast proposal with a private yacht
+    experience. Sunset views, champagne, and personalised touches to create an
+    unforgettable engagement moment.
+  title: Gold Coast Proposal Ideas | Private Yacht Engagement | Sailing in Paradise
 ---
