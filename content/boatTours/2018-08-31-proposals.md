@@ -23,21 +23,18 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Enquire about your unique proposal
 gallery:
-  - image: /uploads/0624a2da-fd52-4f8c-84c1-52c4aac70c92.jpg
-  - image: /uploads/f7fb27d4-73d7-4788-b042-61f024f01e09.jpg
+  - image: /uploads/photo-28-4-2025-5-24-34-pm-1-.jpg
+  - image: /uploads/mb3a0658-1-.jpg
   - image: /uploads/c20f69e6-8ab4-4f4c-a6e5-19af5913f736.jpg
   - image: /uploads/mb3a0838.jpg
-  - image: /uploads/8a0d6fd7-f1e8-417b-810d-bbdb8243a353.jpg
-  - image: /uploads/mb3a0658-1-.jpg
   - image: /uploads/dji_20260205181839_0100_d.jpg
-  - image: /uploads/6f6731de-3783-41e4-ab0c-36471c17886d.jpg
   - image: /uploads/0m3a1655.jpg
   - image: /uploads/de397de1-e8e2-4b66-9fbb-8a82f7912efe.jpg
+  - image: /uploads/dji_20260205180631_0014_d.jpg
   - image: /uploads/fa11b9aa-1834-4478-9184-7993fa141b96.jpg
   - image: /uploads/mb3a1011-2-.jpg
-  - image: /uploads/dji_20260205180631_0014_d.jpg
-  - image: /uploads/3b0f83ce-2298-4685-880c-4cba310e9f60.jpg
-  - image: /uploads/5f08dc69-3f29-423d-ba4d-fb5c54aa4075.jpg
+  - image: /uploads/photo-10-9-21-11-35-12-am-1-.jpg
+  - image: /uploads/8a0d6fd7-f1e8-417b-810d-bbdb8243a353.jpg
 videoSection:
   imageOverlay: /uploads/small.jpg
   video: "1179101606"
