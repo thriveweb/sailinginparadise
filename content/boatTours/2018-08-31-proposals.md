@@ -199,7 +199,7 @@ columnBanner:
   - featuredImage: /uploads/713e61bb-5607-49a4-b443-308690d6a0a4.jpg
 featuredTestimonials:
   description: ""
-  testimonial: ""
+  testimonial: Mitch, Aus
   title: ""
 meta:
   description: Plan the perfect Gold Coast proposal with a private yacht
