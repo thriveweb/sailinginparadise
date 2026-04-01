@@ -39,7 +39,7 @@ gallery:
   - image: /uploads/3b0f83ce-2298-4685-880c-4cba310e9f60.jpg
   - image: /uploads/5f08dc69-3f29-423d-ba4d-fb5c54aa4075.jpg
 videoSection:
-  imageOverlay: /uploads/dji_20260205181913_0125_d.jpg
+  imageOverlay: /uploads/small.jpg
   video: "1179101606"
   title: A private yacht, a golden sunset & A moment that changes everything.
 contentColumnTitle: Our proposal package
