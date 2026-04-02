@@ -23,16 +23,16 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Enquire about your unique proposal
 gallery:
-  - image: /uploads/mb3a0838.jpg
   - image: /uploads/mb3a0742.jpg
+  - image: /uploads/mb3a0838.jpg
   - image: /uploads/0m3a1602.jpg
   - image: /uploads/mb3a1011-2-.jpg
   - image: /uploads/dji_20260205181839_0100_d.jpg
   - image: /uploads/0m3a1655.jpg
-  - image: /uploads/de397de1-e8e2-4b66-9fbb-8a82f7912efe.jpg
   - image: /uploads/fa11b9aa-1834-4478-9184-7993fa141b96.jpg
   - image: /uploads/mb3a0658-1-.jpg
   - image: /uploads/8a0d6fd7-f1e8-417b-810d-bbdb8243a353.jpg
+  - image: /uploads/dji_20260205182500_0165_d.jpg
 videoSection:
   imageOverlay: /uploads/small.jpg
   video: "1179101606"
