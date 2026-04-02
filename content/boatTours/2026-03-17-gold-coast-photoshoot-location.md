@@ -92,6 +92,8 @@ columnBanner:
     featuredImage: /uploads/03aaaef0-bc70-4e9d-8533-3309e9a7d59f.jpg
     buttonUrl: https://sailinginparadise.com.au/contact-us/
   - featuredImage: /uploads/2j8a9660.jpg
+featuredTestimonials:
+  testimonial: Bruno, Anjuum Swimwear, Aus
 meta:
   title: Boat Photoshoot Location Gold Coast | Brand & Fashion Shoots
   description: A unique Gold Coast photoshoot location on a luxury sailing
