@@ -45,19 +45,18 @@ contentColumn: >-
   mid November, excluding public holidays) and includes:
 
 
-  > * 2 hour private sunset sail on *Oceans Deluxe*
+  * **2 hour private sunset sail on *Oceans Deluxe***
 
-  > * Romantic picnic setup on the front deck (cushions, blankets, fairy lights)
+  * **Romantic picnic setup on the front deck (cushions, blankets, fairy lights)**
 
-  > * Optional use of our beautiful “Will You Marry Me” sail 
+  * **Optional use of our beautiful “Will You Marry Me” sail** 
 
-  > * Chilled bottle of Moët & gourmet cheese board for two
+  * **Chilled bottle of Moët & gourmet cheese board for two**
 
-  > * Photos and videos captured during your proposal, delivered via Dropbox
+  * **Photos and videos captured during your proposal, delivered via Dropbox**
 
-  >
 
-  > **$1,100**
+  **$1,100**
 
 
   *\*Subject to availability. Peak periods and public holidays may be excluded. Weekends may be available on request - please enquire.*
