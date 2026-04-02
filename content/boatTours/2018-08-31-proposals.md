@@ -15,9 +15,6 @@ intro: >-
 
 
   We’ll guide you through every detail of your proposal, from how you choose to pop the question to the food and drinks onboard, and thoughtful touches like our optional ‘Will You Marry Me?’ sail, so the experience feels completely your own.
-
-
-  With over 15 years of experience creating engagement and proposal experiences on the Gold Coast, our team knows how to deliver a seamless, beautifully timed moment that still feels natural and personal. No two proposals are ever the same, and we’re here to bring your vision to life so you can relax and focus on the moment that matters most.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
@@ -56,10 +53,10 @@ contentColumn: >-
   * **Photos and videos captured during your proposal, delivered via Dropbox**
 
 
-  **$1,100**
+  **$1,100***
 
 
-  *\*Subject to availability. Peak periods and public holidays may be excluded. Weekends may be available on request - please enquire.*
+  With over 15 years of experience creating engagement and proposal experiences on the Gold Coast, our team knows how to deliver a seamless, beautifully timed moment that still feels natural and personal. No two proposals are ever the same, and we’re here to bring your vision to life so you can relax and focus on the moment that matters most.
 
 
   ![Private proposal on a Sailing in Paradise boat at sunset, Gold Coast, Australia ](/uploads/dji_20260205181839_0100_d.jpg)
@@ -93,6 +90,15 @@ contentColumn: >-
 
 
   We also offer daytime proposal charters, including the option to stop at a nearby island for an added sense of adventure.
+
+
+  .﻿
+
+
+  .﻿
+
+
+  \*Subject to availability. Peak periods and public holidays may be excluded. Weekends may be available on request - please enquire.
 accordionSection:
   accordion:
     - dropdownContent: >-
