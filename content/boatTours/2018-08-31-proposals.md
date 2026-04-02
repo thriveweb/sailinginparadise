@@ -23,16 +23,14 @@ contentBox:
   buttonUrl: booking-enquiry
   title: Enquire about your unique proposal
 gallery:
-  - image: /uploads/photo-28-4-2025-5-24-34-pm-1-.jpg
-  - image: /uploads/mb3a0658-1-.jpg
-  - image: /uploads/c20f69e6-8ab4-4f4c-a6e5-19af5913f736.jpg
   - image: /uploads/mb3a0838.jpg
+  - image: /uploads/mb3a0728.jpg
+  - image: /uploads/0m3a1602.jpg
+  - image: /uploads/mb3a1011-2-.jpg
   - image: /uploads/dji_20260205181839_0100_d.jpg
   - image: /uploads/0m3a1655.jpg
   - image: /uploads/de397de1-e8e2-4b66-9fbb-8a82f7912efe.jpg
-  - image: /uploads/dji_20260205180631_0014_d.jpg
   - image: /uploads/fa11b9aa-1834-4478-9184-7993fa141b96.jpg
-  - image: /uploads/mb3a1011-2-.jpg
   - image: /uploads/photo-10-9-21-11-35-12-am-1-.jpg
   - image: /uploads/8a0d6fd7-f1e8-417b-810d-bbdb8243a353.jpg
 videoSection:
@@ -62,7 +60,7 @@ contentColumn: >-
   With over 15 years of experience creating engagement and proposal experiences on the Gold Coast, our team knows how to deliver a seamless, beautifully timed moment that still feels natural and personal. No two proposals are ever the same, and we’re here to bring your vision to life so you can relax and focus on the moment that matters most.
 
 
-  ![Private proposal on a Sailing in Paradise boat at sunset, Gold Coast, Australia ](/uploads/dji_20260205181839_0100_d.jpg)
+  ![Private proposal on a Sailing in Paradise boat at sunset, Gold Coast, Australia ](/uploads/dji_20260205180631_0014_d.jpg)
 
 
   ## **A Truly Special Gold Coast Proposal Experience**
