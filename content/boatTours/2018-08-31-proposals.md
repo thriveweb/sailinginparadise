@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Proposals
 icon: ""
-featuredImage: /uploads/dji_20260205182500_0165_d.jpg
+featuredImage: /uploads/mb3a0817.jpg
 intro: >-
   ## Gold Coast Proposal Cruise
 
@@ -31,7 +31,7 @@ gallery:
   - image: /uploads/0m3a1655.jpg
   - image: /uploads/de397de1-e8e2-4b66-9fbb-8a82f7912efe.jpg
   - image: /uploads/fa11b9aa-1834-4478-9184-7993fa141b96.jpg
-  - image: /uploads/photo-10-9-21-11-35-12-am-1-.jpg
+  - image: /uploads/mb3a0658-1-.jpg
   - image: /uploads/8a0d6fd7-f1e8-417b-810d-bbdb8243a353.jpg
 videoSection:
   imageOverlay: /uploads/small.jpg
