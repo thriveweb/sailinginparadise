@@ -24,7 +24,7 @@ contentBox:
   title: Enquire about your unique proposal
 gallery:
   - image: /uploads/mb3a0838.jpg
-  - image: /uploads/mb3a0728.jpg
+  - image: /uploads/mb3a0742.jpg
   - image: /uploads/0m3a1602.jpg
   - image: /uploads/mb3a1011-2-.jpg
   - image: /uploads/dji_20260205181839_0100_d.jpg
