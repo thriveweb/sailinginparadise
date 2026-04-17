@@ -12,7 +12,7 @@ hours: |-
   **OFFICE HOURS** (via phone) 9AM - 5PM
 
   **SAILING HOURS** (pre-booking required) 6AM - Midnight
-map: /uploads/marina-map-2026-march.jpg
+map: /uploads/marina-map.jpg
 socialMedia:
   facebook: https://www.facebook.com/sailinginparadise
   googlePlus: https://g.page/r/CcNKiU4cjD26EBM/
