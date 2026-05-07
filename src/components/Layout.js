@@ -148,12 +148,6 @@ class Layout extends Component {
                   type="text/javascript"
                   src="https://sailinginparadise.rezdy.com/pluginJs?script=modal"
                 ></script>
-
-                <script
-                  src="https://challenges.cloudflare.com/turnstile/v0/api.js"
-                  async
-                  defer
-                ></script>
               </Helmet>
 
               <Meta {...meta} {...data.settingsYaml} />

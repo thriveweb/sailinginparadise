@@ -37,6 +37,55 @@ class Form extends React.Component {
     }
     this.handleChange = this.handleChange.bind(this)
     this.handleClick = this.handleClick.bind(this)
+    this.turnstileRef = React.createRef()
+    this.turnstileWidgetId = null
+  }
+
+  componentDidMount() {
+    this.renderTurnstile()
+  }
+
+  componentDidUpdate(prevProps, prevState) {
+    if (!prevState.alert && this.state.alert) {
+      this.removeTurnstile()
+    } else if (prevState.alert && !this.state.alert) {
+      this.renderTurnstile()
+    }
+  }
+
+  componentWillUnmount() {
+    this.removeTurnstile()
+  }
+
+  renderTurnstile = () => {
+    if (typeof window === 'undefined') return
+    if (!this.turnstileRef.current) return
+    if (this.turnstileWidgetId) return
+    if (!window.turnstile || !window.turnstile.render) {
+      this.turnstileRetry = setTimeout(this.renderTurnstile, 250)
+      return
+    }
+    this.turnstileWidgetId = window.turnstile.render(
+      this.turnstileRef.current,
+      { sitekey: '0x4AAAAAADKcUNLZ2mlUHBT1' }
+    )
+  }
+
+  removeTurnstile = () => {
+    if (this.turnstileRetry) clearTimeout(this.turnstileRetry)
+    if (
+      this.turnstileWidgetId &&
+      typeof window !== 'undefined' &&
+      window.turnstile &&
+      window.turnstile.remove
+    ) {
+      try {
+        window.turnstile.remove(this.turnstileWidgetId)
+      } catch (e) {
+        /* noop */
+      }
+    }
+    this.turnstileWidgetId = null
   }
 
   handleSubmit = e => {
@@ -238,10 +287,7 @@ class Form extends React.Component {
               value={`${yourName} | ${_startCase(charterType)} - ${date}`}
             />
             <input type="hidden" name="form-name" value={name} />
-            <div
-              className="cf-turnstile"
-              data-sitekey="0x4AAAAAADKcUNLZ2mlUHBT1"
-            />
+            <div ref={this.turnstileRef} className="Form--Turnstile" />
             <div className="form-footer">
               <div>
                 <input
