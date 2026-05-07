@@ -119,6 +119,10 @@ class Form extends React.Component {
               <input type="hidden" name="subject" value={subject} />
             )}
             <input type="hidden" name="form-name" value={name} />
+            <div
+              className="cf-turnstile"
+              data-sitekey="0x4AAAAAADKcUNLZ2mlUHBT1"
+            />
             <div className="form-footer">
               <input
                 className="quick-contact button Form--SubmitButton"

@@ -238,6 +238,10 @@ class Form extends React.Component {
               value={`${yourName} | ${_startCase(charterType)} - ${date}`}
             />
             <input type="hidden" name="form-name" value={name} />
+            <div
+              className="cf-turnstile"
+              data-sitekey="0x4AAAAAADKcUNLZ2mlUHBT1"
+            />
             <div className="form-footer">
               <div>
                 <input
