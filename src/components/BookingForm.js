@@ -97,8 +97,10 @@ class Form extends React.Component {
 
     const data = serialize(form)
 
-    fetch(form.action + '?' + stringify(data), {
-      method: 'POST'
+    fetch('/.netlify/functions/submit-form', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: stringify(data)
     })
       .then(res => {
         if (res.ok) {
@@ -109,6 +111,7 @@ class Form extends React.Component {
       })
       .then(() => {
         form.reset()
+        this.removeTurnstile()
         this.setState({
           alert: this.props.successMessage,
           disabled: false
@@ -116,6 +119,13 @@ class Form extends React.Component {
       })
       .catch(err => {
         console.error(err)
+        if (typeof window !== 'undefined' && window.turnstile) {
+          try {
+            window.turnstile.reset(this.turnstileWidgetId)
+          } catch (resetErr) {
+            /* noop */
+          }
+        }
         this.setState({
           disabled: false,
           alert: this.props.errorMessage
