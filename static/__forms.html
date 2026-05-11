@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>Form definitions</title>
+  </head>
+  <body>
+    <!--
+      Hidden Netlify form definitions used for form detection only.
+      Real submissions are forwarded here by netlify/functions/submit-form
+      after Cloudflare Turnstile verification. The visible React forms do
+      NOT include data-netlify, so the visible form names are not
+      registered with Netlify, and bots that scrape the rendered HTML and
+      POST directly to "/" with the visible form names will be silently
+      dropped by Netlify Forms.
+    -->
+    <form name="sip-enquiry-verified" data-netlify="true" hidden>
+      <input type="text" name="name" />
+      <input type="email" name="emailAddress" />
+      <input type="text" name="phone" />
+      <textarea name="message"></textarea>
+      <input type="text" name="subject" />
+      <input type="text" name="verified" />
+      <input type="text" name="client-ip" />
+    </form>
+
+    <form name="sip-booking-verified" data-netlify="true" hidden>
+      <input type="text" name="yourName" />
+      <input type="email" name="emailAddress" />
+      <input type="text" name="companyName" />
+      <input type="text" name="phone" />
+      <input type="text" name="charterType" />
+      <input type="text" name="date" />
+      <input type="text" name="source" />
+      <input type="text" name="subject" />
+      <input type="text" name="verified" />
+      <input type="text" name="client-ip" />
+    </form>
+  </body>
+</html>

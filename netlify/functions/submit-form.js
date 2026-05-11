@@ -1,18 +1,45 @@
 /**
- * Verifies a Cloudflare Turnstile token, then forwards the submission
- * to Netlify Forms. Spam bots that POST directly to Netlify Forms cannot
- * use this endpoint without a valid token.
+ * Verifies a Cloudflare Turnstile token, then forwards the submission to
+ * Netlify Forms using a SECRET form-name that is only registered via the
+ * hidden /__forms.html file. Bots that scrape the rendered React forms see
+ * the visible form names ("Enquiry Form" / "Booking Enquiry") which are
+ * NOT registered with Netlify Forms, so direct POSTs to the site root
+ * with those names are silently dropped.
  *
  * Required Netlify env var:
  *   TURNSTILE_SECRET_KEY
  *
  * Form must POST application/x-www-form-urlencoded with at minimum:
- *   form-name              -> the registered Netlify form name
+ *   form-name              -> the visible form name (mapped below)
  *   cf-turnstile-response  -> token from the Turnstile widget
  */
 
 const TURNSTILE_VERIFY_URL =
   'https://challenges.cloudflare.com/turnstile/v0/siteverify'
+
+// Visible (public) form name → registered (secret) form name.
+const FORM_NAME_MAP = {
+  'Enquiry Form': 'sip-enquiry-verified',
+  'Booking Enquiry': 'sip-booking-verified'
+}
+
+const ALLOWED_HOSTS = [
+  'sailinginparadise.com.au',
+  'www.sailinginparadise.com.au'
+]
+
+function isAllowedOrigin(headers) {
+  const origin = headers.origin || headers.Origin || ''
+  const referer = headers.referer || headers.Referer || ''
+  const candidate = origin || referer
+  if (!candidate) return false
+  try {
+    const url = new URL(candidate)
+    return ALLOWED_HOSTS.includes(url.hostname)
+  } catch {
+    return false
+  }
+}
 
 exports.handler = async event => {
   if (event.httpMethod !== 'POST') {
@@ -25,15 +52,29 @@ exports.handler = async event => {
     return { statusCode: 500, body: 'Server misconfigured' }
   }
 
+  if (!isAllowedOrigin(event.headers)) {
+    console.warn('Rejected: bad origin', {
+      origin: event.headers.origin,
+      referer: event.headers.referer
+    })
+    return { statusCode: 403, body: 'Bad origin' }
+  }
+
   const params = new URLSearchParams(event.body || '')
   const token = params.get('cf-turnstile-response')
-  const formName = params.get('form-name')
+  const visibleFormName = params.get('form-name')
 
-  if (!formName) {
+  if (!visibleFormName) {
     return { statusCode: 400, body: 'Missing form-name' }
   }
   if (!token) {
     return { statusCode: 400, body: 'Missing Turnstile token' }
+  }
+
+  const targetFormName = FORM_NAME_MAP[visibleFormName]
+  if (!targetFormName) {
+    console.warn('Rejected: unknown form-name', { visibleFormName })
+    return { statusCode: 400, body: 'Unknown form-name' }
   }
 
   const remoteip =
@@ -61,18 +102,19 @@ exports.handler = async event => {
 
   if (!verifyJson || !verifyJson.success) {
     console.warn('Turnstile verification failed', verifyJson)
-    return {
-      statusCode: 403,
-      body: 'Verification failed'
-    }
+    return { statusCode: 403, body: 'Verification failed' }
   }
 
-  // Strip the Turnstile token before forwarding so it doesn't show up in
-  // form submission notifications.
+  // Replace the visible form name with the registered secret form name,
+  // drop the bulky Turnstile token, and add a marker + the original
+  // client IP so the submission notification clearly shows it was
+  // verified through the function (any submission missing "verified"
+  // field reached Netlify Forms directly and is spam).
+  params.set('form-name', targetFormName)
   params.delete('cf-turnstile-response')
+  params.set('verified', 'turnstile')
+  if (remoteip) params.set('client-ip', remoteip)
 
-  // Forward to Netlify Forms. Posting back to the site root with the
-  // form-name field is how Netlify ingests submissions.
   const host = event.headers['x-forwarded-host'] || event.headers.host
   const proto = event.headers['x-forwarded-proto'] || 'https'
   const siteUrl = `${proto}://${host}/`
@@ -82,7 +124,6 @@ exports.handler = async event => {
       method: 'POST',
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
-        // Avoid recursive routing through any redirects
         'User-Agent': 'sip-turnstile-proxy'
       },
       body: params.toString()
@@ -100,6 +141,8 @@ exports.handler = async event => {
     console.error('Failed to forward submission', err)
     return { statusCode: 502, body: 'Submission failed' }
   }
+
+  console.log('Submission accepted', { visibleFormName, targetFormName })
 
   return {
     statusCode: 200,
