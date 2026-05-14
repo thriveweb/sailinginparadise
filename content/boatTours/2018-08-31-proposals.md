@@ -19,6 +19,14 @@ contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
   title: Enquire about your unique proposal
+bookingIframe: >-
+  <!--StartFragment-->
+
+
+  <script defer="" type="text/javascript" src="https://sailinginparadise.rezdy.com/pluginJs"></script> <iframe seamless="" width="300px" height="1000px" frameborder="0" class="rezdy" src="https://sailinginparadise.rezdy.com/calendarWidget/546367?iframe=true"></iframe>
+
+
+  <!--EndFragment-->
 gallery:
   - image: /uploads/mb3a0742.jpg
   - image: /uploads/mb3a0838.jpg
