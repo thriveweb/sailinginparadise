@@ -15,9 +15,6 @@ intro: >-
 
 
   We’ll guide you through every detail of your proposal, from how you choose to pop the question to the food and drinks onboard, and thoughtful touches like our optional ‘Will You Marry Me?’ sail, so the experience feels completely your own.
-
-
-  .
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry
