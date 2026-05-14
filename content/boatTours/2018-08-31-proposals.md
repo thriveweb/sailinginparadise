@@ -36,8 +36,8 @@ videoSection:
   title: A private yacht, a golden sunset & A moment that changes everything.
 contentColumnTitle: Our proposal package
 contentColumn: >-
-  Our proposal charter package is available Monday to Thursday (mid January to
-  mid November, excluding public holidays) and includes:
+  Our proposal charter package is available Sunday to Friday (mid January to mid
+  November, excluding public holidays) and includes:
 
 
   * **2 hour private sunset sail on *Oceans Deluxe***
@@ -51,7 +51,7 @@ contentColumn: >-
   * **Photos and videos captured during your proposal, delivered via Dropbox**
 
 
-  **$1,100***
+  **$1,150***
 
 
   With over 15 years of experience creating engagement and proposal experiences on the Gold Coast, our team knows how to deliver a seamless, beautifully timed moment that still feels natural and personal. No two proposals are ever the same, and we’re here to bring your vision to life so you can relax and focus on the moment that matters most.
