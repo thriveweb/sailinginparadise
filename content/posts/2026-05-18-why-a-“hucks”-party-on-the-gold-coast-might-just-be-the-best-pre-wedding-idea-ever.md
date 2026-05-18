@@ -131,6 +131,9 @@ contentSecondary: >-
   Basically… all the ingredients for an unforgettable day on the water.
 
 
+  ![](/uploads/photo-9-3-2024-10-49-29 am-1-.jpg)
+
+
   ## What Does a Hucks Party on the Gold Coast Actually Look Like?
 
 
