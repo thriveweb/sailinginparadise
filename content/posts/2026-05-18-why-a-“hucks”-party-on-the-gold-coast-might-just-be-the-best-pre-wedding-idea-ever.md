@@ -25,6 +25,9 @@ contentSecondary: >-
   A hucks party is simply a combined hens and bucks party.
 
 
+  W﻿hile we do hens parties well ([see our hens page here for more](https://sailinginparadise.com.au/boat-charter/gold-coast-hens-parties/)), the Hucks has seen a huge growth in popularity in recent years.  And for good reason!
+
+
   No dividing the friendship group.\
 
   No boys vs girls.\
@@ -128,7 +131,7 @@ contentSecondary: >-
   * plenty of room to dance, chill and celebrate
 
 
-  Basically… all the ingredients for an unforgettable day on the water.
+  Basically… all the ingredients for an unforgettable day on the water.   [You can check out the boats here.](https://sailinginparadise.com.au/our-boats/)
 
 
   ![](/uploads/photo-9-3-2024-10-49-29 am-1-.jpg)
@@ -236,6 +239,9 @@ contentSecondary: >-
 
 
   Sounds like a pretty good way to celebrate love if you ask us.
+
+
+  [D﻿rop us an enquiry and we will send you all the info.](https://sailinginparadise.com.au/booking-enquiry/)
 meta:
   title: Combined Hens & Bucks Party Gold Coast | Hucks Party Boat Charters
   description: Planning a combined hens and bucks party on the Gold Coast?
