@@ -232,7 +232,7 @@ columnBanner:
     featuredImage: /uploads/ace3d138-0f8b-4468-86e0-38313771f2b3.jpg
 featuredTestimonials:
   description: ""
-  testimonial: ""
+  testimonial: Shannon
   title: ""
 meta:
   description: If you are celebrating a wedding anniversary, birthday, Valentines
