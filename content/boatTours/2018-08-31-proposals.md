@@ -56,7 +56,7 @@ contentColumn: >-
 
   * **Chilled bottle of Moët & gourmet cheese board for two**
 
-  * **Photos and videos captured during your proposal, delivered via Dropbox**
+  * **Photos and videos captured during your proposal, delivered via Dropbox** (option to add on a professional photographer for an additional fee)
 
 
   **$1,150***
