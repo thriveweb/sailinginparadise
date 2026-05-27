@@ -29,10 +29,10 @@ featuredSlider:
     description: Rated 5* on all platforms
     buttonUrl: happy-sailors/
 featuredBanner:
-  buttonTitle: Ever wanted to work on the water?
+  buttonTitle: Want to hit the water in the next 2 weeks?
   buttonUrl: https://sailinginparadise.com.au/employment/
-  image: /uploads/georgia-small-flipped.jpg
-  title: JOIN OUR CREW
+  image: /uploads/043c185a-8f9c-4946-b034-444ee4ffeb6c.png
+  title: LAST MINUTE WINTER RATES
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
