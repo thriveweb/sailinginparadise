@@ -1,14 +1,14 @@
 ---
 template: SingleBoatTour
 tourType: Boat Charter
-title: Gold Coast New Year's Eve 2025 Cruise
+title: Gold Coast New Year's Eve 2026 Cruise
 icon: /images/uploads/DSC_0357-1703.jpg
 featuredImage: /uploads/0e0a83ac-5fef-439e-876a-71d5d9d8f02b.jpg
 intro: >-
-  ## New Year's Eve 2025 Party Boat
+  ## New Year's Eve 2026 Party Boat
 
 
-  Looking for the ultimate New Year’s Eve event on the Gold Coast? Skip the crowded bars and overpriced tickets and welcome 2025 in true style aboard your own private party boat!
+  Looking for the ultimate New Year’s Eve event on the Gold Coast? Skip the crowded bars and overpriced tickets and welcome 2026 in true style aboard your own private party boat!
 
 
   With Sailing in Paradise, you and your crew can enjoy an unforgettable night on the stunning Gold Coast Broadwater.   Set the vibe your way — choose your own music, bring your favourite food and drinks, and dance under the stars as fireworks light up the skyline.
@@ -52,10 +52,10 @@ contentColumn: >-
   Choose from our catering and drinks packages for a seamless celebration, or bring your own food and beverages. BYO is always welcome.  
 
 
-  Start 2026 with an unforgettable experience on board a Gold Coast New Year’s Eve boat hire — perfect for friends, families, and private groups.
+  Start 2027 with an unforgettable experience on board a Gold Coast New Year’s Eve boat hire — perfect for friends, families, and private groups.
 
 
-  **Enquire or book your private yacht now to secure your spot for New Year’s Eve 2025.**
+  **Enquire or book your private yacht now to secure your spot for New Year’s Eve 2026.**
 accordionSection:
   accordion: []
   sectionTitle: ""
@@ -75,7 +75,7 @@ featuredTestimonials:
   testimonial: ""
   title: ""
 meta:
-  description: Charter a private yacht on the Gold Coast this New Year's Eve
+  description: Charter a private yacht on the Gold Coast this New Year's Eve 2026
   title: Gold Coast New Year's Eve Boat Cruise, Boat Hire & Charters | Sailing in
     Paradise
 ---
