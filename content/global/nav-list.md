@@ -36,7 +36,7 @@ navItems:
         title: Gold Coast Sightseeing
       - title: Last Minute Charters
         optionalTitle: "Last Minute "
-      - title: Gold Coast New Year's Eve 2025 Cruise
+      - title: Gold Coast New Year's Eve 2026 Cruise
         optionalTitle: New Year's Eve
       - title: Gold Coast Photoshoot Location
         optionalTitle: Photoshoot Location
