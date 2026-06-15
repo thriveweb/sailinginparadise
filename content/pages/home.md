@@ -30,7 +30,7 @@ featuredSlider:
     buttonUrl: happy-sailors/
 featuredBanner:
   buttonTitle: Want to hit the water in the next 2 weeks?
-  buttonUrl: https://sailinginparadise.com.au/employment/
+  buttonUrl: https://sailinginparadise.com.au/boat-charter/last-minute-charters/
   image: /uploads/043c185a-8f9c-4946-b034-444ee4ffeb6c.png
   title: LAST MINUTE WINTER RATES
 services:
