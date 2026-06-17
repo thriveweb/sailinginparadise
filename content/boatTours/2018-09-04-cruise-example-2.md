@@ -37,7 +37,7 @@ videoSection:
 contentColumnTitle: We love our Paradise, let us share it with you!
 contentColumn: Visit an isolated island beach only accessible by boat where you
   are invited to jump in for a swim and try our beach games (including Beach
-  Volleyball, Stand Up Paddle-boarding, Beach Cricket, and splash mat).   Or if
+  Pickleball, Stand Up Paddle-boarding, Beach Cricket, and splash mat).   Or if
   you just want to laze on the beach (or our trampoline-style foredeck) that's
   totally fine, we'll play some cool tunes while you sip on an icy cold drink so
   you can relax and watch the world sail by in style.     But don't forget to
