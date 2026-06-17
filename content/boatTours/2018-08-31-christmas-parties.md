@@ -69,9 +69,9 @@ contentColumn: >-
 
   * 2 large eskies pre-filled with ice (BYO drinks welcome)
 
-  * I﻿sland Activities (SUPs, splash mats, beach volleyball etc)
+  * I﻿sland Activities (SUPs, splash mats, beach pickleball etc)
 
-  * Amazing Sound System (Ipad/Spotify)
+  * Amazing Sound System (iPad/Spotify)
 
   * Photo memories via Dropbox
 
@@ -86,11 +86,11 @@ contentColumn: >-
   Got your own ideas?   Tell us what floats your boat and we'll do our best to make it happen.  Some options include;
 
 
-  * A relaxed sunset cruise with canapes and champagne,
+  * A relaxed sunset cruise with canapés and champagne,
 
-  * A day on the water with swimming, Island activities, and delicious BBQ lunch and icy cold beers,
+  * A day on the water with swimming, island activities, and delicious BBQ lunch plus icy cold beers
 
-  * or even a high octane team building day with sailing challenges and water sports?
+  * A high octane team building day with sailing challenges and water sports
 
 
   These are just a few of the Gold Coast Christmas Party ideas available with Sailing in Paradise.   The options are endless and our friendly team are on hand to help you plan 'your Christmas Party your way'.  
