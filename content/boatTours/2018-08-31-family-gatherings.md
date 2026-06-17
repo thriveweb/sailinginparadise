@@ -53,7 +53,7 @@ contentColumn: >-
   Keep your eyes peeled throughout the cruise as you very well may spot some of the local wildlife on the picturesque Broadwater. Friendly and playful dolphins and soaring sea-eagles are often to be seen while underway.   We can arrange rods and bait for you and the kids to have a go at catching a fish if you wish, simply let us know when booking.  
 
 
-  For daytime cruises, the whole family will enjoy a stop at Wave Break Island, where our vessel's unique beach landing capabilities come into their own!     With a secret ladder on the foredeck it's easy to hop on and off for a swim or some serious sandcastle building!    There’s buckets and spades for the little ones to play and plenty of calm water for everyone to jump in for a swim or wade about in the shallows.   We also have SUPing and splash mats for the family to enjoy.   If you’re feeling energetic and want to bring the family together you can have a game of beach volleyball or cricket right there on the island, we have all the gear on board! 
+  For daytime cruises, the whole family will enjoy a stop at Wave Break Island, where our vessel's unique beach landing capabilities come into their own!     With a secret ladder on the foredeck it's easy to hop on and off for a swim or some serious sandcastle building!    There’s buckets and spades for the little ones to play and plenty of calm water for everyone to jump in for a swim or wade about in the shallows.   We also have SUPing and splash mats for the family to enjoy.   If you’re feeling energetic and want to bring the family together you can have a game of beach pickleball or cricket right there on the island, we have all the gear on board! 
 
 
   We make chartering a boat easy and tailored to your family’s needs, so we give you the option of choosing where you would like to go and what you would like to do within your chartered time. We can offer adventure and family friendly activities or rest and relaxation, the choice is yours! You can choose to BYO food and drinks or a fully catered charter for easy planning. We supply the eskies, ice, BBQ and BBQ tools free of charge.
@@ -76,15 +76,15 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach activities, beach volleyball and splash mat 
+        * Island Activities for day charters incl. Stand up Paddle Boards, beach activities, beach pickleball and splash mat 
 
-        * Use of tablet with premium spotify and sound system on board
+        * Use of iPad with premium Spotify and sound system on board
 
         * Use of small marine BBQ if required
 
         * Use of large eskies (ice supplied)
 
-        * Instaworthy Memento Photos taken by our crew
+        * Photos & videos taken by our crew - sent to you post charter
 
         * Lots of FUN!!
       title: What's included?
