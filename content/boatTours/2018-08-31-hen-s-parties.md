@@ -106,8 +106,6 @@ accordionSection:
 
         **F﻿riendly, engaging crew -** Our crew love people just as much as they love boats :-)
     - dropdownContent: >-
-        
-
         * Private use of your own beautiful sailing catamaran for 3 to 6 hours 
 
         * Bespoke planning service 
@@ -118,11 +116,11 @@ accordionSection:
 
         * Use of 2 large eskies with ice (BYO drinks welcome)
 
-        * I﻿sland Activities including SUPs, splash mats, beach volleyball 
+        * I﻿sland Activities including SUPs, splash mats, beach pickleball and more
 
-        * A﻿mazing Sound System (with Ipad/Spotify control)
+        * Sound system connected to an iPad with Spotify Premium
 
-        * P﻿hoto memories of your charter
+        * P﻿hotos & videos captured by our crew - sent to you post charter
 
           \*C﻿atering, beverages and hen's party butlers are available as optional extras
       title: What's included
