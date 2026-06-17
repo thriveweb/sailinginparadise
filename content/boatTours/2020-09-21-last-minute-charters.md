@@ -37,26 +37,24 @@ gallery:
 videoSection:
   title: ""
 contentColumn: >-
-  ## What’s Included 
+  ## What’s Included
 
 
   * Exclusive private charter of a Sailing in Paradise catamaran, chosen to suit your group size
 
   * A professional skipper and crew member — fun, friendly, laid-back yet professional (and yes, people always tell us they loved the crew)
 
-  * Stand-up paddle boards, beach games, beach volleyball and a splash mat
+  * Optional island stop for day charters including activities like stand up paddle boards, beach pickleball, a splash mat and more
 
   * Use of our small marine BBQ
 
   * Large esky with ice supplied
 
-  * Memento photos taken by our crew so you can relive the day long after it ends
+  * Photos and videos taken by our crew - sent to you post charter
 
-  * Access to Spotify for your perfect on-water soundtrack
+  * Use of iPad with premium Spotify connected to a high quality sound system 
 
   * Endless laughs, salty air, and that *“why don’t we do this more often?”* feeling
-
-
 
 
   ## Want to upgrade your experience?
@@ -68,7 +66,7 @@ contentColumn: >-
 
   * Extra hours, subject to availability
 
-  * Catering options are available and can be added during booking
+  * Catering options are available and can be added when booking
 
   * For bookings **within the next 7 days**, please contact us directly to confirm availability
 
@@ -76,8 +74,6 @@ contentColumn: >-
   If you need help booking online, have special requests, or want to create a custom experience, we’d love to help.\
 
   [C﻿ontact Us](https://sailinginparadise.com.au/contact-us/)
-
-
 
 
   *Last-minute rates cannot be combined with any other offer.*\
