@@ -85,17 +85,15 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach volleyball and splash mat 
+        * Island activities for day charters including stand up paddle boards, beach pickleball, a splash mat and more
 
-        * Use of tablet with premium Spotify and sound system on board
+        * Use of iPad with premium Spotify connected to a high quality sound system 
 
         * Use of small marine BBQ if required
 
         * Use of large eskies (ice supplied)
 
-        * Instaworthy Memento Photos taken by our crew
-
-        * Lots of FUN!!
+        * Photos and videos taken by our crew - sent to you post charter
     - dropdownContent: >-
         * Swimmers and towel (if you plan to swim)
 
