@@ -54,7 +54,7 @@ contentColumn: >-
   spectacular views and access to pristine beaches as the boat arrives at
   isolated islands surrounded by crystal clear turquoise waters.   There are
   plentiful activities available on board to keep you entertained including
-  Beach Volleyball, Stand Up Paddleboards, Beach Cricket and splash mats.
+  Beach Pickleball, Stand Up Paddleboards, Beach Cricket and splash mats.
 
 
   Sail at sunset and you will be treated to a sunset across the Broadwater and over the Gold Coast Mountains followed by the twinkling Gold Coast City Skyline by night, simply breathtaking!
@@ -102,17 +102,15 @@ accordionSection:
 
         * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach games, beach volleyball and splash mat 
+        * Island activities for day charters including stand up paddle boards, beach pickleball, a splash mat and more
 
-        * Use of tablet with premium Spotify and sound system on board
+        * Use of iPad with premium Spotify connected to a high quality sound system 
 
         * Use of small marine BBQ if required
 
         * Use of large eskies (ice supplied)
 
-        * Instaworthy Memento Photos taken by our crew
-
-        * Lots of FUN!!
+        * Photos and videos taken by our crew - sent to you post charter
       title: What's included?
     - dropdownContent: >-
         **Where do your boats depart from?**
