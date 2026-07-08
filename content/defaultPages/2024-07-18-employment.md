@@ -24,7 +24,7 @@ content: >-
   ### Crew Roles
 
 
-  * **Fleet Manager/Lead Skipper - HIRING**
+  * **C﻿harter Bookings & Experience Manager - HIRING**
 
   * **S﻿kipper - HIRING**
 
@@ -37,85 +37,108 @@ content: >-
   (Further details below) 
 
 
-  ![](/uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png)
 
 
-  ## **Fleet Manager/Lead Skipper**
+  ## **C﻿harter Bookings & Experience Manager**
 
 
-  This is a **hands-on marine leadership role** combining vessel operations, fleet maintenance, and crew support.
+  This role is all about managing the complete guest journey.
 
 
-  You'll help keep the operation running smoothly day to day, skippering charters on busy days and during quieter times you will ensure vessels are maintained to a high standard and handle mechanical repairs and vessel maintenance.
+  From the moment a guest enquires about a charter, you’ll help guide them through the booking process, assist with planning their event, coordinate charter details with crew and suppliers, and ensure they leave with an incredible experience and memories to match.
 
 
-  Because this role involves hosting guest charters, you'll need to be comfortable interacting with guests and delivering a welcoming, professional onboard experience.
+  No two days are the same. One minute you may be helping organise a hens party or corporate event, the next you could be coordinating catering, updating schedules or chatting with returning guests planning their next celebration.
 
 
-  #### Key Responsibilities
+  The role includes:
 
 
-  **Operations & Guest Experience**
+  * Managing guest enquiries via phone, email, website and social media
 
+  * Coordinating charter bookings, schedules and product listings
 
-  * Skipper charter vessels as required
+  * Assisting guests with planning their charter experience
 
-  * Deliver an exceptional onboard experience with energy, calmness, and professionalism
+  * Liaising with crew and supplier partners
 
-  * Communicate clearly with guests, crew, and management
+  * Invoicing and payment follow-up
 
-  * Train and support crew and help maintain a strong team environment
+  * Identifying opportunities for revenue growth and supporting the overall smooth running of the business
 
+  * Relevant marketing and administration activities
 
-  **Fleet Maintenance & Repairs**
+  * Maintaining active interest in charter delivery to ensure a positive guest experience
 
-
-  * Maintain all vessels in excellent operational condition
-
-  * Diagnose and repair mechanical issues where possible
-
-  * Carry out routine maintenance and preventative servicing
-
-  * Coordinate specialist contractors when required
-
-  * Maintain maintenance logs and service records
-
-  * Ensure safety equipment and operational systems are maintained
-
-  * Assist with ordering supplies and managing fleet equipment
-
-  * Support operational systems and digital tools used to manage the fleet
-
-
-  #### Essential Requirements
-
-
-  * **Master 5 Commercial Ticket (or higher)**
-
-  * Strong hands-on mechanical and troubleshooting ability
-
-  * Experience maintaining marine equipment and vessel systems
-
-  * Minimum 3-5 years of commercial skippering experience required
-
-  * Must hold valid Australian work rights at the time of application
-
-  * Experience with outboard and diesel engines highly regarded
-
-  * Knowledge of AMSA regulations and vessel survey requirements
-
-  * Strong customer service and guest interaction skills
-
-  * Valid Driver's Licence
-
-
-  F﻿or more information on this role please visit our [SEEK Ad HERE.](https://www.seek.com.au/job/90970112)
+  * Occasionally assisting onboard during busy periods or special events
 
 
   - - -
 
 
-  ### Skipper
+  ## About You
+
+
+  We’re looking for someone who is:
+
+
+  * Friendly, confident and naturally great with people
+
+  * Highly organised with strong attention to detail
+
+  * Calm under pressure and solutions-focused
+
+  * Experienced in customer service, reservations, tourism, travel, hospitality and/or events
+
+  * Comfortable juggling multiple tasks and conversations at once
+
+  * Self-motivated and able to take ownership of their role
+
+  * A lover of boats, the ocean and being part of the marine lifestyle
+
+  * Experienced using CRM and booking/reservations software
+
+  * Familiar with Australian and international travel and tourism networks
+
+
+  Previous experience in tourism, reservations or hospitality is highly regarded, but personal skills, attitude and cultural fit are just as important to us.
+
+
+  - - -
+
+
+  ## What We Offer
+
+
+  * Full-time position
+
+  * Competitive salary package based on experience
+
+  * Work directly with the business owners and crew in a small, supportive and fun team environment
+
+  * Integral role within a growing tourism business
+
+  * Variety in your day and genuine ownership of your role
+
+  * A relaxed and positive workplace culture
+
+  * The chance to help create amazing experiences on the water every day.
+
+  * Opportunity for hybrid work arrangements following initial training/probation period.  (Ashmore office, Main Beach marina and work-from-home flexibility)
+
+  * This is generally a Monday to Friday, 9-5 position. Occasional weekend, after hours or increased seasonal hours may be required to support business requirements.  
+
+
+  T﻿o apply visit our [SEEK Ad HERE.](https://au.seek.com/job/92741583)
+
+
+  ![](/uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png)
+
+
+  - - -
+
+
+  ### Skipper - HIRING
 
 
   #### The Role
