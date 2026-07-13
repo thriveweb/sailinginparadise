@@ -147,7 +147,9 @@ accordionSection:
         With more than 500 five-star Google reviews, we’re proud to be one of the Gold Coast’s most trusted private charter experiences for couples, celebrations and romantic occasions.
 
 
-        ### Why Guests Love Sailing with Us
+
+
+        W﻿hy Guests Love Sailing With Us:
 
 
         * Private luxury catamaran charters
