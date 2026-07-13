@@ -205,7 +205,7 @@ columnBanner:
     content: Let our friendly and experienced team help you plan the perfect proposal
     title: A proposal like no other...
     featuredImage: /uploads/8a4a1f89-1f16-4ac9-9ec2-8c1d21465116.jpg
-  - featuredImage: /uploads/713e61bb-5607-49a4-b443-308690d6a0a4.jpg
+  - featuredImage: /uploads/mb3a0778.jpg
 featuredTestimonials:
   description: ""
   testimonial: Mitch, Aus
