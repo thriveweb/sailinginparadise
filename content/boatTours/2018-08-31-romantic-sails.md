@@ -3,15 +3,18 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Romantic Sails
 icon: ""
-featuredImage: /uploads/a511561a-a3ed-4f76-989b-f28bb7d461e8.jpg
+featuredImage: /uploads/mb3a0778.jpg
 intro: >-
   ## Gold Coast Romantic Sails
 
 
-  If you are celebrating a wedding anniversary, birthday, Valentines Day or looking to impress a special date, trust us when we say, there is honestly nothing more romantic than setting sail on your own private yacht.    Imagine lazing back in the sunshine sipping on champagne, waves lapping beneath you, the sounds of your favourite tunes filling the air as the wind fills the sails.  Sounds blissful right?   There are serious brownie points up for grabs with this date idea and as a bonus you get to have fun too!
+  Looking for a romantic date idea that's a little more memorable than dinner and drinks?
 
 
-  Our mid-week sunset yacht charter is a popular option for romantic date nights on the Gold Coast and can be booked online.  We can also offer daytime sails and weekend options so please feel free to click on the booking/enquiry tab above should you wish to receive more info and discuss other charter options.
+  Whether you're celebrating an anniversary, planning a surprise, popping the question, or simply want to spend some quality time together, there's something pretty special about having your own private yacht all to yourselves.
+
+
+  Picture champagne in hand, your favourite playlist drifting through the speakers, the ocean breeze, a stunning Gold Coast sunset and nowhere else you need to be. Our romantic sail packages are designed to help you slow down, switch off and enjoy the moment together.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
@@ -29,198 +32,182 @@ gallery:
   - image: /uploads/c07567b0-d897-4b34-a4e2-912d6c2b7be3.jpg
   - image: /uploads/ed54039c-1ff2-4ebe-b213-cab0c02fdedf.jpg
   - image: /uploads/7904d3bf-efec-4268-8b49-e22bc725525c.jpg
-  - image: /uploads/7533995e-9f02-458c-a2a2-6261b372207a.jpg
+  - image: /uploads/mb3a0778.jpg
   - image: /uploads/e926884b-eb80-43b9-beb2-1e0dc59db866.jpg
-  - image: /uploads/a4fc044d-a3f8-4abe-b3b8-065f83e7bab0.jpg
-  - image: /uploads/33dd5bcc-e2e6-4245-b1a1-c9c209077c79.jpg
+  - image: /uploads/dji_20260205183815_0310_d.jpg
+  - image: /uploads/mb3a0658-2-.jpg
   - image: /uploads/067f0e1e-d7d9-49b5-963a-b4a0438d86bd.jpg
   - image: /uploads/532a611b-cc82-4ae5-bdbb-07b5fd376dc2.jpg
   - image: /uploads/354ee4a5-d699-4e37-a389-ea6c38f5ee11.jpg
-  - image: /uploads/83c208e5-21c1-484d-8703-112d1c049059.jpg
-  - image: /uploads/acdd7e3e-3dff-452b-8678-0862e71a96a8.jpg
+  - image: /uploads/mb3a0935.jpg
+  - image: /uploads/0g9a3369-1-.jpg
   - image: /uploads/576fd77d-f901-4e01-94ec-fcf4d095b493.jpg
-  - image: /uploads/c927653a-c1dd-4f4b-b9b4-4f8de6c7593f.jpg
+  - image: /uploads/mb3a1011-1-.jpg
   - image: /uploads/08d0174d-8ed3-4f42-9455-57e83dc152b5.jpg
 videoSection:
-  imageOverlay: /images/uploads/DSC_1073.jpg
-  video: ""
+  imageOverlay: /uploads/mb3a0935.jpg
+  video: "1209396255"
+  title: Sail & Dine
 contentColumnTitle: ""
 contentColumn: >-
-  Choose from our daytime or evening sailing options to experience the Gold
-  Coast in a different light.  During the day, our boats are equipped for beach
-  landings so you may wish to stop at an Island for swimming or SUP'ing.  As
-  dusk falls, the sunset over the Gold Coast hinterland mountains is a delight
-  to view from the water, and after dark the Surfers Paradise Skyline puts on a
-  stunning light show for our return to Marina Mirage.
+  ## **OUR ROMANTIC SAIL PACKAGES**
 
 
-  Our beautiful Seawind catamarans offer the relaxation of sailing in complete comfort.   The trampoline-style foredeck is a favourite spot for snuggling and gives an immersive sailing experience with 360 degree views of the Gold Coast’s stunning waterways.  It is also the ideal spot for spying the friendly bottle-nose dolphins who frequently ride the bow waves of our catamarans, so close you can almost touch.. 
+  Our romantic sail packages are available Sunday to Friday from January to October (excluding public holidays) and are designed for 2 guests onboard. All romantic experiences take place aboard *Oceans* — our luxury catamaran and private yacht designed for unforgettable Gold Coast sunset cruises, couples experiences and special occasions.
 
 
-  [Read more about our boats here](https://sailinginparadise.com.au/our-boats/)
+  *Oceans* features luxurious lounge seating, over-water rear seating, onboard bathroom facilities and a spacious foredeck with cushioned relaxation areas and front nets underfoot, creating a comfortable, stable and close-to-water sailing experience that’s ideal for couples, proposals and romantic celebrations.
 
 
-  We would love to chat with you via phone or email any time and start planning your charter which can be fully customised to your wishes.
+  # [E﻿XPLORE OCEANS HERE](https://sailinginparadise.com.au/boats/oceans-deluxe/)
+
+
+  ###### Champagne Sail
+
+
+  Experience a private luxury sunset cruise with champagne, ocean breezes and uninterrupted time together on the water.
+
+
+  * Red carpet arrival
+
+  * Private 2 hour sunset yacht charter
+
+  * Professional skipper and hostess
+
+  * Bottle of Chandon champagne
+
+  * Photos and videos captured throughout your cruise and sent via Dropbox
+
+
+  ###### **$990***
+
+
+  ###### Sail & Dine
+
+
+  Enjoy an unforgettable private yacht dining experience aboard *Oceans*, combining a romantic sunset sail with a freshly prepared dinner by your private chef.
+
+
+  * Red carpet arrival
+
+  * Private 2 hour sunset cruise
+
+  * Professional skipper and hostess
+
+  * Bottle of locally sourced Australian sparkling wine
+
+  * Two-course meal cooked and served onboard by a private chef
+
+  * Photos and videos captured throughout your cruise and sent via Dropbox
+
+
+  ###### **$1,300***
+
+
+  \*﻿These rates are for Sunday to Friday charters from January to October (excluding public holidays).
+
+
+  #### Our Romantic Sail Packages Are Ideal For
+
+
+  * Anniversary celebrations
+
+  * Romantic birthdays
+
+  * Surprise date nights
+
+  * Honeymoon experiences
+
+  * Valentine’s Day celebrations
+
+
+  We can customise packages to suit your preferences, special occasion and preferred dates. Contact our friendly team to create your perfect private yacht experience on the Gold Coast.
+
+
+
+
+  ###### **ARE YOU LOOKING FOR A PROPOSAL PACKAGE?** 
+
+
+  [Click here to learn more about our proposal charters.](https://sailinginparadise.com.au/boat-charter/gold-coast-proposals/)
 accordionSection:
   accordion:
+    - dropdownContent: Yes! We love proposal's and have a great package available.
+        [Head to this page to find out
+        more. ](https://sailinginparadise.com.au/boat-charter/gold-coast-proposals/)
+      title: Can I organise a proposal onboard?
+    - title: What Time Do the Romantic Sunset Sails Depart?
+      dropdownContent: Departure times vary depending on the time of year. Our
+        romantic sail packages are scheduled to depart 1 hour before sunset,
+        which is approx. 4pm in Winter and 5:30pm in Summer.
     - dropdownContent: >-
-        When you book a romantic sail with Sailing in Paradise you can expect a
-        quality of service from years of experience in the industry. From your
-        initial enquiry, we aim to make the booking process as simple as
-        possible for you.  We offer a personalised and customised service so if
-        you have any questions or special requirements please feel free to reach
-        out to our team and we will do our best to accommodate you.   
+        At Sailing in Paradise, we’ve been creating unforgettable private yacht
+        experiences on the Gold Coast Broadwater since 2011. As a locally owned
+        and operated business, our experienced crew are passionate about
+        delivering personalised, luxury sailing experiences designed to make
+        every occasion truly special.
 
 
-        Upon boarding the boat you will be greeted by our friendly crew who will adapt to your preference of involvement on board. We invite you to take a walk around the boat and find a place to chill out with a drink and enjoy the beautiful views and the sounds of the water. 
+        With more than 500 five-star Google reviews, we’re proud to be one of the Gold Coast’s most trusted private charter experiences for couples, celebrations and romantic occasions.
 
 
-        You can choose to BYO food and drinks on board or ask about our range of catering options.
-      title: What to expect
-    - title: What's Included
-      dropdownContent: >-
-        * Private use of your own beautiful sailing catamaran for 2 to 6 hours
+        ### Why Guests Love Sailing with Us
 
-        * Skipper plus one crew, (our crew are heaps of fun and have a laid-back yet professional nature) we promise you will love them. Check out the '[about us](https://sailinginparadise.com.au/about-us/)' page to meet the gang!
 
-        * Island Activities for day charters incl. Stand up Paddle Boards, beach games and splash mat
+        * Private luxury catamaran charters
 
-        * Use of tablet with premium Spotify and sound system on board
+        * Experienced local skipper and crew
 
-        * Use of small marine BBQ if required
+        * Operating on the Gold Coast since 2011
 
-        * Use of large eskies (ice supplied)
+        * 500+ five-star Google reviews
 
-        * Instaworthy Memento Photos taken by our crew
+        * Stable and comfortable sailing experience
 
-        * Lots of FUN!!
-    - dropdownContent: >-
-        * Swimmers and towel (day charters only if you plan to swim)
+        * Personalised cruises tailored to your occasion
 
-        * Food, drinks and non-breakable cups etc (unless you want us to organise the catering for you).
+        * Romantic sunset cruises on the Gold Coast Broadwater
 
-        * Smiles and good vibes (essential)
+        * Ideal for proposals, anniversaries and special celebrations
 
-        * Sunglasses, sunscreen
+        * Luxury onboard amenities and spacious relaxation areas
 
-        * Jacket for cooler days
+        * Beautiful photo opportunities captured throughout your sail
 
-        * Shoes that you can slip off
-      title: What to Bring
-    - dropdownContent: >-
-        We operate in the calm, protected waters of the Gold Coast Broadwater.
-        Where to go very much depends on what you would like to do and how long
-        your boat charter is for so please feel free to discuss this with our
-        team. In a 3 hour charter during the day our guests usually love a swim
-        stop at Wavebreak Island where you can enjoy the range of island
-        activities on board. Your skipper is knowledgeable in the local area and
-        will make recommendations based on the conditions on the day.  If you
-        don't wish to swim in a 3 hour charter you instead opt to sail further
-        north along the inside of South Stradbroke Island and see the
-        millionaires mansions at Sovereign Islands.
 
-
-        In the evening we usually recommend sailing north to watch the sunset and returning to the southern part of the Broadwater to see the city lights after dark which are just beautiful.
-      title: Where can we go?
-    - dropdownContent: >-
-        **Where do your boats depart from?**
-
-
-        Our boats are berthed at Marina Mirage. Please see the '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our website for further details and a map. Marina Mirage is about 10 mins from Surfers and 15 mins from Broadbeach.
-
-
-        **Where can I park?**
-
-
-        There is parking available at Mariners Cove (paid) and Marina Mirage plus limited street parking on Seaworld Drive.  Please check signage at time of parking and consider ride share for a stress free arrival at your charter (especially during busy times of year).  
-
-
-        **What about other transport options?**
-
-
-        There are lots of ways to get to the boat! The most popular (and cost effective/convenient) is often via Taxi or Uber.
-
-
-        **Can I BYO food and drink?**
-
-
-        Yes if you would like to bring your own food and drinks on board that is completely fine.
-
-
-        **I am short on time can you please help me out with catering/drinks?**
-
-
-        Yes, we also offer catering and drinks service for your convenience. Please request our full catering list as advance bookings are required. We offer a range of catering options from grazing boards, to tapas and private chefs.
-
-
-        **Do you have Eskies on board?**
-
-
-        Yes we do and we also provide ice. The eskies are very large and can be used for food or drink.
-
-
-        **Will I get seasick?**
-
-
-        Nope. We operate in the calm, protected waters of the Gold Coast Broadwater. We do not go offshore (into the open ocean) so we do not experience large waves. Our catamarans are very stable, and do not have the same side to side rocking motion as experienced by single hull vessels so you won't get seasick :-).
-
-
-        **What happens if it rains?**
-
-
-        First of all remember...a little rain doesn't stop a great time on our boats especially in the warm Gold Coast endless summer... But do rest assured that we have a very generous wet weather policy as we want you to enjoy your time on board the boat, so if there is torrential rain or storms at the time you will be able to cancel or reschedule your cruise. Please see the full booking policy provided with your invoice for full details or contact our team.
-
-
-        **Are your charters suitable for guests with limited mobility?**
-
-
-        We have welcomed several guests on board with limited mobility. However we do realise that each individual is different in terms of ability and what they are comfortable with. Please take a look at the 360 tours on the '[Our Boats](https://sailinginparadise.com.au/our-boats/)' page for an ideal of getting around the boats and do bear in mind a big step up (or carry) is required to board the boats at the marina. Our friendly team will be happy to discuss further to ensure you and your guests are comfortable prior to making a booking.
-
-
-        **Why should we choose you over another operator?**
-
-
-        This list is endless. Check out our reviews, check out our socials, speak to someone who has been with us before (you would be surprised, you will probably know someone who has been with us?), and we pride ourselves on the fact that our guests keep coming back (some have sailed with us as many as 8 times). We go out of our way to create the best experience possible and are constantly updating, re-inventing, reinvesting and reviewing. We're not happy until you're happy and we want you to come back again and again. We can blow our own trumpet from time to time right? :-)
-
-
-        **How do I book?**
-
-
-        [Click here](https://sailinginparadise.com.au/booking-enquiry) to fill out an enquiry form and you will quickly get all the info you need including availability, pricing, inclusions etc. You can also book online! Then it is simply a matter of paying your deposit to secure your preferred date. But don't dawdle as we quickly book out and we don't want you to be disappointed.
-      title: Romantic Sails FAQ's
-    - dropdownContent: >-
-        Yes we do!
-
-
-        **Special Couples Mid-week Private Sunset & City Lights Charter.**    
-
-
-        * A 2 hour private sunset sail for 2 (mid-week)
-
-        * Digital photo memories of your experience
-
-
-        **$990***
-
-
-        \*Subject to availability. Available Monday to Thursday (mid-January to mid-November, excl public holidays).  Based on BYO food and drinks. Weekends may be available last-minute on request, please enquire.
-      title: Do you offer special packages?
-    - title: "Private Charter Pricing "
-      dropdownContent: >-
-        Sailing in Paradise offers an affordable luxury option for your boat
-        charter, we pride ourselves on offering the best value on the Gold Coast
-        for the quality of vessels and service that we provide.
-
-
-        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a romantic sail info pack including rate card via email.
-    - title: "Catering Options "
-      dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
-        professional catering delivered to the boat for a stress-free option. 
-         We partner with quality caterers and can offer a range of delicious
-        options to suit every budget and occasion.   Please [click
-        here](https://sailinginparadise.com.au/booking-enquiry) to request
-        a romantic sail info pack including current catering options via email.
-  sectionTitle: Romantic sails - the lowdown
+        Whether you’re planning a surprise proposal, romantic date night or luxury couples experience, our team is dedicated to creating a relaxed, memorable and truly unforgettable experience on the water.
+      title: Why Should I Book With Sailing in Paradise?
+    - dropdownContent: Yes! You are welcome to BYO additional food and drinks with any
+        romantic sail package booking. Alternatively, if you'd like assistance
+        arranging additional catering and beverages, please contact our friendly
+        team.
+      title: Can I BYO food and drinks?
+    - dropdownContent: During your sail, we cruise alongside South Stradbroke Island
+        before stopping at a beautiful sunset location overlooking the Gold
+        Coast hinterland. On the return journey, the Surfers Paradise skyline
+        lights up beautifully - the perfect ending to a very special evening.
+        Dolphins, sea eagles and other marine life are often spotted along the
+        way too.
+      title: Where do we go?
+    - dropdownContent: Our boats are berthed at Marina Mirage. Please see the
+        '[contact us](https://sailinginparadise.com.au/contact-us/)' page on our
+        website for further details and a map. Marina Mirage is about 10 mins
+        from Surfers and 15 mins from Broadbeach.
+      title: Where does the charter depart from?
+    - title: Will we get seasick?
+      dropdownContent: Nope. We operate in the calm, protected waters of the Gold
+        Coast Broadwater. We do not go offshore (into the open ocean) so we do
+        not experience large waves. Our catamarans are very stable, and do not
+        have the same side-to-side rocking motion as experienced by single hull
+        vessels, so you won't get seasick!
+    - title: What happens if it rains?
+      dropdownContent: We can proceed in most conditions including light to moderate
+        rain. If it's looking like there will be torrential rain for the
+        duration of your charter (i.e. red on the radar - we do not go off
+        forecasts), we can offer a reschedule or refund. Please click here to
+        view our full wet weather
+        policy:  [https://​sailinginparadise.com.au/​bookings-and-cancellation-​policy/](https://sailinginparadise.com.au/bookings-and-cancellation-policy/)
+  sectionTitle: FAQ'S
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
@@ -229,7 +216,7 @@ columnBanner:
     title: romance under sail...
     featuredImage: /uploads/ff047696-d270-4df2-b368-61f1443b93b5.jpg
   - buttonTitle: ""
-    featuredImage: /uploads/ace3d138-0f8b-4468-86e0-38313771f2b3.jpg
+    featuredImage: /uploads/mb3a0778.jpg
 featuredTestimonials:
   description: ""
   testimonial: Shannon
