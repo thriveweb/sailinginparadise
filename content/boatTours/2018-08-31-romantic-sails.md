@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Gold Coast Romantic Sails
 icon: ""
-featuredImage: /uploads/mb3a0778.jpg
+featuredImage: /uploads/dji_20260205183815_0310_d.jpg
 intro: >-
   ## Gold Coast Romantic Sails
 
