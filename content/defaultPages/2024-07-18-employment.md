@@ -24,112 +24,17 @@ content: >-
   ### Crew Roles
 
 
-  * **C﻿harter Bookings & Experience Manager - HIRING**
-
   * **S﻿kipper - HIRING**
 
   * **Deckhand / Host(ess) - EOI's open for 2026**
+
+
 
 
   Weekend availability is essential, with increased availability required over December and January.
 
 
   (Further details below) 
-
-
-
-
-  ## **C﻿harter Bookings & Experience Manager**
-
-
-  This role is all about managing the complete guest journey.
-
-
-  From the moment a guest enquires about a charter, you’ll help guide them through the booking process, assist with planning their event, coordinate charter details with crew and suppliers, and ensure they leave with an incredible experience and memories to match.
-
-
-  No two days are the same. One minute you may be helping organise a hens party or corporate event, the next you could be coordinating catering, updating schedules or chatting with returning guests planning their next celebration.
-
-
-  The role includes:
-
-
-  * Managing guest enquiries via phone, email, website and social media
-
-  * Coordinating charter bookings, schedules and product listings
-
-  * Assisting guests with planning their charter experience
-
-  * Liaising with crew and supplier partners
-
-  * Invoicing and payment follow-up
-
-  * Identifying opportunities for revenue growth and supporting the overall smooth running of the business
-
-  * Relevant marketing and administration activities
-
-  * Maintaining active interest in charter delivery to ensure a positive guest experience
-
-  * Occasionally assisting onboard during busy periods or special events
-
-
-  - - -
-
-
-  ## About You
-
-
-  We’re looking for someone who is:
-
-
-  * Friendly, confident and naturally great with people
-
-  * Highly organised with strong attention to detail
-
-  * Calm under pressure and solutions-focused
-
-  * Experienced in customer service, reservations, tourism, travel, hospitality and/or events
-
-  * Comfortable juggling multiple tasks and conversations at once
-
-  * Self-motivated and able to take ownership of their role
-
-  * A lover of boats, the ocean and being part of the marine lifestyle
-
-  * Experienced using CRM and booking/reservations software
-
-  * Familiar with Australian and international travel and tourism networks
-
-
-  Previous experience in tourism, reservations or hospitality is highly regarded, but personal skills, attitude and cultural fit are just as important to us.
-
-
-  - - -
-
-
-  ## What We Offer
-
-
-  * Full-time position
-
-  * Competitive salary package based on experience
-
-  * Work directly with the business owners and crew in a small, supportive and fun team environment
-
-  * Integral role within a growing tourism business
-
-  * Variety in your day and genuine ownership of your role
-
-  * A relaxed and positive workplace culture
-
-  * The chance to help create amazing experiences on the water every day.
-
-  * Opportunity for hybrid work arrangements following initial training/probation period.  (Ashmore office, Main Beach marina and work-from-home flexibility)
-
-  * This is generally a Monday to Friday, 9-5 position. Occasional weekend, after hours or increased seasonal hours may be required to support business requirements.  
-
-
-  T﻿o apply visit our [SEEK Ad HERE.](https://au.seek.com/job/92741583)
 
 
   ![](/uploads/45612d4c-023c-4409-ab6a-6cbeecabc6a6.png)
@@ -303,7 +208,9 @@ content: >-
     * Your preferred hours and ongoing availability
     * Any upcoming travel or holidays
     * Visa details and work limitations (if applicable)
-    * Your social media handle (required for Deckhand/Host applicants)
+    * Your social media handle (required for Deckhand/Host/ applicants)
+
+
 
   Please send applications to:
 
