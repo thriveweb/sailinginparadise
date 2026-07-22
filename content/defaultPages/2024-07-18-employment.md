@@ -26,7 +26,7 @@ content: >-
 
   * **S﻿kipper - HIRING**
 
-  * **Deckhand / Host(ess) - EOI's open for 2026**
+  * **Deckhand / Host(ess) / Content Creator - HIRING**
 
 
 
@@ -111,7 +111,7 @@ content: >-
   * ![](/uploads/georgia-small-flipped.jpg)
 
 
-  ### Deckhand / Host(ess)
+  ### Deckhand / Host(ess) / Content Creator
 
 
   #### The Role
@@ -208,7 +208,7 @@ content: >-
     * Your preferred hours and ongoing availability
     * Any upcoming travel or holidays
     * Visa details and work limitations (if applicable)
-    * Your social media handle (required for Deckhand/Host/ applicants)
+    * Your social media handle (required for Deckhand/Host/Content) applicants
 
 
 
