@@ -66,6 +66,9 @@ content: >-
   \- Filtered water is available on board the vessels.  We suggest bringing a reusable water bottle.  
 
 
+  \-﻿ If you have ordered catering through Sailing in Paradise everything you need to enjoy the food will be provided.   Likewise if you have ordered a drinks package the glassware will be provided.  
+
+
   \- For BYO guests, bottled drinks such as champagne, cruisers, beers etc are welcome. **Red wine and straight bottles of spirits are not permitted**, but you are welcome to bring along commercial pre-mixed spirits/RTDs.  
 
 
