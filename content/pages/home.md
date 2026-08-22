@@ -29,10 +29,10 @@ featuredSlider:
     description: Rated 5* on all platforms
     buttonUrl: happy-sailors/
 featuredBanner:
-  buttonTitle: Want to hit the water in the next 2 weeks?
-  buttonUrl: https://sailinginparadise.com.au/boat-charter/last-minute-charters/
-  image: /uploads/043c185a-8f9c-4946-b034-444ee4ffeb6c.png
-  title: LAST MINUTE WINTER RATES
+  buttonTitle: Celebrate 2026 with your team
+  buttonUrl: https://sailinginparadise.com.au/boat-charter/gold-coast-christmas-parties/
+  image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.jpg
+  title: CHRISTMAS PARTY CHARTERS
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
