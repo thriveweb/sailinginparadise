@@ -8,16 +8,13 @@ intro: >-
   ## Gold Coast Sunset Cruise
 
 
-  Looking for the Gold Coast's best sunset views?   There is no better place to watch the sunset on the Gold Coast than relaxing on a yacht on the Broadwater!   No seriously...
+  C﻿OMING SOON...An exciting new ticketed sunset cruising experience on the Gold Coast Broadwater.
 
 
-  There is something so magical about a sunset over the water.  But surrounded by it?  Well that's something else...    
+  .
 
 
-  We offer private sunset sails for couples, small family groups, as well as larger groups of up to 42 guests.  
-
-
-  So come and join us for a sail as the sun sinks behind the mountains of the Gold Coast Hinterland and casts a glow across the calm waters of the Gold Coast Broadwater.
+  I﻿n the meantime we offer private charters to enjoy the most incredible sunset views on the Gold Coast.
 contentBox:
   buttonTitle: ENQUIRE ABOUT A PRIVATE SUNSET CHARTER
   buttonUrl: booking-enquiry
