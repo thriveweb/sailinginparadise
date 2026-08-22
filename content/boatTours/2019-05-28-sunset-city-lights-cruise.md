@@ -8,10 +8,7 @@ intro: >-
   ## Gold Coast Sunset Cruise
 
 
-  C﻿OMING SOON...An exciting new ticketed sunset cruising experience on the Gold Coast Broadwater.
-
-
-  .
+  #### C﻿OMING SOON...An exciting new ticketed sunset cruising experience on the Gold Coast Broadwater.
 
 
   I﻿n the meantime we offer private charters to enjoy the most incredible sunset views on the Gold Coast.
