@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: Yacht Hire Gold&nbsp;Coast
+title: "Yacht Hire Gold&nbsp;Coast "
 buttonTitle: Enquire
 buttonUrl: booking-enquiry/
 buttonSecondaryTitle: "Book Now "
