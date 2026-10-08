@@ -11,7 +11,7 @@ intro: >-
   Planning a Christmas party in 2026? Our Christmas party boat charters on the Gold Coast are built for corporate teams, groups of friends, and end-of-year celebrations on the water.
 
 
-  W﻿ith a fleet of three beautiful sailing catamarans and over a decade of experience on Gold Coast waters you can trust Sailing in Paradise to deliver the boat and the vibes for a celebration to remember.  
+  W﻿ith a fleet of three beautiful sailing catamarans and over a decade of experience on Gold Coast waters, you can trust Sailing in Paradise to deliver the boat and the vibes for a celebration to remember!  
 
 
   ###### C﻿HRISTMAS 2026 B﻿OOKINGS NOW OPEN
@@ -41,7 +41,7 @@ gallery:
 videoSection:
   imageOverlay: /uploads/e6eefd5c-aa64-4968-bbad-cc22c1bae65b.jpg
   video: "1116997324"
-  title: Christmas Party Daytime Reel
+  title: Christmas Party Charter
 contentColumnTitle: Not your average office Christmas Party!
 contentColumn: >-
   If your Gold Coast Christmas Party has fallen into the 'get me out of here
@@ -49,7 +49,7 @@ contentColumn: >-
   that!   
 
 
-  Aboard your own private catamaran our crew are on hand to help make your Christmas Party perfect for your group.    You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
+  Aboard your own private catamaran, our crew are on hand to help make your Christmas Party perfect for your group.    You’ll be sailing in the beautiful Gold Coast sunshine surrounded by crystal blue waters, isolated islands and golden beaches, sipping on icy cold drinks and enjoying delicious food.
 
 
   Sounds awesome right?   Yes, we know.  We are out on the water every day and it still makes us smile to see how much our guests enjoy the experience.
@@ -63,19 +63,19 @@ contentColumn: >-
 
   * Bespoke planning service
 
-  * E﻿xclusive Charter of vessel [](https://sailinginparadise.com.au/our-boats/)
+  * E﻿xclusive charter of vessel [](https://sailinginparadise.com.au/our-boats/)
 
   * F﻿riendly, professional crew
 
   * 2 large eskies pre-filled with ice (BYO drinks welcome)
 
-  * I﻿sland Activities (SUPs, splash mats, beach pickleball etc)
+  * I﻿sland stop with activities (SUPs, splash mats, beach pickleball etc)
 
-  * Amazing Sound System (iPad/Spotify)
+  * Amazing sound system (iPad/Spotify)
 
-  * Photo memories via Dropbox
+  * Photo memories captured & sent via Dropbox
 
-    \*C﻿atering and beverages service available
+    \*C﻿atering and beverage service available
 
   **Christmas Party Boat C﻿harters from $500 to $860 per hour (min 3 hours)**
 
@@ -93,10 +93,10 @@ contentColumn: >-
   * A high octane team building day with sailing challenges and water sports
 
 
-  These are just a few of the Gold Coast Christmas Party ideas available with Sailing in Paradise.   The options are endless and our friendly team are on hand to help you plan 'your Christmas Party your way'.  
+  These are just a few of the Gold Coast Christmas Party ideas available with Sailing in Paradise.   The options are endless and our friendly team are on hand to help you plan your Christmas Party, your way.  
 
 
-  We have looked after all sorts of industry clients from fitness studios and uber-cool restaurants to banks and legal firms (and everything in between).   There is something about spending time on the water that brings people (of all ages and backgrounds) together and we would love to put on a Christmas Party your whole team will talk about for years to come!
+  We have looked after all sorts of industry clients, from fitness studios and uber-cool restaurants, to banks and legal firms (and everything in between).   There is something about spending time on the water that brings people (of all ages and backgrounds) together and we would love to put on a Christmas Party your whole team will talk about for years to come!
 
 
   ###### Christmas Party Planners, we are here to help...
@@ -108,7 +108,7 @@ contentColumn: >-
   But in all seriousness, you are busy, we totally get it!   That's why we offer a fuss-free service.   From the moment you enquire and receive our Christmas Party info pack we are here to make your life easier.   
 
 
-  If you want to book in your party now and forget about it until the day that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
+  If you want to book in your party now and forget about it until the day, that is totally fine.  We can take care of food, drinks and activities and we will even provide your team with photos & videos of your cruise afterwards.  It's all part of the service.  So you can actually relax and enjoy the party!  
 
 
   ![Christmas Party Boat charter Gold Coast Sailing in Paradise](/uploads/ebbc900d-543e-4d31-aa8e-135895652747.jpg "Christmas Party Boat charter Gold Coast Sailing in Paradise")
