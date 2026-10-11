@@ -8,7 +8,7 @@ intro: >-
   ## New Year's Eve 2026 Party Boat
 
 
-  Looking for the ultimate New Year’s Eve event on the Gold Coast? Skip the crowded bars and overpriced tickets and welcome 2026 in true style aboard your own private party boat!
+  Looking for the ultimate New Year’s Eve event on the Gold Coast? Skip the crowded bars and overpriced tickets and welcome 2027 in true style aboard your own private party boat!
 
 
   With Sailing in Paradise, you and your crew can enjoy an unforgettable night on the stunning Gold Coast Broadwater.   Set the vibe your way — choose your own music, bring your favourite food and drinks, and dance under the stars as fireworks light up the skyline.
