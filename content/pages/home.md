@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: "Yacht Hire Gold&nbsp;Coast "
+title: "Boat Hire Gold&nbsp;Coast "
 buttonTitle: Enquire
 buttonUrl: booking-enquiry/
 buttonSecondaryTitle: "Book Now "
@@ -13,7 +13,7 @@ featuredSlider:
   - title: explore our boats
     description: Take a tour of the fleet.
     buttonUrl: our-boats/
-  - title: Charter Options
+  - title: Boat Charter Options
     description: Vessels for any occasion.
     buttonUrl: boat-charter/
   - buttonUrl: booking-enquiry/
@@ -32,7 +32,7 @@ featuredBanner:
   buttonTitle: Celebrate 2026 with your team
   buttonUrl: https://sailinginparadise.com.au/boat-charter/gold-coast-christmas-parties/
   image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.jpg
-  title: CHRISTMAS PARTY CHARTERS
+  title: CHRISTMAS PARTY BOAT CHARTERS
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
@@ -86,7 +86,7 @@ aboutSection:
   featuredImage: /uploads/sunset-lifering-oceans-sip.jpg
   subtitle: Our Boats & Crew
   title: Meet Us
-highlightsIntro: <h2>What's Included?</h2>
+highlightsIntro: <h2>What's Included in our boat charters?</h2>
 highlights:
   - icon: /images/uploads/crew.svg
     title: Fun, friendly and professional crew
