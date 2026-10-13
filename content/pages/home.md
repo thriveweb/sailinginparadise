@@ -120,11 +120,11 @@ latestNews: |-
 
   ![]()
 meta:
-  description: "Private Boat Charters on the Gold Coast. Spacious catamarans,
-    experienced crew and tailored experiences for events and boat days.   Ideal
-    for Hen's Parties, Birthdays, Corporate Events, Christmas Parties,
-    Proposals, Family Days and more.     Charters available from 3-6
-    hours.   Sunset and Daytime sailing options available.   Fully catered or
-    BYO welcome.  "
+  description: "Sailing in Paradise - Stylish catamarans with experienced crew
+    available for tailored experiences for private charters, events and boat
+    days on the Gold Coast.   Ideal for Hen's Parties, Birthdays, Corporate
+    Events, Christmas Parties, Proposals, Family Days and more.     Charters
+    available from 3-6 hours.   Sunset and Daytime sailing options
+    available.   Fully catered or BYO welcome.  "
   title: Private boat charters on the Gold Coast Broadwater - Sailing in Paradise
 ---
