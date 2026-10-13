@@ -120,10 +120,11 @@ latestNews: |-
 
   ![]()
 meta:
-  description: Affordable luxury private sailing and yacht charters on the Gold
-    Coast Broadwater. Spacious catamarans, experienced crew and tailored
-    experiences for events and boat days.   Ideal for Hen's Parties, Birthdays,
-    Corporate Events, Proposals, Family Days.
-  title: Private sailing yacht charters and events on the Gold Coast Broadwater -
-    Sailing in Paradise
+  description: "Private Boat Charters on the Gold Coast. Spacious catamarans,
+    experienced crew and tailored experiences for events and boat days.   Ideal
+    for Hen's Parties, Birthdays, Corporate Events, Christmas Parties,
+    Proposals, Family Days and more.     Charters available from 3-6
+    hours.   Sunset and Daytime sailing options available.   Fully catered or
+    BYO welcome.  "
+  title: Private boat charters on the Gold Coast Broadwater - Sailing in Paradise
 ---
