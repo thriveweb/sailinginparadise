@@ -100,6 +100,34 @@ featuredTestimonials:
   testimonial: ""
 meta:
   title: Island Time
-  description: Island Time Description
+  description: >+
+    Island Time is a new 42 capacity sailing catamaran perfect for events and
+    social occasions on the Gold Coast Broadwater.
+
+
+    3 hour charter rates 2026/2027
+
+
+    Shoulder Season (Jan - May and Aug - Oct)
+
+    Sun-Fri $2150
+
+    Sat- $2250
+
+
+    Peak Season (Nov-Dec)
+
+    Mon-Thur $2500
+
+    Fri - Sun - $2700
+
+
+    Off Season (Jun-Jul)
+
+    Mon-Sun $2100
+
+
+    *Public holiday rates may vary
+
 date: 20025-04-30
 ---
