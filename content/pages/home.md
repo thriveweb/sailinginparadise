@@ -10,15 +10,15 @@ posterImage: ""
 hdVideo: https://player.vimeo.com/progressive_redirect/playback/1109275446/rendition/1080p/file.mp4?loc=external&log_user=0&signature=20488b962b6e795f4c813cee59373be1c57894f205f145867b9e4432efa6c7c0
 mobileVideo: https://player.vimeo.com/progressive_redirect/playback/1109275446/rendition/1080p/file.mp4?loc=external&log_user=0&signature=20488b962b6e795f4c813cee59373be1c57894f205f145867b9e4432efa6c7c0
 featuredSlider:
-  - title: explore our boats
-    description: Take a tour of the fleet.
+  - title: 3 boats to choose from
+    description: Take a tour of the fleet, Island Time, Oceans, Spirit of Gwonda
     buttonUrl: our-boats/
-  - title: Boat Charter Options
-    description: Vessels for any occasion.
+  - title: Suitable for any occasion
+    description: Boat Parties, Corporate Events, Birthdays, Hens Parties and more
     buttonUrl: boat-charter/
   - buttonUrl: booking-enquiry/
-    description: Our friendly team are here to help.
-    title: Enquire Now
+    description: Starting from $480 per hour.   Please enquire.
+    title: Request Rates
   - title: Hen's Parties
     description: Planning the last sail before the veil?
     buttonUrl: gold-coast-hens-parties/
@@ -75,16 +75,16 @@ aboutSection:
     - buttonTitle: See our boats
       buttonUrl: our-boats/
   content: >-
-    At Sailing in Paradise, we proudly offer three of the most stunning and
-    well-maintained sailing **catamarans** available for **charter on the Gold
-    Coast**. These modern, spacious vessels are owned and operated by our
-    locally based team — so from the moment you enquire to the day of your
-    cruise, you’ll be dealing directly with the people who know the boats best.
+    Sailing in Paradise offers private, fully skippered boat charters on the
+    beautiful Gold Coast Broadwater. Choose from three spacious Seawind sailing
+    catamarans accommodating 2–42 guests per boat, or bring everyone together
+    with multi-boat charters for up to 102 guests.   Charter prices vary
+    seasonally and start from just $480 per hour.  
 
 
-    From your first enquiry to the last wave goodbye, our team are here to take the stress out of planning and replace it with laid-back vibes and smooth sailing.
+    Perfect for birthday parties, hens parties, corporate events, romantic dates and marriage proposals, scattering of ashes, Christmas parties and relaxed family days on the water. Departing from Marina Mirage, Main Beach, our private cruises include a friendly skipper and crew, music, ice-filled eskies and complimentary photos, with flexible BYO and catered options.
   featuredImage: /uploads/sunset-lifering-oceans-sip.jpg
-  subtitle: Our Boats & Crew
+  subtitle: About Sailing in Paradise
   title: Meet Us
 highlightsIntro: <h2>What's Included in our boat charters?</h2>
 highlights:
@@ -122,9 +122,14 @@ latestNews: |-
 meta:
   description: "Sailing in Paradise Boat Charters- Stylish catamarans with
     experienced crew available for tailored experiences for private charters,
-    events and boat days on the Gold Coast.   Ideal for Hen's Parties,
-    Birthdays, Corporate Events, Christmas Parties, Proposals, Family Days and
-    more.     Charters available from 3-6 hours.   Sunset and Daytime sailing
-    options available.   Fully catered or BYO welcome.  "
+    events and boat days on the Gold Coast.   3 Boats to choose from.    Spirit
+    of Gwonda - max 30 guests - from $1450 for 3 hours.  Oceans Deluxe - max 30
+    guests (also ideal for couples and small groups) - from $1550 for 3
+    hours.  Island Time - max 42 guests from $2100 for 3 hours, All boats are
+    ideal for Hen's Parties, Birthdays, Corporate Events, Christmas Parties,
+    Proposals, Family Days and more.     Charters available from 3-6
+    hours.   Sunset and Daytime sailing options available.   Fully catered or
+    BYO welcome.    Departing Marina Mirage, Main Beach, Gold Coast - just 10
+    mins north of Surfers Paradise and Broadbeach.  "
   title: Private boat charters on the Gold Coast Broadwater - Sailing in Paradise
 ---
