@@ -101,8 +101,38 @@ featuredTestimonials:
   testimonial: Jessica, Aus
 meta:
   title: Spirit Of Gwonda
-  description: "Spirit of Gwonda is a Charter Boat available on the Gold Coast
+  description: >-
+    Spirit of Gwonda is a Charter Boat available on the Gold Coast
     Broadwater.  Owned and operated by Sailing in Paradise, this beautiful
-    sailing catamaran is ideal for groups of up to 30 guests.  "
+    sailing catamaran is ideal for groups of up to 30 guests for parties and
+    family groups.
+
+
+    3 hour charter rates 2026/2027
+
+
+    Shoulder Season (Jan - May and Aug - Oct)
+
+    Sun-Fri $1500
+
+    Sat- $1650
+
+
+    Peak Season (Nov-Dec)
+
+    Mon-Thur $1650
+
+    Fri - Sun - $1750
+
+
+    Off Season (Jun-Jul)
+
+    Sun-Fri $1450
+
+    Sat- $1600
+
+
+
+    *Public holiday rates may vary  
 date: 20025-04-29
 ---
