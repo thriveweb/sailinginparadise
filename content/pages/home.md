@@ -83,19 +83,19 @@ aboutSection:
     ###### [Spirit of Gwonda from $1450 for 3 hours](boats/spirit-of-gwonda/)
 
 
-    O﻿ur original vessel, perfect for parties and family charters.   Maximum 30 guests.  
+    S﻿pirit of Gwonda is o﻿ur original vessel, perfect for parties and family charters.   Maximum 30 guests.  
 
 
     ###### [Oceans from $1550 for 3 hours](boats/oceans-deluxe/)
 
 
-    O﻿ur deluxe vessel for a little added luxury.  Suitable for couples, proposals, corporate groups and events..   Maximum 30 guests.
+    O﻿ceans is our deluxe vessel for a little added luxury.  Suitable for couples, proposals, corporate groups and events..   Maximum 30 guests.
 
 
     ###### [Island Time from $2100 for 3 hours   ](boats/island-time/)
 
 
-    Our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.  
+    I﻿sland Time is our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.  
 
 
     O﻿ver 15 years we have hosted thousands of birthday parties, hens parties, corporate events, romantic dates and marriage proposals, scattering of ashes, Christmas parties and relaxed family days on the water.    
