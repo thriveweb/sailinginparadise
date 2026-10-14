@@ -98,7 +98,7 @@ aboutSection:
     I﻿sland Time is our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.  
 
 
-    O﻿ver 15 years we have hosted thousands of birthday parties, hens parties, corporate events, romantic dates and marriage proposals, scattering of ashes, Christmas parties and relaxed family days on the water.    
+    O﻿ver 15 years  Sailing in Paradise has hosted thousands of birthday parties, hens parties, corporate events, romantic dates and marriage proposals, scattering of ashes, Christmas parties and relaxed family days on the water.    
 
 
     Departing from Marina Mirage, Main Beach, our private cruises include a friendly skipper and crew, music, ice-filled eskies and complimentary photos, with flexible BYO and catered options.
