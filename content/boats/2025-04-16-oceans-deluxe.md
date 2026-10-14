@@ -107,9 +107,37 @@ featuredTestimonials:
   testimonial: Jessica, Aus
 meta:
   title: Oceans Deluxe
-  description: "Oceans is a Seawind 1160 Deluxe Sailing Catamaran.  She is offered
-    for private boat charter by Sailing in Paradise on the Gold Coast,
-    Australia.   Suitable for up to 30 guests.  Oceans is ideal for proposals,
-    family charters, celebrations or corporate events.  "
+  description: >-
+    Oceans is a Seawind 1160 Deluxe Sailing Catamaran.  Suitable for up to 30
+    guests.  Oceans is ideal for proposals, family charters, celebrations or
+    corporate events.  
+
+
+    3 hour charter rates 2026/2027
+
+
+    Shoulder Season (Jan - May and Aug - Oct)
+
+    Sun-Fri $1600
+
+    Sat- $1800
+
+
+    Peak Season (Nov-Dec)
+
+    Mon-Thur $1800
+
+    Fri - Sun - $1950
+
+
+    Off Season (Jun-Jul)
+
+    Sun-Fri $1550
+
+    Sat- $1700
+
+
+
+    *Public holiday rates may vary
 date: 20025-04-28
 ---
