@@ -77,12 +77,31 @@ aboutSection:
   content: >-
     Sailing in Paradise offers private, fully skippered boat charters on the
     beautiful Gold Coast Broadwater. Choose from three spacious Seawind sailing
-    catamarans accommodating 2–42 guests per boat, or bring everyone together
-    with multi-boat charters for up to 102 guests.   Charter prices vary
-    seasonally and start from just $480 per hour.  
+    catamarans.
 
 
-    Perfect for birthday parties, hens parties, corporate events, romantic dates and marriage proposals, scattering of ashes, Christmas parties and relaxed family days on the water. Departing from Marina Mirage, Main Beach, our private cruises include a friendly skipper and crew, music, ice-filled eskies and complimentary photos, with flexible BYO and catered options.
+    ###### [Spirit of Gwonda from $1450 for 3 hours](boats/spirit-of-gwonda/)
+
+
+    O﻿ur original vessel, perfect for parties and family charters.   Maximum 30 guests.  
+
+
+    ###### [Oceans from $1550 for 3 hours](boats/oceans-deluxe/)
+
+
+    O﻿ur deluxe vessel for a little added luxury.  Suitable for couples, proposals, corporate groups and events..   Maximum 30 guests.
+
+
+    ###### [Island Time from $2100 for 3 hours   ](boats/island-time/)
+
+
+    Our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.  
+
+
+    O﻿ver 15 years we have hosted thousands of birthday parties, hens parties, corporate events, romantic dates and marriage proposals, scattering of ashes, Christmas parties and relaxed family days on the water.    
+
+
+    Departing from Marina Mirage, Main Beach, our private cruises include a friendly skipper and crew, music, ice-filled eskies and complimentary photos, with flexible BYO and catered options.
   featuredImage: /uploads/sunset-lifering-oceans-sip.jpg
   subtitle: About Sailing in Paradise
   title: Meet Us
