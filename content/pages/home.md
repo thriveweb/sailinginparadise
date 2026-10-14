@@ -120,16 +120,19 @@ latestNews: |-
 
   ![]()
 meta:
-  description: "Sailing in Paradise Boat Charters- Stylish catamarans with
-    experienced crew available for tailored experiences for private charters,
-    events and boat days on the Gold Coast.   3 Boats to choose from.    Spirit
-    of Gwonda - max 30 guests - from $1450 for 3 hours.  Oceans Deluxe - max 30
-    guests (also ideal for couples and small groups) - from $1550 for 3
-    hours.  Island Time - max 42 guests from $2100 for 3 hours, All boats are
-    ideal for Hen's Parties, Birthdays, Corporate Events, Christmas Parties,
-    Proposals, Family Days and more.     Charters available from 3-6
-    hours.   Sunset and Daytime sailing options available.   Fully catered or
-    BYO welcome.    Departing Marina Mirage, Main Beach, Gold Coast - just 10
-    mins north of Surfers Paradise and Broadbeach.  "
+  description: >-
+    Sailing in Paradise Boat Charters- Stylish catamarans with experienced crew
+    available for tailored experiences for private charters, events and boat
+    days on the Gold Coast.   3 Boats to choose from.    Spirit of Gwonda - max
+    30 guests - from $1450 for 3 hours.  Oceans Deluxe - max 30 guests (also
+    ideal for couples and small groups) - from $1550 for 3 hours.  Island Time -
+    max 42 guests from $2100 for 3 hours, All boats are ideal for Hen's Parties,
+    Birthdays, Corporate Events, Christmas Parties, Proposals, Family Days and
+    more.     Charters available from 3-6 hours.   Sunset and Daytime sailing
+    options available.   Fully catered or BYO welcome.    Departing Marina
+    Mirage, Main Beach, Gold Coast - just 10 mins north of Surfers Paradise and
+    Broadbeach.  
+
+    Established for over 15 years and consistently rated 5* cruises.
   title: Private boat charters on the Gold Coast Broadwater - Sailing in Paradise
 ---
