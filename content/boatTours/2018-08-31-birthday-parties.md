@@ -11,10 +11,7 @@ intro: >-
   Celebrate your birthday on the Gold Coast Broadwater with your own private catamaran, favourite playlist and favourite people.  Family-owned and welcoming guests since 2010, Sailing in Paradise brings together three beautiful boats and a fun, experienced crew who’ll help you feel at home from the moment you step aboard. Our many five-star reviews reflect the care we put into making every celebration special.
 
 
-  Our skippered birthday boat charters depart from Marina Mirage, Main Beach, with BYO food and drinks welcome and catering and drinks packages available. Choose a daytime celebration with an island stop or a sunset cruise with skyline views.  We’ll help make the planning easy, so you can enjoy your birthday.  
-
-
-  \*Unfortunately we are unable to offer kids birthday parties under 16 years of age.
+  Our skippered birthday boat charters depart from Marina Mirage, Main Beach, with BYO food and drinks welcome and catering and drinks packages available. Choose a daytime celebration with an island stop or a sunset cruise with skyline views.  We’ll help make the planning easy, so you can enjoy your birthday.
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
