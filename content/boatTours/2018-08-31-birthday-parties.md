@@ -5,7 +5,7 @@ title: Gold Coast Birthday Parties
 icon: /images/uploads/cake.svg
 featuredImage: /uploads/5e010282-4dd5-4062-bf35-187125c435c8.jpg
 intro: >-
-  ## Birthday party boat hire on the gold coast
+  ## Birthday party boat hire gold coast
 
 
   Celebrate your birthday on the Gold Coast Broadwater with your own private catamaran, favourite playlist and favourite people.  Family-owned and welcoming guests since 2010, Sailing in Paradise brings together three beautiful boats and a fun, experienced crew who’ll help you feel at home from the moment you step aboard. Our many five-star reviews reflect the care we put into making every celebration special.
