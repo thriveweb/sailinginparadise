@@ -5,22 +5,13 @@ title: Gold Coast Birthday Parties
 icon: /images/uploads/cake.svg
 featuredImage: /uploads/5e010282-4dd5-4062-bf35-187125c435c8.jpg
 intro: >-
-  ## gold coast birthday party cruise
+  ## Birthday party boat hire on the gold coast
 
 
-  If you are looking for the perfect birthday party venue on the Gold Coast then look no further. Sailing In Paradise can help to create a memorable birthday experience to share with family and friends aboard one of our beautiful boats.   
+  Celebrate your birthday on the Gold Coast Broadwater with your own private catamaran, favourite playlist and favourite people.  Family-owned and welcoming guests since 2010, Sailing in Paradise brings together three beautiful boats and a fun, experienced crew who’ll help you feel at home from the moment you step aboard. Our many five-star reviews reflect the care we put into making every celebration special.
 
 
-  Our sailing catamarans are smooth and stable and open-plan making these boats the perfect venue for your next birthday party event.
-
-
-  We offer a range of delicious catering options and beverage packages and we also welcome BYO, the choice is absolutely yours. 
-
-
-  Each boat is equipped with everything you would expect from a luxury catamaran including superb sound system with free access to premium Spotify, stainless steel barbecue, large eskies with ice and beautiful bathrooms.
-
-
-  And those 'little extras' we offer are endless.  Please keep reading for the complete rundown...
+  Our skippered birthday boat charters depart from Marina Mirage, Main Beach, with BYO food and drinks welcome and catering and drinks packages available. Choose a daytime celebration with an island stop or a sunset cruise with skyline views.  We’ll help make the planning easy, so you can enjoy your birthday.  
 
 
   \*Unfortunately we are unable to offer kids birthday parties under 16 years of age.
@@ -69,7 +60,25 @@ contentColumn: >-
   years to come.
 
 
-  The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.  
+  Choose from three spacious Seawind sailing catamarans.
+
+
+  ###### [Spirit of Gwonda from $1450 for 3 hours](boats/spirit-of-gwonda/)
+
+
+  S﻿pirit of Gwonda is o﻿ur original vessel, perfect for parties and family charters.   Maximum 30 guests.  
+
+
+  ###### [Oceans from $1550 for 3 hours](boats/oceans-deluxe/)
+
+
+  O﻿ceans is our deluxe vessel for a little added luxury.  Suitable for couples, proposals, corporate groups and events..   Maximum 30 guests.
+
+
+  ###### [Island Time from $2100 for 3 hours   ](boats/island-time/)
+
+
+  I﻿sland Time is our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.   
 
 
   [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/)
@@ -275,7 +284,7 @@ accordionSection:
         for the quality of vessels and service that we provide.
 
 
-        Our rates vary seasonally and will change depending on your selected vessel and charter duration.  Please [click here](https://sailinginparadise.com.au/booking-enquiry) to request a birthday party info pack including rate card via email.
+        Charters start from $1450 for 3 hours.   Please  [click here](https://sailinginparadise.com.au/booking-enquiry) to request a birthday party info pack including rate card via email.
     - title: Catering Options
       dropdownContent: Whilst BYO is most welcome, many of our guests opt to have
         professional catering delivered to the boat for a stress-free option. 
