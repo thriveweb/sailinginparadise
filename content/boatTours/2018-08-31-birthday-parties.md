@@ -69,10 +69,7 @@ contentColumn: >-
   years to come.
 
 
-  We can cater for groups of up to 30 people on the 'Spirit of Gwonda' or 'Oceans', or up to 42 on our brand new vessel 'Island Time'.  If you have a larger group be sure to check out our amazing raft up party options.  
-
-
-  The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.   
+  The smooth and stable nature of the catamaran means our boats are suitable for all ages and abilities.  
 
 
   [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/)
