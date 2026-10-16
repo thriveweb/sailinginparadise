@@ -50,7 +50,7 @@ videoSection:
   imageOverlay: /uploads/7d3b909c-b797-44f0-9b97-507ac2c366b6.jpg
   title: How your birthday party charter could look...
   video: "349382726"
-contentColumnTitle: Fun for all ages.
+contentColumnTitle: A birthday cruise to remember
 contentColumn: >-
   From 21st birthdays all the way through to 80th's and beyond, we can create a
   memorable and fun birthday party that you and your guests will remember for
