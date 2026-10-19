@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Boat Party Gold Coast
 icon: /images/uploads/cake.svg
-featuredImage: /uploads/axis-productions-au-35-of-35-.jpg
+featuredImage: /uploads/photo-27-11-2025-2-02-03-pm-1-.jpg
 intro: >-
   ## P﻿ARTY BOAT HIRE
 
@@ -26,21 +26,21 @@ bookingIframe: >-
   <!--EndFragment-->
 gallery:
   - image: /uploads/photo-31-5-2026-4-46-13-pm.jpg
-  - image: /uploads/photo-7-11-2025-2-13-45-pm-1-1-.jpg
+  - image: /uploads/13fd56d8-1c11-48c8-9edc-178a3637e78a.png
   - image: /uploads/photo-19-5-2025-6-37-08-pm-1-.jpg
   - image: /uploads/photo-14-9-2026-12-01-13-pm-1-.jpg
   - image: /uploads/photo-19-7-2025-7-16-57-pm-1-.jpg
-  - image: /uploads/ef7cb3c9-9038-40d1-8be0-bf60647a2de3.jpg
+  - image: /uploads/photo-7-11-2025-1-29-10-pm-1-.jpg
   - image: /uploads/photo-27-2-2025-1-45-37-pm-1-.jpg
-  - image: /uploads/325d6ecb-df32-4a6c-af30-f57332d6e0ac.jpg
+  - image: /uploads/photo-31-12-2024-8-37-50-pm.jpg
   - image: /uploads/8569fd2c-7875-412f-aac1-ba7ac1a54646.jpg
-  - image: /uploads/f6c457e7-f341-4a97-95bb-4a1802e471a1.jpg
+  - image: /uploads/photo-19-12-2024-10-58-03-am-1-.jpg
   - image: /uploads/f31f17d7-37c0-4b73-8f55-480980c7913e.jpg
   - image: /uploads/c5b1b10d-c1e1-4891-b907-c275d278316d.jpg
   - image: /uploads/2061cd9b-12f5-4d17-894f-fd1ef17b2846.jpg
-  - image: /uploads/3d1e5e4c-fe27-4f42-9b18-5b1fbe668172.jpg
-  - image: /uploads/b34f5fb6-0ce2-4b8a-91ef-b04efe2506fa.jpg
   - image: /uploads/91191a4e-d17b-4341-a053-84104f0507dd.jpg
+  - image: /uploads/photo-2-9-2024-5-28-43 pm.jpg
+  - image: /uploads/3d1e5e4c-fe27-4f42-9b18-5b1fbe668172.jpg
 videoSection:
   imageOverlay: /uploads/7d3b909c-b797-44f0-9b97-507ac2c366b6.jpg
   title: The Gold coast's best boat party
@@ -53,7 +53,7 @@ contentColumn: >-
   ###### [Spirit of Gwonda - from $1,450 for 3 hours](boats/spirit-of-gwonda/)
 
 
-  S﻿pirit of Gwonda is o﻿ur original vessel, perfect for parties and family charters.   Maximum 30 guests.  
+  S﻿pirit of Gwonda is o﻿ur original vessel, with an open plan layout perfect for parties!   Maximum 30 guests.  
 
 
   ![Spirit of Gwonda 30 capacity catamaran Sailing in Paradise ](/uploads/tigc25-sip-24.jpg "Spirit of Gwonda ")
@@ -62,7 +62,7 @@ contentColumn: >-
   ###### [Oceans - from $1,550 for 3 hours](boats/oceans-deluxe/)
 
 
-  O﻿ceans is our deluxe vessel for a little added luxury.  Suitable for couples, proposals, corporate groups and events..   Maximum 30 guests.
+  O﻿ceans is our deluxe vessel for a little added luxury.  Great for stylish celebrations!   Maximum 30 guests.
 
 
   ![Oceans Party Boat 30 capacity catamaran Sailing in Paradise](/uploads/photo-27-2-2025-1-45-37-pm-1-.jpg "Oceans")
@@ -77,7 +77,7 @@ contentColumn: >-
   ![Island Time Party Boat 42 capacity catamaran Sailing in Paradise](/uploads/photo-31-5-2026-4-46-13-pm.jpg "Island Time")
 
 
-  [Take a tour of our boats](https://sailinginparadise.com.au/our-boats/)
+  Click here to t[ake a tour of our boats](https://sailinginparadise.com.au/our-boats/)
 
 
   No matter what style of party you wish to create, we can help. Whether you are looking for a  day on the water with a BBQ and a few beers, or a sunset party with cocktails and awesome tunes... bring it on!  
