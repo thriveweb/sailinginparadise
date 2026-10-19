@@ -294,8 +294,8 @@ featuredTestimonials:
   testimonial: ""
   title: ""
 meta:
-  description: "Private birthday party boat charters on the Gold Coast for groups
-    of 10-42 guests.  Celebrate with music, drinks, swimming stops and a relaxed
-    premium atmosphere on board a luxury catamaran.   "
-  title: Gold Coast Birthday Party Boat Charters Sailing in Paradise
+  description: "Private party boat charters on the Gold Coast for groups of 5-42
+    guests.  Celebrate with music, drinks, swimming stops and a relaxed premium
+    atmosphere on board a luxury catamaran.   "
+  title: Gold Coast Party Boat Hire Sailing in Paradise
 ---
