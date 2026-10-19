@@ -40,8 +40,8 @@ navItems:
         optionalTitle: New Year's Eve
       - title: Gold Coast Photoshoot Location
         optionalTitle: Photoshoot Location
-      - title: Gold Coast Valentines Day Cruise
-        optionalTitle: "Valentines Day "
+      - title: Gold Coast Valentine's Day Cruise
+        optionalTitle: "Valentine's Day "
     title: Boat Charter
   - subNavItems:
       - title: Island Time
