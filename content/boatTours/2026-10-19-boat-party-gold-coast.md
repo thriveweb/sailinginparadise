@@ -3,7 +3,7 @@ template: SingleBoatTour
 tourType: Boat Charter
 title: Boat Party Gold Coast
 icon: /images/uploads/cake.svg
-featuredImage: /uploads/photo-27-11-2025-2-02-03-pm-1-.jpg
+featuredImage: /uploads/314c122c-557c-41bc-be0b-2c9da5e23cd4.png
 intro: >-
   ## P﻿ARTY BOAT HIRE
 
@@ -74,12 +74,7 @@ contentColumn: >-
   ![Island Time Party Boat 42 capacity catamaran Sailing in Paradise](/uploads/photo-31-5-2026-4-46-13-pm.jpg "Island Time")
 
 
-  I﻿sland Time is our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.  
-
-
-
-
-  Click here to t[ake a tour of our boats](https://sailinginparadise.com.au/our-boats/)
+  I﻿sland Time is our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.
 accordionSection:
   accordion:
     - title: What's Included?
@@ -176,6 +171,13 @@ accordionSection:
         preferred date. But don't dawdle as we quickly book out and we don't
         want you to be disappointed."
       title: How do I book?
+    - title: Which boat should I choose?
+      dropdownContent: >-
+        W﻿e have plenty of d﻿etails, photos, videos and 360 degree tours to help
+        you choose the perfect boat for your event!
+
+
+        #####  [Click here to tour the boats](https://sailinginparadise.com.au/our-boats/)
   sectionTitle: boat party info
 columnBanner:
   - buttonTitle: Make Enquiry
