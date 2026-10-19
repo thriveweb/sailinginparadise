@@ -49,6 +49,9 @@ contentColumn: >-
   Choose from three spacious Seawind sailing catamarans.
 
 
+  \-﻿
+
+
   ###### [Spirit of Gwonda - from $1,450 for 3 hours](https://sailinginparadise.com.au/boats/spirit-of-gwonda/)
 
 
@@ -58,13 +61,19 @@ contentColumn: >-
   S﻿pirit of Gwonda is o﻿ur original vessel, with an open plan layout perfect for parties!   Maximum 30 guests.  
 
 
+  \-﻿
+
+
   ###### [Oceans - from $1,550 for 3 hours](https://sailinginparadise.com.au/boats/oceans-deluxe/)
 
 
-  ![Oceans Party Boat 30 capacity catamaran Sailing in Paradise](/uploads/photo-27-2-2025-1-45-37-pm-1-.jpg "Oceans")
+  ![Oceans Party Boat 30 capacity catamaran Sailing in Paradise](/uploads/sailing-in-paradise-oceans-3.jpg "Oceans")
 
 
   O﻿ceans is our deluxe vessel for a little added luxury.  Great for stylish celebrations!   Maximum 30 guests.
+
+
+  \-﻿
 
 
   ###### [Island Time - from $2,100 for 3 hours   ](https://sailinginparadise.com.au/boats/island-time/)
