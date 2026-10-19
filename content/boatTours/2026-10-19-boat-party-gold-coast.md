@@ -8,10 +8,10 @@ intro: >-
   ## P﻿ARTY BOAT HIRE
 
 
-  Planning a party on the Gold Coast? We've got the perfect venue, and it floats! At Sailing in Paradise, we've been hosting **unforgettable boat parties** on the Gold Coast Broadwater for over 15 years. With **hundreds of 5-star Google reviews** and thousands of happy guests, it's safe to say we know a thing or two about throwing a great party on the water! Whether you're celebrating something special or simply getting your favourite people together for a good time, our private party boat charters are the perfect way to make it memorable.
+  Planning a party on the Gold Coast? We've got the perfect venue, and it floats! At Sailing in Paradise, we've been hosting **unforgettable boat parties** for over 15 years. With **hundreds of 5-star Google reviews** and thousands of happy guests, we know a thing or two about throwing a great party on the water!
 
 
-  With **three beautiful sailing catamarans** to choose from, we've got a party boat to suit your celebration. Spend the day cruising the beautiful Gold Coast Broadwater, stopping at an **island for swimming**, beach activities and a BBQ, or opt for a **sunset party cruise** with drinks, music and the stunning Gold Coast skyline as your backdrop. Best of all, every boat hire is **completely private**, so it's just you, your favourite people and your own boat to celebrate however you like!
+  Choose from **three beautiful sailing catamarans** for your own private party boat charter on the Gold Coast Broadwater. Enjoy a daytime cruise with an **island stop for swimming**, beach activities and a BBQ, or a **sunset party cruise** with drinks, music and stunning skyline views. Best of all, the boat is all yours to celebrate your way!
 contentBox:
   buttonTitle: Make enquiry
   buttonUrl: booking-enquiry/
@@ -52,43 +52,34 @@ contentColumn: >-
   ###### [Spirit of Gwonda - from $1,450 for 3 hours](boats/spirit-of-gwonda/)
 
 
-  S﻿pirit of Gwonda is o﻿ur original vessel, with an open plan layout perfect for parties!   Maximum 30 guests.  
-
-
   ![Spirit of Gwonda 30 capacity catamaran Sailing in Paradise ](/uploads/tigc25-sip-24.jpg "Spirit of Gwonda ")
+
+
+  S﻿pirit of Gwonda is o﻿ur original vessel, with an open plan layout perfect for parties!   Maximum 30 guests.  
 
 
   ###### [Oceans - from $1,550 for 3 hours](boats/oceans-deluxe/)
 
 
-  O﻿ceans is our deluxe vessel for a little added luxury.  Great for stylish celebrations!   Maximum 30 guests.
-
-
   ![Oceans Party Boat 30 capacity catamaran Sailing in Paradise](/uploads/photo-27-2-2025-1-45-37-pm-1-.jpg "Oceans")
+
+
+  O﻿ceans is our deluxe vessel for a little added luxury.  Great for stylish celebrations!   Maximum 30 guests.
 
 
   ###### [Island Time - from $2,100 for 3 hours   ](boats/island-time/)
 
-
-  I﻿sland Time is our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.   
-
+   
 
   ![Island Time Party Boat 42 capacity catamaran Sailing in Paradise](/uploads/photo-31-5-2026-4-46-13-pm.jpg "Island Time")
 
 
+  I﻿sland Time is our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.  
+
+
+
+
   Click here to t[ake a tour of our boats](https://sailinginparadise.com.au/our-boats/)
-
-
-  No matter what style of party you wish to create, we can help. Whether you are looking for a  day on the water with a BBQ and a few beers, or a sunset party with cocktails and awesome tunes... bring it on!  
-
-
-  Our guests tell us that spending a day (or evening) on the water was one of their best ever  party ideas!
-
-
-  At Sailing In Paradise, we are continually striving to create the best experience possible for our guests.  We understand that you want your day to be memorable, fun, relaxing and stress free and that is exactly where we come in...
-
-
-  From the moment you send through an enquiry, all the way through to the follow up email with your free souvenir photos after your cruise, we pride ourselves on our professional yet friendly and laid-back attitude.
 accordionSection:
   accordion:
     - title: What's Included?
