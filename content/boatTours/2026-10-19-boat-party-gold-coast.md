@@ -41,7 +41,7 @@ gallery:
   - image: /uploads/photo-2-9-2024-5-28-43 pm.jpg
   - image: /uploads/3d1e5e4c-fe27-4f42-9b18-5b1fbe668172.jpg
 videoSection:
-  imageOverlay: /uploads/7d3b909c-b797-44f0-9b97-507ac2c366b6.jpg
+  imageOverlay: /uploads/17b4668a-b462-4c3f-b247-ed3ef1eaad5e.png
   title: The Gold coast's best boat party
   video: "1237116557"
 contentColumnTitle: A boat party to remember
