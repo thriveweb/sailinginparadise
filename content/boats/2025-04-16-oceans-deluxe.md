@@ -185,6 +185,11 @@ accordionSection:
 
 
         **[\[Read Our Google Reviews]](https://share.google/YN0KObKtJhrkQiaKg)**
+    - title: How much does it cost to hire Oceans Deluxe
+      dropdownContent: Private charters on Oceans Deluxe start from approximately
+        $1,650 for three hours, with rates varying depending on the season,
+        charter duration and selected extras. Contact Sailing in Paradise for
+        current pricing and availability.
   sectionTitle: Frequently Asked Questions about Oceans Deluxe
 featuredTestimonials:
   title: Lucia Ray
