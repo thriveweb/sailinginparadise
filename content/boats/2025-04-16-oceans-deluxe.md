@@ -54,7 +54,6 @@ boatFeatures:
   - content: B﻿YO Food and Drinks or Catered
   - content: Seawind 1160 Deluxe 2008
   - content: 11.6m long, 6.5m wide
-  - content: M﻿ax. 30 pax + 2 crew (﻿ideal for 2-20)
   - content: Spacious cushioned dining/lounge area
   - content: Spacious indoor/outdoor undercover space suitable in all weather
   - content: Expansive foredeck with mini trampolines and cushioned relaxation area
@@ -63,8 +62,7 @@ boatFeatures:
   - content: Cushioned overwater bench seating
   - content: Main Sail & Headsail
   - content: Front and rear boarding ladders
-  - content: BBQ
-  - content: Eskies with ice provided
+  - content: Eskies with ice and BBQ facility provided
   - content: Sound System, Speakers, Premium Spotify
 boatFeaturesButtonText: ENQUIRE NOW
 boatFeaturesButtonLink: /booking-enquiry/
@@ -198,11 +196,11 @@ featuredTestimonials:
     definitely be using Sailing in Paradise again!!!!
   testimonial: Jessica, Aus
 meta:
-  title: Oceans Deluxe
+  title: Oceans Deluxe | Private Boat Hire Gold Coast | 2–30 Guests
   description: >-
-    Oceans is a Seawind 1160 Deluxe Sailing Catamaran.  Suitable for up to 30
-    guests.  Oceans is ideal for proposals, family charters, celebrations or
-    corporate events.  
+    Oceans is a Gold Coast Sailing Catamaran available for hire.  Suitable for
+    up to 30 guests.  Oceans is ideal for proposals, family charters,
+    celebrations or corporate events.  
 
 
     3 hour charter rates 2026/2027
