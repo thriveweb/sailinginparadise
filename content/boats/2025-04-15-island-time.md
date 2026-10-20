@@ -1,18 +1,18 @@
 ---
 template: SingleBoat
-title: Island Time
+title: "Island Time - Private Boat hire "
 featuredImage: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.jpg
 description: >-
-  ## Island Time - Private Boat Hire Gold Coast
+  #### P﻿rivate sailing catamaran for up to 42 guests.
 
 
-  #### Day charter catamaran for up to 42 guests.
+  Meet **Island Time**, our newest and largest sailing catamaran, perfect for [boat parties](https://sailinginparadise.com.au/boat-charter/gold-coast-boat-parties/),[ private charters](https://sailinginparadise.com.au/boat-charter/gold-coast-private-charters/) and group gatherings on the beautiful Gold Coast Broadwater.
 
 
-  Meet **Island Time**, our newest and largest sailing catamaran, perfect for private celebrations, corporate events and group gatherings on the beautiful Gold Coast Broadwater.
+  Whether it's a **[birthday party,](https://sailinginparadise.com.au/boat-charter/gold-coast-birthday-parties/) [hens party](https://sailinginparadise.com.au/boat-charter/gold-coast-hens-parties/), [corporate function](https://sailinginparadise.com.au/boat-charter/gold-coast-corporate-events/) or [Christmas party](https://sailinginparadise.com.au/boat-charter/gold-coast-christmas-parties/)**, Island Time combines space, comfort and relaxed luxury for an unforgettable day on the water.
 
 
-  Whether it's a **birthday party, hens party, corporate function or Christmas party**, Island Time combines space, comfort and relaxed luxury for an unforgettable day on the water.
+  Launched in 2023, this stunning Seawind 1160 Resort is designed for entertaining, with seamless indoor-outdoor flow, a spacious shaded lounge, central island table and an expansive foredeck with comfortable seating and trampolines.
 
 
   Accommodating **up to 42 guests**, your private charter includes a professional skipper and friendly crew, with flexible BYO food and drinks or catering packages available.
@@ -31,9 +31,7 @@ contentBox:
   buttonTitle: ""
   buttonUrl: ""
   title: ""
-boatFeaturesIntro: Launched in 2023, Island Time is designed for entertaining,
-  with seamless indoor-outdoor flow.   She is perfect for soaking up the
-  sunshine and Broadwater views.
+boatFeaturesIntro: ""
 gallery:
   - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.jpg
   - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.jpg
@@ -109,7 +107,7 @@ columnBanner:
     bookingWidget: ""
 accordionSection:
   accordion:
-    - title: Why Island Time is made for a great Gold Coast boat party
+    - title: Why choose Island Time for your Gold Coast Charter?
       dropdownContent: >-
         **Plenty of space to celebrate**
 
@@ -117,10 +115,10 @@ accordionSection:
         With room for up to 42 guests, Island Time is our largest catamaran. The open-plan layout makes it easy for everyone to mingle, whether they're catching up around the central table, enjoying a drink in the shade or relaxing on the front deck.  It is also a very easy boat to move around, keeping the party flowing!
 
 
-        **Your music, your party**
+        **Your music, your event**
 
 
-        Every great party needs a great playlist! Island Time has a quality marine sound system and an onboard tablet with Spotify Premium, so you can set the mood from the moment you step aboard. Want to bring your own DJ? That's welcome too, subject to our onboard setup and sound guidelines.
+        Island Time has a quality marine sound system and an onboard tablet with Spotify Premium, so you can set the mood from the moment you step aboard. Want to bring your own DJ? That's welcome too, subject to our onboard setup and sound guidelines.
 
 
         **BYO or let us take care of the catering**
@@ -196,7 +194,7 @@ accordionSection:
 
 
         **R﻿ated 5* on Trip Advisor**
-  sectionTitle: Island Time Boat Hire FAQs
+  sectionTitle: Frequently Asked Questions about island time
 featuredTestimonials:
   description: >-
     We had the most incredible experience aboard Island Time with Sailing
@@ -207,10 +205,10 @@ featuredTestimonials:
 
 
     Absolutely 5 stars — an unforgettable experience! ⭐️⭐️⭐️⭐️⭐️
-  testimonial: ""
+  testimonial: Tristan, LULULEMON, Aus
   title: Aline - Hen's Party
 meta:
-  title: Island Time Boat Hire Gold Coast by Sailing in paradise - Up to 42 Guests
+  title: Island Time | Private Boat Hire Gold Coast | Up to 42 Guests
   description: >+
     Island Time by Sailing in Paradise is a stunning 42 capacity sailing
     catamaran It's suitable for boat parties, birthdays, hens parties and
