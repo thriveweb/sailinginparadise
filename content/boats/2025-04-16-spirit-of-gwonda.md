@@ -25,6 +25,7 @@ gallery:
   - image: /uploads/69031016-4585-4ae7-9c99-d6b286e73184.jpg
   - image: /uploads/475662b7-1f66-46f9-b8dc-82791b4ccb9b.jpg
   - image: /uploads/4b8305f8-56cb-42e1-92bf-fb9a4b27b27e.jpg
+  - image: /uploads/spirit-of-gwonda-boat-hire-gold-coast-interior.jpg
 boatListingFeatures:
   - content: The O.G.
   - content: Suitable for up to 30 guests
