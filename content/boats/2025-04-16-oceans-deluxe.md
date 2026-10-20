@@ -118,7 +118,7 @@ accordionSection:
         Oceans combines a spacious undercover lounge with an expansive foredeck, complete with trampolines and cushioned relaxation areas. The overwater seating is a favourite spot to sit back and watch the world sail by.
 
 
-        ### Intimate Enough for Two, Spacious Enough for 20-30
+        ### Intimate Enough for Two, Spacious Enough for 30
 
 
         From romantic sunset sails and proposals to birthdays, hens parties and corporate events, Oceans offers a versatile layout that feels just as welcoming for smaller groups as it does for larger celebrations.
@@ -136,7 +136,7 @@ accordionSection:
         Depending on your charter duration and conditions, enjoy an island stop for swimming, paddleboarding or beach games, or simply spend your time sailing the beautiful Gold Coast Broadwater.
     - title: Is Oceans suitable for groups of 10, 15, 20 or 25 people?
       dropdownContent: Absolutely! Oceans accommodates up to 30 guests, making her a
-        fantastic choice for groups of 10, 15, or 20 people who appreciate a
+        fantastic choice for groups of 10, 15, 20 or 25 people who appreciate a
         little extra space and comfort. With multiple lounge areas, plenty of
         shaded seating and a spacious foredeck, there's room to relax, mingle
         and enjoy the occasion.
@@ -169,6 +169,11 @@ accordionSection:
         Coast. Our private charters explore the beautiful Broadwater, with
         itineraries tailored to your charter duration, preferences and
         conditions.
+    - title: How much does it cost to hire Oceans Deluxe
+      dropdownContent: Private charters on Oceans Deluxe start from approximately
+        $1,550 for three hours, with rates varying depending on the season,
+        charter duration and selected extras. Contact Sailing in Paradise for
+        current pricing and availability.
     - title: Good Times. Great Crew. Trusted Since 2010.
       dropdownContent: >-
         As a family-owned Gold Coast business, we've been welcoming guests
@@ -183,11 +188,15 @@ accordionSection:
 
 
         **[\[Read Our Google Reviews]](https://share.google/YN0KObKtJhrkQiaKg)**
-    - title: How much does it cost to hire Oceans Deluxe
-      dropdownContent: Private charters on Oceans Deluxe start from approximately
-        $1,650 for three hours, with rates varying depending on the season,
-        charter duration and selected extras. Contact Sailing in Paradise for
-        current pricing and availability.
+    - title: Can we hire Oceans for a private sunset cruise on the Gold Coast?
+      dropdownContent: Absolutely! Oceans is a beautiful choice for a private Gold
+        Coast sunset cruise, whether you're planning a romantic evening for two,
+        celebrating a special occasion or enjoying a relaxed gathering with
+        friends. With comfortable cushioned seating, a spacious foredeck and
+        stunning Broadwater views, she's the perfect place to watch the sun go
+        down. Choose from our[ romantic sail
+        packages](https://sailinginparadise.com.au/boat-charter/gold-coast-romantic-sails/)
+        or arrange a private sunset charter for your group.
   sectionTitle: Frequently Asked Questions about Oceans Deluxe
 featuredTestimonials:
   title: Lucia Ray
