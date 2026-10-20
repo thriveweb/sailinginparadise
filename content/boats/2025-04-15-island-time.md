@@ -1,9 +1,9 @@
 ---
 template: SingleBoat
-title: "Island Time - Private Boat hire "
+title: Island Time
 featuredImage: /uploads/ff34a71b-3eb4-45de-a7e0-f050365a7411.jpg
 description: >-
-  #### P﻿rivate sailing catamaran for up to 42 guests.
+  #### Island Time - P﻿rivate Hire Gold Coast - for up to 42 guests.
 
 
   Meet **Island Time**, our newest and largest sailing catamaran, perfect for [boat parties](https://sailinginparadise.com.au/boat-charter/gold-coast-boat-parties/),[ private charters](https://sailinginparadise.com.au/boat-charter/gold-coast-private-charters/) and group gatherings on the beautiful Gold Coast Broadwater.
