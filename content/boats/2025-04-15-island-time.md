@@ -137,6 +137,17 @@ accordionSection:
 
 
         Sailing in Paradise has been creating memorable days on the Gold Coast Broadwater since 2010. Our friendly, experienced crew know how to make everyone feel welcome, while taking care of the sailing and helping your day run smoothly.
+    - title: Can I hire Island Time for a group of 25, 30 or 35 people?
+      dropdownContent: >-
+        Absolutely! Although Island Time can accommodate up to 42 guests, it's
+        also a fantastic choice for groups of 25, 30 or 35 people. Choosing a
+        larger catamaran means more room to spread out, with generous shaded
+        seating, open entertaining spaces and a spacious front deck. It's ideal
+        for birthday parties, corporate events and group celebrations where
+        comfort and space are just as important as having a great time.
+
+
+        A﻿sk about our smaller group discounted rates for Island Time for groups of 30 guests or less!
     - title: Is Island Time suitable for a birthday party on the Gold Coast?
       dropdownContent: Absolutely! Island Time is a private sailing catamaran that can
         accommodate up to 42 guests, making it a fantastic choice for 18th,
@@ -210,7 +221,7 @@ featuredTestimonials:
 meta:
   title: Island Time | Private Boat Hire Gold Coast | Up to 42 Guests
   description: >+
-    Island Time by Sailing in Paradise is a stunning 42 capacity sailing
+    Island Time by Sailing in Paradise is a stunning 42 max capacity sailing
     catamaran It's suitable for boat parties, birthdays, hens parties and
     corporate celebrations, with BYO options, music, catering and spacious
     entertaining areas.
