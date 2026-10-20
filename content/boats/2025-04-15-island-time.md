@@ -33,14 +33,16 @@ contentBox:
   title: ""
 boatFeaturesIntro: ""
 gallery:
+  - image: /uploads/068bc220-6003-4e54-aac0-a60523ad8b51.jpg
   - image: /uploads/38fa5db5-2e7e-4042-95cc-fcb840b4b744.jpg
+  - image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.jpg
   - image: /uploads/8ee8628e-5e6e-4c67-a76e-aade7e94ecf0.jpg
   - image: /uploads/c83f6f16-25c4-42f7-a968-3684267485cf.jpg
-  - image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.jpg
   - image: /uploads/975d5213-c405-48eb-9bc6-d653304a9d5b.jpg
   - image: /uploads/05568c86-c0de-4fe7-8230-33f0db7327dd.jpg
   - image: /uploads/2bca660e-ef77-4dfa-9a29-4cd351ee3ab9.jpg
   - image: /uploads/9a5ab9cc-aa43-4a56-985b-4802cc5fdaad.jpg
+  - image: /uploads/476fc357-c021-49a9-8464-5bf46fb30c51.jpg
   - image: /uploads/cbb8f5cc-402f-48e2-ac76-87e947dbd041.jpg
 boatListingFeatures:
   - content: New Vessel
@@ -84,9 +86,9 @@ columnsSection:
 
 
       [Island Time charter highlights](https://www.instagram.com/stories/highlights/18039461704595777/)
-    leftColumn: '![Island Time, Sailing in Paradise boat charter gold coast -
+    leftColumn: '![Island Time, Sailing in Paradise boat hire gold coast -
       Alt](/uploads/1f757de8-82fc-4311-9ac9-ac47cf6ab973.jpg "Island Time,
-      Sailing in Paradise boat charter gold coast")'
+      Sailing in Paradise boat hire gold coast")'
   - leftColumn: ""
     rightColumn: ""
 videoSectionOptional:
