@@ -82,7 +82,7 @@ columnsSection:
       ## Explore Island Time in Action
 
 
-      Share in the joy of our charter guests sailing aboard Island Time, get a sneak peek of this beautiful vessel on charter.  
+      With capacity for up to 42 guests, our largest catamaran is also a fantastic choice for groups of 20, 25, 30 or 35 guests.  Check out the Insta Highlights below to get a sneak peek of events hosted on this boat.  
 
 
       [Island Time charter highlights](https://www.instagram.com/stories/highlights/18039461704595777/)
