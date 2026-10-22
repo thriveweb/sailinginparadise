@@ -108,7 +108,7 @@ content: >-
   **Can I apply the offer to an existing booking?**
 
 
-  The offers are valid only for bookings made after 22 October 2026 and are offered on last minute availabity for November sails. Bookings made on or before that date are excluded.
+  The offers are valid only for bookings made after 23 October 2026 and are offered on last minute availabity for November sails. Bookings made on or before that date are excluded.
 
 
   **Can I combine this with another discount?**
