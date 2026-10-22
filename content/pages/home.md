@@ -16,9 +16,9 @@ featuredSlider:
   - title: Suitable for any occasion
     description: Boat Parties, Corporate Events, Birthdays, Hens Parties and more
     buttonUrl: boat-charter/
-  - buttonUrl: booking-enquiry/
-    description: Starting from $480 per hour.   Please enquire.
-    title: Request Rates
+  - buttonUrl: ""
+    description: Kick Off Summer Early!  Save up to $400 on November Charters
+    title: "SAVE UP TO $400 "
   - title: Hen's Parties
     description: Planning the last sail before the veil?
     buttonUrl: gold-coast-hens-parties/
