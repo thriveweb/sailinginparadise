@@ -55,16 +55,22 @@ contentColumn: >-
   ###### [Spirit of Gwonda - from $1,450 for 3 hours](https://sailinginparadise.com.au/boats/spirit-of-gwonda/)
 
 
+  I﻿deal for fun, social parties 
+
+
   ![Spirit of Gwonda 30 capacity catamaran Sailing in Paradise ](/uploads/tigc25-sip-24.jpg "Spirit of Gwonda ")
 
 
-  S﻿pirit of Gwonda is o﻿ur original vessel, with an open plan layout perfect for parties!   Maximum 30 guests.  
+  S﻿pirit of Gwonda is o﻿ur original vessel, with an open plan layout and easy flow from front to back.  Ideal for parties!!   Maximum 30 guests.  
 
 
   \-﻿
 
 
   ###### [Oceans - from $1,550 for 3 hours](https://sailinginparadise.com.au/boats/oceans-deluxe/)
+
+
+  I﻿deal for stylish, comfortable celebrations.
 
 
   ![Oceans Party Boat 30 capacity catamaran Sailing in Paradise](/uploads/sailing-in-paradise-oceans-3.jpg "Oceans")
@@ -78,12 +84,36 @@ contentColumn: >-
 
   ###### [Island Time - from $2,100 for 3 hours   ](https://sailinginparadise.com.au/boats/island-time/)
 
-   
+
+  I﻿deal for larger groups and spacious entertaining.
+
+
+
 
   ![Island Time Party Boat 42 capacity catamaran Sailing in Paradise](/uploads/photo-31-5-2026-4-46-13-pm.jpg "Island Time")
 
 
   I﻿sland Time is our newest and largest vessel suitable for all occasions and guaranteed to impress.   Maximum 42 guests.
+
+
+
+
+  ## Boat Parties for 10, 20, 30, 40 or More Guests
+
+
+  Whether you're planning a get-together with 10 friends or a big celebration for 40, we've got a boat to suit your crew!
+
+
+  For groups of **10–20 guests**, Spirit of Gwonda and Oceans offer comfortable, social spaces with plenty of room to relax and celebrate.
+
+
+  Planning a **boat party for 25 or 30 people?** All three catamarans are great options, with Island Time offering a little extra space to spread out.
+
+
+  For **35–42 guests**, Island Time is our largest vessel, with spacious indoor and outdoor entertaining areas designed for bringing everyone together.
+
+
+  Got an even bigger crew? Ask us about our multi-boat raft-up events, accommodating up to **102 guests** across our fleet.
 accordionSection:
   accordion:
     - title: What's Included?
@@ -153,33 +183,6 @@ accordionSection:
 
 
         In the evening, we will generally sail north to watch the sunset and return to the southern part of the Broadwater to enjoy the city lights after dark which are just beautiful.
-    - dropdownContent: First of all remember...a little rain doesn't stop a great
-        party on our boats ha ha... But do rest assured that we have a very
-        generous wet weather policy as we want you to enjoy your time on board
-        the boat, so if there is torrential rain or storms at the time you will
-        be able to cancel or reschedule your cruise. Please see the full booking
-        policy provided with your invoice for full details or contact our team.
-      title: what happens if it rains?
-    - dropdownContent: >-
-        We love a good party but to keep our boats safe and nicely presented
-        there are a few things we do not allow on board;
-
-
-        * Red wine or bottles of straight spirits (pre-mixed drinks, beers, and white & sparkling wine are permitted) 
-
-        * Sparklers
-
-        * Decorations that stain/leak ink when wet 
-
-        * B﻿alloons
-      title: Considerations
-    - dropdownContent: "[Click here](https://sailinginparadise.com.au/booking-enquiry)
-        to fill out an enquiry form and you will quickly get all the info you
-        need including availability, pricing, inclusions etc. You can also book
-        online! Then it is simply a matter of paying your deposit to secure your
-        preferred date. But don't dawdle as we quickly book out and we don't
-        want you to be disappointed."
-      title: How do I book?
     - title: Which boat should I choose?
       dropdownContent: >-
         W﻿e have plenty of d﻿etails, photos, videos and 360 degree tours to help
@@ -187,7 +190,44 @@ accordionSection:
 
 
         #####  [Click here to tour the boats](https://sailinginparadise.com.au/our-boats/)
-  sectionTitle: boat party info
+    - title: Can I hire a private party boat for 15, 20, 30 or 40 people on the Gold
+        Coast?
+      dropdownContent: Absolutely! Sailing in Paradise has three private sailing
+        catamarans accommodating up to 30 or 42 guests. Whether you're
+        organising a party for 15, 20, 25, 30, 35 or 40 people, we'll help you
+        choose the boat that best suits your group. For larger celebrations, ask
+        about our multi-boat raft-up options.
+    - title: How much does a private boat party cost on the Gold Coast?
+      dropdownContent: Our private Gold Coast boat parties start from $1,450 for a
+        three-hour charter, including your own catamaran, professional skipper
+        and friendly crew. Pricing varies depending on the boat, charter
+        duration and season. BYO food and drinks are welcome, or we can arrange
+        catering and drinks packages.
+    - title: Can we play our own music or bring a DJ?
+      dropdownContent: Of course! All three catamarans have onboard sound systems and
+        Spotify Premium, so you can bring your favourite playlist and set the
+        mood. You're also welcome to arrange your own DJ, subject to our onboard
+        setup and sound guidelines.
+    - title: Can we have a boat party with swimming and beach activities?
+      dropdownContent: Yes! Our daytime Gold Coast boat parties can include an island
+        stop for swimming, stand-up paddleboarding, beach games and relaxing in
+        the sunshine. Activities and swimming stops depend on your charter
+        duration, weather, tides and conditions on the day.
+    - dropdownContent: First of all remember...a little rain doesn't stop a great
+        party on our boats ha ha... But do rest assured that we have a very
+        generous wet weather policy as we want you to enjoy your time on board
+        the boat, so if there is torrential rain or storms at the time you will
+        be able to cancel or reschedule your cruise. Please see the full booking
+        policy provided with your invoice for full details or contact our team.
+      title: what happens if it rains?
+    - dropdownContent: "[Click here](https://sailinginparadise.com.au/booking-enquiry)
+        to fill out an enquiry form and you will quickly get all the info you
+        need including availability, pricing, inclusions etc. You can also book
+        online! Then it is simply a matter of paying your deposit to secure your
+        preferred date. But don't dawdle as we quickly book out and we don't
+        want you to be disappointed."
+      title: How do I book?
+  sectionTitle: Gold Coast boat party FAQs
 columnBanner:
   - buttonTitle: Make Enquiry
     buttonUrl: booking-enquiry
