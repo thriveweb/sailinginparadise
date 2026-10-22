@@ -47,8 +47,6 @@ content: >-
   **[Book a Full Day Charter](https://sailinginparadise.rezdy.com/catalog/660695/full-day-charters)**
 
 
-
-
   ![Boat Hire Gold Coast Catamaran | Sailing in Paradise | Gold Coast | Wavebreak Island](/uploads/036d1619-4e39-4c8e-bb1e-d68d976539a9.jpg "Boat Hire Gold Coast Catamaran | Sailing in Paradise | Gold Coast | Wavebreak Island")
 
 
@@ -81,8 +79,6 @@ content: >-
 
 
   **[Enquire about your November Charter](https://sailinginparadise.com.au/booking-enquiry/)**
-
-
 
 
   ![Boat Hire Gold Coast | Island Time | 42 guest capacity | Catamaran | Sailing in Paradise](/uploads/18bdc2f6-fe59-4c00-9f80-75d0a2a90064.png "Boat Hire Gold Coast | Island Time | 42 guest capacity | Catamaran | Sailing in Paradise")
@@ -124,5 +120,5 @@ content: >-
   **Offer terms and conditions**
 
 
-  Save $150 on half day charters using promo code **150HALF**, or $400 on full day charters using promo code **400FULL**. Valid for charters sailing from **1–30 November 2026**, Sunday to Friday only. Saturdays excluded. Valid only for direct bookings made **after 22 October 2026 while stocks last.**  Not valid in conjunction with any other offer or discount.  Limited availability.
+  Save $150 on half day charters using promo code **150HALF**, or $400 on full day charters using promo code **400FULL**. Valid for charters sailing from **1–30 November 2026**, Sunday to Friday only. Saturdays excluded. Valid only for direct bookings made **after 23 October 2026 while stocks last.**  Not valid in conjunction with any other offer or discount.  Limited availability.   Promo code must be quoted at time of booking to qualify for this offer.
 ---
