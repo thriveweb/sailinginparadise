@@ -16,7 +16,7 @@ featuredSlider:
   - title: Suitable for any occasion
     description: Boat Parties, Corporate Events, Birthdays, Hens Parties and more
     buttonUrl: boat-charter/
-  - buttonUrl: ""
+  - buttonUrl: /gold-coast-boat-charter-specials-november-2026/
     description: Kick Off Summer Early!  Save up to $400 on November Charters
     title: "SAVE UP TO $400 "
   - title: Hen's Parties
