@@ -3,7 +3,9 @@ template: SinglePost
 title: "New Year's Eve Gold Coast: Fireworks, Private Boat Parties & Affordable
   NYE Ideas"
 status: Published
-date: ""
+date: 2026-10-21T14:00:00.000Z
+categories:
+  - category: Updates
 featuredImage: /uploads/photo-31-12-2024-8-37-50-pm.jpg
 videoSection:
   title: A New Years party to remember
