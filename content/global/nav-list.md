@@ -12,14 +12,20 @@ navItems:
     title: "Cruises "
   - optionalTitle: ""
     subNavItems:
+      - title: Boat Party Gold Coast
+        optionalTitle: Boat Party
       - optionalTitle: Birthday Parties
         title: Gold Coast Birthday Parties
-      - optionalTitle: Proposals
-        title: Gold Coast Proposals
       - optionalTitle: Hen's Parties
         title: Gold Coast Hen's Parties
+      - optionalTitle: Christmas Parties
+        title: Gold Coast Christmas Parties
+      - title: Gold Coast New Year's Eve 2026 Cruise
+        optionalTitle: New Year's Eve
       - optionalTitle: Romantic Sails
         title: Gold Coast Romantic Sails
+      - optionalTitle: Proposals
+        title: Gold Coast Proposals
       - optionalTitle: Corporate Events
         title: Gold Coast Corporate Events
       - optionalTitle: Family Charters
@@ -28,22 +34,16 @@ navItems:
         title: Gold Coast Raft Up Events
       - optionalTitle: Memorial Charters
         title: Gold Coast Memorial Charters
-      - optionalTitle: Christmas Parties
-        title: Gold Coast Christmas Parties
       - optionalTitle: Private Charters
         title: Gold Coast Private Charters
       - optionalTitle: Sightseeing
         title: Gold Coast Sightseeing
       - title: Last Minute Charters
         optionalTitle: "Last Minute "
-      - title: Gold Coast New Year's Eve 2026 Cruise
-        optionalTitle: New Year's Eve
       - title: Gold Coast Photoshoot Location
         optionalTitle: Photoshoot Location
       - title: Gold Coast Valentine's Day Cruise
         optionalTitle: "Valentine's Day "
-      - title: Boat Party Gold Coast
-        optionalTitle: Boat Party
     title: Boat Charter
   - subNavItems:
       - title: Island Time
