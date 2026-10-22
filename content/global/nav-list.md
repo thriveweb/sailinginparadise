@@ -42,6 +42,8 @@ navItems:
         optionalTitle: Photoshoot Location
       - title: Gold Coast Valentine's Day Cruise
         optionalTitle: "Valentine's Day "
+      - title: Boat Party Gold Coast
+        optionalTitle: Boat Party
     title: Boat Charter
   - subNavItems:
       - title: Island Time
