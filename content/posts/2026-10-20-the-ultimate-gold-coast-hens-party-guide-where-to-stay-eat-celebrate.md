@@ -3,6 +3,8 @@ template: SinglePost
 title: "The Ultimate Gold Coast Hens Party Guide: Where to Stay, Eat & Celebrate"
 status: Published
 date: 2026-10-20T04:14:10.090Z
+categories:
+  - category: Updates
 featuredImage: /uploads/photo-22-2-2025-1-19-01-pm.jpg
 videoSection:
   title: "Gold Coast Hens Party "
