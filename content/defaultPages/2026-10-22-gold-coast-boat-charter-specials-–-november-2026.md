@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-title: Gold Coast Boat Charter Specials – November 2026
+title: Gold Coast Boat Charter Specials November 2026
 featuredImage: /uploads/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb.jpg
 content: >-
   ## Kick off summer early. Save up to $400 on your private charter.
