@@ -30,7 +30,6 @@ Due to construction work in the area parking at the marina is fairly limited at 
 
 W﻿e recommend considering rideshare for a stress-free arrival to your charter.
 
-* M﻿arina Mirage - Very limited parking on South Side (undercover and rooftop parking - closed)
 * S﻿eaworld Drive - Limited free street parking
 * P﻿hillip Park (beach) carpark - Limited free parking
 * M﻿ariner's Cove - Limited Paid Parking
