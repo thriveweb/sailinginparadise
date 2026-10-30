@@ -21,7 +21,7 @@ content: >-
   The car park is managed privately and conditions may change at any time so please check the signage at time of parking. 
 
 
-  M﻿arina Mirage currently offers free parking.  L﻿imited free street parking is available on Seaworld Drive
+  L﻿imited free street parking is available on Seaworld Drive
 
 
   W﻿e recommend considering rideshare for a stress-free arrival to your charter.
@@ -39,7 +39,7 @@ content: >-
   If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you. 
 
 
-  ![](/uploads/80c78589-9622-41f0-acc3-9ed1cbc9841e.jpg)
+  ![](/uploads/marina-map-oct-2026.jpg)
 
 
   ###### BOARDING INFO
