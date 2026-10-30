@@ -21,7 +21,7 @@ content: >-
   ###### GETTING TO THE MARINA
 
 
-  We are conveniently located at Marina Mirage 74 Seaworld Drive, Main Beach. 
+  **We are located at Marina Mirage 74 Seaworld Drive, Main Beach.** 
 
 
   ###### P﻿ARKING AT THE MARINA
@@ -40,13 +40,13 @@ content: >-
   * M﻿ariner's Cove - Limited Paid Parking
 
 
-  ### HOW TO FIND OUR BOATS AT THE MARINAS
+  ###### HOW TO FIND OUR BOATS AT THE MARINAS
 
 
-  A﻿ll vessels are berthed at Marina Mirage C Arm. 
+  A﻿ll vessels are berthed at **Marina Mirage C Arm**.  We are on the **same jetty as Holy Ship Floating Restaurants and Gold Coast Helitours** (in between the 2).   In the below map CONTINUE TO FOLLOW THE GREEN LINE THROUGH THE GATES AND STRAIGHT AHEAD INTO THE MARINA TO ACCESS OUR VESSELS.  
 
 
-  Please find a map below of the current vessel locations.    There is some construction work in the area which may change at times however access to the marina will remain open.  
+  There is construction work in the area which is constantly changing and often with short notice to tenants however access to the marina will remain open.  
 
 
   If you can’t find us you can always call us on 0438 915 222 and we will be happy to guide you.
