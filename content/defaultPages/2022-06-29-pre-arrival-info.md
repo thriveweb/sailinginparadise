@@ -30,10 +30,8 @@ content: >-
   Due to construction work in the area parking at the marina is fairly limited at present.  
 
 
-  W﻿e recommend considering rideshare for a stress-free arrival to your charter.
+  **W﻿e HIGHLY recommend considering rideshare for a stress-free arrival to your charter.**
 
-
-  * M﻿arina Mirage - Very limited paid parking on South Side (undercover and rooftop parking - closed)
 
   * S﻿eaworld Drive - Limited free street parking
 
@@ -57,7 +55,7 @@ content: >-
   T﻿hanks and we look forward to welcoming you on board!
 
 
-  ![](/uploads/marina-map.jpg)
+  ![](/uploads/screenshot-2026-10-29-171949.png)
 
 
   ###### BOARDING INFO
