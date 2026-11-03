@@ -34,7 +34,7 @@ featuredSlider:
 featuredBanner:
   buttonTitle: BLACK FRIDAY SAILS START NOW
   buttonUrl: black-friday-sails-2026/
-  image: /uploads/04bf8fb1-7026-457b-8b56-e2890481225c.jpg
+  image: /uploads/elegant-red-nautical-christmas-background.png
   title: save UP TO $400
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
