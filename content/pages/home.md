@@ -32,10 +32,10 @@ featuredSlider:
     description: Rated 5* on all platforms
     buttonUrl: happy-sailors/
 featuredBanner:
-  buttonTitle: BLACK FRIDAY SAILS START NOW
+  buttonTitle: BLACK FRIDAY SAIL ON NOW
   buttonUrl: black-friday-sails-2026/
   image: /uploads/elegant-red-nautical-christmas-background.png
-  title: save UP TO $400
+  title: SAVE UP TO $400 ON CHARTERS
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
