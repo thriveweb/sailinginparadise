@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-title: Black Friday sails 2026
+title: Black Friday Sails 2026
 featuredImage: /uploads/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb.jpg
 content: >-
   ## B﻿OAT CHARTER BLACK FRIDAY SALE
