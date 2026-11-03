@@ -10,6 +10,12 @@ posterImage: ""
 hdVideo: https://player.vimeo.com/progressive_redirect/playback/1109275446/rendition/1080p/file.mp4?loc=external&log_user=0&signature=20488b962b6e795f4c813cee59373be1c57894f205f145867b9e4432efa6c7c0
 mobileVideo: https://player.vimeo.com/progressive_redirect/playback/1109275446/rendition/1080p/file.mp4?loc=external&log_user=0&signature=20488b962b6e795f4c813cee59373be1c57894f205f145867b9e4432efa6c7c0
 featuredSlider:
+  - title: Christmas Party Charters
+    description: Celebrate with your team!
+    buttonUrl: /boat-charter/gold-coast-christmas-parties/
+  - title: Call Us
+    description: "0438915222"
+    buttonUrl: Tel:0438915222
   - title: 3 boats to choose from
     description: Take a tour of the fleet, Island Time, Oceans, Spirit of Gwonda
     buttonUrl: our-boats/
@@ -25,12 +31,6 @@ featuredSlider:
   - title: Read Reviews
     description: Rated 5* on all platforms
     buttonUrl: happy-sailors/
-  - title: Christmas Party Charters
-    description: Celebrate with your team!
-    buttonUrl: /boat-charter/gold-coast-christmas-parties/
-  - title: Call Us
-    description: "0438915222"
-    buttonUrl: Tel:0438915222
 featuredBanner:
   buttonTitle: SAVE UP TO $400 ON CHARTERS
   buttonUrl: /gold-coast-boat-charter-specials-november-2026/
