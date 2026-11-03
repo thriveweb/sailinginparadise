@@ -32,10 +32,10 @@ featuredSlider:
     description: Rated 5* on all platforms
     buttonUrl: happy-sailors/
 featuredBanner:
-  buttonTitle: SAVE UP TO $400 ON CHARTERS
+  buttonTitle: BLACK FRIDAY SAILS START NOW
   buttonUrl: /gold-coast-boat-charter-specials-november-2026/
   image: /uploads/04bf8fb1-7026-457b-8b56-e2890481225c.jpg
-  title: BLACK FRIDAY SAILS
+  title: save UP TO $400
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
