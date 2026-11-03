@@ -15,7 +15,7 @@ featuredSlider:
     buttonUrl: Tel:0438915222
   - title: Christmas Party Charters
     description: Celebrate with your team!
-    buttonUrl: /boat-charter/gold-coast-christmas-parties/
+    buttonUrl: boat-charter/gold-coast-christmas-parties/
   - title: 3 boats to choose from
     description: Take a tour of the fleet, Island Time, Oceans, Spirit of Gwonda
     buttonUrl: our-boats/
@@ -33,7 +33,7 @@ featuredSlider:
     buttonUrl: happy-sailors/
 featuredBanner:
   buttonTitle: BLACK FRIDAY SAILS START NOW
-  buttonUrl: /black-friday-sails-2026/
+  buttonUrl: black-friday-sails-2026/
   image: /uploads/04bf8fb1-7026-457b-8b56-e2890481225c.jpg
   title: save UP TO $400
 services:
