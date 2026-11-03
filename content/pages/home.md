@@ -16,9 +16,6 @@ featuredSlider:
   - title: Suitable for any occasion
     description: Boat Parties, Corporate Events, Birthdays, Hens Parties and more
     buttonUrl: boat-charter/
-  - buttonUrl: /gold-coast-boat-charter-specials-november-2026/
-    description: Kick Off Summer Early!  Save up to $400 on November Charters
-    title: "SAVE UP TO $400 "
   - title: Hen's Parties
     description: Planning the last sail before the veil?
     buttonUrl: gold-coast-hens-parties/
@@ -28,11 +25,14 @@ featuredSlider:
   - title: Read Reviews
     description: Rated 5* on all platforms
     buttonUrl: happy-sailors/
+  - title: Christmas Party Charters
+    description: Celebrate with your team!
+    buttonUrl: /boat-charter/gold-coast-christmas-parties/
 featuredBanner:
-  buttonTitle: Celebrate 2026 with your team
-  buttonUrl: https://sailinginparadise.com.au/boat-charter/gold-coast-christmas-parties/
-  image: /uploads/3325d55c-dcd9-4754-9049-dd0025911992.jpg
-  title: CHRISTMAS PARTY BOAT CHARTERS
+  buttonTitle: SAVE UP TO $400 ON CHARTERS
+  buttonUrl: /gold-coast-boat-charter-specials-november-2026/
+  image: /uploads/04bf8fb1-7026-457b-8b56-e2890481225c.jpg
+  title: BLACK FRIDAY SAILS
 services:
   - image: /uploads/46eb2fd9-8696-483f-a071-9453ef88c978.jpg
     serviceContent:
