@@ -28,6 +28,9 @@ featuredSlider:
   - title: Christmas Party Charters
     description: Celebrate with your team!
     buttonUrl: /boat-charter/gold-coast-christmas-parties/
+  - title: Call Us
+    description: "0438915222"
+    buttonUrl: Tel:0438915222
 featuredBanner:
   buttonTitle: SAVE UP TO $400 ON CHARTERS
   buttonUrl: /gold-coast-boat-charter-specials-november-2026/
