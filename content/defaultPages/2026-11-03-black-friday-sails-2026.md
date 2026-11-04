@@ -3,22 +3,28 @@ template: DefaultPage
 title: Black Friday Sails 2026
 featuredImage: /uploads/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb.jpg
 content: >-
-  ## B﻿OAT CHARTER BLACK FRIDAY SAIL
+  ## GOLD COAST B﻿OAT CHARTER 
 
 
-  ### BIG SAVINGS. BIGGER DAYS ON THE WATER.
+  ### SAVE UP TO $400 ON CHARTERS
 
 
-  It's our biggest deal of the year!
+  For a limited time, enjoy incredible savings on your very own private Sailing in Paradise charter on the Gold Coast Broadwater.
 
 
-  For a limited time, enjoy incredible savings on your very own private Sailing in Paradise charter.
+  Whether you're planning a birthday, hens party, Christmas celebration, corporate event or just getting your favourite people together, now is the time to lock in your boat for pre-xmas sails and save.   
 
 
-  Whether you're planning a birthday, hens party, Christmas celebration, corporate event or just getting your favourite people together, now is the time to lock in your boat and save.
+  **Book before 30 November 2026**
 
 
-  **Book before 30 November 2026 and save up to $400 on Sunday to Friday private charters sailing before Christmas Eve.**
+  **S﻿ail Sunday - Friday til 24 December 2026**
+
+
+  **S﻿ave $150 on half day or $400 on full day charters**
+
+
+  ![Sailing in Paradise Boat Charters Gold Coast](/uploads/06a3b51c-4af5-42ad-aa0a-1d9c2a169443.jpg "Sailing in Paradise Boat Charters Gold Coast")
 
 
   ### $150 OFF HALF DAY CHARTERS
@@ -35,6 +41,11 @@ content: >-
   **[BOOK YOUR HALF DAY CHARTER](https://sailinginparadise.rezdy.com/catalog/660512/half-day-charters)**
 
 
+
+
+  \-﻿------------------------------------------------
+
+
   ### $400 OFF FULL DAY CHARTERS
 
 
@@ -47,6 +58,9 @@ content: >-
 
 
   **[BOOK YOUR FULL DAY CHARTER](https://sailinginparadise.rezdy.com/catalog/660695/full-day-charters)**
+
+
+  \-﻿------------------------
 
 
   ### THE FINE PRINT
@@ -142,6 +156,9 @@ content: >-
 
 
   No. The Black Friday discounts cannot be used in conjunction with any other offer, promotion or discount.
+
+
+  ![Gold Coast Sunset Cruise Boat](/uploads/043c185a-8f9c-4946-b034-444ee4ffeb6c.png "Gold Coast Sunset Cruise Boat - Sailing in Paradise")
 
 
   ### Black Friday Offer – Terms & Conditions
