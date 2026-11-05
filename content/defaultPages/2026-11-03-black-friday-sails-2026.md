@@ -15,8 +15,6 @@ content: >-
   Whether you're planning a birthday, hens party, Christmas celebration, corporate event or just getting your favourite people together, now is the time to lock in your boat for pre-xmas sails and save.   
 
 
-
-
   ![Sailing in Paradise Boat Charters Gold Coast](/uploads/06a3b51c-4af5-42ad-aa0a-1d9c2a169443.jpg "Sailing in Paradise Boat Charters Gold Coast")
 
 
@@ -161,8 +159,5 @@ content: >-
   ### Black Friday Offer – Terms & Conditions
 
 
-  Save $150 on half day private charters using promo code **BLACKFRIDAY150**, or $400 on full day private charters using promo code **BLACKFRIDAY400**. Offer valid on eligible direct bookings made before **30 November 2026**, for charters sailing on or before **24 December 2026**. Subject to availability. New bookings only. Not valid in conjunction with any other offer or discount. Promo code must be entered at the time of booking on ww.sailinginparadise.com.au to qualify.   **I apply the discount to an existing booking?**
-
-
-  No. The Black Friday offer is available for new bookings only and cannot be applied retrospectively to existing reservations.to qualify. Limited availability.  Management reserves the right to end this promotion at any time.
+  Save $150 on half day private charters using promo code **BLACKFRIDAY150**, or $400 on full day private charters using promo code **BLACKFRIDAY400**. Offer valid on eligible direct bookings made before **30 November 2026**, for charters sailing on or before **24 December 2026**. Subject to availability. New bookings only. Not valid in conjunction with any other offer or discount. Promo code must be entered at the time of booking on www.sailinginparadise.com.au to qualify.   Sailing in Paradise reserves the right to discontinue this promotion at any time.
 ---
