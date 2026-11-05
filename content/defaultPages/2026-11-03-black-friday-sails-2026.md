@@ -3,7 +3,7 @@ template: DefaultPage
 title: Black Friday Sails 2026
 featuredImage: /uploads/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb.jpg
 content: >-
-  ## GOLD COAST B﻿OAT CHARTER 
+  ## GOLD COAST B﻿OAT CHARTER
 
 
   ### SAVE UP TO $400 ON CHARTERS
@@ -15,13 +15,6 @@ content: >-
   Whether you're planning a birthday, hens party, Christmas celebration, corporate event or just getting your favourite people together, now is the time to lock in your boat for pre-xmas sails and save.   
 
 
-  **Book before 30 November 2026**
-
-
-  **S﻿ail Sunday - Friday til 24 December 2026**
-
-
-  **S﻿ave $150 on half day or $400 on full day charters**
 
 
   ![Sailing in Paradise Boat Charters Gold Coast](/uploads/06a3b51c-4af5-42ad-aa0a-1d9c2a169443.jpg "Sailing in Paradise Boat Charters Gold Coast")
@@ -39,8 +32,6 @@ content: >-
 
 
   **[BOOK YOUR HALF DAY CHARTER](https://sailinginparadise.rezdy.com/catalog/660512/half-day-charters)**
-
-
 
 
   \-﻿------------------------------------------------
@@ -74,9 +65,9 @@ content: >-
 
   * N﻿ot valid in conjunction with any other offer or discount
 
-  * Book directly with Sailing in Paradise.
+  * Book a standard c﻿harter directly with Sailing in Paradise.
 
-  * Enter the relevant promo code at checkout.
+  * Enter the relevant promo code at checkout on the Sailing in Paradise website
 
 
   **DON'T MISS OUT. ONCE THE SALE ENDS, IT'S GONE!**
@@ -105,7 +96,7 @@ content: >-
 
   1. Choose an eligible half day or full day charter sailing b﻿efore 24 December 2026, Sunday to Friday.
 
-  2. Book directly with Sailing in Paradise during the promotional period
+  2. Book directly on w﻿ww.sailinginparadise.com.au during the promotional period
 
   3. E﻿nter **BLACKFRIDAY150** for $150 off a half day charter or **B﻿LACKFRIDAY400** for $400 off a full day charter.
 
@@ -146,6 +137,12 @@ content: >-
   Use **BLACKFRIDAY150** to receive $150 off a half day charter or **BLACKFRIDAY400** to receive $400 off a full day charter. Enter the relevant promo code when booking directly through the Sailing in Paradise website.
 
 
+  **Can I book via phone/email?**
+
+
+  No. The Black Friday offer is available for bookings made directly on www.sailinginparadise.com.au that quote the promotional code a.  t checkout.
+
+
   **Can I apply the discount to an existing booking?**
 
 
@@ -164,5 +161,8 @@ content: >-
   ### Black Friday Offer – Terms & Conditions
 
 
-  Save $150 on half day private charters using promo code **BLACKFRIDAY150**, or $400 on full day private charters using promo code **BLACKFRIDAY400**. Offer valid on eligible direct bookings made before **30 November 2026**, for charters sailing on or before **24 December 2026**. Subject to availability. New bookings only. Not valid in conjunction with any other offer or discount. Promo code must be entered at the time of booking to qualify. Limited availability.  Management reserves the right to end this promotion at any time.
+  Save $150 on half day private charters using promo code **BLACKFRIDAY150**, or $400 on full day private charters using promo code **BLACKFRIDAY400**. Offer valid on eligible direct bookings made before **30 November 2026**, for charters sailing on or before **24 December 2026**. Subject to availability. New bookings only. Not valid in conjunction with any other offer or discount. Promo code must be entered at the time of booking on ww.sailinginparadise.com.au to qualify.   **I apply the discount to an existing booking?**
+
+
+  No. The Black Friday offer is available for new bookings only and cannot be applied retrospectively to existing reservations.to qualify. Limited availability.  Management reserves the right to end this promotion at any time.
 ---
