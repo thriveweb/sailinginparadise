@@ -3,7 +3,7 @@ template: DefaultPage
 title: Black Friday Sails 2026
 featuredImage: /uploads/05f5f3e4-254d-4cc9-8281-91a4a3dbbefb.jpg
 content: >-
-  ## GOLD COAST B﻿OAT CHARTER
+  ## BLACK FRIDAY BOAT HIRE SAILS GOLD COAST
 
 
   ### SAVE UP TO $400 ON CHARTERS
@@ -29,7 +29,7 @@ content: >-
   **PROMO CODE: BLACKFRIDAY150**
 
 
-  **[BOOK YOUR HALF DAY CHARTER](https://sailinginparadise.rezdy.com/catalog/660512/half-day-charters)**
+  ###### **[BOOK YOUR HALF DAY CHARTER](https://sailinginparadise.rezdy.com/catalog/660512/half-day-charters)**
 
 
   \-﻿------------------------------------------------
