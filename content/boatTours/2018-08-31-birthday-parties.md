@@ -25,13 +25,14 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/photo-23-4-21-10-04-38-am.jpg
+  - image: /uploads/photo-23-4-21-9-50-30-am.jpg
+  - image: /uploads/2024-photo-9-10-2021-10-53-23-am.jpg
   - image: /uploads/photo-31-5-2026-4-46-13-pm.jpg
   - image: /uploads/island-stop-sailing-in-paradise-gc.jpg
-  - image: /uploads/2024-photo-9-10-2021-10-53-23-am.jpg
-  - image: /uploads/catamaran-coastal-moments.png
   - image: /uploads/photo-19-11-20-2-25-14-pm.jpg
+  - image: /uploads/catamaran-coastal-moments.png
   - image: /uploads/f865379e-0f36-4eb1-beb6-f6963d7bbb25.jpg
+  - image: /uploads/photo-23-4-21-10-04-38-am.jpg
   - image: /uploads/ef7cb3c9-9038-40d1-8be0-bf60647a2de3.jpg
   - image: /uploads/c7c30657-2faa-4839-acb4-ec40a7829942.jpg
   - image: /uploads/f2217399-28c4-4c80-aa2c-b9563b6a93de.jpg
@@ -42,7 +43,6 @@ gallery:
   - image: /uploads/91191a4e-d17b-4341-a053-84104f0507dd.jpg
   - image: /uploads/raft-20boats-20-20people-201-202018-09-2028-20dsc_0002-001-20-289-29_square.jpg
   - image: /uploads/axis-20productions-20au-20-286-20of-2035-29_square.jpg
-  - image: /uploads/photo-23-4-21-10-04-38-am.jpg
   - image: /uploads/photo-7-9-2024-1-03-50 pm.jpg
 videoSection:
   imageOverlay: /uploads/photo-23-4-21-10-04-38-am.jpg
