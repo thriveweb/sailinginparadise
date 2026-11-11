@@ -3,11 +3,6 @@ template: DefaultPage
 title: Privacy Policy
 featuredImage: /uploads/0f565ac9-352b-4894-a281-163dae3c2385.jpg
 content: >-
-  
-
-  ![](/uploads/sailinginparadise-logo-1-small.jpg)
-
-
   PRIVACY POLICY
 
 
@@ -270,4 +265,7 @@ content: >-
 
 
   These rights are subject to certain rules around when you can exercise them. If you wish to exercise any of the rights set out above, please contact us at admin+privacy@sailinginparadise.co
+
+
+  ![](/uploads/sailinginparadise-logo-1-small.jpg)
 ---
