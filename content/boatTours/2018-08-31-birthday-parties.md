@@ -25,27 +25,26 @@ bookingIframe: >-
 
   <!--EndFragment-->
 gallery:
-  - image: /uploads/8a88a51f-fa19-4d06-9d18-9df2d0d1dc7b.jpg
+  - image: /uploads/photo-23-4-21-9-50-30-am.jpg
+  - image: /uploads/photo-31-5-2026-4-46-13-pm.jpg
+  - image: /uploads/island-stop-sailing-in-paradise-gc.jpg
+  - image: /uploads/2024-photo-9-10-2021-10-53-23-am.jpg
   - image: /uploads/f865379e-0f36-4eb1-beb6-f6963d7bbb25.jpg
-  - image: /uploads/6ed19c04-86a9-40dc-8146-ac09a59e17fe.jpg
-  - image: /uploads/7be499af-62de-42d7-bae8-2c712b820029.jpg
   - image: /uploads/ef7cb3c9-9038-40d1-8be0-bf60647a2de3.jpg
   - image: /uploads/c7c30657-2faa-4839-acb4-ec40a7829942.jpg
   - image: /uploads/f2217399-28c4-4c80-aa2c-b9563b6a93de.jpg
-  - image: /uploads/325d6ecb-df32-4a6c-af30-f57332d6e0ac.jpg
   - image: /uploads/8569fd2c-7875-412f-aac1-ba7ac1a54646.jpg
-  - image: /uploads/f6c457e7-f341-4a97-95bb-4a1802e471a1.jpg
-  - image: /uploads/384acda2-300f-441c-88fe-cf5ccbdc651e.jpg
-  - image: /uploads/f31f17d7-37c0-4b73-8f55-480980c7913e.jpg
-  - image: /uploads/c5b1b10d-c1e1-4891-b907-c275d278316d.jpg
-  - image: /uploads/513cda00-9f84-4cf4-8779-04ecbdbc1783.jpg
   - image: /uploads/2061cd9b-12f5-4d17-894f-fd1ef17b2846.jpg
   - image: /uploads/96b81991-efb9-48d5-951f-836c47951738.jpg
-  - image: /uploads/3d1e5e4c-fe27-4f42-9b18-5b1fbe668172.jpg
-  - image: /uploads/dd4bf67d-4187-4d63-87e5-1d0a371bfeb3.jpg
-  - image: /uploads/b34f5fb6-0ce2-4b8a-91ef-b04efe2506fa.jpg
   - image: /uploads/4e070061-2d0a-49a5-9280-2d940dc3af74.jpg
   - image: /uploads/91191a4e-d17b-4341-a053-84104f0507dd.jpg
+  - image: /uploads/catamaran-coastal-moments.png
+  - image: /uploads/photo-19-11-20-2-25-14-pm.jpg
+  - image: /uploads/raft-20boats-20-20people-201-202018-09-2028-20dsc_0002-001-20-289-29_square.jpg
+  - image: /uploads/island-stop-sailing-in-paradise-gc.jpg
+  - image: /uploads/axis-20productions-20au-20-286-20of-2035-29_square.jpg
+  - image: /uploads/photo-23-4-21-10-04-38-am.jpg
+  - image: /uploads/photo-7-9-2024-1-03-50 pm.jpg
 videoSection:
   imageOverlay: /uploads/7d3b909c-b797-44f0-9b97-507ac2c366b6.jpg
   title: How your birthday party charter could look...
