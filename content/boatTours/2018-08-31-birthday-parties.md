@@ -46,7 +46,7 @@ gallery:
   - image: /uploads/photo-23-4-21-10-04-38-am.jpg
   - image: /uploads/photo-7-9-2024-1-03-50 pm.jpg
 videoSection:
-  imageOverlay: /uploads/7d3b909c-b797-44f0-9b97-507ac2c366b6.jpg
+  imageOverlay: /uploads/photo-23-4-21-10-04-38-am.jpg
   title: How your birthday party charter could look...
   video: "349382726"
 contentColumnTitle: A birthday cruise to remember
