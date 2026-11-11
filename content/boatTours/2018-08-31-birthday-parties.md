@@ -296,7 +296,7 @@ columnBanner:
       Party Experience you won’t forget.
     title: Celebrate your birthday in style
     featuredImage: /uploads/61c88734-b17f-450f-8e6b-e10d9ade46f2.jpg
-  - featuredImage: /uploads/f3bf4df1-6f8a-405b-b07f-96343f6aa19c.jpg
+  - featuredImage: /uploads/photo-9-11-2024-1-36-28 pm.jpg
 featuredTestimonials:
   description: ""
   testimonial: ""
