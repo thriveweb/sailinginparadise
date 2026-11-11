@@ -44,6 +44,7 @@ gallery:
   - image: /uploads/raft-20boats-20-20people-201-202018-09-2028-20dsc_0002-001-20-289-29_square.jpg
   - image: /uploads/axis-20productions-20au-20-286-20of-2035-29_square.jpg
   - image: /uploads/photo-7-9-2024-1-03-50 pm.jpg
+  - image: /uploads/sailinginparadise-logo-1-small.jpg
 videoSection:
   imageOverlay: /uploads/photo-23-4-21-10-04-38-am.jpg
   title: How your birthday party charter could look...
