@@ -38,6 +38,7 @@ gallery:
   - image: /uploads/f2217399-28c4-4c80-aa2c-b9563b6a93de.jpg
   - image: /uploads/8569fd2c-7875-412f-aac1-ba7ac1a54646.jpg
   - image: /uploads/2061cd9b-12f5-4d17-894f-fd1ef17b2846.jpg
+  - image: /uploads/49d1c7eb-913c-48f4-84ab-7ee3244f9189.jpg
   - image: /uploads/96b81991-efb9-48d5-951f-836c47951738.jpg
   - image: /uploads/4e070061-2d0a-49a5-9280-2d940dc3af74.jpg
   - image: /uploads/91191a4e-d17b-4341-a053-84104f0507dd.jpg
